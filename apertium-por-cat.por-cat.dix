@@ -32034,14 +32034,13 @@
         <l>estritamente<s n="adv"/></l> 
         <r>estrictament<s n="adv"/></r> 
       </p>
-    </e>
-
-    <!-- 
+    </e>   
+ <!-- 
       muito_mucho__mucho_gaire
     -->
     <e>
       <p>
-        <l>estrito<s n="adj"/><s n="m"/><s n="sg"/></l> 
+        <l>estrito<s n="adj"/><s n="m"/><s n="sg"/></l>
         <r>estricte<s n="adj"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
@@ -55780,7 +55779,6 @@
         <r>plantar<s n="vblex"/></r> 
       </p>
     </e>
-
     <!-- 
       default
     -->
@@ -77723,3 +77721,11 @@
 
 </section>
 </dictionary>
+
+
+<!-- 
+Resources: 
+    http://wiki.apertium.org/wiki/Bilingual_dictionary
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Bilingual_dictionary
+-->
+
