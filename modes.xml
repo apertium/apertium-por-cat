@@ -228,7 +228,7 @@
       <program name="apertium-tagger -g $2">
         <file name="por-cat.prob"/>
       </program>
-      <program name="apertium-pretransfer"/>
+      <program name="apertium-pretransfer"/>l
       <program name="lt-proc -b">
         <file name="por-cat.autobil.bin"/>
       </program>
@@ -243,6 +243,7 @@
         <file name="apertium-por-cat.por-cat.t2x"/>
         <file name="por-cat.t2x.bin"/>
       </program>
+    </pipeline>
     </pipeline>
   </mode>
 
@@ -475,6 +476,7 @@
         <file name="cat-por.t1x.bin"/>
       </program>
 
+    </pipeline>
     </pipeline>
   </mode>
 </modes>
