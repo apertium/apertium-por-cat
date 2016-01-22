@@ -20,8 +20,6 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX2).automorf.bin	\
-#	$(PREFIX1).t2x.bin	\
-#	$(PREFIX1).t3x.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
@@ -29,10 +27,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
 	$(PREFIX2).autopgen.bin	\
-	$(PREFIX2).t1x.bin	
 	$(PREFIX2).t1x.bin	\
-#	$(PREFIX2).t2x.bin	\
-#	$(PREFIX2).t3x.bin
+	$(PREFIX2).t1x.bin	
 
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
@@ -170,11 +166,7 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).t1x	\
 		$(BASENAME).$(PREFIX2).t1x	
-#		$(BASENAME).$(PREFIX1).t2x	\
-#		$(BASENAME).$(PREFIX1).t3x	\
-		$(BASENAME).$(PREFIX2).t1x	\
-#		$(BASENAME).$(PREFIX2).t2x	\
-#		$(BASENAME).$(PREFIX2).t3x	\
+		$(BASENAME).$(PREFIX2).t1x	
 		modes.xml
 
 ###############################################################################
@@ -187,12 +179,8 @@ apertium_por_catdir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_por_cat_DATA=	\
 	$(TARGETS_COMMON)				\
 	$(BASENAME).$(PREFIX1).t1x			\
-	$(BASENAME).$(PREFIX2).t1x			
-#	$(BASENAME).$(PREFIX1).t2x			\
-#	$(BASENAME).$(PREFIX1).t3x			\
 	$(BASENAME).$(PREFIX2).t1x			\
-#	$(BASENAME).$(PREFIX2).t2x			\
-#	$(BASENAME).$(PREFIX2).t3x
+	$(BASENAME).$(PREFIX2).t1x			
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
