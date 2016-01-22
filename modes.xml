@@ -239,10 +239,6 @@
         <file name="apertium-por-cat.por-cat.t1x"/>
         <file name="por-cat.t1x.bin"/>
       </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-por-cat.por-cat.t2x"/>
-        <file name="por-cat.t2x.bin"/>
-      </program>
     </pipeline>
     </pipeline>
   </mode>

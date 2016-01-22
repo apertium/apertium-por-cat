@@ -36,6 +36,7 @@ TARGETS_COMMON =		\
 
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
+
 @ap_include@
 
 ###############################################################################
