@@ -27,10 +27,12 @@
     <sdef n="ind" /> 
     <sdef n="preadv" /> 
     <sdef n="ant" /> 
+    <sdef n="cog" /> 
     <sdef n="sp" /> 
     <sdef n="ger" /> 
     <sdef n="inf" /> 
     <sdef n="loc" /> 
+    <sdef n="top" /> 
     <sdef n="rpar" /> 
     <sdef n="sg" /> 
     <sdef n="cnjsub" /> 
