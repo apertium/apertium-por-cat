@@ -48,6 +48,7 @@
     <sdef n="GD" /> 
     <sdef n="det" /> 
     <sdef n="adj" /> 
+    <sdef n="ord" /> 
     <sdef n="vbhaver" /> 
     <sdef n="sup" /> 
     <sdef n="pmp" /> 
@@ -525,8 +526,16 @@
 <e>       <p><l>duro<s n="adj"/></l>                   <r>dur<s n="adj"/></r></p></e>
 <e r="RL"><p><l>débil<s n="adj"/></l>                  <r>dèbil<s n="adj"/></r></p></e>
 <e>       <p><l>débil<s n="adj"/></l>                  <r>feble<s n="adj"/></r></p></e>
-<e>       <p><l>décimo<s n="adj"/></l>                 <r>desè<s n="adj"/></r></p></e>
-<e>       <p><l>décimo<b/>terceiro<s n="adj"/></l>     <r>tretzè<s n="adj"/></r></p></e>
+<e>       <p><l>décimo<s n="adj"/></l>                 <r>desè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>primeiro<s n="adj"/></l>     <r>onzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>segundo<s n="adj"/></l>      <r>dotzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>terceiro<s n="adj"/></l>     <r>tretzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>quarto<s n="adj"/></l>       <r>catorzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>quinto<s n="adj"/></l>       <r>quinzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>sexto<s n="adj"/></l>        <r>setzè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>sétimo<s n="adj"/></l>       <r>dissetè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>oitavo<s n="adj"/></l>       <r>divuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>décimo<b/>nono<s n="adj"/></l>         <r>dinovè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>eclesiástico<s n="adj"/></l>           <r>eclesiàstic<s n="adj"/></r></p></e>
 <e>       <p><l>ecológico<s n="adj"/></l>              <r>ecològic<s n="adj"/></r></p></e>
 <e>       <p><l>económico<s n="adj"/></l>              <r>econòmic<s n="adj"/></r></p></e>
@@ -1015,7 +1024,7 @@
 <e>       <p><l>nigeriano<s n="adj"/></l>              <r>nigerià<s n="adj"/></r></p></e>
 <e>       <p><l>nobre<s n="adj"/></l>                  <r>noble<s n="adj"/></r></p></e>
 <e>       <p><l>nocturno<s n="adj"/></l>               <r>nocturn<s n="adj"/></r></p></e>
-<e>       <p><l>nono<s n="adj"/></l>                   <r>novè<s n="adj"/></r></p></e>
+<e>       <p><l>nono<s n="adj"/></l>                   <r>novè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>normal<s n="adj"/></l>                 <r>normal<s n="adj"/></r></p></e>
 <e>       <p><l>normativo<s n="adj"/></l>              <r>normatiu<s n="adj"/></r></p></e>
 <e>       <p><l>norte-americano<s n="adj"/></l>        <r>nord-americà<s n="adj"/></r></p></e>
@@ -1035,7 +1044,7 @@
 <e>       <p><l>oculto<s n="adj"/></l>                 <r>ocult<s n="adj"/></r></p></e>
 <e>       <p><l>ofensivo<s n="adj"/></l>               <r>ofensiu<s n="adj"/></r></p></e>
 <e>       <p><l>oficial<s n="adj"/></l>                <r>oficial<s n="adj"/></r></p></e>
-<e>       <p><l>oitavo<s n="adj"/></l>                 <r>vuitè<s n="adj"/></r></p></e>
+<e>       <p><l>oitavo<s n="adj"/></l>                 <r>vuitè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>olímpico<s n="adj"/></l>               <r>olímpic<s n="adj"/></r></p></e>
 <e>       <p><l>opaco<s n="adj"/></l>                  <r>opac<s n="adj"/></r></p></e>
 <e>       <p><l>operativo<s n="adj"/></l>              <r>operatiu<s n="adj"/></r></p></e>
@@ -1145,7 +1154,7 @@
 <e r="LR"><p><l>preto<s n="adj"/></l>                  <r>negre<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>preventivo<s n="adj"/></l>             <r>preventiu<s n="adj"/></r></p></e>
 <e>       <p><l>previsível<s n="adj"/></l>             <r>previsible<s n="adj"/></r></p></e>
-<e>       <p><l>primeiro<s n="adj"/></l>               <r>primer<s n="adj"/></r></p></e>
+<e>       <p><l>primeiro<s n="adj"/></l>               <r>primer<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>primitivo<s n="adj"/></l>              <r>primitiu<s n="adj"/></r></p></e>
 <e>       <p><l>primordial<s n="adj"/></l>             <r>primordial<s n="adj"/></r></p></e>
 <e>       <p><l>principal<s n="adj"/></l>              <r>principal<s n="adj"/></r></p></e>
@@ -1188,11 +1197,12 @@
 <e r="RL"><p><l>qual<s n="adj"/><s n="itg"/><s n="mf"/></l><r>quin<s n="adj"/><s n="itg"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>qual<s n="adj"/><s n="itg"/><s n="mf"/></l><r>quin<s n="adj"/><s n="itg"/><s n="m"/></r></p></e>
 <e>       <p><l>quanto<s n="adj"/></l>                 <r>quant<s n="adj"/></r></p></e>
-<e>       <p><l>quarto<s n="adj"/></l>                 <r>quart<s n="adj"/></r></p></e>
+<e>       <p><l>quarto<s n="adj"/></l>                 <r>quart<s n="adj"/><s n="ord"/></r></p></e>
 <e r="RL"><p><l>quente<s n="adj"/><s n="mf"/></l>      <r>calent<s n="adj"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>quente<s n="adj"/><s n="mf"/></l>      <r>calent<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>quente<s n="adj"/><s n="mf"/></l>      <r>calent<s n="adj"/><s n="m"/></r></p></e>
-<e>       <p><l>quinto<s n="adj"/></l>                 <r>cinquè<s n="adj"/></r></p></e>
+<e>       <p><l>quinto<s n="adj"/></l>                 <r>cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>quinto<s n="adj"/></l>                 <r>quint<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>quotidiano<s n="adj"/></l>             <r>quotidià<s n="adj"/></r></p></e>
 <e>       <p><l>químico<s n="adj"/></l>                <r>químic<s n="adj"/></r></p></e>
 <e>       <p><l>racial<s n="adj"/></l>                 <r>racial<s n="adj"/></r></p></e>
@@ -1261,7 +1271,7 @@
 <e>       <p><l>secreto<s n="adj"/></l>                <r>secret<s n="adj"/></r></p></e>
 <e>       <p><l>secundário<s n="adj"/></l>             <r>secundari<s n="adj"/></r></p></e>
 <e>       <p><l>seguinte<s n="adj"/></l>               <r>següent<s n="adj"/></r></p></e>
-<e>       <p><l>segundo<s n="adj"/></l>                <r>segon<s n="adj"/></r></p></e>
+<e>       <p><l>segundo<s n="adj"/></l>                <r>segon<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>seguro<s n="adj"/></l>                 <r>segur<s n="adj"/></r></p></e>
 <e>       <p><l>seleccionador<s n="adj"/></l>          <r>seleccionador<s n="adj"/></r></p></e>
 <e>       <p><l>selectivo<s n="adj"/></l>              <r>selectiu<s n="adj"/></r></p></e>
@@ -1276,7 +1286,7 @@
 <e>       <p><l>separatista<s n="adj"/></l>            <r>separatista<s n="adj"/></r></p></e>
 <e>       <p><l>seu<s n="adj"/></l>                    <r>seu<s n="adj"/></r></p></e>
 <e>       <p><l>severo<s n="adj"/></l>                 <r>sever<s n="adj"/></r></p></e>
-<e>       <p><l>sexto<s n="adj"/></l>                  <r>sisè<s n="adj"/></r></p></e>
+<e>       <p><l>sexto<s n="adj"/></l>                  <r>sisè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>sexual<s n="adj"/></l>                 <r>sexual<s n="adj"/></r></p></e>
 <e>       <p><l>significativo<s n="adj"/></l>          <r>significatiu<s n="adj"/></r></p></e>
 <e>       <p><l>silencioso<s n="adj"/></l>             <r>silenciós<s n="adj"/></r></p></e>
@@ -1330,7 +1340,7 @@
 <e>       <p><l>sábio<s n="adj"/></l>                  <r>savi<s n="adj"/></r></p></e>
 <e r="RL"><p><l>são<s n="adj"/></l>                    <r>sa<s n="adj"/></r></p></e>
 <e>       <p><l>sério<s n="adj"/></l>                  <r>seriós<s n="adj"/></r></p></e>
-<e>       <p><l>sétimo<s n="adj"/></l>                 <r>setè<s n="adj"/></r></p></e>
+<e>       <p><l>sétimo<s n="adj"/></l>                 <r>setè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>sólido<s n="adj"/></l>                 <r>sòlid<s n="adj"/></r></p></e>
 <e r="LR"><p><l>súbito<s n="adj"/></l>                 <r>sobtat<s n="adj"/></r></p></e>
 <e>       <p><l>tailandês<s n="adj"/></l>              <r>tailandès<s n="adj"/></r></p></e>
@@ -1352,7 +1362,7 @@
 <e r="RL"><p><l>tenso<s n="adj"/><s n="GD"/></l>       <r>tibant<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>tenso<s n="adj"/><s n="m"/></l>        <r>tibant<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>terapêutico<s n="adj"/></l>            <r>terapèutic<s n="adj"/></r></p></e>
-<e>       <p><l>terceiro<s n="adj"/></l>               <r>tercer<s n="adj"/></r></p></e>
+<e>       <p><l>terceiro<s n="adj"/></l>               <r>tercer<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>terminal<s n="adj"/></l>               <r>terminal<s n="adj"/></r></p></e>
 <e>       <p><l>terno<s n="adj"/></l>                  <r>tendre<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>terrestre<s n="adj"/></l>              <r>terrestre<s n="adj"/></r></p></e>
@@ -1433,7 +1443,7 @@
 <e>       <p><l>vespertino<s n="adj"/></l>             <r>vespertí<s n="adj"/></r></p></e>
 <e>       <p><l>veterano<s n="adj"/></l>               <r>veterà<s n="adj"/></r></p></e>
 <e>       <p><l>vigente<s n="adj"/></l>                <r>vigent<s n="adj"/></r></p></e>
-<e>       <p><l>vigésimo<s n="adj"/></l>               <r>vintè<s n="adj"/></r></p></e>
+<e>       <p><l>vigésimo<s n="adj"/></l>               <r>vintè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>violento<s n="adj"/></l>               <r>violent<s n="adj"/></r></p></e>
 <e>       <p><l>virtual<s n="adj"/></l>                <r>virtual<s n="adj"/></r></p></e>
 <e>       <p><l>virtuoso<s n="adj"/></l>               <r>virtuós<s n="adj"/></r></p></e>
@@ -2113,7 +2123,7 @@
 <e>       <p><l>ao<b/>que<b/>parece<s n="cnjadv"/></l> <r>pel<b/>que<b/>sembla<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ainda<b/>que<s n="cnjadv"/></l>        <r>malgrat<b/>que<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>mesmo<b/>que<s n="cnjadv"/></l>        <r>malgrat<b/>que<s n="cnjadv"/></r></p></e>
-<e>       <p><l>apesar<b/>que<s n="cnjadv"/></l>       <r>tot<b/>i<b/>que<s n="cnjadv"/></r></p></e>
+<e>       <p><l>ainda<b/>que<s n="cnjadv"/></l>        <r>tot<b/>i<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>basta<b/>apenas<b/>que<s n="cnjadv"/></l><r>n'hi<b/>ha<b/>prou<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>bem<b/>como<s n="cnjadv"/></l>         <r>així<b/>com<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>caso<s n="cnjadv"/></l>                <r>si<s n="cnjadv"/></r></p></e>
@@ -2173,7 +2183,7 @@
 <e>       <p><l>salvo<b/>que<s n="cnjadv"/></l>        <r>tret<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>se<s n="cnjadv"/></l>                  <r>si<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>se<b/>bem<b/>que<s n="cnjadv"/></l>    <r>encara<b/>que<s n="cnjadv"/></r></p></e>
-<e>       <p><l>segundo<s n="cnjadv"/></l>             <r>segons<s n="cnjadv"/></r></p></e>
+<e>       <p><l>conforme<s n="cnjadv"/></l>            <r>segons<s n="cnjadv"/></r></p></e>
 <e>       <p><l>sem<b/>dúvida<s n="cnjadv"/></l>       <r>sens<b/>dubte<s n="cnjadv"/></r></p></e>
 <e>       <p><l>siempre<b/>que<s n="cnjadv"/></l>      <r>siempre<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>supondo<b/>que<s n="cnjadv"/></l>      <r>en<b/>el<b/>cas<b/>que<s n="cnjadv"/></r></p></e>
@@ -5299,7 +5309,7 @@
 <e r="RL"><p><l>segunda-feira<s n="n"/><s n="f"/><s n="ND"/></l><r>dilluns<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>segunda-feira<s n="n"/><s n="f"/><s n="sg"/></l><r>dilluns<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>segunda-feira<s n="n"/><s n="f"/><s n="pl"/></l><r>dilluns<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e>       <p><l>segundo<s n="n"/></l>                  <r>segon<s n="n"/></r></p></e>
+<e>       <p><l>segundo<s n="n"/><s n="m"/></l>        <r>segon<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>segurança<s n="n"/><s n="f"/></l>      <r>seguretat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>segurança<s n="n"/><s n="mf"/></l>     <r>vigilant<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>seita<s n="n"/></l>                    <r>secta<s n="n"/></r></p></e>
@@ -6456,6 +6466,9 @@
 <e r="LR"><p><l>quanto<b/>a<s n="pr"/></l>             <r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>segundo<s n="pr"/></l>                 <r>d'acord<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>segundo<s n="pr"/></l>                 <r>segons<s n="pr"/></r></p></e>
+<e r="LR"><p><l>conforme<s n="pr"/></l>                <r>d'acord<b/>amb<s n="pr"/></r></p></e>
+<e r="LR"><p><l>ao<b/>abrigo<b/>de<s n="pr"/></l>      <r>d'acord<b/>amb<s n="pr"/></r></p></e>
+<e>       <p><l>em<b/>conformidade<b/>com<s n="pr"/></l><r>de<b/>conformitat<b/>amb<s n="pr"/></r></p></e>
 <e r="RL"><p><l>sem<s n="pr"/></l>                     <r>sens<s n="pr"/></r></p></e>
 <e>       <p><l>sem<s n="pr"/></l>                     <r>sense<s n="pr"/></r></p></e>
 <e>       <p><l>sob<s n="pr"/></l>                     <r>sota<s n="pr"/></r></p></e>
