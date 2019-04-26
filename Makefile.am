@@ -5,8 +5,20 @@
 VERSION=0.1.0
 LANG1=por
 LANG2=cat
+
+VAR1=#leave empty
+VAR2=_bra
+
+LANG1P=$(LANG1)$(VAR1)
+LANG1B=$(LANG1)$(VAR2)
+
 PREFIX1=$(LANG1)-$(LANG2)
+PREFIX1P=$(LANG1P)-$(LANG2)
+PREFIX1B=$(LANG1B)-$(LANG2)
+
 PREFIX2=$(LANG2)-$(LANG1)
+PREFIX2P=$(LANG2)-$(LANG1P)
+PREFIX2B=$(LANG2)-$(LANG1B)
 
 BASENAME=apertium-$(PREFIX1)
 
@@ -23,10 +35,13 @@ TARGETS_COMMON =		\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
-	$(PREFIX2).autobil.bin	\
+	$(PREFIX2P).autobil.bin	\
+	$(PREFIX2B).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
-	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).autopgen.bin	\
+	$(PREFIX2P).autogen.bin	\
+	$(PREFIX2B).autogen.bin	\
+	$(PREFIX2P).autopgen.bin	\
+	$(PREFIX2B).autopgen.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t1x.bin	
 
@@ -54,7 +69,10 @@ $(PREFIX1).automorf.bin: .deps/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 # ---------------------
 
 
-$(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
+$(PREFIX2P).autogen.bin: $(AP_SRC1)/$(LANG1P).autogen.bin
+	cp $< $@
+
+$(PREFIX2B).autogen.bin: $(AP_SRC1)/$(LANG1B).autogen.bin
 	cp $< $@
 
 # -------------------
@@ -64,7 +82,10 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 .deps/$(LANG2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin .deps/.d
 	cp $< $@
 
-$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+$(PREFIX2P).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2P).autobil.bin
+	lt-trim $^ $@
+
+$(PREFIX2B).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2B).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -103,9 +124,24 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
+.deps/$(PREFIX2).dix: $(BASENAME).$(PREFIX1).dix .deps/.d
+	xsltproc translate-to-default-equivalent.xsl $< > $@
+
+.deps/$(PREFIX2).por.dix: .deps/$(PREFIX2).dix
+	python genvrdix.py pt $< >$@
+
+.deps/$(PREFIX2).por_bra.dix: .deps/$(PREFIX2).dix
+	python genvrdix.py br $< >$@
+
+$(PREFIX2P).autobil.bin: .deps/$(PREFIX2).por.dix
 	apertium-validate-dictionary $<
-	lt-comp rl $< $@
+	lt-comp --var-left=pt rl $< $@
+
+$(PREFIX2B).autobil.bin: .deps/$(PREFIX2).por_bra.dix
+	apertium-validate-dictionary $<
+	lt-comp --var-left=br rl $< $@
+
+
 
 ###############################################################################
 ## Lexical selection rules
@@ -161,7 +197,10 @@ $(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 $(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
 	cp $< $@
 
-$(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
+$(PREFIX2P).autopgen.bin: $(AP_SRC1)/$(LANG1P).autopgen.bin
+	cp $< $@
+
+$(PREFIX2B).autopgen.bin: $(AP_SRC1)/$(LANG1B).autopgen.bin
 	cp $< $@
 
 ###############################################################################
@@ -169,12 +208,11 @@ $(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
 ###############################################################################
 
 EXTRA_DIST=					\
-		$(BASENAME).$(PREFIX1).lrx	\
+		.deps/$(BASENAME).$(PREFIX1).lrx	\
+		.deps/$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).dix	\
-		$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).t1x	\
-		$(BASENAME).$(PREFIX2).t1x	
-		$(BASENAME).$(PREFIX2).t1x	
+		$(BASENAME).$(PREFIX2).t1x	\
 		modes.xml
 
 ###############################################################################
