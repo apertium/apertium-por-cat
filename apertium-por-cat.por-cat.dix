@@ -1553,6 +1553,8 @@
 <e>       <p><l>acústicamente<s n="adv"/></l>          <r>acústicament<s n="adv"/></r></p></e>
 <e>       <p><l>ademais<s n="adv"/></l>                <r>a<b/>més<s n="adv"/></r></p></e>
 <e r="RL"><p><l>ademais<s n="adv"/></l>                <r>a<b/>més<b/>a<b/>més<s n="adv"/></r></p></e>
+<e>       <p><l>ademais<b/>de<s n="pr"/></l>           <r>a<b/>més<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>ademais<b/>de<s n="pr"/></l>           <r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>adentro<s n="adv"/></l>                <r>a<b/>dins<s n="adv"/></r></p></e>
 <e>       <p><l>adentro<s n="adv"/></l>                <r>endins<s n="adv"/></r></p></e>
 <e>       <p><l>adequadamente<s n="adv"/></l>          <r>adequadament<s n="adv"/></r></p></e>
@@ -1574,6 +1576,7 @@
 <e>       <p><l>ali<s n="adv"/></l>                    <r>allí<s n="adv"/></r></p></e>
 <e>       <p><l>altamente<s n="adv"/></l>              <r>altament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>além<s n="adv"/></l>                   <r>a<b/>més<s n="adv"/></r></p></e>
+<e>       <p><l>além<s n="adv"/></l>                   <r>més<b/>enllà<s n="adv"/></r></p></e>
 <e r="RL"><p><l>além<s n="adv"/></l>                   <r>allèn<s n="adv"/></r></p></e>
 <e>       <p><l>amanhã<s n="adv"/></l>                 <r>demà<s n="adv"/></r></p></e>
 <e>       <p><l>amavelmente<s n="adv"/></l>            <r>amablement<s n="adv"/></r></p></e>
@@ -1595,7 +1598,7 @@
 <e>       <p><l>ao<b/>inverso<s n="adv"/></l>          <r>a<b/>la<b/>inversa<s n="adv"/></r></p></e>
 <e>       <p><l>ao<b/>mesmo<b/>tempo<s n="adv"/></l>   <r>alhora<s n="adv"/></r></p></e>
 <e>       <p><l>ao<b/>redor<s n="adv"/></l>            <r>al<b/>voltant<s n="adv"/></r></p></e>
-<e>       <p><l>ao<b/>som<b/>de<s n="adv"/></l>        <r>al<b/>so<b/>de<s n="adv"/></r></p></e>
+<e>       <p><l>ao<b/>som<b/>de<s n="pr"/></l>         <r>al<b/>so<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>ao<b/>todo<s n="adv"/></l>             <r>en<b/>total<s n="adv"/></r></p></e>
 <e>       <p><l>ao<b/>vivo<s n="adv"/></l>             <r>en<b/>viu<s n="adv"/></r></p></e>
 <e r="RL"><p><l>ao<b/>vivo<s n="adv"/></l>             <r>en<b/>directe<s n="adv"/></r></p></e>
@@ -1771,7 +1774,7 @@
 <e r="LR"><p><l>em<b/>ligeira<b/>subida<s n="adv"/></l><r>lleugerament<b/>a<b/>l'alça<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>longo<b/>prazo<s n="adv"/></l>   <r>a<b/>llarg<b/>termini<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>massa<s n="adv"/></l>            <r>massivament<s n="adv"/></r></p></e>
-<e>       <p><l>em<b/>matéria<b/>de<s n="adv"/></l>    <r>en<b/>qüestió<b/>de<s n="adv"/></r></p></e>
+<e>       <p><l>em<b/>matéria<b/>de<s n="pr"/></l>     <r>en<b/>qüestió<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>media<s n="adv"/></l>            <r>de<b/>mitjana<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>mãos<s n="adv"/></l>             <r>en<b/>mà<s n="adv"/></r></p></e>
 <e r="LR"><p><l>em<b/>mãos<s n="adv"/></l>             <r>en<b/>mà<s n="adv"/></r></p></e>
@@ -1974,13 +1977,12 @@
 <e>       <p><l>onde<b/>não<b/>tem<s n="adv"/></l>     <r>on<b/>no<b/>n'hi<b/>ha<s n="adv"/></r></p></e>
 <e>       <p><l>onde<b/>quer<s n="adv"/></l>           <r>onsevulla<s n="adv"/></r></p></e>
 <e>       <p><l>ontem<s n="adv"/></l>                  <r>ahir<s n="adv"/></r></p></e>
-<e>       <p><l>ontem<b/>à<b/>noite<s n="adv"/></l>    <r>anit<s n="adv"/></r></p></e>
+<e r="RL"><p><l>ontem<b/>à<b/>noite<s n="adv"/></l>    <r>anit<s n="adv"/></r></p></e>
 <e>       <p><l>out<s n="adv"/></l>                    <r>out<s n="adv"/></r></p></e>
 <e>       <p><l>pacientemente<s n="adv"/></l>          <r>pacientment<s n="adv"/></r></p></e>
-<e>       <p><l>para<b/>além<s n="adv"/></l>           <r>més<b/>enllà<s n="adv"/></r></p></e>
+<e r="LR"><p><l>para<b/>além<s n="adv"/></l>           <r>més<b/>enllà<s n="adv"/></r></p></e>
 <e>       <p><l>para<b/>valer<s n="adv"/></l>          <r>de<b/>debò<s n="adv"/></r></p></e>
-<e r="RL"><p><l>paradoxalmente<s n="adv"/></l>         <r>paradoxalment<s n="adv"/></r></p></e>
-<e r="LR"><p><l>paradoxalmente<s n="adv"/></l>         <r>paradoxalment<s n="adv"/></r></p></e>
+<e>       <p><l>paradoxalmente<s n="adv"/></l>         <r>paradoxalment<s n="adv"/></r></p></e>
 <e>       <p><l>parcialmente<s n="adv"/></l>           <r>parcialment<s n="adv"/></r></p></e>
 <e>       <p><l>particularmente<s n="adv"/></l>        <r>particularment<s n="adv"/></r></p></e>
 <e>       <p><l>passa<b/>bem<s n="adv"/></l>           <r>es<b/>troba<b/>bé<s n="adv"/></r></p></e>
@@ -6085,6 +6087,9 @@
 <e>       <p><l>Guantánamo<s n="np"/></l>              <r>Guantánamo<s n="np"/></r></p></e>
 <e>       <p><l>Guatemala<s n="np"/></l>               <r>Guatemala<s n="np"/></r></p></e>
 <e>       <p><l>Guillermo<s n="np"/></l>               <r>Guillermo<s n="np"/></r></p></e>
+<e>       <p><l>Guillem<s n="np"/></l>                 <r>Guillem<s n="np"/></r></p></e>
+<e>       <p><l>Guilherme<s n="np"/></l>               <r>Guilherme<s n="np"/></r></p></e>
+<e>       <p><l>Guilherme<s n="np"/></l>               <r>Guillem<s n="np"/></r></p></e>
 <e>       <p><l>Guiné<s n="np"/></l>                   <r>Guinea<s n="np"/></r></p></e>
 <e>       <p><l>Gustavo<s n="np"/></l>                 <r>Gustavo<s n="np"/></r></p></e>
 <e>       <p><l>Guzmán<s n="np"/></l>                  <r>Guzmán<s n="np"/></r></p></e>
@@ -6460,7 +6465,8 @@
 <e r="LR"><p><l>a<b/>respeito<b/>de<s n="pr"/></l>     <r>sobre<s n="pr"/></r></p></e>
 <e>       <p><l>acima<b/>de<s n="pr"/></l>             <r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>adiante<b/>de<s n="pr"/></l>           <r>davant<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>além<b/>de<s n="pr"/></l>              <r>a<b/>més<b/>de<s n="pr"/></r></p></e>
+<e>       <p><l>além<b/>de<s n="pr"/></l>              <r>més<b/>enllà<b/>de<s n="pr"/></r></p></e>
+<e r="LR"><p><l>além<b/>de<s n="pr"/></l>              <r>a<b/>més<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>ante<s n="pr"/></l>                    <r>davant<s n="pr"/></r></p></e>
 <e r="LR"><p><l>ao<b/>invés<b/>de<s n="pr"/></l>       <r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>até<s n="pr"/></l>                     <r>fins<s n="pr"/></r></p></e>

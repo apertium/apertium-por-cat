@@ -277,6 +277,25 @@
   </def-macros>
 
 <rules>
+
+<!-- **************** PR **************** -->
+
+<!-- além de > més enllà de, a més de -->
+
+  <rule weight="0.6">
+     <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
+  </rule>
+
+
+<!-- **************** ADV **************** -->
+
+<!-- além > més enllà, a més -->
+
+  <rule weight="0.6">
+     <match lemma="além" tags="adv"><select lemma="més enllà"/></match>
+  </rule>
+
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
