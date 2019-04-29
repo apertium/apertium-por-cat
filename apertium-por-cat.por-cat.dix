@@ -1542,6 +1542,7 @@
 <e>       <p><l>amavelmente<s n="adv"/></l>            <r>amablement<s n="adv"/></r></p></e>
 <e>       <p><l>amplamente<s n="adv"/></l>             <r>àmpliament<s n="adv"/></r></p></e>
 <e>       <p><l>ano<b/>após<b/>ano<s n="adv"/></l>     <r>any<b/>rere<b/>any<s n="adv"/></r></p></e>
+<e r="RL"><p><l>ano<b/>após<b/>ano<s n="adv"/></l>     <r>any<b/>rera<b/>any<s n="adv"/></r></p></e>
 <e>       <p><l>antanho<s n="adv"/></l>                <r>antany<s n="adv"/></r></p></e>
 <e r="LR"><p><l>ante<s n="adv"/></l>                   <r>davant<s n="adv"/></r></p></e>
 <e>       <p><l>anteontem<s n="adv"/></l>              <r>abans-d'ahir<s n="adv"/></r></p></e>
@@ -1586,6 +1587,8 @@
 <e>       <p><l>através<s n="adv"/></l>                <r>a<b/>través<s n="adv"/></r></p></e>
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>arrere<s n="adv"/></r></p></e>
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>endarrere<s n="adv"/></r></p></e>
+<e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>endarrera<s n="adv"/></r></p></e>
+<e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>enrera<s n="adv"/></r></p></e>
 <e       ><p><l>atrás<s n="adv"/></l>                  <r>enrere<s n="adv"/></r></p></e>
 <e r="LR"><p><l>atualmente<s n="adv"/></l>             <r>actualment<s n="adv"/></r></p></e>
 <e r="LR"><p><l>até<b/>mesmo<s n="adv"/></l>           <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
@@ -1698,6 +1701,7 @@
 <e>       <p><l>desta<b/>guisa<s n="adv"/></l>         <r>d'aquesta<b/>manera<s n="adv"/></r></p></e>
 <e>       <p><l>desta<b/>vez<s n="adv"/></l>           <r>aquesta<b/>vegada<s n="adv"/></r></p></e>
 <e r="RL"><p><l>desta<b/>vez<s n="adv"/></l>           <r>aquest<b/>cop<s n="adv"/></r></p></e>
+<e r="RL"><p><l>detrás<s n="adv"/></l>                 <r>darrera<s n="adv"/></r></p></e>
 <e>       <p><l>detrás<s n="adv"/></l>                 <r>darrere<s n="adv"/></r></p></e>
 <e>       <p><l>devagar<s n="adv"/></l>                <r>a<b/>poc<b/>a<b/>poc<s n="adv"/></r></p></e>
 <e>       <p><l>devidamente<s n="adv"/></l>            <r>degudament<s n="adv"/></r></p></e>
@@ -1877,9 +1881,16 @@
 <e r="RL"><p><l>mal<s n="adv"/></l>                    <r>malament<s n="adv"/></r></p></e>
 <e>       <p><l>maus<b/>modos<s n="adv"/></l>          <r>mala<b/>manera<s n="adv"/></r></p></e>
 <e>       <p><l>mediamente<s n="adv"/></l>             <r>mitjanament<s n="adv"/></r></p></e>
-<e>       <p><l>meia<b/>manhã<s n="adv"/></l>          <r>mig<b/>matí<s n="adv"/></r></p></e>
-<e>       <p><l>meia<b/>noite<s n="adv"/></l>          <r>mitjanit<s n="adv"/></r></p></e>
-<e>       <p><l>meia<b/>tarde<s n="adv"/></l>          <r>mitja<b/>tarda<s n="adv"/></r></p></e>
+<e>       <p><l>no<b/>meio<b/>da<b/>manhã<s n="adv"/></l>          <r>a<b/>mig<b/>matí<s n="adv"/></r></p></e>
+<e>       <p><l>no<b/>meio<b/>da<b/>noite<s n="adv"/></l>          <r>a<b/>mitjanit<s n="adv"/></r></p></e>
+<e>       <p><l>no<b/>meio<b/>da<b/>tarde<s n="adv"/></l>          <r>a<b/>mitja<b/>tarda<s n="adv"/></r></p></e>
+<e r="RL"><p><l>no<b/>meio<b/>da<b/>tarde<s n="adv"/></l>          <r>a<b/>mitja<b/>vespra<s n="adv"/></r></p></e>
+<e r="LR"><p><l>a<b/>meio<b/>da<b/>manhã<s n="adv"/></l>          <r>a<b/>mig<b/>matí<s n="adv"/></r></p></e>
+<e r="LR"><p><l>a<b/>meio<b/>da<b/>noite<s n="adv"/></l>          <r>a<b/>mitjanit<s n="adv"/></r></p></e>
+<e r="LR"><p><l>a<b/>meio<b/>da<b/>tarde<s n="adv"/></l>          <r>a<b/>mitja<b/>tarda<s n="adv"/></r></p></e>
+<e r="LR"><p><l>ao<b/>meio<b/>da<b/>manhã<s n="adv"/></l>          <r>a<b/>mig<b/>matí<s n="adv"/></r></p></e>
+<e r="LR"><p><l>ao<b/>meio<b/>da<b/>noite<s n="adv"/></l>          <r>a<b/>mitjanit<s n="adv"/></r></p></e>
+<e r="LR"><p><l>ao<b/>meio<b/>da<b/>tarde<s n="adv"/></l>          <r>a<b/>mitja<b/>tarda<s n="adv"/></r></p></e>
 <e>       <p><l>melhor<s n="adv"/></l>                 <r>millor<s n="adv"/></r></p></e>
 <e>       <p><l>melhor<b/>pouco<b/>do<b/>que<b/>nada<s n="adv"/></l><r>més<b/>val<b/>això<b/>que<b/>res<s n="adv"/></r></p></e>
 <e>       <p><l>menos<s n="adv"/></l>                  <r>menys<s n="adv"/></r></p></e>
@@ -2919,8 +2930,9 @@
 <e>       <p><l>cimeira<s n="n"/><s n="f"/></l>        <r>cim<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>cimeira<s n="n"/></l>                  <r>cimera<s n="n"/></r></p></e>
 <e r="LR"><p><l>cimo<s n="n"/><s n="m"/></l>           <r>cim<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>cine<s n="n"/></l>                     <r>cine<s n="n"/></r></p></e>
-<e>       <p><l>cine<s n="n"/></l>                     <r>cinema<s n="n"/></r></p></e>
+<e r="LR"><p><l>cine<s n="n"/></l>                     <r>cinema<s n="n"/></r></p></e>
+<e>       <p><l>cinema<s n="n"/></l>                   <r>cinema<s n="n"/></r></p></e>
+<e r="RL"><p><l>cinema<s n="n"/></l>                   <r>cine<s n="n"/></r></p></e>
 <e>       <p><l>cineasta<s n="n"/></l>                 <r>cineasta<s n="n"/></r></p></e>
 <e r="LR"><p><l>cinecartaz<s n="n"/><s n="m"/></l>     <r>cartellera<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cinto<s n="n"/></l>                    <r>cinturó<s n="n"/></r></p></e>
@@ -4964,6 +4976,7 @@
 <e>       <p><l>preço<s n="n"/></l>                    <r>preu<s n="n"/></r></p></e>
 <e>       <p><l>primavera<s n="n"/></l>                <r>primavera<s n="n"/></r></p></e>
 <e>       <p><l>princípio<s n="n"/></l>                <r>principi<s n="n"/></r></p></e>
+<e>       <p><l>em<b/>princípio<s n="adv"/></l>        <r>en<b/>principi<s n="adv"/></r></p></e>
 <e>       <p><l>prioridade<s n="n"/></l>               <r>prioritat<s n="n"/></r></p></e>
 <e>       <p><l>prisa<s n="n"/></l>                    <r>prisa<s n="n"/></r></p></e>
 <e>       <p><l>prisioneiro<s n="n"/></l>              <r>presoner<s n="n"/></r></p></e>
@@ -6476,6 +6489,10 @@
 <e>       <p><l>graças<b/>a<s n="pr"/></l>             <r>gràcies<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>mediante<s n="pr"/></l>                <r>mitjançant<s n="pr"/></r></p></e>
 <e r="RL"><p><l>no<b/>final<b/>de<s n="pr"/></l>       <r>a<b/>finals<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>no<b/>final<b/>de<s n="pr"/></l>       <r>a<b/>les<b/>darreries<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>no<b/>final<b/>de<s n="pr"/></l>       <r>a<b/>la<b/>darreria<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>no<b/>final<b/>de<s n="pr"/></l>       <r>al<b/>final<b/>de<s n="pr"/></r></p></e>
+<e r="LR"><p><l>no<b/>fin<b/>de<s n="pr"/></l>         <r>al<b/>final<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>no<b/>final<b/>de<s n="pr"/></l>       <r>a<b/>la<b/>fi<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>no<b/>meio<b/>de<s n="pr"/></l>        <r>enmig<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>no<b/>meio<b/>de<s n="pr"/></l>        <r>a<b/>la<b/>meitat<b/>de<s n="pr"/></r></p></e>
@@ -6491,7 +6508,9 @@
 <e r="LR"><p><l>por<b/>entre<s n="pr"/></l>            <r>entre<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>motivo<b/>de<s n="pr"/></l>     <r>en<b/>ocasió<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>per<b/>darrere<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>per<b/>darrera<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>darrere<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>darrera<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>pra<s n="pr"/></l>                     <r>per<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>próximo<b/>de<s n="pr"/></l>           <r>proper<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>quanto<b/>a<s n="pr"/></l>             <r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
@@ -6524,6 +6543,8 @@
 <e r="LR"><p><l>em<b/>volta<b/>de<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
 <e><p><l>ao<b/>lado<b/>de<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
 <e><p><l>fora<b/>de<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>para<b/>fora<b/>de<s n="pr"/></l><r>a<b/>l'exterior<b/>de<s n="pr"/></r></p></e>
+<e><p><l>para<b/>fora<b/>de<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
 <e><p><l>ao<b/>cabo<b/>de<s n="pr"/></l><r>al<b/>cap<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>a<b/>cabo<b/>de<s n="pr"/></l><r>al<b/>cap<b/>de<s n="pr"/></r></p></e>
 <e><p><l>ao<b/>lado<b/>de<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
@@ -6531,6 +6552,10 @@
 <e r="RL"><p><l>dentro<b/>de<s n="pr"/></l><r>dintre<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>dentro<b/>de<s n="pr"/></l><r>a<b/>dins<s n="pr"/></r></p></e>
 <e><p><l>dentro<b/>de<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
+<e><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>a<b/>començaments<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>al<b/>principi<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>al<b/>començament<b/>de<s n="pr"/></r></p></e>
 
     <!-- ******************************
           group preadv_symbol
