@@ -298,6 +298,9 @@
 
 <!-- **************** NP **************** -->
 
+  <macro name="noms_propis" p1="Guilherme" p2="Guillem" />
+  <macro name="noms_propis" p1="João" p2="Joan" />
+
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Alfons" p2="Alfonso" />
   <macro name="noms_propis" p1="Benet" p2="Benedeto" />
@@ -316,7 +319,6 @@
   <macro name="noms_propis" p1="Frederic" p2="Federico" />
   <macro name="noms_propis" p1="Gregori" p2="Gregorio" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
-  <macro name="noms_propis" p1="Guillem" p2="Guglielmo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
   <macro name="noms_propis" p1="Isabel" p2="Isabella" />
@@ -324,7 +326,6 @@
   <macro name="noms_propis" p1="Joana" p2="Giovanna" />
   <macro name="noms_propis" p1="Joan Carles" p2="Juan Carlos" />
   <macro name="noms_propis" p1="Joan Manuel" p2="Giovanni Manuelle" />
-  <macro name="noms_propis" p1="Joan" p2="Giovanni" />
   <macro name="noms_propis" p1="Joan Pau" p2="Giovanni Paolo" />
   <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
   <macro name="noms_propis" p1="Juli" p2="Giulio" />
