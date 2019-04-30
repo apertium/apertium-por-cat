@@ -497,11 +497,13 @@
         	<attr-item tags="acr"/>
 			<attr-item tags="al"/>
 			<attr-item tags="ant"/>
+			<attr-item tags="cog"/>
         	<attr-item tags="def"/>
         	<attr-item tags="dem"/>	
         	<attr-item tags="ind"/>	
         	<attr-item tags="itg"/>
 			<attr-item tags="loc"/>
+			<attr-item tags="top"/>
         	<attr-item tags="pos"/>	
         	<attr-item tags="ref"/>
         	<attr-item tags="sup"/>	      
