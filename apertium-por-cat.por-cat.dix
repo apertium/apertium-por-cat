@@ -5890,6 +5890,9 @@
 <e>       <p><l>Alcaraz<s n="np"/></l>                 <r>Alcaraz<s n="np"/></r></p></e>
 <e>       <p><l>Alemanha<s n="np"/></l>                <r>Alemanya<s n="np"/></r></p></e>
 <e>       <p><l>Alexandre<s n="np"/></l>               <r>Alexandre<s n="np"/></r></p></e>
+<e>       <p><l>Alfons<s n="np"/></l>                  <r>Alfons<s n="np"/></r></p></e>
+<e>       <p><l>Afonso<s n="np"/></l>                  <r>Alfons<s n="np"/></r></p></e>
+<e>       <p><l>Afonso<s n="np"/></l>                  <r>Afonso<s n="np"/></r></p></e>
 <e>       <p><l>Alfonso<s n="np"/></l>                 <r>Alfonso<s n="np"/></r></p></e>
 <e>       <p><l>Alfredo<s n="np"/></l>                 <r>Alfredo<s n="np"/></r></p></e>
 <e>       <p><l>Alicante<s n="np"/></l>                <r>Alacant<s n="np"/></r></p></e>
@@ -5961,6 +5964,7 @@
 <e>       <p><l>Carod<s n="np"/></l>                   <r>Carod<s n="np"/></r></p></e>
 <e>       <p><l>Carvalho<s n="np"/></l>                <r>Carvalho<s n="np"/></r></p></e>
 <e>       <p><l>Castela<s n="np"/><s n="top"/></l>     <r>Castella<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Castela-Mancha<s n="np"/><s n="top"/></l><r>Castella-la<b/>Manxa<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Castro<s n="np"/></l>                  <r>Castro<s n="np"/></r></p></e>
 <e r="LR"><p><l>Cataluña<s n="np"/></l>                <r>Catalunya<s n="np"/></r></p></e>
 <e>       <p><l>Catalunha<s n="np"/></l>               <r>Catalunya<s n="np"/></r></p></e>
@@ -6024,6 +6028,7 @@
 <e>       <p><l>Felipe<s n="np"/></l>                  <r>Felipe<s n="np"/></r></p></e>
 <e>       <p><l>Fernando<s n="np"/></l>                <r>Fernando<s n="np"/></r></p></e>
 <e>       <p><l>Fernández<s n="np"/></l>               <r>Fernández<s n="np"/></r></p></e>
+<e>       <p><l>Fernando<s n="np"/></l>                <r>Ferran<s n="np"/></r></p></e>
 <e>       <p><l>Ferran<s n="np"/></l>                  <r>Ferran<s n="np"/></r></p></e>
 <e>       <p><l>Ferrari<s n="np"/></l>                 <r>Ferrari<s n="np"/></r></p></e>
 <e>       <p><l>Ferrari<s n="np"/><s n="al"/></l>      <r>Ferrari<s n="np"/><s n="al"/></r></p></e>
@@ -6042,8 +6047,8 @@
 <e>       <p><l>França<s n="np"/></l>                  <r>França<s n="np"/></r></p></e>
 <e>       <p><l>Gabriel<s n="np"/></l>                 <r>Gabriel<s n="np"/></r></p></e>
 <e>       <p><l>Gales<s n="np"/></l>                   <r>Gal·les<s n="np"/></r></p></e>
-<e>       <p><l>Galicia<s n="np"/></l>                 <r>Galicia<s n="np"/></r></p></e>
-<e r="LR"><p><l>Galiza<s n="np"/></l>                  <r>Galicia<s n="np"/></r></p></e>
+<e r="LR"><p><l>Galicia<s n="np"/></l>                 <r>Galícia<s n="np"/></r></p></e>
+<e>       <p><l>Galiza<s n="np"/></l>                  <r>Galícia<s n="np"/></r></p></e>
 <e>       <p><l>Gallardón<s n="np"/></l>               <r>Gallardón<s n="np"/></r></p></e>
 <e>       <p><l>García<s n="np"/></l>                  <r>García<s n="np"/></r></p></e>
 <e>       <p><l>Garrido<s n="np"/></l>                 <r>Garrido<s n="np"/></r></p></e>
@@ -6082,6 +6087,8 @@
 <e>       <p><l>Hollywood<s n="np"/><s n="top"/></l>   <r>Hollywood<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Huelva<s n="np"/></l>                  <r>Huelva<s n="np"/></r></p></e>
 <e>       <p><l>Hugo<s n="np"/></l>                    <r>Hugo<s n="np"/></r></p></e>
+<e>       <p><l>Hugo<s n="np"/></l>                    <r>Hug<s n="np"/></r></p></e>
+<e>       <p><l>Hug<s n="np"/></l>                     <r>Hug<s n="np"/></r></p></e>
 <e>       <p><l>Hungria<s n="np"/></l>                 <r>Hongria<s n="np"/></r></p></e>
 <e>       <p><l>IU<s n="np"/><s n="al"/></l>           <r>IU<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Ibarretxe<s n="np"/></l>               <r>Ibarretxe<s n="np"/></r></p></e>
