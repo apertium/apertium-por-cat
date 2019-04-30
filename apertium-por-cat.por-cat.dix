@@ -31,7 +31,6 @@
     <sdef n="sp" /> 
     <sdef n="ger" /> 
     <sdef n="inf" /> 
-    <sdef n="loc" /> 
     <sdef n="top" /> 
     <sdef n="rpar" /> 
     <sdef n="sg" /> 
@@ -5906,7 +5905,7 @@
 <e>       <p><l>Antonio<s n="np"/></l>                 <r>Antonio<s n="np"/></r></p></e>
 <e>       <p><l>Arafat<s n="np"/></l>                  <r>Arafat<s n="np"/></r></p></e>
 <e>       <p><l>Argentina<s n="np"/></l>               <r>Argentina<s n="np"/></r></p></e>
-<e>       <p><l>Argélia<s n="np"/><s n="loc"/></l>     <r>Algèria<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Argélia<s n="np"/><s n="top"/></l>     <r>Algèria<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Aribau<s n="np"/></l>                  <r>Aribau<s n="np"/></r></p></e>
 <e>       <p><l>Ariel<s n="np"/></l>                   <r>Ariel<s n="np"/></r></p></e>
 <e>       <p><l>Aristóteles<s n="np"/></l>             <r>Aristòtil<s n="np"/></r></p></e>
@@ -5926,7 +5925,7 @@
 <e>       <p><l>Barça<s n="np"/></l>                   <r>Barça<s n="np"/></r></p></e>
 <e>       <p><l>Batasuna<s n="np"/></l>                <r>Batasuna<s n="np"/></r></p></e>
 <e>       <p><l>Bautista<s n="np"/></l>                <r>Bautista<s n="np"/></r></p></e>
-<e>       <p><l>Belém<s n="np"/><s n="loc"/></l>       <r>Betlem<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Belém<s n="np"/><s n="top"/></l>       <r>Betlem<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Belén<s n="np"/></l>                   <r>Belén<s n="np"/></r></p></e>
 <e>       <p><l>Ben<s n="np"/></l>                     <r>Ben<s n="np"/></r></p></e>
 <e>       <p><l>Benjamin<s n="np"/></l>                <r>Benjamin<s n="np"/></r></p></e>
@@ -5944,7 +5943,7 @@
 <e>       <p><l>Bravo<s n="np"/></l>                   <r>Bravo<s n="np"/></r></p></e>
 <e>       <p><l>Bruguera<s n="np"/></l>                <r>Bruguera<s n="np"/></r></p></e>
 <e>       <p><l>Bruno<s n="np"/></l>                   <r>Bruno<s n="np"/></r></p></e>
-<e>       <p><l>Bruxelas<s n="np"/><s n="loc"/></l>    <r>Brussel·les<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Bruxelas<s n="np"/><s n="top"/></l>    <r>Brussel·les<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Buda<s n="np"/></l>                    <r>Buda<s n="np"/></r></p></e>
 <e>       <p><l>Bulgária<s n="np"/></l>                <r>Bulgària<s n="np"/></r></p></e>
 <e>       <p><l>Bush<s n="np"/></l>                    <r>Bush<s n="np"/></r></p></e>
@@ -5961,7 +5960,7 @@
 <e>       <p><l>Carmen<s n="np"/></l>                  <r>Carmen<s n="np"/></r></p></e>
 <e>       <p><l>Carod<s n="np"/></l>                   <r>Carod<s n="np"/></r></p></e>
 <e>       <p><l>Carvalho<s n="np"/></l>                <r>Carvalho<s n="np"/></r></p></e>
-<e>       <p><l>Castilla<s n="np"/></l>                <r>Castella<s n="np"/></r></p></e>
+<e>       <p><l>Castela<s n="np"/><s n="top"/></l>     <r>Castella<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Castro<s n="np"/></l>                  <r>Castro<s n="np"/></r></p></e>
 <e r="LR"><p><l>Cataluña<s n="np"/></l>                <r>Catalunya<s n="np"/></r></p></e>
 <e>       <p><l>Catalunha<s n="np"/></l>               <r>Catalunya<s n="np"/></r></p></e>
@@ -5973,7 +5972,7 @@
 <e>       <p><l>Chirac<s n="np"/></l>                  <r>Chirac<s n="np"/></r></p></e>
 <e>       <p><l>Cinesa<s n="np"/></l>                  <r>Cinesa<s n="np"/></r></p></e>
 <e>       <p><l>Cingapura<s n="np"/></l>               <r>Singapur<s n="np"/></r></p></e>
-<e>       <p><l>Cisjordânia<s n="np"/><s n="loc"/></l> <r>Cisjordània<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Cisjordânia<s n="np"/><s n="top"/></l> <r>Cisjordània<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Cisneros<s n="np"/></l>                <r>Cisneros<s n="np"/></r></p></e>
 <e>       <p><l>Claudia<s n="np"/></l>                 <r>Claudia<s n="np"/></r></p></e>
 <e>       <p><l>Claudio<s n="np"/></l>                 <r>Claudio<s n="np"/></r></p></e>
@@ -6032,7 +6031,7 @@
 <e>       <p><l>Fidel<s n="np"/></l>                   <r>Fidel<s n="np"/></r></p></e>
 <e>       <p><l>Figueres<s n="np"/></l>                <r>Figueres<s n="np"/></r></p></e>
 <e>       <p><l>Florentino<s n="np"/></l>              <r>Florentino<s n="np"/></r></p></e>
-<e>       <p><l>Flórida<s n="np"/><s n="loc"/></l>     <r>Florida<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Flórida<s n="np"/><s n="top"/></l>     <r>Florida<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ford<s n="np"/></l>                    <r>Ford<s n="np"/></r></p></e>
 <e>       <p><l>Francesc<s n="np"/></l>                <r>Francesc<s n="np"/></r></p></e>
 <e>       <p><l>Francia<s n="np"/></l>                 <r>Francia<s n="np"/></r></p></e>
@@ -6044,6 +6043,7 @@
 <e>       <p><l>Gabriel<s n="np"/></l>                 <r>Gabriel<s n="np"/></r></p></e>
 <e>       <p><l>Gales<s n="np"/></l>                   <r>Gal·les<s n="np"/></r></p></e>
 <e>       <p><l>Galicia<s n="np"/></l>                 <r>Galicia<s n="np"/></r></p></e>
+<e r="LR"><p><l>Galiza<s n="np"/></l>                  <r>Galicia<s n="np"/></r></p></e>
 <e>       <p><l>Gallardón<s n="np"/></l>               <r>Gallardón<s n="np"/></r></p></e>
 <e>       <p><l>García<s n="np"/></l>                  <r>García<s n="np"/></r></p></e>
 <e>       <p><l>Garrido<s n="np"/></l>                 <r>Garrido<s n="np"/></r></p></e>
@@ -6074,12 +6074,12 @@
 <e>       <p><l>Haiti<s n="np"/></l>                   <r>Haití<s n="np"/></r></p></e>
 <e>       <p><l>Haro<s n="np"/></l>                    <r>Haro<s n="np"/></r></p></e>
 <e>       <p><l>Harry<s n="np"/></l>                   <r>Harry<s n="np"/></r></p></e>
-<e>       <p><l>Hebrón<s n="np"/><s n="loc"/></l>      <r>Hebron<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Hebrón<s n="np"/><s n="top"/></l>      <r>Hebron<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Henry<s n="np"/></l>                   <r>Henry<s n="np"/></r></p></e>
 <e>       <p><l>Hernández<s n="np"/></l>               <r>Hernández<s n="np"/></r></p></e>
 <e>       <p><l>Herrera<s n="np"/></l>                 <r>Herrera<s n="np"/></r></p></e>
 <e>       <p><l>Holanda<s n="np"/></l>                 <r>Holanda<s n="np"/></r></p></e>
-<e>       <p><l>Hollywood<s n="np"/><s n="loc"/></l>   <r>Hollywood<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Hollywood<s n="np"/><s n="top"/></l>   <r>Hollywood<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Huelva<s n="np"/></l>                  <r>Huelva<s n="np"/></r></p></e>
 <e>       <p><l>Hugo<s n="np"/></l>                    <r>Hugo<s n="np"/></r></p></e>
 <e>       <p><l>Hungria<s n="np"/></l>                 <r>Hongria<s n="np"/></r></p></e>
@@ -6111,6 +6111,8 @@
 <e>       <p><l>Jerusalém<s n="np"/></l>               <r>Jerusalem<s n="np"/></r></p></e>
 <e>       <p><l>Jesús<s n="np"/></l>                   <r>Jesús<s n="np"/></r></p></e>
 <e>       <p><l>Joan<s n="np"/></l>                    <r>Joan<s n="np"/></r></p></e>
+<e>       <p><l>João<s n="np"/></l>                    <r>João<s n="np"/></r></p></e>
+<e>       <p><l>João<s n="np"/></l>                    <r>Joan<s n="np"/></r></p></e>
 <e>       <p><l>Joaquim<s n="np"/></l>                 <r>Joaquim<s n="np"/></r></p></e>
 <e>       <p><l>Joaquín<s n="np"/></l>                 <r>Joaquín<s n="np"/></r></p></e>
 <e>       <p><l>John<s n="np"/></l>                    <r>John<s n="np"/></r></p></e>
@@ -6124,7 +6126,7 @@
 <e>       <p><l>Juan<s n="np"/></l>                    <r>Juan<s n="np"/></r></p></e>
 <e>       <p><l>Juárez<s n="np"/></l>                  <r>Juárez<s n="np"/></r></p></e>
 <e>       <p><l>Kim<s n="np"/></l>                     <r>Kim<s n="np"/></r></p></e>
-<e>       <p><l>Kosovo<s n="np"/><s n="loc"/></l>      <r>Kosovo<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Kosovo<s n="np"/><s n="top"/></l>      <r>Kosovo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kremlin<s n="np"/><s n="al"/></l>      <r>Kremlin<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Latinoamérica<s n="np"/></l>           <r>Llatinoamèrica<s n="np"/></r></p></e>
 <e>       <p><l>Lauren<s n="np"/></l>                  <r>Lauren<s n="np"/></r></p></e>
@@ -6165,18 +6167,18 @@
 <e r="RL"><p><l>Marrocos<s n="np"/></l>                <r>Marroc<s n="np"/></r></p></e>
 <e>       <p><l>Marta<s n="np"/></l>                   <r>Marta<s n="np"/></r></p></e>
 <e>       <p><l>Marte<s n="np"/><s n="al"/></l>        <r>Mart<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Marte<s n="np"/><s n="loc"/></l>       <r>Mart<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Marte<s n="np"/><s n="top"/></l>       <r>Mart<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Martín<s n="np"/></l>                  <r>Martín<s n="np"/></r></p></e>
 <e>       <p><l>Martínez<s n="np"/></l>                <r>Martínez<s n="np"/></r></p></e>
 <e>       <p><l>María<s n="np"/></l>                   <r>María<s n="np"/></r></p></e>
 <e>       <p><l>Mas<s n="np"/></l>                     <r>Mas<s n="np"/></r></p></e>
-<e>       <p><l>Miami<s n="np"/><s n="loc"/></l>       <r>Miami<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Miami<s n="np"/><s n="top"/></l>       <r>Miami<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Michael<s n="np"/></l>                 <r>Michael<s n="np"/></r></p></e>
 <e>       <p><l>Microsoft<s n="np"/></l>               <r>Microsoft<s n="np"/></r></p></e>
 <e>       <p><l>Miguel<s n="np"/></l>                  <r>Miguel<s n="np"/></r></p></e>
 <e>       <p><l>Mikel<s n="np"/></l>                   <r>Mikel<s n="np"/></r></p></e>
 <e>       <p><l>Milosevic<s n="np"/></l>               <r>Milosevic<s n="np"/></r></p></e>
-<e>       <p><l>Milão<s n="np"/><s n="loc"/></l>       <r>Milà<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Milão<s n="np"/><s n="top"/></l>       <r>Milà<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Miquel<s n="np"/></l>                  <r>Miquel<s n="np"/></r></p></e>
 <e>       <p><l>Miranda<s n="np"/></l>                 <r>Miranda<s n="np"/></r></p></e>
 <e>       <p><l>Mohamed<s n="np"/></l>                 <r>Mohamed<s n="np"/></r></p></e>
@@ -6185,12 +6187,11 @@
 <e>       <p><l>Montilla<s n="np"/></l>                <r>Montilla<s n="np"/></r></p></e>
 <e>       <p><l>Montserrat<s n="np"/></l>              <r>Montserrat<s n="np"/></r></p></e>
 <e>       <p><l>Moscú<s n="np"/></l>                   <r>Moscú<s n="np"/></r></p></e>
-<e r="LR"><p><l>Murcia<s n="np"/><s n="loc"/></l>      <r>Múrcia<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>Murcia<s n="np"/><s n="ant"/></l>      <r>Murcia<s n="np"/><s n="ant"/></r></p></e>
+<e r="LR"><p><l>Murcia<s n="np"/><s n="top"/></l>      <r>Múrcia<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Márquez<s n="np"/></l>                 <r>Márquez<s n="np"/></r></p></e>
 <e>       <p><l>México<s n="np"/></l>                  <r>Mèxic<s n="np"/></r></p></e>
 <e>       <p><l>Mônaco<s n="np"/></l>                  <r>Mònaco<s n="np"/></r></p></e>
-<e>       <p><l>Múrcia<s n="np"/><s n="loc"/></l>      <r>Múrcia<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Múrcia<s n="np"/><s n="top"/></l>      <r>Múrcia<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Nadal<s n="np"/></l>                   <r>Nadal<s n="np"/></r></p></e>
 <e>       <p><l>Navarra<s n="np"/></l>                 <r>Navarra<s n="np"/></r></p></e>
 <e>       <p><l>Navarro<s n="np"/></l>                 <r>Navarro<s n="np"/></r></p></e>
@@ -6283,7 +6284,7 @@
 <e>       <p><l>Suécia<s n="np"/></l>                  <r>Suècia<s n="np"/></r></p></e>
 <e>       <p><l>Sáenz<s n="np"/></l>                   <r>Sáenz<s n="np"/></r></p></e>
 <e>       <p><l>Sánchez<s n="np"/></l>                 <r>Sánchez<s n="np"/></r></p></e>
-<e>       <p><l>Sófia<s n="np"/><s n="loc"/></l>       <r>Sofia<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Sófia<s n="np"/><s n="top"/></l>       <r>Sofia<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>TVE<s n="np"/><s n="al"/></l>          <r>TVE<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Tailândia<s n="np"/></l>               <r>Tailàndia<s n="np"/></r></p></e>
 <e>       <p><l>Taiwan<s n="np"/></l>                  <r>Taiwan<s n="np"/></r></p></e>
@@ -6327,7 +6328,7 @@
 <e>       <p><l>Zapatero<s n="np"/><s n="ant"/></l>    <r>Zapatero<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Zaplana<s n="np"/></l>                 <r>Zaplana<s n="np"/></r></p></e>
 <e>       <p><l>Zaragoza<s n="np"/><s n="ant"/></l>    <r>Zaragoza<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>Zaragoza<s n="np"/><s n="loc"/></l>    <r>Saragossa<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Zaragoza<s n="np"/><s n="top"/></l>    <r>Saragossa<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>o<b/>Porto<s n="np"/></l>              <r>Porto<s n="np"/></r></p></e>
 <e>       <p><l>tv3<s n="np"/></l>                     <r>tv3<s n="np"/></r></p></e>
 <e>       <p><l>África<s n="np"/></l>                  <r>Àfrica<s n="np"/></r></p></e>
