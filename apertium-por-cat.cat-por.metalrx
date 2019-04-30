@@ -279,11 +279,14 @@
 <rules>
 <!-- **************** NP **************** -->
 
+  <macro name="noms_propis" p1="Alfons" p2="Afonso" />
   <macro name="noms_propis" p1="Guillem" p2="Guilherme" />
   <macro name="noms_propis" p1="Joan" p2="João" />
+  <macro name="noms_propis" p1="Ferran" p2="Fernando" />
+  <macro name="noms_propis" p1="Hug" p2="Hugo" />
+  <macro name="noms_propis" p1="Pere" p2="Pedro" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
-  <macro name="noms_propis" p1="Alfons" p2="Alfonso" />
   <macro name="noms_propis" p1="Benet" p2="Benedeto" />
   <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
   <macro name="noms_propis" p1="Bernat" p2="Bernardo" />
@@ -294,7 +297,6 @@
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Enric" p2="Errico" />
   <macro name="noms_propis" p1="Felip" p2="Filippo" />
-  <macro name="noms_propis" p1="Ferran" p2="Ferdinando" />
   <macro name="noms_propis" p1="Francesc" p2="Francesco" />
   <macro name="noms_propis" p1="Francesc Xavier" p2="Francesco Saverio" />
   <macro name="noms_propis" p1="Frederic" p2="Federico" />
@@ -321,7 +323,6 @@
   <macro name="noms_propis" p1="Maximilià" p2="Massimiliano" />
   <macro name="noms_propis" p1="Nicolau" p2="Nicola" />
   <macro name="noms_propis" p1="Pau" p2="Paolo" />
-  <macro name="noms_propis" p1="Pere" p2="Pietro" />
   <macro name="noms_propis" p1="Ramir" p2="Ramiro" />
   <macro name="noms_propis" p1="Ramon" p2="Raimundo" />
   <macro name="noms_propis" p1="Ricard" p2="Ricardo" />
