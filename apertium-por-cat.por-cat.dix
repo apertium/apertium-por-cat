@@ -5891,9 +5891,9 @@
 <e>       <p><l>Alemanha<s n="np"/></l>                <r>Alemanya<s n="np"/></r></p></e>
 <e>       <p><l>Alexandre<s n="np"/></l>               <r>Alexandre<s n="np"/></r></p></e>
 <e>       <p><l>Alfons<s n="np"/></l>                  <r>Alfons<s n="np"/></r></p></e>
-<e>       <p><l>Afonso<s n="np"/></l>                  <r>Alfons<s n="np"/></r></p></e>
-<e>       <p><l>Afonso<s n="np"/></l>                  <r>Afonso<s n="np"/></r></p></e>
-<e>       <p><l>Alfonso<s n="np"/></l>                 <r>Alfonso<s n="np"/></r></p></e>
+<e>       <p><l>Afonso<s n="np"/><s n="ant"/></l>      <r>Alfons<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Afonso<s n="np"/><s n="ant"/></l>      <r>Afonso<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Alfonso<s n="np"/><s n="ant"/></l>     <r>Alfonso<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Alfredo<s n="np"/></l>                 <r>Alfredo<s n="np"/></r></p></e>
 <e>       <p><l>Alicante<s n="np"/></l>                <r>Alacant<s n="np"/></r></p></e>
 <e>       <p><l>Almunia<s n="np"/></l>                 <r>Almunia<s n="np"/></r></p></e>
@@ -6142,8 +6142,8 @@
 <e>       <p><l>Lima<s n="np"/></l>                    <r>Lima<s n="np"/></r></p></e>
 <e>       <p><l>Linares<s n="np"/></l>                 <r>Linares<s n="np"/></r></p></e>
 <e>       <p><l>Lisboa<s n="np"/></l>                  <r>Lisboa<s n="np"/></r></p></e>
-<e r="LR"><p><l>Lleida<s n="np"/></l>                  <r>Lleida<s n="np"/></r></p></e>
-<e>       <p><l>Lérida<s n="np"/></l>                  <r>Lleida<s n="np"/></r></p></e>
+<e r="LR"><p><l>Lleida<s n="np"/><s n="top"/></l>      <r>Lleida<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Lérida<s n="np"/><s n="top"/></l>      <r>Lleida<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lluís<s n="np"/></l>                   <r>Lluís<s n="np"/></r></p></e>
 <e>       <p><l>Londres<s n="np"/></l>                 <r>Londres<s n="np"/></r></p></e>
 <e>       <p><l>Los<b/>Angeles<s n="np"/></l>          <r>Los<b/>Àngeles<s n="np"/></r></p></e>
@@ -6153,7 +6153,7 @@
 <e>       <p><l>Luis<s n="np"/></l>                    <r>Luis<s n="np"/></r></p></e>
 <e>       <p><l>Luisa<s n="np"/></l>                   <r>Luisa<s n="np"/></r></p></e>
 <e>       <p><l>Luxemburgo<s n="np"/></l>              <r>Luxemburg<s n="np"/></r></p></e>
-<e>       <p><l>Lyon<s n="np"/></l>                    <r>Lió<s n="np"/></r></p></e>
+<e>       <p><l>Lyon<s n="np"/><s n="top"/></l>        <r>Lió<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Líbano<s n="np"/></l>                  <r>Líban<s n="np"/></r></p></e>
 <e>       <p><l>López<s n="np"/></l>                   <r>López<s n="np"/></r></p></e>
 <e>       <p><l>Madri<s n="np"/></l>                   <r>Madrid<s n="np"/></r></p></e>
@@ -6345,6 +6345,12 @@
 <e>       <p><l>Ángel<s n="np"/></l>                   <r>Ángel<s n="np"/></r></p></e>
 <e>       <p><l>Ásia<s n="np"/></l>                    <r>Àsia<s n="np"/></r></p></e>
 <e>       <p><l>Áustria<s n="np"/></l>                 <r>Àustria<s n="np"/></r></p></e>
+
+<e>       <p><l>Platão<s n="np"/><s n="ant"/></l>      <r>Plató<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sócrates<s n="np"/><s n="ant"/></l>    <r>Sòcrates<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Calvino<s n="np"/><s n="cog"/></l>     <r>Calví<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Lutero<s n="np"/><s n="cog"/></l>      <r>Luter<s n="np"/><s n="cog"/></r></p></e>
+
     <!-- ******************************
           group num_symbol
       ****************************** -->
