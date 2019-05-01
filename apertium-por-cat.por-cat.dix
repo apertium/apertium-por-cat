@@ -6031,7 +6031,7 @@
 <e>       <p><l>Fernández<s n="np"/></l>               <r>Fernández<s n="np"/></r></p></e>
 <e>       <p><l>Fernando<s n="np"/></l>                <r>Ferran<s n="np"/></r></p></e>
 <e>       <p><l>Ferran<s n="np"/></l>                  <r>Ferran<s n="np"/></r></p></e>
-<e>       <p><l>Ferrari<s n="np"/></l>                 <r>Ferrari<s n="np"/></r></p></e>
+<e>       <p><l>Ferrari<s n="np"/><s n="cog"/></l>     <r>Ferrari<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ferrari<s n="np"/><s n="al"/></l>      <r>Ferrari<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Ferreira<s n="np"/></l>                <r>Ferreira<s n="np"/></r></p></e>
 <e>       <p><l>Fidel<s n="np"/></l>                   <r>Fidel<s n="np"/></r></p></e>
@@ -6039,9 +6039,10 @@
 <e>       <p><l>Florentino<s n="np"/></l>              <r>Florentino<s n="np"/></r></p></e>
 <e>       <p><l>Flórida<s n="np"/><s n="top"/></l>     <r>Florida<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ford<s n="np"/></l>                    <r>Ford<s n="np"/></r></p></e>
-<e>       <p><l>Francesc<s n="np"/></l>                <r>Francesc<s n="np"/></r></p></e>
+<e>       <p><l>Francesc<s n="np"/><s n="ant"/></l>    <r>Francesc<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Francisco<s n="np"/><s n="ant"/></l>   <r>Francesc<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Francisco<s n="np"/><s n="ant"/></l>   <r>Francisco<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Francia<s n="np"/></l>                 <r>Francia<s n="np"/></r></p></e>
-<e>       <p><l>Francisco<s n="np"/></l>               <r>Francisco<s n="np"/></r></p></e>
 <e>       <p><l>Franco<s n="np"/></l>                  <r>Franco<s n="np"/></r></p></e>
 <e>       <p><l>Bahamonde<s n="np"/></l>               <r>Bahamonde<s n="np"/></r></p></e>
 <e>       <p><l>Frank<s n="np"/></l>                   <r>Frank<s n="np"/></r></p></e>
@@ -6147,6 +6148,9 @@
 <e r="LR"><p><l>Lleida<s n="np"/><s n="top"/></l>      <r>Lleida<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lérida<s n="np"/><s n="top"/></l>      <r>Lleida<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lluís<s n="np"/></l>                   <r>Lluís<s n="np"/></r></p></e>
+<e>       <p><l>Luís<s n="np"/></l>                    <r>Lluís<s n="np"/></r></p></e>
+<e>       <p><l>Luís<s n="np"/></l>                    <r>Luís<s n="np"/></r></p></e>
+<e>       <p><l>Inácio<s n="np"/></l>                  <r>Inácio<s n="np"/></r></p></e>
 <e>       <p><l>Londres<s n="np"/></l>                 <r>Londres<s n="np"/></r></p></e>
 <e>       <p><l>Los<b/>Angeles<s n="np"/></l>          <r>Los<b/>Àngeles<s n="np"/></r></p></e>
 <e>       <p><l>Louis<s n="np"/></l>                   <r>Louis<s n="np"/></r></p></e>
@@ -6154,6 +6158,19 @@
 <e>       <p><l>Lucas<s n="np"/></l>                   <r>Lucas<s n="np"/></r></p></e>
 <e>       <p><l>Luis<s n="np"/></l>                    <r>Luis<s n="np"/></r></p></e>
 <e>       <p><l>Luisa<s n="np"/></l>                   <r>Luisa<s n="np"/></r></p></e>
+<e>       <p><l>Luiz<s n="np"/></l>                    <r>Luiz<s n="np"/></r></p></e>
+<e>       <p><l>Benet<s n="np"/><s n="ant"/></l>       <r>Benet<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Bento<s n="np"/><s n="ant"/></l>       <r>Benet<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Bento<s n="np"/><s n="ant"/></l>       <r>Bento<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Felip<s n="np"/><s n="ant"/></l>       <r>Felip<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Filipe<s n="np"/><s n="ant"/></l>      <r>Felip<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Filipe<s n="np"/><s n="ant"/></l>      <r>Filipe<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Martí<s n="np"/><s n="ant"/></l>       <r>Martí<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Martim<s n="np"/><s n="ant"/></l>      <r>Martí<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Martim<s n="np"/><s n="ant"/></l>      <r>Martim<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Frederic<s n="np"/><s n="ant"/></l>    <r>Frederic<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Frederico<s n="np"/><s n="ant"/></l>   <r>Frederic<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Frederico<s n="np"/><s n="ant"/></l>   <r>Frederico<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Luxemburgo<s n="np"/></l>              <r>Luxemburg<s n="np"/></r></p></e>
 <e>       <p><l>Lyon<s n="np"/><s n="top"/></l>        <r>Lió<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Líbano<s n="np"/></l>                  <r>Líban<s n="np"/></r></p></e>
