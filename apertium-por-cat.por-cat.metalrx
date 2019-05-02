@@ -114,8 +114,6 @@
            <match lemma="patriarca" tags="n.*"/>
            <match lemma="bispo" tags="n.*"/>
            <match lemma="arcebispo" tags="n.*"/>
-           <match lemma="santo" tags="n.*"/>
-           <match lemma="são" tags="adj.*"/>
            <match lemma="apòstol" tags="n.*"/>
            <match lemma="imperador" tags="n.*"/>
            <match lemma="imperatriz" tags="n.*"/>
@@ -137,14 +135,17 @@
          </or>
          <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
       </rule>
+      <rule weight="100.0">
+         <match lemma="são"><select lemma="sant"/></match>
+         <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+      </rule>
       <rule weight="1.0">
          <or>
            <match lemma="papa" tags="n.*"/>
            <match lemma="patriarca" tags="n.*"/>
            <match lemma="bispo" tags="n.*"/>
            <match lemma="arcebispo" tags="n.*"/>
-           <match lemma="santo" tags="n.*"/>
-           <match lemma="são" tags="adj.*"/>
+           <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
            <match lemma="apòstol" tags="n.*"/>
            <match lemma="imperador" tags="n.*"/>
            <match lemma="imperatriz" tags="n.*"/>
@@ -175,8 +176,7 @@
            <match lemma="patriarca" tags="n.*"/>
            <match lemma="bispo" tags="n.*"/>
            <match lemma="arcebispo" tags="n.*"/>
-           <match lemma="santo" tags="n.*"/>
-           <match lemma="são" tags="adj.*"/>
+           <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
            <match lemma="apòstol" tags="n.*"/>
            <match lemma="imperador" tags="n.*"/>
            <match lemma="imperatriz" tags="n.*"/>
@@ -207,7 +207,7 @@
            <match lemma="bispo" tags="n.*"/>
            <match lemma="arcebispo" tags="n.*"/>
            <match lemma="santo" tags="n.*"/>
-           <match lemma="são" tags="adj.*"/>
+           <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
            <match lemma="apòstol" tags="n.*"/>
            <match lemma="imperador" tags="n.*"/>
            <match lemma="imperatriz" tags="n.*"/>
@@ -299,6 +299,22 @@
   </rule>
 
 
+<!-- **************** ADJ **************** -->
+
+<!-- são > sa, sant -->
+
+  <rule weight="0.6">
+     <match lemma="são" tags="adj.*"><select lemma="sa"/></match>
+  </rule>
+  <rule weight="0.8">
+     <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
+     <match tags="np.ant.*"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
+     <match tags=""/>
+  </rule>
+
 <!-- **************** ADV **************** -->
 
 <!-- além > més enllà, a més -->
@@ -321,6 +337,7 @@
   <macro name="noms_propis" p1="Luís" p2="Lluís" />
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Pedro" p2="Pere" />
+  <macro name="noms_propis" p1="Sebastião" p2="Sebastià" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
