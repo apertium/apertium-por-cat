@@ -290,6 +290,7 @@
   <macro name="noms_propis" p1="Lluís" p2="Luís" />
   <macro name="noms_propis" p1="Martí" p2="Martim" />
   <macro name="noms_propis" p1="Pere" p2="Pedro" />
+  <macro name="noms_propis" p1="Sebastià" p2="Sebastião" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Benet" p2="Benedeto" />
