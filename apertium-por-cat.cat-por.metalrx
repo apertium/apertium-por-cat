@@ -280,7 +280,7 @@
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />
-  <macro name="noms_propis" p1="Bento" p2="Benet" />
+  <macro name="noms_propis" p1="Benet" p2="Bento" />
   <macro name="noms_propis" p1="Guillem" p2="Guilherme" />
   <macro name="noms_propis" p1="Joan" p2="João" />
   <macro name="noms_propis" p1="Ferran" p2="Fernando" />
