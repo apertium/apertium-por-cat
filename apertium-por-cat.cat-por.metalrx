@@ -281,8 +281,12 @@
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />
   <macro name="noms_propis" p1="Benet" p2="Bento" />
+  <macro name="noms_propis" p1="Carles" p2="Carlos" />
+  <macro name="noms_propis" p1="Enric" p2="Henrique" />
   <macro name="noms_propis" p1="Guillem" p2="Guilherme" />
+  <macro name="noms_propis" p1="Jaume" p2="Jaime" />
   <macro name="noms_propis" p1="Joan" p2="João" />
+  <macro name="noms_propis" p1="Felip" p2="Filipe" />
   <macro name="noms_propis" p1="Ferran" p2="Fernando" />
   <macro name="noms_propis" p1="Francesc" p2="Francisco" />
   <macro name="noms_propis" p1="Frederic" p2="Frederico" />
@@ -293,24 +297,16 @@
   <macro name="noms_propis" p1="Sebastià" p2="Sebastião" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
-  <macro name="noms_propis" p1="Benet" p2="Benedeto" />
   <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
   <macro name="noms_propis" p1="Bernat" p2="Bernardo" />
   <macro name="noms_propis" p1="Blanca" p2="Bianca" />
-  <macro name="noms_propis" p1="Carles" p2="Carlo" />
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
   <macro name="noms_propis" p1="Climent" p2="Clemente" />
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
-  <macro name="noms_propis" p1="Enric" p2="Errico" />
-  <macro name="noms_propis" p1="Felip" p2="Filippo" />
-  <macro name="noms_propis" p1="Francesc Xavier" p2="Francesco Saverio" />
   <macro name="noms_propis" p1="Gregori" p2="Gregorio" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
-  <macro name="noms_propis" p1="Isabel" p2="Isabella" />
-  <macro name="noms_propis" p1="Jaume" p2="Giacomo" />
-  <macro name="noms_propis" p1="Joana" p2="Giovanna" />
   <macro name="noms_propis" p1="Joan Carles" p2="Juan Carlos" />
   <macro name="noms_propis" p1="Joan Manuel" p2="Giovanni Manuelle" />
   <macro name="noms_propis" p1="Joan Pau" p2="Giovanni Paolo" />
