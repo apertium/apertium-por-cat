@@ -5337,7 +5337,7 @@
 <e>       <p><l>salão<s n="n"/></l>                    <r>saló<s n="n"/></r></p></e>
 <e>       <p><l>sangue<s n="n"/><s n="m"/></l>         <r>sang<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>sanidade<s n="n"/></l>                 <r>sanitat<s n="n"/></r></p></e>
-<!--<e>       <p><l>são<s n="adj"/></l>                    <r>sant<s n="adj"/></r></p></e> -->
+<e>       <p><l>são<s n="adj"/></l>                    <r>sant<s n="adj"/></r></p></e>
 <e>       <p><l>santo<s n="n"/></l>                    <r>sant<s n="n"/></r></p></e>
 <e>       <p><l>santuário<s n="n"/></l>                <r>santuari<s n="n"/></r></p></e>
 <e>       <p><l>sanção<s n="n"/></l>                   <r>sanció<s n="n"/></r></p></e>
@@ -5976,6 +5976,7 @@
 <e>       <p><l>Carvalho<s n="np"/></l>                <r>Carvalho<s n="np"/></r></p></e>
 <e>       <p><l>Castela<s n="np"/><s n="top"/></l>     <r>Castella<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Castela-Mancha<s n="np"/><s n="top"/></l><r>Castella-la<b/>Manxa<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Leão<s n="np"/><s n="top"/></l>        <r>Lleó<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Castro<s n="np"/></l>                  <r>Castro<s n="np"/></r></p></e>
 <e r="LR"><p><l>Cataluña<s n="np"/></l>                <r>Catalunya<s n="np"/></r></p></e>
 <e>       <p><l>Catalunha<s n="np"/></l>               <r>Catalunya<s n="np"/></r></p></e>
@@ -6131,9 +6132,12 @@
 <e>       <p><l>Jerez<s n="np"/></l>                   <r>Jerez<s n="np"/></r></p></e>
 <e>       <p><l>Jerusalém<s n="np"/></l>               <r>Jerusalem<s n="np"/></r></p></e>
 <e>       <p><l>Jesús<s n="np"/></l>                   <r>Jesús<s n="np"/></r></p></e>
-<e>       <p><l>Joan<s n="np"/></l>                    <r>Joan<s n="np"/></r></p></e>
-<e>       <p><l>João<s n="np"/></l>                    <r>João<s n="np"/></r></p></e>
-<e>       <p><l>João<s n="np"/></l>                    <r>Joan<s n="np"/></r></p></e>
+<e>       <p><l>Joan<s n="np"/><s n="ant"/></l>        <r>Joan<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>João<s n="np"/><s n="ant"/></l>        <r>João<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>João<s n="np"/><s n="ant"/></l>        <r>Joan<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sebastià<s n="np"/><s n="ant"/></l>    <r>Sebastià<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sebastião<s n="np"/><s n="ant"/></l>   <r>Sebastião<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sebastião<s n="np"/><s n="ant"/></l>   <r>Sebastià<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Joaquim<s n="np"/></l>                 <r>Joaquim<s n="np"/></r></p></e>
 <e>       <p><l>Joaquín<s n="np"/></l>                 <r>Joaquín<s n="np"/></r></p></e>
 <e>       <p><l>John<s n="np"/></l>                    <r>John<s n="np"/></r></p></e>
@@ -6252,9 +6256,10 @@
 <e>       <p><l>Pasqual<s n="np"/></l>                 <r>Pasqual<s n="np"/></r></p></e>
 <e>       <p><l>Paul<s n="np"/></l>                    <r>Paul<s n="np"/></r></p></e>
 <e>       <p><l>Paula<s n="np"/></l>                   <r>Paula<s n="np"/></r></p></e>
-<e>       <p><l>Pedro<s n="np"/></l>                   <r>Pedro<s n="np"/></r></p></e>
+<e>       <p><l>Pedro<s n="np"/><s n="ant"/></l>       <r>Pedro<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Pedro<s n="np"/><s n="ant"/></l>       <r>Pere<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Pere<s n="np"/><s n="ant"/></l>        <r>Pere<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Pequim<s n="np"/></l>                  <r>Pequín<s n="np"/></r></p></e>
-<e>       <p><l>Pere<s n="np"/></l>                    <r>Pere<s n="np"/></r></p></e>
 <e>       <p><l>Pereira<s n="np"/></l>                 <r>Pereira<s n="np"/></r></p></e>
 <e>       <p><l>Peru<s n="np"/></l>                    <r>Perú<s n="np"/></r></p></e>
 <e>       <p><l>Peter<s n="np"/></l>                   <r>Peter<s n="np"/></r></p></e>
@@ -20759,7 +20764,7 @@
 <e>       <p><l>vinte<b/>e<b/>três<s n="num"/></l>     <r>vint-i-tres<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>um<s n="num"/></l>       <r>vint-i-un<s n="num"/></r></p></e>
 <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e>       <re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
+<e>       <re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/></r></p></e>
     <!-- ******************************
           group pr_symbol
       ****************************** -->
