@@ -1334,7 +1334,7 @@
 <e>       <p><l>suyo<s n="adj"/></l>                   <r>suyo<s n="adj"/></r></p></e>
 <e>       <p><l>suíço<s n="adj"/></l>                  <r>suís<s n="adj"/></r></p></e>
 <e>       <p><l>sábio<s n="adj"/></l>                  <r>savi<s n="adj"/></r></p></e>
-<e r="RL"><p><l>são<s n="adj"/></l>                    <r>sa<s n="adj"/></r></p></e>
+<e>       <p><l>são<s n="adj"/></l>                    <r>sa<s n="adj"/></r></p></e>
 <e>       <p><l>sério<s n="adj"/></l>                  <r>seriós<s n="adj"/></r></p></e>
 <e>       <p><l>sétimo<s n="adj"/></l>                 <r>setè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>sólido<s n="adj"/></l>                 <r>sòlid<s n="adj"/></r></p></e>
@@ -3060,7 +3060,12 @@
 <e>       <p><l>conclusão<s n="n"/></l>                <r>conclusió<s n="n"/></r></p></e>
 <e>       <p><l>concorrência<s n="n"/></l>             <r>competència<s n="n"/></r></p></e>
 <e>       <p><l>concurso<s n="n"/></l>                 <r>concurs<s n="n"/></r></p></e>
+<e>       <p><l>condado<s n="n"/></l>                  <r>comtat<s n="n"/></r></p></e>
 <e>       <p><l>conde<s n="n"/></l>                    <r>comte<s n="n"/></r></p></e>
+<e>       <p><l>viscondado<s n="n"/></l>               <r>vescomtat<s n="n"/></r></p></e>
+<e>       <p><l>visconde<s n="n"/></l>                 <r>vescomte<s n="n"/></r></p></e>
+<e>       <p><l>marquesado<s n="n"/></l>               <r>marquesat<s n="n"/></r></p></e>
+<e>       <p><l>marquês<s n="n"/></l>                  <r>marquès<s n="n"/></r></p></e>
 <e>       <p><l>condenação<s n="n"/></l>               <r>condemna<s n="n"/></r></p></e>
 <e>       <p><l>condição<s n="n"/></l>                 <r>condició<s n="n"/></r></p></e>
 <e>       <p><l>conductor<s n="n"/></l>                <r>conductor<s n="n"/></r></p></e>
@@ -3464,7 +3469,9 @@
 <e>       <p><l>droga<s n="n"/></l>                    <r>droga<s n="n"/></r></p></e>
 <e>       <p><l>duelo<s n="n"/></l>                    <r>duel<s n="n"/></r></p></e>
 <e r="LR"><p><l>dupla<s n="n"/></l>                    <r>parella<s n="n"/></r></p></e>
+<e>       <p><l>ducado<s n="n"/></l>                   <r>ducat<s n="n"/></r></p></e>
 <e>       <p><l>duque<s n="n"/></l>                    <r>duc<s n="n"/></r></p></e>
+<e>       <p><l>arquiduque<s n="n"/></l>               <r>arxiduc<s n="n"/></r></p></e>
 <e r="RL"><p><l>duração<s n="n"/></l>                  <r>duració<s n="n"/></r></p></e>
 <e>       <p><l>duração<s n="n"/></l>                  <r>durada<s n="n"/></r></p></e>
 <e>       <p><l>dureza<s n="n"/></l>                   <r>duresa<s n="n"/></r></p></e>
@@ -5054,7 +5061,9 @@
 <e r="LR"><p><l>pré-requisito<s n="n"/></l>            <r>requisit<s n="n"/></r></p></e>
 <e r="LR"><p><l>prédio<s n="n"/></l>                   <r>edifici<s n="n"/></r></p></e>
 <e>       <p><l>prémio<s n="n"/></l>                   <r>premi<s n="n"/></r></p></e>
-<e>       <p><l>príncipe<s n="n"/></l>                 <r>príncep<s n="n"/></r></p></e>
+<e>       <p><l>príncipe<s n="n"/><s n="m"/></l>       <r>príncep<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>princesa<s n="n"/><s n="f"/></l>       <r>príncep<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>principado<s n="n"/></l>               <r>principat<s n="n"/></r></p></e>
 <e>       <p><l>próximo<s n="n"/></l>                  <r>proïsme<s n="n"/></r></p></e>
 <e>       <p><l>psicología<s n="n"/></l>               <r>psicología<s n="n"/></r></p></e>
 <e>       <p><l>psicólogo<s n="n"/></l>                <r>psicòleg<s n="n"/></r></p></e>
@@ -5328,6 +5337,7 @@
 <e>       <p><l>salão<s n="n"/></l>                    <r>saló<s n="n"/></r></p></e>
 <e>       <p><l>sangue<s n="n"/><s n="m"/></l>         <r>sang<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>sanidade<s n="n"/></l>                 <r>sanitat<s n="n"/></r></p></e>
+<!--<e>       <p><l>são<s n="adj"/></l>                    <r>sant<s n="adj"/></r></p></e> -->
 <e>       <p><l>santo<s n="n"/></l>                    <r>sant<s n="n"/></r></p></e>
 <e>       <p><l>santuário<s n="n"/></l>                <r>santuari<s n="n"/></r></p></e>
 <e>       <p><l>sanção<s n="n"/></l>                   <r>sanció<s n="n"/></r></p></e>
@@ -5892,8 +5902,8 @@
 <e>       <p><l>Alemanha<s n="np"/></l>                <r>Alemanya<s n="np"/></r></p></e>
 <e>       <p><l>Alexandre<s n="np"/></l>               <r>Alexandre<s n="np"/></r></p></e>
 <e>       <p><l>Alfons<s n="np"/></l>                  <r>Alfons<s n="np"/></r></p></e>
-<e>       <p><l>Afonso<s n="np"/><s n="ant"/></l>      <r>Alfons<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Afonso<s n="np"/><s n="ant"/></l>      <r>Afonso<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Afonso<s n="np"/><s n="ant"/></l>      <r>Alfons<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Alfonso<s n="np"/><s n="ant"/></l>     <r>Alfonso<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Alfredo<s n="np"/></l>                 <r>Alfredo<s n="np"/></r></p></e>
 <e>       <p><l>Alicante<s n="np"/></l>                <r>Alacant<s n="np"/></r></p></e>
@@ -5915,8 +5925,8 @@
 <e>       <p><l>Aristóteles<s n="np"/></l>             <r>Aristòtil<s n="np"/></r></p></e>
 <e>       <p><l>Arteaga<s n="np"/></l>                 <r>Arteaga<s n="np"/></r></p></e>
 <e>       <p><l>Artur<s n="np"/></l>                   <r>Artur<s n="np"/></r></p></e>
-<e r="LR"><p><l>Asturias<s n="np"/></l>                <r>Astúries<s n="np"/></r></p></e>
-<e>       <p><l>Astúrias<s n="np"/></l>                <r>Astúries<s n="np"/></r></p></e>
+<e r="LR"><p><l>Asturias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>Atenas<s n="np"/></l>                  <r>Atenes<s n="np"/></r></p></e>
 <e>       <p><l>Augusto<s n="np"/></l>                 <r>Augusto<s n="np"/></r></p></e>
 <e>       <p><l>Austrália<s n="np"/></l>               <r>Austràlia<s n="np"/></r></p></e>
@@ -5969,6 +5979,7 @@
 <e>       <p><l>Castro<s n="np"/></l>                  <r>Castro<s n="np"/></r></p></e>
 <e r="LR"><p><l>Cataluña<s n="np"/></l>                <r>Catalunya<s n="np"/></r></p></e>
 <e>       <p><l>Catalunha<s n="np"/></l>               <r>Catalunya<s n="np"/></r></p></e>
+<e>       <p><l>Aragão<s n="np"/><s n="top"/></l>      <r>Aragó<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ceuta<s n="np"/></l>                   <r>Ceuta<s n="np"/></r></p></e>
 <e>       <p><l>Chechênia<s n="np"/></l>               <r>Txetxènia<s n="np"/></r></p></e>
 <e>       <p><l>Chicago<s n="np"/></l>                 <r>Xicago<s n="np"/></r></p></e>
@@ -18231,7 +18242,6 @@
 <e><p><l>Santasusana<s n="np"/><s n="cog"/></l><r>Santasusana<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Santaularia<s n="np"/><s n="cog"/></l><r>Santaularia<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Santaulària<s n="np"/><s n="cog"/></l><r>Santaulària<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>sant<b/>Bonaventura<s n="np"/><s n="cog"/></l><r>sant<b/>Bonaventura<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Santerre<s n="np"/><s n="cog"/></l><r>Santerre<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Santillán<s n="np"/><s n="cog"/></l><r>Santillán<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Santini<s n="np"/><s n="cog"/></l><r>Santini<s n="np"/><s n="cog"/></r></p></e>
