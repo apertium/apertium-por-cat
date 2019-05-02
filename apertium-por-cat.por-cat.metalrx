@@ -112,25 +112,28 @@
          <or>
            <match lemma="papa" tags="n.*"/>
            <match lemma="patriarca" tags="n.*"/>
-           <match lemma="bisbe" tags="n.*"/>
-           <match lemma="arquebisbe" tags="n.*"/>
-           <match lemma="sant" tags="n.*"/>
-           <match lemma="sant" tags="adj.*"/>
+           <match lemma="bispo" tags="n.*"/>
+           <match lemma="arcebispo" tags="n.*"/>
+           <match lemma="santo" tags="n.*"/>
+           <match lemma="são" tags="adj.*"/>
            <match lemma="apòstol" tags="n.*"/>
-           <match lemma="emperador" tags="n.*"/>
+           <match lemma="imperador" tags="n.*"/>
+           <match lemma="imperatriz" tags="n.*"/>
            <match lemma="rei" tags="n.*"/>
+           <match lemma="rainha" tags="n.*"/>
            <match lemma="tsar" tags="n.*"/>
            <match lemma="virrei" tags="n.*"/>
            <match lemma="regent" tags="n.*"/>
-           <match lemma="príncep" tags="n.*"/>
+           <match lemma="príncipe" tags="n.*"/>
+           <match lemma="princesa" tags="n.*"/>
            <match lemma="infant" tags="n.*"/>
            <match lemma="delfí" tags="n.*"/>
-           <match lemma="comte" tags="n.*"/>
-           <match lemma="vescomte" tags="n.*"/>
-           <match lemma="duc" tags="n.*"/>
-           <match lemma="arxiduc" tags="n.*"/>
-           <match lemma="marquès" tags="n.*"/>
-           <match lemma="baró" tags="n.*"/>
+           <match lemma="conde" tags="n.*"/>
+           <match lemma="visconde" tags="n.*"/>
+           <match lemma="duque" tags="n.*"/>
+           <match lemma="arquiduque" tags="n.*"/>
+           <match lemma="marquês" tags="n.*"/>
+           <match lemma="barão" tags="n.*"/>
          </or>
          <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
       </rule>
@@ -138,25 +141,28 @@
          <or>
            <match lemma="papa" tags="n.*"/>
            <match lemma="patriarca" tags="n.*"/>
-           <match lemma="bisbe" tags="n.*"/>
-           <match lemma="arquebisbe" tags="n.*"/>
-           <match lemma="sant" tags="n.*"/>
-           <match lemma="sant" tags="adj.*"/>
+           <match lemma="bispo" tags="n.*"/>
+           <match lemma="arcebispo" tags="n.*"/>
+           <match lemma="santo" tags="n.*"/>
+           <match lemma="são" tags="adj.*"/>
            <match lemma="apòstol" tags="n.*"/>
-           <match lemma="emperador" tags="n.*"/>
+           <match lemma="imperador" tags="n.*"/>
+           <match lemma="imperatriz" tags="n.*"/>
            <match lemma="rei" tags="n.*"/>
+           <match lemma="rainha" tags="n.*"/>
            <match lemma="tsar" tags="n.*"/>
            <match lemma="virrei" tags="n.*"/>
            <match lemma="regent" tags="n.*"/>
-           <match lemma="príncep" tags="n.*"/>
+           <match lemma="príncipe" tags="n.*"/>
+           <match lemma="princesa" tags="n.*"/>
            <match lemma="infant" tags="n.*"/>
            <match lemma="delfí" tags="n.*"/>
-           <match lemma="comte" tags="n.*"/>
-           <match lemma="vescomte" tags="n.*"/>
-           <match lemma="duc" tags="n.*"/>
-           <match lemma="arxiduc" tags="n.*"/>
-           <match lemma="marquès" tags="n.*"/>
-           <match lemma="baró" tags="n.*"/>
+           <match lemma="conde" tags="n.*"/>
+           <match lemma="visconde" tags="n.*"/>
+           <match lemma="duque" tags="n.*"/>
+           <match lemma="arquiduque" tags="n.*"/>
+           <match lemma="marquês" tags="n.*"/>
+           <match lemma="barão" tags="n.*"/>
          </or>
          <match tags="np.ant.*"/>
          <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
@@ -167,25 +173,28 @@
          <or>
            <match lemma="papa" tags="n.*"/>
            <match lemma="patriarca" tags="n.*"/>
-           <match lemma="bisbe" tags="n.*"/>
-           <match lemma="arquebisbe" tags="n.*"/>
-           <match lemma="sant" tags="n.*"/>
-           <match lemma="sant" tags="adj.*"/>
+           <match lemma="bispo" tags="n.*"/>
+           <match lemma="arcebispo" tags="n.*"/>
+           <match lemma="santo" tags="n.*"/>
+           <match lemma="são" tags="adj.*"/>
            <match lemma="apòstol" tags="n.*"/>
-           <match lemma="emperador" tags="n.*"/>
+           <match lemma="imperador" tags="n.*"/>
+           <match lemma="imperatriz" tags="n.*"/>
            <match lemma="rei" tags="n.*"/>
+           <match lemma="rainha" tags="n.*"/>
            <match lemma="tsar" tags="n.*"/>
            <match lemma="virrei" tags="n.*"/>
            <match lemma="regent" tags="n.*"/>
-           <match lemma="príncep" tags="n.*"/>
+           <match lemma="príncipe" tags="n.*"/>
+           <match lemma="princesa" tags="n.*"/>
            <match lemma="infant" tags="n.*"/>
            <match lemma="delfí" tags="n.*"/>
-           <match lemma="comte" tags="n.*"/>
-           <match lemma="vescomte" tags="n.*"/>
-           <match lemma="duc" tags="n.*"/>
-           <match lemma="arxiduc" tags="n.*"/>
-           <match lemma="marquès" tags="n.*"/>
-           <match lemma="baró" tags="n.*"/>
+           <match lemma="conde" tags="n.*"/>
+           <match lemma="visconde" tags="n.*"/>
+           <match lemma="duque" tags="n.*"/>
+           <match lemma="arquiduque" tags="n.*"/>
+           <match lemma="marquês" tags="n.*"/>
+           <match lemma="barão" tags="n.*"/>
          </or>
       </rule>
       <rule weight="1.0">
@@ -195,25 +204,28 @@
          <or>
            <match lemma="papa" tags="n.*"/>
            <match lemma="patriarca" tags="n.*"/>
-           <match lemma="bisbe" tags="n.*"/>
-           <match lemma="arquebisbe" tags="n.*"/>
-           <match lemma="sant" tags="n.*"/>
-           <match lemma="sant" tags="adj.*"/>
+           <match lemma="bispo" tags="n.*"/>
+           <match lemma="arcebispo" tags="n.*"/>
+           <match lemma="santo" tags="n.*"/>
+           <match lemma="são" tags="adj.*"/>
            <match lemma="apòstol" tags="n.*"/>
-           <match lemma="emperador" tags="n.*"/>
+           <match lemma="imperador" tags="n.*"/>
+           <match lemma="imperatriz" tags="n.*"/>
            <match lemma="rei" tags="n.*"/>
+           <match lemma="rainha" tags="n.*"/>
            <match lemma="tsar" tags="n.*"/>
            <match lemma="virrei" tags="n.*"/>
            <match lemma="regent" tags="n.*"/>
-           <match lemma="príncep" tags="n.*"/>
+           <match lemma="príncipe" tags="n.*"/>
+           <match lemma="princesa" tags="n.*"/>
            <match lemma="infant" tags="n.*"/>
            <match lemma="delfí" tags="n.*"/>
-           <match lemma="comte" tags="n.*"/>
-           <match lemma="vescomte" tags="n.*"/>
-           <match lemma="duc" tags="n.*"/>
-           <match lemma="arxiduc" tags="n.*"/>
-           <match lemma="marquès" tags="n.*"/>
-           <match lemma="baró" tags="n.*"/>
+           <match lemma="conde" tags="n.*"/>
+           <match lemma="visconde" tags="n.*"/>
+           <match lemma="duque" tags="n.*"/>
+           <match lemma="arquiduque" tags="n.*"/>
+           <match lemma="marquês" tags="n.*"/>
+           <match lemma="barão" tags="n.*"/>
          </or>
       </rule>
       <rule weight="1.0">
@@ -221,7 +233,7 @@
            <match lemma="papat" tags="n.*"/>
            <match lemma="pontificat" tags="n.*"/>
            <match lemma="imperi" tags="n.*"/>
-           <match lemma="regne" tags="n.*"/>
+           <match lemma="reino" tags="n.*"/>
            <match lemma="regnat" tags="n.*"/>
            <match lemma="regència" tags="n.*"/>
            <match lemma="viregnat" tags="n.*"/>
@@ -299,7 +311,7 @@
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Afonso" p2="Alfons" />
-  <macro name="noms_propis" p1="Benet" p2="Bento" />
+  <macro name="noms_propis" p1="Bento" p2="Benet" />
   <macro name="noms_propis" p1="Fernando" p2="Ferran" />
   <macro name="noms_propis" p1="Francisco" p2="Francesc" />
   <macro name="noms_propis" p1="Frederico" p2="Frederic" />
