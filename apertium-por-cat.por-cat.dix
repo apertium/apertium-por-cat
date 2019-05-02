@@ -1870,6 +1870,7 @@
 <e r="LR"><p><l>logo<s n="adv"/></l>                   <r>immediatament<s n="adv"/></r></p></e>
 <e>       <p><l>longe<s n="adv"/></l>                  <r>lluny<s n="adv"/></r></p></e>
 <e>       <p><l>lá<s n="adv"/></l>                     <r>allà<s n="adv"/></r></p></e>
+<e r="LR"><p><l>alí<s n="adv"/></l>                    <r>allà<s n="adv"/></r></p></e>
 <e>       <p><l>magistralmente<s n="adv"/></l>         <r>magistralment<s n="adv"/></r></p></e>
 <e>       <p><l>maioritariamente<s n="adv"/></l>       <r>majoritàriament<s n="adv"/></r></p></e>
 <e>       <p><l>mais<s n="adv"/></l>                   <r>més<s n="adv"/></r></p></e>
@@ -5338,6 +5339,7 @@
 <e>       <p><l>sangue<s n="n"/><s n="m"/></l>         <r>sang<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>sanidade<s n="n"/></l>                 <r>sanitat<s n="n"/></r></p></e>
 <e>       <p><l>são<s n="adj"/></l>                    <r>sant<s n="adj"/></r></p></e>
+<e>       <p><l>santíssimo<s n="adj"/></l>             <r>sant<s n="adj"/><s n="sup"/></r></p></e>
 <e>       <p><l>santo<s n="n"/></l>                    <r>sant<s n="n"/></r></p></e>
 <e>       <p><l>santuário<s n="n"/></l>                <r>santuari<s n="n"/></r></p></e>
 <e>       <p><l>sanção<s n="n"/></l>                   <r>sanció<s n="n"/></r></p></e>
@@ -5926,7 +5928,7 @@
 <e>       <p><l>Arteaga<s n="np"/></l>                 <r>Arteaga<s n="np"/></r></p></e>
 <e>       <p><l>Artur<s n="np"/></l>                   <r>Artur<s n="np"/></r></p></e>
 <e r="LR"><p><l>Asturias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-<e>       <p><l>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Atenas<s n="np"/></l>                  <r>Atenes<s n="np"/></r></p></e>
 <e>       <p><l>Augusto<s n="np"/></l>                 <r>Augusto<s n="np"/></r></p></e>
 <e>       <p><l>Austrália<s n="np"/></l>               <r>Austràlia<s n="np"/></r></p></e>
@@ -5969,8 +5971,9 @@
 <e>       <p><l>Canárias<s n="np"/></l>                <r>Canàries<s n="np"/></r></p></e>
 <e>       <p><l>Caracas<s n="np"/></l>                 <r>Caracas<s n="np"/></r></p></e>
 <e>       <p><l>Caribe<s n="np"/></l>                  <r>Carib<s n="np"/></r></p></e>
-<e>       <p><l>Carles<s n="np"/></l>                  <r>Carles<s n="np"/></r></p></e>
-<e>       <p><l>Carlos<s n="np"/></l>                  <r>Carlos<s n="np"/></r></p></e>
+<e>       <p><l>Carles<s n="np"/><s n="ant"/></l>      <r>Carles<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Carlos<s n="np"/><s n="ant"/></l>      <r>Carles<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Carlos<s n="np"/><s n="ant"/></l>      <r>Carlos<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Carmen<s n="np"/></l>                  <r>Carmen<s n="np"/></r></p></e>
 <e>       <p><l>Carod<s n="np"/></l>                   <r>Carod<s n="np"/></r></p></e>
 <e>       <p><l>Carvalho<s n="np"/></l>                <r>Carvalho<s n="np"/></r></p></e>
@@ -6024,7 +6027,9 @@
 <e>       <p><l>Elvira<s n="np"/></l>                  <r>Elvira<s n="np"/></r></p></e>
 <e>       <p><l>Elvis<s n="np"/></l>                   <r>Elvis<s n="np"/></r></p></e>
 <e>       <p><l>Endesa<s n="np"/></l>                  <r>Endesa<s n="np"/></r></p></e>
-<e>       <p><l>Enric<s n="np"/></l>                   <r>Enric<s n="np"/></r></p></e>
+<e>       <p><l>Enric<s n="np"/><s n="ant"/></l>       <r>Enric<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Henrique<s n="np"/><s n="ant"/></l>    <r>Enric<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Henrique<s n="np"/><s n="ant"/></l>    <r>Henrique<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Enrique<s n="np"/></l>                 <r>Enrique<s n="np"/></r></p></e>
 <e>       <p><l>Ernesto<s n="np"/></l>                 <r>Ernesto<s n="np"/></r></p></e>
 <e>       <p><l>Escócia<s n="np"/></l>                 <r>Escòcia<s n="np"/></r></p></e>
@@ -6122,11 +6127,12 @@
 <e>       <p><l>Iugoslávia<s n="np"/></l>              <r>Iugoslàvia<s n="np"/></r></p></e>
 <e>       <p><l>Jack<s n="np"/></l>                    <r>Jack<s n="np"/></r></p></e>
 <e>       <p><l>Jackson<s n="np"/></l>                 <r>Jackson<s n="np"/></r></p></e>
-<e>       <p><l>Jaime<s n="np"/></l>                   <r>Jaime<s n="np"/></r></p></e>
+<e>       <p><l>Jaime<s n="np"/><s n="ant"/></l>       <r>Jaime<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Jaime<s n="np"/><s n="ant"/></l>       <r>Jaume<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Jaume<s n="np"/><s n="ant"/></l>       <r>Jaume<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Jamaica<s n="np"/></l>                 <r>Jamaica<s n="np"/></r></p></e>
 <e>       <p><l>James<s n="np"/></l>                   <r>James<s n="np"/></r></p></e>
 <e>       <p><l>Japão<s n="np"/></l>                   <r>Japó<s n="np"/></r></p></e>
-<e>       <p><l>Jaume<s n="np"/></l>                   <r>Jaume<s n="np"/></r></p></e>
 <e>       <p><l>Javier<s n="np"/></l>                  <r>Javier<s n="np"/></r></p></e>
 <e>       <p><l>Jean<s n="np"/></l>                    <r>Jean<s n="np"/></r></p></e>
 <e>       <p><l>Jerez<s n="np"/></l>                   <r>Jerez<s n="np"/></r></p></e>
@@ -6190,8 +6196,8 @@
 <e>       <p><l>Lyon<s n="np"/><s n="top"/></l>        <r>Lió<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Líbano<s n="np"/></l>                  <r>Líban<s n="np"/></r></p></e>
 <e>       <p><l>López<s n="np"/></l>                   <r>López<s n="np"/></r></p></e>
-<e>       <p><l>Madri<s n="np"/></l>                   <r>Madrid<s n="np"/></r></p></e>
-<e r="LR"><p><l>Madrid<s n="np"/></l>                  <r>Madrid<s n="np"/></r></p></e>
+<e r="LR"><p><l>Madri<s n="np"/><s n="top"/></l>       <r>Madrid<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Madrid<s n="np"/><s n="top"/></l>      <r>Madrid<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Mahoma<s n="np"/></l>                  <r>Mahoma<s n="np"/></r></p></e>
 <e>       <p><l>Malásia<s n="np"/></l>                 <r>Malàsia<s n="np"/></r></p></e>
 <e>       <p><l>Manuel<s n="np"/><s n="ant"/></l>      <r>Manuel<s n="np"/><s n="ant"/></r></p></e>
