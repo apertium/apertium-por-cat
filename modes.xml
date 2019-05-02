@@ -8,8 +8,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -30,7 +28,6 @@
       <program name="lt-proc $1">
         <file name="por-cat.autogen.bin"/>
       </program>
-
       <program name="lt-proc -p">
         <file name="por-cat.autopgen.bin"/>
       </program>
@@ -42,8 +39,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -89,8 +84,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -105,8 +98,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -122,8 +113,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -142,8 +131,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -165,8 +152,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -184,7 +169,6 @@
         <file name="apertium-por-cat.por-cat.t1x"/>
         <file name="por-cat.t1x.bin"/>
       </program>
-
     </pipeline>
   </mode>
 
@@ -193,8 +177,6 @@
       <program name="lt-proc -w">
         <file name="por-cat.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="por-cat.rlx.bin"/>
       </program>
@@ -247,8 +229,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -269,7 +249,6 @@
       <program name="lt-proc $1">
         <file name="cat-por.autogen.bin"/>
       </program>
-
       <program name="lt-proc -p">
         <file name="cat-por.autopgen.bin"/>
       </program>
@@ -281,8 +260,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -328,8 +305,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -344,8 +319,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -361,8 +334,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -381,8 +352,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -404,8 +373,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -428,8 +395,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -452,8 +417,6 @@
       <program name="lt-proc -w">
         <file name="cat-por.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
       </program>
@@ -468,8 +431,6 @@
         <file name="apertium-por-cat.cat-por.t1x"/>
         <file name="cat-por.t1x.bin"/>
       </program>
-
     </pipeline>
   </mode>
 </modes>
-
