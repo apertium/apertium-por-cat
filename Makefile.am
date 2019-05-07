@@ -135,7 +135,8 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 
 $(PREFIX2P).autobil.bin: .deps/$(PREFIX2).por.dix
 	apertium-validate-dictionary $<
-	lt-comp --var-left=pt rl $< $@
+	lt-comp -l=pt rl $< $@
+#	lt-comp --var-right=cat lr $< $@
 
 $(PREFIX2B).autobil.bin: .deps/$(PREFIX2).por_bra.dix
 	apertium-validate-dictionary $<
