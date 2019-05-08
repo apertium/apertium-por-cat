@@ -409,10 +409,10 @@
 <e>       <p><l>coral<s n="adj"/></l>                  <r>coral<s n="adj"/></r></p></e>
 <e>       <p><l>cordial<s n="adj"/></l>                <r>cordial<s n="adj"/></r></p></e>
 <e>       <p><l>coreano<s n="adj"/></l>                <r>coreà<s n="adj"/></r></p></e>
-<e vr="pt"><p><l>correcto<s n="adj"/></l>              <r>correcte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>correcto<s n="adj"/></l>              <r>correcte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>corrente<s n="adj"/></l>               <r>corrent<s n="adj"/></r></p></e>
 <e>       <p><l>correspondente<s n="adj"/></l>         <r>corresponent<s n="adj"/></r></p></e>
-<e vr="br"><p><l>correto<s n="adj"/></l>               <r>correcte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>correto<s n="adj"/></l>               <r>correcte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e r="LR"><p><l>cotidiano<s n="adj"/></l>              <r>quotidià<s n="adj"/></r></p></e>
 <e r="LR"><p><l>covarde<s n="adj"/><s n="mf"/></l>     <r>covard<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>covarde<s n="adj"/><s n="mf"/></l>     <r>covard<s n="adj"/><s n="f"/></r></p></e>
@@ -492,9 +492,9 @@
 <e>       <p><l>dinamarquês<s n="adj"/></l>            <r>danès<s n="adj"/></r></p></e>
 <e>       <p><l>dinâmico<s n="adj"/></l>               <r>dinàmic<s n="adj"/></r></p></e>
 <e>       <p><l>diplomático<s n="adj"/></l>            <r>diplomàtic<s n="adj"/></r></p></e>
-<e vr="pt"><p><l>directo<s n="adj"/></l>               <r>directe<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>directo<s n="adj"/></l>               <r>directe<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>direito<s n="adj"/></l>                <r>dret<s n="adj"/></r></p></e>
-<e vr="br"><p><l>direto<s n="adj"/></l>                <r>directe<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>direto<s n="adj"/></l>                <r>directe<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e r="RL"><p><l>dirigente<s n="adj"/></l>              <r>governant<s n="adj"/></r></p></e>
 <e>       <p><l>dirigente<s n="adj"/></l>              <r>dirigent<s n="adj"/></r></p></e>
 <e>       <p><l>discreto<s n="adj"/></l>               <r>discret<s n="adj"/></r></p></e>
@@ -620,8 +620,8 @@
 <e>       <p><l>europeu<s n="adj"/></l>                <r>europeu<s n="adj"/></r></p></e>
 <e>       <p><l>eventual<s n="adj"/></l>               <r>eventual<s n="adj"/></r></p></e>
 <e>       <p><l>evidente<s n="adj"/></l>               <r>evident<s n="adj"/></r></p></e>
-<e vr="pt"><p><l>exacto<s n="adj"/></l>                <r>exacte<s n="adj"/></r></p><par n="outro_altre"/></e>
-<e vr="br"><p><l>exato<s n="adj"/></l>                 <r>exacte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>exacto<s n="adj"/></l>                <r>exacte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>exato<s n="adj"/></l>                 <r>exacte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>excelente<s n="adj"/></l>              <r>excel·lent<s n="adj"/></r></p></e>
 <e>       <p><l>excepcional<s n="adj"/></l>            <r>excepcional<s n="adj"/></r></p></e>
 <e>       <p><l>excessivo<s n="adj"/></l>              <r>excessiu<s n="adj"/></r></p></e>
@@ -1137,8 +1137,8 @@
 <e r="RL"><p><l>precioso<s n="adj"/></l>               <r>preuat<s n="adj"/></r></p></e>
 <e>       <p><l>preciso<s n="adj"/></l>                <r>precís<s n="adj"/></r></p></e>
 <e>       <p><l>precário<s n="adj"/></l>               <r>precari<s n="adj"/></r></p></e>
-<e vr="pt"><p><l>predilecto<s n="adj"/></l>            <r>predilecte<s n="adj"/></r></p><par n="outro_altre"/></e>
-<e vr="br"><p><l>predileto<s n="adj"/></l>             <r>predilecte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>predilecto<s n="adj"/></l>            <r>predilecte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>predileto<s n="adj"/></l>             <r>predilecte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>preferível<s n="adj"/></l>             <r>preferible<s n="adj"/></r></p></e>
 <e>       <p><l>preguiçoso<s n="adj"/></l>             <r>mandrós<s n="adj"/></r></p></e>
 <e>       <p><l>preliminar<s n="adj"/></l>             <r>preliminar<s n="adj"/></r></p></e>
@@ -1211,7 +1211,7 @@
 <e>       <p><l>realista<s n="adj"/></l>               <r>realista<s n="adj"/></r></p></e>
 <e>       <p><l>rebelde<s n="adj"/></l>                <r>rebel<s n="adj"/></r></p></e>
 <e>       <p><l>recente<s n="adj"/></l>                <r>recent<s n="adj"/></r></p></e>
-<e vr="pt"><p><l>recto<s n="adj"/></l>                 <r>recte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>recto<s n="adj"/></l>                 <r>recte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e r="RL"><p><l>redondo<s n="adj"/></l>                <r>redó<s n="adj"/></r></p></e>
 <e>       <p><l>redondo<s n="adj"/></l>                <r>rodó<s n="adj"/></r></p></e>
 <e>       <p><l>referente<s n="adj"/></l>              <r>referent<s n="adj"/></r></p></e>
@@ -1237,7 +1237,7 @@
 <e>       <p><l>respiratório<s n="adj"/></l>           <r>respiratori<s n="adj"/></r></p></e>
 <e>       <p><l>responsável<s n="adj"/></l>            <r>responsable<s n="adj"/></r></p></e>
 <e>       <p><l>resultante<s n="adj"/></l>             <r>resultant<s n="adj"/></r></p></e>
-<e vr="br"><p><l>reto<s n="adj"/></l>                  <r>recte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>reto<s n="adj"/></l>                  <r>recte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>retórico<s n="adj"/></l>               <r>retòric<s n="adj"/></r></p></e>
 <e>       <p><l>revolucionário<s n="adj"/></l>         <r>revolucionari<s n="adj"/></r></p></e>
 <e>       <p><l>rico<s n="adj"/></l>                   <r>ric<s n="adj"/></r></p></e>
@@ -2513,8 +2513,8 @@
 <e>       <p><l>armamento<s n="n"/></l>                <r>armament<s n="n"/></r></p></e>
 <e>       <p><l>armonía<s n="n"/></l>                  <r>armonía<s n="n"/></r></p></e>
 <e>       <p><l>aroma<s n="n"/><s n="m"/></l>          <r>aroma<s n="n"/><s n="f"/></r></p></e>
-<e vr="pt"><p><l>arquitecto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
-<e vr="br"><p><l>arquiteto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>arquitecto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
+<e vl="br"><p><l>arquiteto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>arquivo<s n="n"/></l>                  <r>arxiu<s n="n"/></r></p></e>
 <e r="RL"><p><l>arquivo<s n="n"/></l>                  <r>fitxer<s n="n"/></r></p></e>
 <e>       <p><l>arranjo<s n="n"/></l>                  <r>arranjament<s n="n"/></r></p></e>
@@ -3739,7 +3739,7 @@
 <e>       <p><l>faceta<s n="n"/></l>                   <r>faceta<s n="n"/></r></p></e>
 <e>       <p><l>fachada<s n="n"/></l>                  <r>façana<s n="n"/></r></p></e>
 <e>       <p><l>facilidade<s n="n"/></l>               <r>facilitat<s n="n"/></r></p></e>
-<e vr="pt"><p><l>facto<s n="n"/></l>                  <r>fet<s n="n"/></r></p></e>
+<e vl="pt"><p><l>facto<s n="n"/></l>                  <r>fet<s n="n"/></r></p></e>
 <e>       <p><l>factor<s n="n"/></l>                   <r>factor<s n="n"/></r></p></e>
 <e>       <p><l>factura<s n="n"/></l>                  <r>factura<s n="n"/></r></p></e>
 <e>       <p><l>facturação<s n="n"/></l>               <r>facturació<s n="n"/></r></p></e>
@@ -3766,7 +3766,7 @@
 <e r="LR"><p><l>fartura<s n="n"/></l>                  <r>abundància<s n="n"/></r></p></e>
 <e>       <p><l>fase<s n="n"/></l>                     <r>fase<s n="n"/></r></p></e>
 <e>       <p><l>fatalidade<s n="n"/></l>               <r>fatalitat<s n="n"/></r></p></e>
-<e vr="br"><p><l>fato<s n="n"/></l>                     <r>fet<s n="n"/></r></p></e>
+<e vl="br"><p><l>fato<s n="n"/></l>                     <r>fet<s n="n"/></r></p></e>
 <e r="LR"><p><l>fator<s n="n"/></l>                    <r>factor<s n="n"/></r></p></e>
 <e r="LR"><p><l>fatura<s n="n"/></l>                   <r>factura<s n="n"/></r></p></e>
 <e r="LR"><p><l>faturação<s n="n"/></l>                <r>facturació<s n="n"/></r></p></e>
