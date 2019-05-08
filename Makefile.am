@@ -1,4 +1,3 @@
-###############################################################################
 ## Makefile for Portuguese--Catalan
 ###############################################################################
 
@@ -124,23 +123,22 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-.deps/$(PREFIX2).dix: $(BASENAME).$(PREFIX1).dix .deps/.d
+.deps/$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix .deps/.d
 	xsltproc translate-to-default-equivalent.xsl $< > $@
 
-.deps/$(PREFIX2).por.dix: .deps/$(PREFIX2).dix
-	python genvrdix.py pt $< >$@
+.deps/$(PREFIX1).por.dix: .deps/$(PREFIX1).dix
+	python genvldix.py pt $< >$@
 
-.deps/$(PREFIX2).por_bra.dix: .deps/$(PREFIX2).dix
-	python genvrdix.py br $< >$@
+.deps/$(PREFIX1).por_bra.dix: .deps/$(PREFIX1).dix
+	python genvldix.py br $< >$@
 
-$(PREFIX2P).autobil.bin: .deps/$(PREFIX2).por.dix
+$(PREFIX2P).autobil.bin: .deps/$(PREFIX1).por.dix
 	apertium-validate-dictionary $<
 	lt-comp -l=pt rl $< $@
-#	lt-comp --var-right=cat lr $< $@
 
-$(PREFIX2B).autobil.bin: .deps/$(PREFIX2).por_bra.dix
+$(PREFIX2B).autobil.bin: .deps/$(PREFIX1).por_bra.dix
 	apertium-validate-dictionary $<
-	lt-comp --var-left=br rl $< $@
+	lt-comp -l=br rl $< $@
 
 
 
