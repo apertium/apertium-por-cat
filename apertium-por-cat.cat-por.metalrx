@@ -277,6 +277,7 @@
   </def-macros>
 
 <rules>
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />

@@ -315,6 +315,15 @@
      <match tags=""/>
   </rule>
 
+<!-- **************** N **************** -->
+
+<!-- dirección > direcció, adreça -->
+
+  <rule weight="0.6">
+     <match lemma="dirección" tags="n.*"><select lemma="direcció"/></match>
+  </rule>
+
+
 <!-- **************** ADV **************** -->
 
 <!-- além > més enllà, a més -->
