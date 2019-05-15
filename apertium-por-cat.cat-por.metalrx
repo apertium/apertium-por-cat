@@ -278,9 +278,43 @@
 
 <rules>
 
+<!-- **************** N **************** -->
+
+  <!-- poble > povoação, aldeia -->
+
+  <rule weight="0.6">
+     <match lemma="poble" tags="n.*"><select lemma="povoação"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="poble" tags="n.*"><select lemma="aldeia"/></match>
+     <match tags="adj.*"/>
+  </rule>
+
+  <!-- població > população, povoação -->
+
+  <rule weight="0.6">
+     <match lemma="població" tags="n.*"><select lemma="população"/></match>
+  </rule>
+
+  <!-- got > godo, verre -->
+
+  <rule weight="0.6">
+     <match lemma="got" tags="n.*"><select lemma="godo"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="got" tags="n.*"><select lemma="copo"/></match>
+     <match lemma="de" tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="got" tags="n.*"><select lemma="copo"/></match>
+     <match lemma="de" tags="pr"/>
+     <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/></or>
+  </rule>
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />
+  <macro name="noms_propis" p1="Andreu" p2="André" />
   <macro name="noms_propis" p1="Benet" p2="Bento" />
   <macro name="noms_propis" p1="Carles" p2="Carlos" />
   <macro name="noms_propis" p1="Enric" p2="Henrique" />
@@ -294,6 +328,7 @@
   <macro name="noms_propis" p1="Hug" p2="Hugo" />
   <macro name="noms_propis" p1="Lluís" p2="Luís" />
   <macro name="noms_propis" p1="Martí" p2="Martim" />
+  <macro name="noms_propis" p1="Pau" p2="Paulo" />
   <macro name="noms_propis" p1="Pere" p2="Pedro" />
   <macro name="noms_propis" p1="Sebastià" p2="Sebastião" />
 
@@ -321,7 +356,6 @@
   <macro name="noms_propis" p1="Mateu" p2="Matteo" />
   <macro name="noms_propis" p1="Maximilià" p2="Massimiliano" />
   <macro name="noms_propis" p1="Nicolau" p2="Nicola" />
-  <macro name="noms_propis" p1="Pau" p2="Paolo" />
   <macro name="noms_propis" p1="Ramir" p2="Ramiro" />
   <macro name="noms_propis" p1="Ramon" p2="Raimundo" />
   <macro name="noms_propis" p1="Ricard" p2="Ricardo" />
