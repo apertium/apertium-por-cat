@@ -311,6 +311,30 @@
      <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/></or>
   </rule>
 
+<!-- **************** V **************** -->
+
+<!-- traslladar > transladar, mudar -->
+
+  <rule weight="0.6">
+     <match lemma="traslladar" tags="pr"><select lemma="transladar"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
+     <match lemma="a" tags="pr"><select lemma="para"/></match>
+  </rule>
+
+<!-- **************** PR **************** -->
+
+<!-- a > a, para -->
+
+  <rule weight="0.6">
+     <match lemma="a" tags="pr"><select lemma="a"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
+     <match lemma="a" tags="pr"><select lemma="para"/></match>
+  </rule>
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />

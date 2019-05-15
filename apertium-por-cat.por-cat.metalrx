@@ -136,7 +136,7 @@
          <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
       </rule>
       <rule weight="100.0">
-         <match lemma="são"><select lemma="sant"/></match>
+         <match lemma="são" tags="adj.*"><select lemma="sant"/></match>
          <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
       </rule>
       <rule weight="1.0">
@@ -299,6 +299,17 @@
   </rule>
 
 
+<!-- para > per a, cap a, a -->
+
+  <rule weight="0.6">
+     <match lemma="para" tags="pr"><select lemma="per a"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="mudar" tags="vblex.*"><select lemma="traslladar"/></match>
+     <match lemma="para" tags="pr"><select lemma="a"/></match>
+  </rule>
+
+
 <!-- **************** ADJ **************** -->
 
 <!-- são > sa, sant -->
@@ -331,12 +342,25 @@
   </rule>
 
 
-	<!-- **************** ADV **************** -->
+<!-- **************** ADV **************** -->
 
 <!-- além > més enllà, a més -->
 
   <rule weight="0.6">
      <match lemma="além" tags="adv"><select lemma="més enllà"/></match>
+  </rule>
+
+
+<!-- **************** V **************** -->
+
+<!-- mudar > canviar, traslladar, mudar -->
+
+  <rule weight="0.6">
+     <match lemma="mudar" tags="vblex.*"><select lemma="canviar"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="mudar" tags="vblex.*"><select lemma="traslladar"/></match>
+     <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
 
 
