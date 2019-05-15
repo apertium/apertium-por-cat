@@ -555,8 +555,8 @@
 <e>       <p><l>elementar<s n="adj"/></l>              <r>elemental<s n="adj"/></r></p></e>
 <e vl="br"><p><l>eletrônico<s n="adj"/></l>             <r>electrònic<s n="adj"/></r></p></e>
 <e>       <p><l>elevado<s n="adj"/></l>                <r>elevat<s n="adj"/></r></p></e>
-<e>       <p><l>eléctrico<s n="adj"/></l>              <r>elèctric<s n="adj"/></r></p></e>
-<e r="LR"><p><l>elétrico<s n="adj"/></l>               <r>elèctric<s n="adj"/></r></p></e>
+<e vl="pt"><p><l>eléctrico<s n="adj"/></l>              <r>elèctric<s n="adj"/></r></p></e>
+<e vl="br"><p><l>elétrico<s n="adj"/></l>               <r>elèctric<s n="adj"/></r></p></e>
 <e r="LR"><p><l>em<b/>massa<s n="adj"/><s n="mf"/><s n="sp"/></l><r>massiu<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>em<b/>massa<s n="adj"/><s n="mf"/><s n="sp"/></l><r>massiu<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>em<b/>massa<s n="adj"/><s n="mf"/><s n="sp"/></l><r>massiu<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -3417,7 +3417,7 @@
 <e>       <p><l>dinamarquês<s n="n"/></l>              <r>danès<s n="n"/></r></p></e>
 <e>       <p><l>dinheiro<s n="n"/><s n="m"/><s n="sg"/></l><r>diners<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>dinheiro<s n="n"/><s n="m"/><s n="pl"/></l><r>diners<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e>       <p><l>dinossauro<s n="n"/></l>               <r>dinosauri<s n="n"/></r></p></e>
+<e>       <p><l>dinossauro<s n="n"/></l>               <r>dinosaure<s n="n"/></r></p></e>
 <e>       <p><l>diplomacia<s n="n"/></l>               <r>diplomàcia<s n="n"/></r></p></e>
 <e>       <p><l>dique<s n="n"/></l>                    <r>dic<s n="n"/></r></p></e>
 <e r="RL"><p><l>director<s n="n"/></l>                 <r>directiu<s n="n"/></r></p></e>
@@ -3544,7 +3544,8 @@
 <e>       <p><l>eliminação<s n="n"/></l>               <r>eliminació<s n="n"/></r></p></e>
 <e>       <p><l>elite<s n="n"/></l>                    <r>elit<s n="n"/></r></p></e>
 <e>       <p><l>elogio<s n="n"/></l>                   <r>elogi<s n="n"/></r></p></e>
-<e>       <p><l>eléctrico<s n="n"/></l>                <r>tramvia<s n="n"/></r></p></e>
+<e vl="pt"><p><l>eléctrico<s n="n"/></l>               <r>tramvia<s n="n"/></r></p></e>
+<e vl="br"><p><l>elétrico<s n="n"/></l>                <r>tramvia<s n="n"/></r></p></e>
 <e>       <p><l>embaixada<s n="n"/></l>                <r>ambaixada<s n="n"/></r></p></e>
 <e>       <p><l>embaixador<s n="n"/></l>               <r>ambaixador<s n="n"/></r></p></e>
 <e>       <p><l>embarcação<s n="n"/></l>               <r>embarcació<s n="n"/></r></p></e>
@@ -4388,9 +4389,7 @@
 <e>       <p><l>língua<s n="n"/></l>                   <r>llengua<s n="n"/></r></p></e>
 <e>       <p><l>líquido<s n="n"/></l>                  <r>líquid<s n="n"/></r></p></e>
 <e>       <p><l>lógica<s n="n"/></l>                   <r>lògica<s n="n"/></r></p></e>
-<e>       <p><l>m<s n="n"/><s n="m"/><s n="sp"/></l>   <r>m<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e>       <p><l>m<s n="n"/><s n="m"/><s n="sg"/></l>   <r>m<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e>       <p><l>m<s n="n"/></l>                        <r>m<s n="n"/></r></p></e>
+<e>       <p><l>m<s n="n"/><s n="m"/><s n="sp"/></l>   <r>m<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>macaco<s n="n"/><s n="f"/></l>         <r>mico<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>macaco<s n="n"/><s n="GD"/></l>        <r>mico<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>macaco<s n="n"/><s n="m"/></l>         <r>mico<s n="n"/><s n="mf"/></r></p></e>
@@ -21052,8 +21051,9 @@
 <e>       <p><l>em<b/>via<b/>de<s n="pr"/></l>         <r>en<b/>vies<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>embaixo<b/>de<s n="pr"/></l>           <r>sota<s n="pr"/></r></p></e>
 <e>       <p><l>entre<s n="pr"/></l>                   <r>entre<s n="pr"/></r></p></e>
-<e>       <p><l>excepto<s n="pr"/></l>                 <r>excepte<s n="pr"/></r></p></e>
-<e r="LR"><p><l>exceto<s n="pr"/></l>                  <r>excepte<s n="pr"/></r></p></e>
+<e vl="pt"><p><l>excepto<s n="pr"/></l>                <r>excepte<s n="pr"/></r></p></e>
+<e vl="br"><p><l>exceto<s n="pr"/></l>                 <r>excepte<s n="pr"/></r></p></e>
+<e r="LR"><p><l>salvo<s n="pr"/></l>                   <r>excepte<s n="pr"/></r></p></e>
 <e>       <p><l>extra<s n="pr"/></l>                   <r>extra<s n="pr"/></r></p></e>
 <e>       <p><l>graças<b/>a<s n="pr"/></l>             <r>gràcies<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>mediante<s n="pr"/></l>                <r>mitjançant<s n="pr"/></r></p></e>
@@ -21069,6 +21069,7 @@
 <e r="RL"><p><l>para<s n="pr"/></l>                    <r>cap<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>para<s n="pr"/></l>                    <r>envers<s n="pr"/></r></p></e>
 <e>       <p><l>para<s n="pr"/></l>                    <r>per<b/>a<s n="pr"/></r></p></e>
+<e>       <p><l>para<s n="pr"/></l>                    <r>a<s n="pr"/></r></p></e>
 <e i="yes"><p><l>para<s n="pr"/></l>                   <r>per<s n="pr"/></r></p></e>
 <e r="LR"><p><l>para<b/>com<s n="pr"/></l>             <r>envers<s n="pr"/></r></p></e>
 <e r="LR"><p><l>perante<s n="pr"/></l>                 <r>davant<s n="pr"/></r></p></e>
@@ -22276,6 +22277,7 @@
 <e>       <p><l>mover<s n="vblex"/></l>                <r>moure<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>movimentar<s n="vblex"/></l>           <r>moure<s n="vblex"/></r></p></e>
 <e>       <p><l>mudar<s n="vblex"/></l>                <r>canviar<s n="vblex"/></r></p></e>
+<e>       <p><l>mudar<s n="vblex"/></l>                <r>traslladar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>mudar<s n="vblex"/></l>                <r>capgirar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>mudar<s n="vblex"/></l>                <r>mudar<s n="vblex"/></r></p></e>
 <e>       <p><l>multiplicar<s n="vblex"/></l>          <r>multiplicar<s n="vblex"/></r></p></e>
@@ -23060,8 +23062,8 @@
 <e a="hector"><p><l>fisiólogo<s n="n"/><s n="m"/></l><r>fisiòleg<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="hector"><p><l>fisiologista<s n="n"/></l><r>fisiòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>exorcista<s n="n"/><s n="mf"/></l><r>exorcista<s n="n"/><s n="mf"/></r></p></e>
-<e vl="br" a="hector"><p><l>eletricista<s n="adj"/></l><r>electricista<s n="adj"/></r></p></e>
-<e vl="pt" a="hector"><p><l>eletricista<s n="adj"/></l><r>electricista<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletricista<s n="n"/></l><r>lampista<s n="n"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electricista<s n="n"/></l><r>lampista<s n="n"/></r></p></e>
 <e a="hector"><p><l>dualista<s n="adj"/></l><r>dualista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>documentarista<s n="n"/><s n="mf"/></l><r>documentalista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>dermatologista<s n="n"/></l><r>dermatòleg<s n="n"/></r></p><par n="mf_GD"/></e>
@@ -23379,5 +23381,130 @@
 <e a="hector"><p><l>activismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>academismo<s n="n"/><s n="m"/></l><r>academicisme<s n="n"/><s n="m"/></r></p></e>
 
+<e a="wiktionary"><p><l>aaleniano<s n="adj"/></l><r>aalenià<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>abecedário<s n="adj"/></l><r>abecedari<s n="adj"/></r></p></e>
+<e vl="br" a="wiktionary"><p><l>abstrato<s n="adj"/></l><r>abstracte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt" a="wiktionary"><p><l>abstracto<s n="adj"/></l><r>abstracte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e a="wiktionary"><p><l>acabado<s n="adj"/></l><r>acabat<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>adjectivo<s n="adj"/></l><r>adjectiu<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>adulto<s n="adj"/></l><r>adult<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>alfabetizado<s n="adj"/></l><r>alfabet<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>ameaçador<s n="adj"/></l><r>amenaçador<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>aranês<s n="adj"/></l><r>aranès<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>bávaro<s n="adj"/></l><r>bavarès<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>bósnio<s n="adj"/></l><r>bosnià<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>búlgaro<s n="adj"/></l><r>búlgar<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>centésimo<s n="adj"/></l><r>centè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>cognitivo<s n="adj"/></l><r>cognitiu<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>ermo<s n="adj"/></l><r>erm<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>eslovaco<s n="adj"/></l><r>eslovac<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>estulto<s n="adj"/></l><r>estult<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>fétido<s n="adj"/></l><r>fètid<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>gelado<s n="adj"/></l><r>gelat<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>homónimo<s n="adj"/></l><r>homònim<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>honorífico<s n="adj"/></l><r>honorífic<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>ilegítimo<s n="adj"/></l><r>bastard<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>imprecatório<s n="adj"/></l><r>imprecatori<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>inusitado<s n="adj"/></l><r>inusitat<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>irmão<s n="adj"/></l><r>germà<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>leso<s n="adj"/></l><r>les<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>listrado<s n="adj"/></l><r>ratllat<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>luxemburguês<s n="adj"/></l><r>luxemburguès<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>microfilo<s n="adj"/></l><r>microfil·le<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e a="wiktionary"><p><l>morganático<s n="adj"/></l><r>morganàtic<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>multiplicativo<s n="adj"/></l><r>multiplicatiu<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>nefasto<s n="adj"/></l><r>nefast<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>nono<s n="adj"/></l><r>noranta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>oitavo<s n="adj"/></l><r>noranta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>primeiro<s n="adj"/></l><r>noranta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>quarto<s n="adj"/></l><r>noranta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>quinto<s n="adj"/></l><r>noranta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>segundo<s n="adj"/></l><r>noranta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>sétimo<s n="adj"/></l><r>noranta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>sexto<s n="adj"/></l><r>noranta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<b/>terceiro<s n="adj"/></l><r>noranta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>nonagésimo<s n="adj"/></l><r>norantè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>ocioso<s n="adj"/></l><r>ociós<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>nono<s n="adj"/></l><r>vuitanta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>oitavo<s n="adj"/></l><r>vuitanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>primeiro<s n="adj"/></l><r>vuitanta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>quarto<s n="adj"/></l><r>vuitanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>quinto<s n="adj"/></l><r>vuitanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>segundo<s n="adj"/></l><r>vuitanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>sétimo<s n="adj"/></l><r>vuitanta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>sexto<s n="adj"/></l><r>vuitanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>terceiro<s n="adj"/></l><r>vuitanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<s n="adj"/></l><r>vuitantè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>óptico<s n="adj"/></l><r>òptic<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>parelho<s n="adj"/></l><r>parell<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>passivo<s n="adj"/></l><r>passiu<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>porco<s n="adj"/></l><r>porc<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>primogénito<s n="adj"/></l><r>hereu<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>nono<s n="adj"/></l><r>quaranta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>oitavo<s n="adj"/></l><r>quaranta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>primeiro<s n="adj"/></l><r>quaranta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>quarto<s n="adj"/></l><r>quaranta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>quinto<s n="adj"/></l><r>quaranta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>segundo<s n="adj"/></l><r>quaranta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>sétimo<s n="adj"/></l><r>quaranta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>sexto<s n="adj"/></l><r>quaranta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<b/>terceiro<s n="adj"/></l><r>quaranta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quadragésimo<s n="adj"/></l><r>quarantè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>resfriado<s n="adj"/></l><r>refredat<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>nono<s n="adj"/></l><r>setanta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>oitavo<s n="adj"/></l><r>setanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>primeiro<s n="adj"/></l><r>setanta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>quarto<s n="adj"/></l><r>setanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>quinto<s n="adj"/></l><r>setanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>segundo<s n="adj"/></l><r>setanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>sétimo<s n="adj"/></l><r>setanta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>sexto<s n="adj"/></l><r>setanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<b/>terceiro<s n="adj"/></l><r>setanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>septuagésimo<s n="adj"/></l><r>setantè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>nono<s n="adj"/></l><r>seixanta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>oitavo<s n="adj"/></l><r>seixanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>primeiro<s n="adj"/></l><r>seixanta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>quarto<s n="adj"/></l><r>seixanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>quinto<s n="adj"/></l><r>seixanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>segundo<s n="adj"/></l><r>seixanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>sétimo<s n="adj"/></l><r>seixanta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>sexto<s n="adj"/></l><r>seixanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<b/>terceiro<s n="adj"/></l><r>seixanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>sexagésimo<s n="adj"/></l><r>seixantè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>tibetano<s n="adj"/></l><r>tibetà<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>nono<s n="adj"/></l><r>trenta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>oitavo<s n="adj"/></l><r>trenta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>primeiro<s n="adj"/></l><r>trenta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>quarto<s n="adj"/></l><r>trenta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>quinto<s n="adj"/></l><r>trenta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>segundo<s n="adj"/></l><r>trenta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>sétimo<s n="adj"/></l><r>trenta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>sexto<s n="adj"/></l><r>trenta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<b/>terceiro<s n="adj"/></l><r>trenta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trigésimo<s n="adj"/></l><r>trentè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>trocador<s n="adj"/></l><r>canviador<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>trovador<s n="adj"/></l><r>trobador<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>universo<s n="adj"/></l><r>univers<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>usuário<s n="adj"/></l><r>usuari<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>vassalo<s n="adj"/></l><r>vassall<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>nono<s n="adj"/></l><r>vint-i-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>oitavo<s n="adj"/></l><r>vint-i-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>primeiro<s n="adj"/></l><r>vint-i-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>quarto<s n="adj"/></l><r>vint-i-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>quinto<s n="adj"/></l><r>vint-i-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>segundo<s n="adj"/></l><r>vint-i-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>sétimo<s n="adj"/></l><r>vint-i-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>sexto<s n="adj"/></l><r>vint-i-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>vigésimo<b/>terceiro<s n="adj"/></l><r>vint-i-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>castelão<s n="adj"/></l><r>castellà<s n="adj"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>duodécimo<s n="adj"/></l><r>dotzè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>polaco<s n="adj"/></l><r>polonès<s n="adj"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>santo<s n="adj"/></l><r>sant<s n="adj"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>undécimo<s n="adj"/></l><r>onzè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>abstrato<s n="adj"/></l><r>abstracte<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>acabado<s n="adj"/></l><r>acabat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>gelado<s n="adj"/></l><r>gelat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>inusitado<s n="adj"/></l><r>inusitat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>ocioso<s n="adj"/></l><r>ociós<s n="adj"/><s n="sup"/></r></p></e>
   </section>
 </dictionary>
