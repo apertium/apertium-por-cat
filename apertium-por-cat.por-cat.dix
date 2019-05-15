@@ -240,7 +240,7 @@
 <e>       <p><l>argelino<s n="adj"/></l>               <r>algerià<s n="adj"/></r></p></e>
 <e>       <p><l>argentino<s n="adj"/></l>              <r>argentí<s n="adj"/></r></p></e>
 <e>       <p><l>arqueológico<s n="adj"/></l>           <r>arqueològic<s n="adj"/></r></p></e>
-<e>       <p><l>arqueólogo<s n="adj"/></l>             <r>arqueòleg<s n="adj"/></r></p></e>
+<e>       <p><l>arqueólogo<s n="n"/></l>               <r>arqueòleg<s n="n"/></r></p></e>
 <e>       <p><l>artesanal<s n="adj"/></l>              <r>artesanal<s n="adj"/></r></p></e>
 <e>       <p><l>artesão<s n="adj"/></l>                <r>artesà<s n="adj"/></r></p></e>
 <e>       <p><l>artificial<s n="adj"/></l>             <r>artificial<s n="adj"/></r></p></e>
@@ -288,9 +288,7 @@
 <e>       <p><l>bancário<s n="adj"/></l>               <r>bancari<s n="adj"/></r></p></e>
 <e>       <p><l>barato<s n="adj"/></l>                 <r>barat<s n="adj"/></r></p></e>
 <e>       <p><l>basco<s n="adj"/></l>                  <r>basc<s n="adj"/></r></p></e>
-<e r="LR"><p><l>bastante<s n="adj"/><s n="mf"/></l>    <r>bastant<s n="adj"/><s n="mf"/></r></p></e>
-<e r="RL"><p><l>bastante<s n="adj"/><s n="mf"/><s n="ND"/></l><r>força<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>bastante<s n="adj"/><s n="mf"/></l>    <r>bastant<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>bastante<s n="adj"/></l>               <r>bastant<s n="adj"/></r></p><par n="mf_GD"/></e>
 <e>       <p><l>belo<s n="adj"/></l>                   <r>bell<s n="adj"/></r></p></e>
 <e>       <p><l>bem-vindo<s n="adj"/></l>              <r>benvingut<s n="adj"/></r></p></e>
 <e>       <p><l>bendito<s n="adj"/></l>                <r>beneït<s n="adj"/></r></p></e>
@@ -1220,7 +1218,7 @@
 <e r="RL"><p><l>regulamentar<s n="adj"/><s n="mf"/></l><r>reglamentari<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>regulamentar<s n="adj"/><s n="mf"/></l><r>reglamentari<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>regular<s n="adj"/></l>                <r>regular<s n="adj"/></r></p></e>
-<e r="RL"><p><l>regular<s n="adj"/><s n="mf"/></l>     <r>estàndard<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>standard<s n="adj"/><s n="mf"/></l>    <r>estàndard<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 <e>       <p><l>relativo<s n="adj"/></l>               <r>relatiu<s n="adj"/></r></p></e>
 <e>       <p><l>religioso<s n="adj"/></l>              <r>religiós<s n="adj"/></r></p></e>
 <e r="LR"><p><l>reluzente<s n="adj"/><s n="mf"/></l>   <r>lluent<s n="adj"/><s n="GD"/></r></p></e>
@@ -1231,6 +1229,7 @@
 <e>       <p><l>repentino<s n="adj"/></l>              <r>sobtat<s n="adj"/></r></p></e>
 <e>       <p><l>representativo<s n="adj"/></l>         <r>representatiu<s n="adj"/></r></p></e>
 <e>       <p><l>republicano<s n="adj"/></l>            <r>republicà<s n="adj"/></r></p></e>
+<e r="LR"><p><l>republico<s n="adj"/></l>              <r>republicà<s n="adj"/></r></p></e>
 <e>       <p><l>residencial<s n="adj"/></l>            <r>residencial<s n="adj"/></r></p></e>
 <e>       <p><l>resistente<s n="adj"/></l>             <r>resistent<s n="adj"/></r></p></e>
 <e>       <p><l>respectivo<s n="adj"/></l>             <r>respectiu<s n="adj"/></r></p></e>
@@ -1312,6 +1311,12 @@
 <e>       <p><l>suave<s n="adj"/></l>                  <r>suau<s n="adj"/></r></p></e>
 <e>       <p><l>sublime<s n="adj"/></l>                <r>sublim<s n="adj"/></r></p></e>
 <e>       <p><l>subsaariano<s n="adj"/></l>            <r>subsaharià<s n="adj"/></r></p></e>
+<e>       <p><l>saariano<s n="adj"/></l>               <r>saharià<s n="adj"/></r></p></e>
+<e>       <p><l>saariano<s n="n"/></l>                 <r>saharià<s n="n"/></r></p></e>
+<e>       <p><l>moçambicano<s n="adj"/></l>            <r>moçambiquès<s n="adj"/></r></p></e>
+<e>       <p><l>moçambicano<s n="adj"/></l>            <r>moçambiquès<s n="adj"/></r></p></e>
+<e>       <p><l>angolano<s n="n"/></l>                 <r>angolès<s n="n"/></r></p></e>
+<e>       <p><l>angolano<s n="n"/></l>                 <r>angolès<s n="n"/></r></p></e>
 <e>       <p><l>subterrâneo<s n="adj"/></l>            <r>subterrani<s n="adj"/></r></p></e>
 <e>       <p><l>sucessivo<s n="adj"/></l>              <r>successiu<s n="adj"/></r></p></e>
 <e>       <p><l>sueco<s n="adj"/></l>                  <r>suec<s n="adj"/></r></p></e>
@@ -1534,8 +1539,8 @@
 <e r="RL"><p><l>ainda<s n="adv"/></l>                  <r>àdhuc<s n="adv"/></r></p></e>
 <e>       <p><l>ainda<b/>por<b/>cima<s n="adv"/></l>   <r>i<b/>a<b/>sobre<s n="adv"/></r></p></e>
 <e>       <p><l>alegremente<s n="adv"/></l>            <r>alegrement<s n="adv"/></r></p></e>
-<e r="RL"><p><l>alerta<s n="adv"/></l>                 <r>alerta<s n="adv"/></r></p></e>
-<e>       <p><l>alerta<s n="adv"/></l>                 <r>compte<s n="adv"/></r></p></e>
+<e>       <p><l>alerta<s n="adv"/></l>                 <r>alerta<s n="adv"/></r></p></e>
+<e>       <p><l>alerta<s n="n"/></l>                   <r>alerta<s n="n"/></r></p></e>
 <e>       <p><l>ali<s n="adv"/></l>                    <r>allí<s n="adv"/></r></p></e>
 <e>       <p><l>altamente<s n="adv"/></l>              <r>altament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>além<s n="adv"/></l>                   <r>a<b/>més<s n="adv"/></r></p></e>
@@ -3853,7 +3858,8 @@
 <e>       <p><l>flexibilidade<s n="n"/></l>            <r>flexibilitat<s n="n"/></r></p></e>
 <e>       <p><l>flor<s n="n"/></l>                     <r>flor<s n="n"/></r></p></e>
 <e>       <p><l>florestal<s n="n"/></l>                <r>forestal<s n="n"/></r></p></e>
-<e>       <p><l>fluxo<s n="n"/></l>                    <r>fluix<s n="n"/></r></p></e>
+<e>       <p><l>fluxo<s n="n"/></l>                    <r>flux<s n="n"/></r></p></e>
+<e r="RL"><p><l>fluxo<s n="n"/></l>                    <r>fluix<s n="n"/></r></p></e>
 <e>       <p><l>focinheira<s n="n"/><s n="f"/></l>     <r>morrió<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>foco<s n="n"/><s n="m"/><s n="ND"/></l><r>focus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>foco<s n="n"/><s n="m"/><s n="pl"/></l><r>focus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -4544,7 +4550,7 @@
 <e>       <p><l>mobilização<s n="n"/></l>              <r>mobilització<s n="n"/></r></p></e>
 <e>       <p><l>moda<s n="n"/></l>                     <r>moda<s n="n"/></r></p></e>
 <e>       <p><l>modalidade<s n="n"/></l>               <r>modalitat<s n="n"/></r></p></e>
-<e>       <p><l>modelo<s n="n"/></l>                   <r>model<s n="n"/></r></p></e>
+<e>       <p><l>modelo<s n="n"/><s n="m"/></l>         <r>model<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>modernização<s n="n"/></l>             <r>modernització<s n="n"/></r></p></e>
 <e>       <p><l>modificação<s n="n"/></l>              <r>modificació<s n="n"/></r></p></e>
 <e r="LR"><p><l>modo<s n="n"/><s n="m"/></l>           <r>manera<s n="n"/><s n="f"/></r></p></e>
@@ -5502,7 +5508,8 @@
 <e>       <p><l>sorteio<s n="n"/></l>                  <r>sorteig<s n="n"/></r></p></e>
 <e r="LR"><p><l>sortudo<s n="n"/></l>                  <r>afortunat<s n="n"/></r></p></e>
 <e r="LR"><p><l>sotaque<s n="n"/></l>                  <r>accent<s n="n"/></r></p></e>
-<e>       <p><l>standard<s n="n"/></l>                 <r>estàndard<s n="n"/></r></p></e>
+<e vl="pt"><p><l>standard<s n="n"/><s n="mf"/></l>      <r>estàndard<s n="n"/><s n="m"/></r></p></e>
+<e vl="br"><p><l>estândar<s n="n"/><s n="mf"/></l>      <r>estàndard<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>suavidade<s n="n"/></l>                <r>suavitat<s n="n"/></r></p></e>
 <e>       <p><l>subida<s n="n"/></l>                   <r>pujada<s n="n"/></r></p></e>
 <e>       <p><l>subsaariano<s n="n"/></l>              <r>subsaharià<s n="n"/></r></p></e>
@@ -5968,6 +5975,7 @@
 <e r="LR"><p><l>Asturias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Atenas<s n="np"/></l>                  <r>Atenes<s n="np"/></r></p></e>
+<e>       <p><l>Angola<s n="np"/></l>                  <r>Angola<s n="np"/></r></p></e>
 <e>       <p><l>Augusto<s n="np"/></l>                 <r>Augusto<s n="np"/></r></p></e>
 <e>       <p><l>Austrália<s n="np"/></l>               <r>Austràlia<s n="np"/></r></p></e>
 <e>       <p><l>Aznar<s n="np"/></l>                   <r>Aznar<s n="np"/></r></p></e>
@@ -6266,6 +6274,7 @@
 <e>       <p><l>Milão<s n="np"/><s n="top"/></l>       <r>Milà<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Miquel<s n="np"/></l>                  <r>Miquel<s n="np"/></r></p></e>
 <e>       <p><l>Miranda<s n="np"/></l>                 <r>Miranda<s n="np"/></r></p></e>
+<e>       <p><l>Moçambique<s n="np"/></l>              <r>Moçambic<s n="np"/></r></p></e>
 <e>       <p><l>Mohamed<s n="np"/></l>                 <r>Mohamed<s n="np"/></r></p></e>
 <e>       <p><l>Montenegro<s n="np"/></l>              <r>Montenegro<s n="np"/></r></p></e>
 <e>       <p><l>Montevideo<s n="np"/></l>              <r>Montevideo<s n="np"/></r></p></e>
@@ -21128,7 +21137,8 @@
 <e r="RL"><p><l>quase<s n="preadv"/></l>               <r>quasi<s n="preadv"/></r></p></e>
 <e>       <p><l>tão<s n="preadv"/></l>                 <r>tan<s n="preadv"/></r></p></e>
 <e><p><l>mais<s n="preadv"/></l><r>més<s n="preadv"/></r></p></e>
-<e><p><l>bastante<s n="preadv"/></l><r>força<s n="preadv"/></r></p></e>
+<e r="RL"><p><l>bastante<s n="preadv"/></l><r>força<s n="preadv"/></r></p></e>
+<e><p><l>bastante<s n="preadv"/></l><r>bastant<s n="preadv"/></r></p></e>
 <e><p><l>pouco<s n="preadv"/></l><r>poc<s n="preadv"/></r></p></e>
 <e><p><l>um<b/>pouco<s n="preadv"/></l><r>una<b/>mica<s n="preadv"/></r></p></e>
 
@@ -21558,6 +21568,8 @@
 <e>       <p><l>centrar<s n="vblex"/></l>              <r>centrar<s n="vblex"/></r></p></e>
 <e>       <p><l>cesar<s n="vblex"/></l>                <r>cesar<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>chamar<s n="vblex"/></l>               <r>cridar<s n="vblex"/></r></p></e>
+<e>       <p><l>chamada<s n="n"/></l>                  <r>trucada<s n="n"/></r></p></e>
+<e>       <p><l>chamado<s n="adj"/></l>                <r>anomenat<s n="adj"/></r></p></e>
 <e>       <p><l>chegar<s n="vblex"/></l>               <r>arribar<s n="vblex"/></r></p></e>
 <e>       <p><l>cheirar<s n="vblex"/></l>              <r>olorar<s n="vblex"/></r></p></e>
 <e>       <p><l>chocar<s n="vblex"/></l>               <r>xocar<s n="vblex"/></r></p></e>
@@ -21693,6 +21705,7 @@
 <e>       <p><l>criticar<s n="vblex"/></l>             <r>criticar<s n="vblex"/></r></p></e>
 <e>       <p><l>cruzar<s n="vblex"/></l>               <r>creuar<s n="vblex"/></r></p></e>
 <e>       <p><l>cubrir<s n="vblex"/></l>               <r>cubrir<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>cobrir<s n="vblex"/></l>               <r>cubrir<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>cuestionar<s n="vblex"/></l>           <r>cuestionar<s n="vblex"/></r></p></e>
 <e>       <p><l>cuidar<s n="vblex"/></l>               <r>cuidar<s n="vblex"/></r></p></e>
 <e>       <p><l>culminar<s n="vblex"/></l>             <r>culminar<s n="vblex"/></r></p></e>
@@ -21716,6 +21729,7 @@
 <e a="mginesti"><p><l>dar<g><b/>sono</g><s n="vblex"/></l><r>fer<g><b/>venir<b/>son</g><s n="vblex"/></r></p></e>
 <e>       <p><l>dar<g><b/>um<b/>beijo</g><s n="vblex"/></l><r>fer<g><b/>un<b/>petó</g><s n="vblex"/></r></p></e>
 <e>       <p><l>dar<g><b/>vergonha</g><s n="vblex"/></l><r>fer<g><b/>vergonya</g><s n="vblex"/></r></p></e>
+<e>       <p><l>data<s n="n"/></l>                     <r>data<s n="n"/></r></p></e>
 <e>       <p><l>datar<s n="vblex"/></l>                <r>datar<s n="vblex"/></r></p></e>
 <e>       <p><l>debater<s n="vblex"/></l>              <r>debatre<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>debochar<s n="vblex"/></l>             <r>burlar<s n="vblex"/></r></p></e>
@@ -21870,6 +21884,7 @@
 <e>       <p><l>duplicar<s n="vblex"/></l>             <r>duplicar<s n="vblex"/></r></p></e>
 <e>       <p><l>durar<s n="vblex"/></l>                <r>durar<s n="vblex"/></r></p></e>
 <e>       <p><l>duvidar<s n="vblex"/></l>              <r>dubtar<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>hesitar<s n="vblex"/></l>              <r>dubtar<s n="vblex"/></r></p></e>
 <e>       <p><l>edificar<s n="vblex"/></l>             <r>edificar<s n="vblex"/></r></p></e>
 <e>       <p><l>editar<s n="vblex"/></l>               <r>editar<s n="vblex"/></r></p></e>
 <e>       <p><l>educar<s n="vblex"/></l>               <r>educar<s n="vblex"/></r></p></e>
@@ -22776,158 +22791,593 @@
 <e>       <p><l>ter<s n="vbhaver"/></l>                <r>haver<s n="vbhaver"/></r></p></e>
 <e>       <p><l>ser<s n="vbser"/></l>                  <r>ser<s n="vbser"/></r></p></e>
 
-<e><p><l>província<s n="n"/><s n="f"/></l><r>província<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>era<s n="n"/><s n="f"/></l><r>era<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>filmar<s n="vblex"/></l><r>filmar<s n="vblex"/></r></p></e>
-<e><p><l>haver<s n="vblex"/></l><r>haver<s n="vblex"/></r></p></e>
-<e><p><l>asteroide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>música<s n="n"/><s n="f"/></l><r>música<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ex<s n="n"/><s n="mf"/><s n="sp"/></l><r>ex<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>governar<s n="vblex"/></l><r>governar<s n="vblex"/></r></p></e>
-<e><p><l>populacional<s n="adj"/></l><r>poblacional<s n="adj"/></r></p></e>
-<e><p><l>processar<s n="vblex"/></l><r>processar<s n="vblex"/></r></p></e>
-<e><p><l>escola<s n="n"/><s n="f"/></l><r>escola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>asteróide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>vila<s n="n"/><s n="f"/></l><r>vila<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>revestir<s n="vblex"/></l><r>revestir<s n="vblex"/></r></p></e>
-<e><p><l>leste<s n="n"/><s n="m"/></l><r>est<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>influenciar<s n="vblex"/></l><r>influenciar<s n="vblex"/></r></p></e>
-<e><p><l>serra<s n="n"/><s n="f"/></l><r>serra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>classificar<s n="vblex"/></l><r>classificar<s n="vblex"/></r></p></e>
-<e><p><l>teoria<s n="n"/><s n="f"/></l><r>teoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>superfície<s n="n"/><s n="f"/></l><r>superfície<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>disputa<s n="n"/><s n="f"/></l><r>disputa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>originalmente<s n="adv"/></l><r>originalment<s n="adv"/></r></p></e>
-<e><p><l>interessar<s n="vblex"/></l><r>interessar<s n="vblex"/></r></p></e>
-<e><p><l>categoria<s n="n"/><s n="f"/></l><r>categoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>estruturar<s n="vblex"/></l><r>estructurar<s n="vblex"/></r></p></e>
-<e><p><l>orbital<s n="adj"/></l><r>orbital<s n="adj"/></r></p></e>
-<e><p><l>modelar<s n="vblex"/></l><r>modelar<s n="vblex"/></r></p></e>
-<e><p><l>destacar<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
-<e><p><l>comandar<s n="vblex"/></l><r>comandar<s n="vblex"/></r></p></e>
-<e><p><l>numeração<s n="n"/><s n="f"/></l><r>numeració<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nativo<s n="adj"/></l><r>nadiu<s n="adj"/></r></p></e>
-<e><p><l>guitarra<s n="n"/><s n="f"/></l><r>guitarra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>característico<s n="adj"/></l><r>característic<s n="adj"/></r></p></e>
-<e><p><l>associar<s n="vblex"/></l><r>associar<s n="vblex"/></r></p></e>
-<e><p><l>inserir<s n="vblex"/></l><r>inserir<s n="vblex"/></r></p></e>
-<e><p><l>governador<s n="n"/></l><r>governador<s n="n"/></r></p></e>
-<e><p><l>geografia<s n="n"/><s n="f"/></l><r>geografia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>denominação<s n="n"/><s n="f"/></l><r>denominació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>vegetação<s n="n"/><s n="f"/></l><r>vegetació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>executar<s n="vblex"/></l><r>executar<s n="vblex"/></r></p></e>
-<e><p><l>baixo<s n="n"/></l><r>baix<s n="n"/></r></p></e>
-<e><p><l>tecnologia<s n="n"/><s n="f"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tão<s n="adv"/></l><r>tan<s n="adv"/></r></p></e>
-<e><p><l>resposta<s n="n"/><s n="f"/></l><r>resposta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>renda<s n="n"/><s n="f"/></l><r>renda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>reforçar<s n="vblex"/></l><r>reforçar<s n="vblex"/></r></p></e>
-<e><p><l>velho<s n="n"/></l><r>vell<s n="n"/></r></p></e>
-<e><p><l>taxa<s n="n"/><s n="f"/></l><r>taxa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>software<s n="n"/><s n="m"/></l><r>software<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
-<e><p><l>hardware<s n="n"/><s n="m"/></l><r>hardware<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
-<e><p><l>pedra<s n="n"/><s n="f"/></l><r>pedra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>formatar<s n="vblex"/></l><r>formatar<s n="vblex"/></r></p></e>
-<e><p><l>complexo<s n="n"/><s n="m"/></l><r>complex<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cm<s n="n"/><s n="m"/></l><r>cm<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bronze<s n="n"/><s n="m"/></l><r>bronze<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>suar<s n="vblex"/></l><r>suar<s n="vblex"/></r></p></e>
-<e><p><l>primário<s n="adj"/></l><r>primari<s n="adj"/></r></p></e>
-<e><p><l>predominantemente<s n="adv"/></l><r>predominantmente<s n="adv"/></r></p></e>
-<e><p><l>planejar<s n="vblex"/></l><r>planejar<s n="vblex"/></r></p></e>
-<e><p><l>matriz<s n="n"/><s n="f"/></l><r>matriu<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>localizar<s n="vblex"/></l><r>localitzar<s n="vblex"/></r></p></e>
-<e><p><l>desmembrar<s n="vblex"/></l><r>desmembrar<s n="vblex"/></r></p></e>
-<e><p><l>bateria<s n="n"/><s n="f"/></l><r>bateria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>autoria<s n="n"/><s n="f"/></l><r>autoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>aula<s n="n"/><s n="f"/></l><r>aula<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>átomo<s n="n"/><s n="m"/></l><r>àtom<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aeronave<s n="n"/><s n="f"/></l><r>aeronau<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>técnica<s n="n"/><s n="f"/></l><r>técnica<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>raça<s n="n"/><s n="f"/></l><r>raça<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>posicionar<s n="vblex"/></l><r>posicionar<s n="vblex"/></r></p></e>
-<e><p><l>nordeste<s n="n"/><s n="m"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>assaltar<s n="vblex"/></l><r>assaltar<s n="vblex"/></r></p></e>
-<e><p><l>video<s n="n"/><s n="m"/></l><r>video<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>variedade<s n="n"/><s n="f"/></l><r>variedat<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>validar<s n="vblex"/></l><r>validar<s n="vblex"/></r></p></e>
-<e><p><l>vagar<s n="vblex"/></l><r>vagar<s n="vblex"/></r></p></e>
-<e><p><l>quadrado<s n="adj"/></l><r>quadrat<s n="adj"/></r></p></e>
-<e><p><l>preservação<s n="n"/><s n="f"/></l><r>preservació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>Pontifício<s n="adj"/></l><r>pontifici<s n="adj"/></r></p></e>
-<e><p><l>polonês<s n="adj"/></l><r>polonès<s n="adj"/></r></p></e>
-<e><p><l>polonês<s n="n"/></l><r>polonès<s n="n"/></r></p></e>
-<e><p><l>nordeste<s n="n"/><s n="m"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>lutador<s n="n"/></l><r>lluitador<s n="n"/></r></p></e>
-<e><p><l>iniciar<s n="vblex"/></l><r>iniciar<s n="vblex"/></r></p></e>
-<e><p><l>FIFA<s n="n"/><s n="acr"/><s n="f"/></l><r>FIFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-<e><p><l>DVD<s n="n"/><s n="acr"/><s n="m"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
-<e><p><l>diferenciar<s n="vblex"/></l><r>diferenciar<s n="vblex"/></r></p></e>
-<e><p><l>diagrama<s n="n"/><s n="m"/></l><r>diagrama<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cultivar<s n="vblex"/></l><r>cultivar<s n="vblex"/></r></p></e>
-<e><p><l>alfabeto<s n="n"/><s n="m"/></l><r>alfabet<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ácido<s n="n"/><s n="m"/></l><r>àcid<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>abdicar<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
-<e><p><l>usurpar<s n="vblex"/></l><r>usurpar<s n="vblex"/></r></p></e>
-<e><p><l>transferir<s n="vblex"/></l><r>transferir<s n="vblex"/></r></p></e>
-<e><p><l>típico<s n="adj"/></l><r>típic<s n="adj"/></r></p></e>
-<e><p><l>teclado<s n="n"/><s n="m"/></l><r>teclat<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>subordinado<s n="n"/></l><r>subordinat<s n="n"/></r></p></e>
-<e><p><l>subordinado<s n="adj"/></l><r>subordinat<s n="adj"/></r></p></e>
-<e><p><l>sódio<s n="n"/><s n="m"/></l><r>sodi<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>sinônimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>semifinal<s n="n"/><s n="f"/></l><r>semifinal<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>sedimentar<s n="vblex"/></l><r>sedimentar<s n="vblex"/></r></p></e>
-<e><p><l>revolta<s n="n"/><s n="f"/></l><r>revolta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>processador<s n="n"/><s n="m"/></l><r>processador<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>potencial<s n="n"/><s n="m"/></l><r>potencial<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>oxidação<s n="n"/><s n="f"/></l><r>oxidació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>monarquia<s n="n"/><s n="f"/></l><r>monarquia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>míssil<s n="n"/><s n="m"/></l><r>míssil<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>legenda<s n="n"/><s n="f"/></l><r>llegenda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>integral<s n="adj"/></l><r>integral<s n="adj"/></r></p></e>
-<e><p><l>instrumentar<s n="vblex"/></l><r>instrumentar<s n="vblex"/></r></p></e>
-<e><p><l>ingressar<s n="vblex"/></l><r>ingressar<s n="vblex"/></r></p></e>
-<e><p><l>grêmio<s n="n"/><s n="m"/></l><r>gremi<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>formiga<s n="n"/><s n="f"/></l><r>formiga<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fictício<s n="adj"/></l><r>fictíci<s n="adj"/></r></p></e>
-<e><p><l>evangélico<s n="adj"/></l><r>evangèlic<s n="adj"/></r></p></e>
-<e><p><l>estatística<s n="n"/><s n="f"/></l><r>estadística<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>escala<s n="n"/><s n="f"/></l><r>escala<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>elevação<s n="n"/><s n="f"/></l><r>elevació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>diâmetro<s n="n"/><s n="m"/></l><r>diàmetre<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>desagradar<s n="vblex"/></l><r>desagradar<s n="vblex"/></r></p></e>
-<e><p><l>confederação<s n="n"/><s n="f"/></l><r>confederació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>complexo<s n="n"/><s n="m"/></l><r>complex<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>colapso<s n="n"/><s n="m"/></l><r>col·lapse<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>captura<s n="n"/><s n="f"/></l><r>captura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>capacitar<s n="vblex"/></l><r>capacitar<s n="vblex"/></r></p></e>
-<e><p><l>banhar<s n="vblex"/></l><r>banhar<s n="vblex"/></r></p></e>
-<e><p><l>antecessor<s n="n"/></l><r>antecessor<s n="n"/></r></p></e>
-<e><p><l>adequar<s n="vblex"/></l><r>adequar<s n="vblex"/></r></p></e>
-<e><p><l>vinha<s n="n"/><s n="f"/></l><r>vinya<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>variável<s n="adj"/></l><r>variable<s n="adj"/></r></p></e>
-<e><p><l>usualmente<s n="adv"/></l><r>usualment<s n="adv"/></r></p></e>
-<e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>UNESCO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-<e><p><l>testemunhar<s n="vblex"/></l><r>testimoniar<s n="vblex"/></r></p></e>
-<e><p><l>teoria<s n="n"/><s n="f"/></l><r>teoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tecnologia<s n="n"/><s n="f"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>status<s n="n"/><s n="m"/><s n="sp"/></l><r>estatus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>simplificado<s n="adj"/></l><r>simplificat<s n="adj"/></r></p></e>
-<e><p><l>segmento<s n="n"/><s n="m"/></l><r>segment<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>repertório<s n="n"/><s n="m"/></l><r>repertoru<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>reeleger<s n="vblex"/></l><r>reelegir<s n="vblex"/></r></p></e>
-<e><p><l>química<s n="n"/><s n="f"/></l><r>química<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>porta<s n="n"/><s n="f"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pioneiro<s n="n"/></l><r>pionet<s n="n"/></r></p></e>
-<e><p><l>patrocínio<s n="n"/><s n="m"/></l><r>patrocini<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ortodoxo<s n="adj"/></l><r>ortodox<s n="adj"/></r></p></e>
-<e><p><l>norueguês<s n="n"/></l><r>noruec<s n="n"/></r></p></e>
-<e><p><l>norueguês<s n="adj"/></l><r>noruec<s n="adj"/></r></p></e>
-<e><p><l>islandês<s n="n"/></l><r>islandès<s n="n"/></r></p></e>
-<e><p><l>islandês<s n="adj"/></l><r>islandès<s n="adj"/></r></p></e>
-<e><p><l>assassinar<s n="vblex"/></l><r>assassinar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>província<s n="n"/><s n="f"/></l><r>província<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>era<s n="n"/><s n="f"/></l><r>era<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>filmar<s n="vblex"/></l><r>filmar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>haver<s n="vblex"/></l><r>haver<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>asteroide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>música<s n="n"/><s n="f"/></l><r>música<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ex<s n="n"/><s n="mf"/><s n="sp"/></l><r>ex<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e a="hector"><p><l>governar<s n="vblex"/></l><r>governar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>populacional<s n="adj"/></l><r>poblacional<s n="adj"/></r></p></e>
+<e a="hector"><p><l>processar<s n="vblex"/></l><r>processar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>escola<s n="n"/><s n="f"/></l><r>escola<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>asteróide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vila<s n="n"/><s n="f"/></l><r>vila<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>revestir<s n="vblex"/></l><r>revestir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>leste<s n="n"/><s n="m"/></l><r>est<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>influenciar<s n="vblex"/></l><r>influenciar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>serra<s n="n"/><s n="f"/></l><r>serra<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>classificar<s n="vblex"/></l><r>classificar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>teoria<s n="n"/><s n="f"/></l><r>teoria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>superfície<s n="n"/><s n="f"/></l><r>superfície<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>disputa<s n="n"/><s n="f"/></l><r>disputa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>originalmente<s n="adv"/></l><r>originalment<s n="adv"/></r></p></e>
+<e a="hector"><p><l>interessar<s n="vblex"/></l><r>interessar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>categoria<s n="n"/><s n="f"/></l><r>categoria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estruturar<s n="vblex"/></l><r>estructurar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>orbital<s n="adj"/></l><r>orbital<s n="adj"/></r></p></e>
+<e a="hector"><p><l>modelar<s n="vblex"/></l><r>modelar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>destacar<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>comandar<s n="vblex"/></l><r>comandar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>numeração<s n="n"/><s n="f"/></l><r>numeració<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>nativo<s n="adj"/></l><r>nadiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>guitarra<s n="n"/><s n="f"/></l><r>guitarra<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>característico<s n="adj"/></l><r>característic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>associar<s n="vblex"/></l><r>associar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>inserir<s n="vblex"/></l><r>inserir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>governador<s n="n"/></l><r>governador<s n="n"/></r></p></e>
+<e a="hector"><p><l>geografia<s n="n"/><s n="f"/></l><r>geografia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>denominação<s n="n"/><s n="f"/></l><r>denominació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vegetação<s n="n"/><s n="f"/></l><r>vegetació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>executar<s n="vblex"/></l><r>executar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>baixo<s n="n"/></l><r>baix<s n="n"/></r></p></e>
+<e a="hector"><p><l>tecnologia<s n="n"/><s n="f"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tão<s n="adv"/></l><r>tan<s n="adv"/></r></p></e>
+<e a="hector"><p><l>resposta<s n="n"/><s n="f"/></l><r>resposta<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>renda<s n="n"/><s n="f"/></l><r>renda<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reforçar<s n="vblex"/></l><r>reforçar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>velho<s n="n"/></l><r>vell<s n="n"/></r></p></e>
+<e a="hector"><p><l>taxa<s n="n"/><s n="f"/></l><r>taxa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>software<s n="n"/><s n="m"/></l><r>software<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
+<e a="hector"><p><l>hardware<s n="n"/><s n="m"/></l><r>hardware<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
+<e a="hector"><p><l>pedra<s n="n"/><s n="f"/></l><r>pedra<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>formatar<s n="vblex"/></l><r>formatar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>complexo<s n="n"/><s n="m"/></l><r>complex<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cm<s n="n"/><s n="m"/></l><r>cm<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bronze<s n="n"/><s n="m"/></l><r>bronze<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>suar<s n="vblex"/></l><r>suar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>primário<s n="adj"/></l><r>primari<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predominantemente<s n="adv"/></l><r>predominantmente<s n="adv"/></r></p></e>
+<e a="hector"><p><l>planejar<s n="vblex"/></l><r>planejar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>matriz<s n="n"/><s n="f"/></l><r>matriu<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>localizar<s n="vblex"/></l><r>localitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desmembrar<s n="vblex"/></l><r>desmembrar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>bateria<s n="n"/><s n="f"/></l><r>bateria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>autoria<s n="n"/><s n="f"/></l><r>autoria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aula<s n="n"/><s n="f"/></l><r>aula<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>átomo<s n="n"/><s n="m"/></l><r>àtom<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aeronave<s n="n"/><s n="f"/></l><r>aeronau<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>técnica<s n="n"/><s n="f"/></l><r>técnica<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>raça<s n="n"/><s n="f"/></l><r>raça<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>posicionar<s n="vblex"/></l><r>posicionar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>nordeste<s n="n"/><s n="m"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>assaltar<s n="vblex"/></l><r>assaltar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>video<s n="n"/><s n="m"/></l><r>video<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>variedade<s n="n"/><s n="f"/></l><r>varietat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>validar<s n="vblex"/></l><r>validar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vagar<s n="vblex"/></l><r>vagar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>quadrado<s n="adj"/></l><r>quadrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preservação<s n="n"/><s n="f"/></l><r>preservació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>Pontifício<s n="adj"/></l><r>pontifici<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polonês<s n="adj"/></l><r>polonès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polonês<s n="n"/></l><r>polonès<s n="n"/></r></p></e>
+<e a="hector"><p><l>nordeste<s n="n"/><s n="m"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>lutador<s n="n"/></l><r>lluitador<s n="n"/></r></p></e>
+<e a="hector"><p><l>iniciar<s n="vblex"/></l><r>iniciar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>FIFA<s n="n"/><s n="acr"/><s n="f"/></l><r>FIFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>DVD<s n="n"/><s n="acr"/><s n="m"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>diferenciar<s n="vblex"/></l><r>diferenciar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>diagrama<s n="n"/><s n="m"/></l><r>diagrama<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cultivar<s n="vblex"/></l><r>cultivar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>alfabeto<s n="n"/><s n="m"/></l><r>alfabet<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ácido<s n="n"/><s n="m"/></l><r>àcid<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>abdicar<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>usurpar<s n="vblex"/></l><r>usurpar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>transferir<s n="vblex"/></l><r>transferir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>típico<s n="adj"/></l><r>típic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teclado<s n="n"/><s n="m"/></l><r>teclat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>subordinado<s n="n"/></l><r>subordinat<s n="n"/></r></p></e>
+<e a="hector"><p><l>subordinado<s n="adj"/></l><r>subordinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sódio<s n="n"/><s n="m"/></l><r>sodi<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sinônimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>semifinal<s n="n"/><s n="f"/></l><r>semifinal<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sedimentar<s n="vblex"/></l><r>sedimentar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>revolta<s n="n"/><s n="f"/></l><r>revolta<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>processador<s n="n"/><s n="m"/></l><r>processador<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>potencial<s n="n"/><s n="m"/></l><r>potencial<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>oxidação<s n="n"/><s n="f"/></l><r>oxidació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>monarquia<s n="n"/><s n="f"/></l><r>monarquia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>míssil<s n="n"/><s n="m"/></l><r>míssil<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>legenda<s n="n"/><s n="f"/></l><r>llegenda<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>integral<s n="adj"/></l><r>integral<s n="adj"/></r></p></e>
+<e a="hector"><p><l>instrumentar<s n="vblex"/></l><r>instrumentar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ingressar<s n="vblex"/></l><r>ingressar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>grêmio<s n="n"/><s n="m"/></l><r>gremi<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>formiga<s n="n"/><s n="f"/></l><r>formiga<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fictício<s n="adj"/></l><r>fictíci<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evangélico<s n="adj"/></l><r>evangèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estatística<s n="n"/><s n="f"/></l><r>estadística<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>escala<s n="n"/><s n="f"/></l><r>escala<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>elevação<s n="n"/><s n="f"/></l><r>elevació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>diâmetro<s n="n"/><s n="m"/></l><r>diàmetre<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desagradar<s n="vblex"/></l><r>desagradar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>confederação<s n="n"/><s n="f"/></l><r>confederació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>complexo<s n="n"/><s n="m"/></l><r>complex<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>colapso<s n="n"/><s n="m"/></l><r>col·lapse<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>captura<s n="n"/><s n="f"/></l><r>captura<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>capacitar<s n="vblex"/></l><r>capacitar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>banhar<s n="vblex"/></l><r>banhar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>antecessor<s n="n"/></l><r>antecessor<s n="n"/></r></p></e>
+<e a="hector"><p><l>adequar<s n="vblex"/></l><r>adequar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vinha<s n="n"/><s n="f"/></l><r>vinya<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>variável<s n="adj"/></l><r>variable<s n="adj"/></r></p></e>
+<e a="hector"><p><l>usualmente<s n="adv"/></l><r>usualment<s n="adv"/></r></p></e>
+<e a="hector"><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>UNESCO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>testemunhar<s n="vblex"/></l><r>testimoniar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>teoria<s n="n"/><s n="f"/></l><r>teoria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tecnologia<s n="n"/><s n="f"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>status<s n="n"/><s n="m"/><s n="sp"/></l><r>estatus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e a="hector"><p><l>simplificado<s n="adj"/></l><r>simplificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>segmento<s n="n"/><s n="m"/></l><r>segment<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>repertório<s n="n"/><s n="m"/></l><r>repertoru<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>reeleger<s n="vblex"/></l><r>reelegir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>química<s n="n"/><s n="f"/></l><r>química<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>porta<s n="n"/><s n="f"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pioneiro<s n="n"/></l><r>pionet<s n="n"/></r></p></e>
+<e a="hector"><p><l>patrocínio<s n="n"/><s n="m"/></l><r>patrocini<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ortodoxo<s n="adj"/></l><r>ortodox<s n="adj"/></r></p></e>
+<e a="hector"><p><l>norueguês<s n="n"/></l><r>noruec<s n="n"/></r></p></e>
+<e a="hector"><p><l>norueguês<s n="adj"/></l><r>noruec<s n="adj"/></r></p></e>
+<e a="hector"><p><l>islandês<s n="n"/></l><r>islandès<s n="n"/></r></p></e>
+<e a="hector"><p><l>islandês<s n="adj"/></l><r>islandès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assassinar<s n="vblex"/></l><r>assassinar<s n="vblex"/></r></p></e>
 
+<e a="hector"><p><l>quase<s n="adv"/></l><r>gairebé<s n="adv"/></r></p></e>
+<e r="RL" a="hector"><p><l>quase<s n="adv"/></l><r>quasi<s n="adv"/></r></p></e>
+<e a="hector"><p><l>artista<s n="adj"/></l><r>artista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>guitarrista<s n="n"/><s n="mf"/></l><r>guitarrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>paulista<s n="n"/><s n="mf"/></l><r>paulista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>especialista<s n="adj"/></l><r>especialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vocalista<s n="n"/><s n="mf"/></l><r>vocalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>protagonista<s n="adj"/></l><r>protagonista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>baixista<s n="n"/><s n="mf"/></l><r>baixista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ciclista<s n="n"/><s n="mf"/></l><r>ciclista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nazista<s n="adj"/></l><r>nazi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pianista<s n="n"/><s n="mf"/></l><r>pianista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nacionalista<s n="adj"/></l><r>nacionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>medalhista<s n="n"/><s n="mf"/></l><r>medallista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>jurista<s n="n"/><s n="mf"/></l><r>jurista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>finalista<s n="adj"/></l><r>finalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>naturalista<s n="n"/><s n="mf"/></l><r>naturalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>comunista<s n="n"/><s n="mf"/></l><r>comunista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>budista<s n="adj"/></l><r>budista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>modernista<s n="adj"/></l><r>modernista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>humanista<s n="adj"/></l><r>humanista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ativista<s n="n"/><s n="mf"/></l><r>ativista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nacionalista<s n="n"/><s n="mf"/></l><r>nacionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>capitalista<s n="n"/><s n="mf"/></l><r>capitalista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt" a="hector"><p><l>activista<s n="adj"/></l><r>activista<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>ativista<s n="adj"/></l><r>activista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cronista<s n="n"/><s n="mf"/></l><r>cronista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>antagonista<s n="n"/><s n="mf"/></l><r>antagonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>renascentista<s n="adj"/></l><r>renaixentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>humanista<s n="n"/><s n="mf"/></l><r>humanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>deformar<s n="vblex"/></l><r>deformar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>deficiente<s n="adj"/></l><r>deficient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cozinhar<s n="vblex"/></l><r>cuinar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>conectado<s n="adj"/></l><r>connectat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escandinavo<s n="adj"/></l><r>escandinau<s n="adj"/></r></p></e>
+<e a="hector"><p><l>economista<s n="adj"/></l><r>economista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autobiografia<s n="n"/><s n="f"/></l><r>autobiografia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estilista<s n="n"/><s n="mf"/></l><r>estilista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>colunista<s n="n"/><s n="mf"/></l><r>columnista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>coerente<s n="adj"/></l><r>coherent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>violinista<s n="n"/><s n="mf"/></l><r>violinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>reformista<s n="adj"/></l><r>reformista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impressionista<s n="adj"/></l><r>impressionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semifinalista<s n="n"/><s n="mf"/></l><r>semifinalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>organista<s n="n"/><s n="mf"/></l><r>organista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>feminista<s n="adj"/></l><r>feminista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>romancista<s n="n"/><s n="mf"/></l><r>novel·lista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>modernista<s n="n"/><s n="mf"/></l><r>modernista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>estilista<s n="adj"/></l><r>estilista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>birmanês<s n="adj"/></l><r>birmà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>realista<s n="n"/><s n="mf"/></l><r>realista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>marxista<s n="n"/><s n="mf"/></l><r>marxista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>humorista<s n="adj"/></l><r>humorista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>feminista<s n="n"/><s n="mf"/></l><r>feminista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>fascista<s n="adj"/></l><r>feixista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fascinar<s n="vblex"/></l><r>fascinar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>budista<s n="n"/><s n="mf"/></l><r>budista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>analista<s n="n"/><s n="mf"/></l><r>analista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>renascentista<s n="n"/><s n="mf"/></l><r>renaixentista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dentista<s n="n"/><s n="mf"/></l><r>dentista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>analista<s n="adj"/></l><r>analista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>surrealista<s n="adj"/></l><r>surrealista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>solista<s n="n"/><s n="mf"/></l><r>solista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sindicalista<s n="adj"/></l><r>sindicalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saxofonista<s n="n"/><s n="mf"/></l><r>saxofonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>letrista<s n="n"/><s n="mf"/></l><r>lletrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>instrumentista<s n="n"/><s n="mf"/></l><r>instrumentista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>basquetebolista<s n="n"/></l><r>jugador<g><b/>de<b/>bàsquet</g><s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>urbanista<s n="n"/><s n="mf"/></l><r>urbanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>progressista<s n="adj"/></l><r>progressista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>percussionista<s n="n"/><s n="mf"/></l><r>percussionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>meteorologista<s n="n"/></l><r>meteoròleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>handebolista<s n="n"/></l><r>jugador<g><b/>d'handbol</g><s n="n"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>sindicalista<s n="n"/><s n="mf"/></l><r>sindicalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>individualista<s n="adj"/></l><r>individualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>idealista<s n="adj"/></l><r>idealista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expressionista<s n="adj"/></l><r>expressionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tradicionalista<s n="adj"/></l><r>tradicionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reformista<s n="n"/><s n="mf"/></l><r>reformista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>otimista<s n="n"/><s n="mf"/></l><r>optimista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt" a="hector"><p><l>optimista<s n="n"/><s n="mf"/></l><r>optimista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mercantilista<s n="adj"/></l><r>mercantilista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impressionista<s n="n"/><s n="mf"/></l><r>impressionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>expressionista<s n="n"/><s n="mf"/></l><r>expressionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>vanguardista<s n="adj"/></l><r>vanguardista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trompetista<s n="n"/><s n="mf"/></l><r>trompetista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sofista<s n="n"/><s n="mf"/></l><r>sofista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sofista<s n="adj"/></l><r>sofista<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>reconquista<s n="n"/><s n="f"/></l><r>reconquista<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reconquista<s n="n"/><s n="f"/></l><r>reconquesta<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>racista<s n="n"/><s n="mf"/></l><r>racista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>projetista<s n="n"/><s n="mf"/></l><r>projeictista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>progressista<s n="n"/><s n="mf"/></l><r>progressista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>paraquedista<s n="n"/><s n="mf"/></l><r>paracaigudista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>paisagista<s n="n"/><s n="mf"/></l><r>paisatgista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oitocentista<s n="adj"/></l><r>vuitcentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monarquista<s n="adj"/></l><r>monàrquic<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>mineralogista<s n="n"/><s n="mf"/></l><r>mineralogista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>imperialista<s n="adj"/></l><r>imperialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>idealista<s n="n"/><s n="mf"/></l><r>idealista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>evolucionista<s n="n"/><s n="mf"/></l><r>evolucionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>copista<s n="n"/><s n="mf"/></l><r>colpista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>violonista<s n="n"/><s n="mf"/></l><r>violinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>tradicionalista<s n="n"/><s n="mf"/></l><r>tradicionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>taxista<s n="n"/><s n="mf"/></l><r>taxista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oportunista<s n="adj"/></l><r>oportunista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>moralista<s n="adj"/></l><r>moralista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metodista<s n="adj"/></l><r>metodista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>linguista<s n="n"/><s n="mf"/></l><r>linguista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>individualista<s n="n"/><s n="mf"/></l><r>individualista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>geneticista<s n="n"/><s n="mf"/></l><r>genetista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>franquista<s n="adj"/></l><r>franquista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>figurinista<s n="n"/><s n="mf"/></l><r>figurista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>fadista<s n="n"/><s n="mf"/></l><r>cantant<g><b/>de<b/>fados</g><s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>fisiólogo<s n="n"/><s n="m"/></l><r>fisiòleg<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>fisiologista<s n="n"/></l><r>fisiòleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>exorcista<s n="n"/><s n="mf"/></l><r>exorcista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletricista<s n="adj"/></l><r>electricista<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletricista<s n="adj"/></l><r>electricista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dualista<s n="adj"/></l><r>dualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>documentarista<s n="n"/><s n="mf"/></l><r>documentalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dermatologista<s n="n"/></l><r>dermatòleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>darwinista<s n="n"/><s n="mf"/></l><r>darwinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>darwinista<s n="adj"/></l><r>darwinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>darwinismo<s n="n"/><s n="m"/></l><r>darwinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>neodarwinismo<s n="n"/><s n="m"/></l><r>neodarwinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>criacionista<s n="n"/><s n="mf"/></l><r>creacionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>criacionismo<s n="n"/><s n="m"/></l><r>creacionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>punir<s n="vblex"/></l><r>castigar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>educacional<s n="adj"/></l><r>educacional<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cristianismo<s n="n"/><s n="m"/></l><r>cristianisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>seguro<s n="n"/><s n="m"/></l><r>assegurança<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>repúblico<s n="adj"/></l><r>republicà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impressionar<s n="vblex"/></l><r>impressionar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sintetizar<s n="vblex"/></l><r>sintetitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>monitorar<s n="vblex"/></l><r>monitoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>harmonia<s n="n"/><s n="f"/></l><r>harmonia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>concretizar<s n="vblex"/></l><r>concretar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>totalizar<s n="vblex"/></l><r>totalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>socialismo<s n="n"/><s n="m"/></l><r>socialisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>reorganizar<s n="vblex"/></l><r>reorganitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>colonizar<s n="vblex"/></l><r>colonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ciclismo<s n="n"/><s n="m"/></l><r>ciclisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vietnamita<s n="adj"/></l><r>vietnamita<s n="adj"/></r></p></e>
+<e a="hector"><p><l>viabilizar<s n="vblex"/></l><r>fer<g><b/>viable</g><s n="vblex"/></r></p></e>
+<e a="hector"><p><l>venezuelano<s n="adj"/></l><r>veneçolà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>venezuelano<s n="n"/></l><r>veneçolà<s n="n"/></r></p></e>
+<e a="hector"><p><l>sismo<s n="n"/><s n="m"/></l><r>sisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sincronizar<s n="vblex"/></l><r>sincronitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>modernizar<s n="vblex"/></l><r>modernitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>fiscalizar<s n="vblex"/></l><r>fiscalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>catolicismo<s n="n"/><s n="m"/></l><r>catolicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>astronomia<s n="n"/><s n="f"/></l><r>astronomia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>assessor<s n="n"/></l><r>assessor<s n="n"/></r></p></e>
+<e a="hector"><p><l>fascismo<s n="n"/><s n="m"/></l><r>feixisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>batismo<s n="n"/><s n="m"/></l><r>baptisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>artéria<s n="n"/><s n="f"/></l><r>artèria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aresta<s n="n"/><s n="f"/></l><r>aresta<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aniquilar<s n="vblex"/></l><r>aniquilar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>visualizar<s n="vblex"/></l><r>visualitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>modernismo<s n="n"/><s n="m"/></l><r>modernisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>profissionalismo<s n="n"/><s n="m"/></l><r>professionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>automobilismo<s n="n"/><s n="m"/></l><r>automobilisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>budismo<s n="n"/><s n="m"/></l><r>budisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>preconizar<s n="vblex"/></l><r>preconitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>dinamismo<s n="n"/><s n="m"/></l><r>dinamisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>magnetismo<s n="n"/><s n="m"/></l><r>magnetisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>contabilizar<s n="vblex"/></l><r>contabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>estabilizar<s n="vblex"/></l><r>estabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>imperialismo<s n="n"/><s n="m"/></l><r>imperialisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>comunismo<s n="n"/><s n="m"/></l><r>comunisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>marxismo<s n="n"/><s n="m"/></l><r>marxisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>islamismo<s n="n"/><s n="m"/></l><r>islamisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>feminismo<s n="n"/><s n="m"/></l><r>feminisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cubismo<s n="n"/><s n="m"/></l><r>cubisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sinalizar<s n="vblex"/></l><r>senyalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>regionalismo<s n="n"/><s n="m"/></l><r>regionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>paganismo<s n="n"/><s n="m"/></l><r>paganisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>maximizar<s n="vblex"/></l><r>maximitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>maquinar<s n="vblex"/></l><r>maquinar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>alcoolismo<s n="n"/><s n="m"/></l><r>alcoholisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>metabolismo<s n="n"/><s n="m"/></l><r>metabolisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dinamizar<s n="vblex"/></l><r>dinamitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>bipartidarismo<s n="n"/><s n="m"/></l><r>bipartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>auditoria<s n="n"/><s n="f"/></l><r>auditoria<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>ativismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt" a="hector"><p><l>activismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>protestantismo<s n="n"/><s n="m"/></l><r>protestantisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>morfismo<s n="n"/><s n="m"/></l><r>morfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>canalizar<s n="vblex"/></l><r>canalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>automatizar<s n="vblex"/></l><r>automatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>stalinismo<s n="n"/><s n="m"/></l><r>estalinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>positivismo<s n="n"/><s n="m"/></l><r>positivisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>misticismo<s n="n"/><s n="m"/></l><r>misticisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>impressionismo<s n="n"/><s n="m"/></l><r>impressionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>historicismo<s n="n"/><s n="m"/></l><r>historicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>grafismo<s n="n"/><s n="m"/></l><r>grafisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>espiritismo<s n="n"/><s n="m"/></l><r>espiritisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>erotismo<s n="n"/><s n="m"/></l><r>erotisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desorganizar<s n="vblex"/></l><r>desorganitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>racionalismo<s n="n"/><s n="m"/></l><r>racionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>personalizar<s n="vblex"/></l><r>personalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>paisagismo<s n="n"/><s n="m"/></l><r>paisatgisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>modismo<s n="n"/><s n="m"/></l><r>modisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>homeopatia<s n="n"/><s n="f"/></l><r>homeopatia<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>hidroelétrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>hidroeléctrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exorcismo<s n="n"/><s n="m"/></l><r>exorcisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dimorfismo<s n="n"/><s n="m"/></l><r>dimorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dimensional<s n="adj"/></l><r>dimensional<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anarquismo<s n="n"/><s n="m"/></l><r>anarquisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vandalismo<s n="n"/><s n="m"/></l><r>vandalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sistematizar<s n="vblex"/></l><r>sistematitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sincretismo<s n="n"/><s n="m"/></l><r>sincretisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>racionalizar<s n="vblex"/></l><r>racionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>paralelismo<s n="n"/><s n="m"/></l><r>paral·lelisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>naturalismo<s n="n"/><s n="m"/></l><r>naturalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>motociclismo<s n="n"/><s n="m"/></l><r>motociclisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>minimalismo<s n="n"/><s n="m"/></l><r>minimalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>materializar<s n="vblex"/></l><r>materialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>lirismo<s n="n"/><s n="m"/></l><r>lirisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ironizar<s n="vblex"/></l><r>ironitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>individualizar<s n="vblex"/></l><r>individualitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ilusionismo<s n="n"/><s n="m"/></l><r>il·lusionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fotojornalismo<s n="n"/><s n="m"/></l><r>fotoperiodisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fanatismo<s n="n"/><s n="m"/></l><r>fanatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>expressionismo<s n="n"/><s n="m"/></l><r>expressionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desmoralizar<s n="vblex"/></l><r>desmoralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>colonialismo<s n="n"/><s n="m"/></l><r>colonialisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>catecismo<s n="n"/><s n="m"/></l><r>catecisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>calvinismo<s n="n"/><s n="m"/></l><r>calvinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>astigmatismo<s n="n"/><s n="m"/></l><r>astigmatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>articulista<s n="n"/><s n="mf"/></l><r>articulista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>analfabetismo<s n="n"/><s n="m"/></l><r>analfabetisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sionismo<s n="n"/><s n="m"/></l><r>sionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>satanismo<s n="n"/><s n="m"/></l><r>satanisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>salazarismo<s n="n"/><s n="m"/></l><r>salazarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>presidencialismo<s n="n"/><s n="m"/></l><r>presidencialisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pluralismo<s n="n"/><s n="m"/></l><r>pluralisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>patriotismo<s n="n"/><s n="m"/></l><r>patriotisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ocultismo<s n="n"/><s n="m"/></l><r>ocultisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>neonazismo<s n="n"/><s n="m"/></l><r>neonazisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mimetismo<s n="n"/><s n="m"/></l><r>mimetisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>materialismo<s n="n"/><s n="m"/></l><r>materialisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>formalismo<s n="n"/><s n="m"/></l><r>formalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>feudalismo<s n="n"/><s n="m"/></l><r>feudalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>familiarizar<s n="vblex"/></l><r>familiaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>expansionismo<s n="n"/><s n="m"/></l><r>expansionisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>ecletismo<s n="n"/><s n="m"/></l><r>eclecticisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eclectismo<s n="n"/><s n="m"/></l><r>eclecticisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>determinismo<s n="n"/><s n="m"/></l><r>determinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>conservadorismo<s n="n"/><s n="m"/></l><r>conservadorisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>concretismo<s n="n"/><s n="m"/></l><r>concretisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cataclismo<s n="n"/><s n="m"/></l><r>cataclisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>carbonizar<s n="vblex"/></l><r>carbonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>aterrorizar<s n="vblex"/></l><r>terroritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>surrealismo<s n="n"/><s n="m"/></l><r>surrealisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>surfista<s n="n"/><s n="mf"/></l><r>surfista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>reutilizar<s n="vblex"/></l><r>reutilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>pragmatismo<s n="n"/><s n="m"/></l><r>pragmatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>polimorfismo<s n="n"/><s n="m"/></l><r>polimorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>penalizar<s n="vblex"/></l><r>penalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>parlamentarismo<s n="n"/><s n="m"/></l><r>parlamentarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>niilismo<s n="n"/><s n="m"/></l><r>nihilisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>neologismo<s n="n"/><s n="m"/></l><r>neologisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>legalismo<s n="n"/><s n="m"/></l><r>legalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>inutilizar<s n="vblex"/></l><r>inutilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>inicializar<s n="vblex"/></l><r>inicialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>idealismo<s n="n"/><s n="m"/></l><r>idealisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>humanismo<s n="n"/><s n="m"/></l><r>humanisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>funcionalismo<s n="n"/><s n="m"/></l><r>funcionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>favoritismo<s n="n"/><s n="m"/></l><r>favoritisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>exteriorizar<s n="vblex"/></l><r>exterioritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>existencialismo<s n="n"/><s n="m"/></l><r>existencialisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletrostático<s n="adj"/></l><r>electroestàtic<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electrostático<s n="adj"/></l><r>electroestàtic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletronicamente<s n="adv"/></l><r>electrònicament<s n="adv"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electronicamente<s n="adv"/></l><r>electrònicament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletromecânico<s n="adj"/></l><r>electromecànic<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electromecânico<s n="adj"/></l><r>electromecànic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletromagnetismo<s n="n"/><s n="m"/></l><r>electromagnetisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electromagnetismo<s n="n"/><s n="m"/></l><r>electromagnetisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletrodinâmico<s n="adj"/></l><r>electrodinàmic<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electrodinâmico<s n="adj"/></l><r>electrodinàmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eletricamente<s n="adv"/></l><r>electricament<s n="adv"/></r></p></e>
+<e vl="pt" a="hector"><p><l>electricamente<s n="adv"/></l><r>electricament<s n="adv"/></r></p></e>
+<e a="hector"><p><l>descentralizar<s n="vblex"/></l><r>descentralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>crucificar<s n="vblex"/></l><r>crucificar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>criminalizar<s n="vblex"/></l><r>criminalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>classicismo<s n="n"/><s n="m"/></l><r>classicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bolchevismo<s n="n"/><s n="m"/></l><r>bolxevisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>academicismo<s n="n"/><s n="m"/></l><r>academicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>absolutista<s n="n"/><s n="mf"/></l><r>absolutista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>absolutismo<s n="n"/><s n="m"/></l><r>absolutisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>traumatismo<s n="n"/><s n="m"/></l><r>traumatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sufismo<s n="n"/><s n="m"/></l><r>sufisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>silogismo<s n="n"/><s n="m"/></l><r>sil·logisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sensibilizar<s n="vblex"/></l><r>sensibilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sadomasoquismo<s n="n"/><s n="m"/></l><r>sadomasoquisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>priapismo<s n="n"/><s n="m"/></l><r>priapisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pessimismo<s n="n"/><s n="m"/></l><r>pessimisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>peronismo<s n="n"/><s n="m"/></l><r>peronisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>parametrizar<s n="vblex"/></l><r>parametritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ostracismo<s n="n"/><s n="m"/></l><r>ostracisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>oportunismo<s n="n"/><s n="m"/></l><r>oportunisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>neoplatonismo<s n="n"/><s n="m"/></l><r>neoplatonisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>neoclassicismo<s n="n"/><s n="m"/></l><r>neoclassicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>naturismo<s n="n"/><s n="m"/></l><r>naturisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mutualismo<s n="n"/><s n="m"/></l><r>mutualisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>montanhismo<s n="n"/><s n="m"/></l><r>muntanyisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>monasticismo<s n="n"/><s n="m"/></l><r>monasticisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mercantilismo<s n="n"/><s n="m"/></l><r>mercantilisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>medievalista<s n="n"/><s n="mf"/></l><r>medievalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>malabarismo<s n="n"/><s n="m"/></l><r>malabarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>macartismo<s n="n"/><s n="m"/></l><r>macartisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>localismo<s n="n"/><s n="m"/></l><r>localisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>lobotomia<s n="n"/><s n="f"/></l><r>lobotomia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>lobista<s n="n"/><s n="mf"/></l><r>lobista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>leninismo<s n="n"/><s n="m"/></l><r>leninisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>isomorfismo<s n="n"/><s n="m"/></l><r>isomorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>intervencionismo<s n="n"/><s n="m"/></l><r>intervencionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>internacionalista<s n="n"/><s n="mf"/></l><r>internacionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>iberismo<s n="n"/><s n="m"/></l><r>iberisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>holismo<s n="n"/><s n="m"/></l><r>holisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>gigantismo<s n="n"/><s n="m"/></l><r>gegantisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>futurismo<s n="n"/><s n="m"/></l><r>futurisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fundamentalismo<s n="n"/><s n="m"/></l><r>fonamentalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>funcionalmente<s n="adv"/></l><r>funcionalment<s n="adv"/></r></p></e>
+<e a="hector"><p><l>freudismo<s n="n"/><s n="m"/></l><r>freudisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>federalismo<s n="n"/><s n="m"/></l><r>federalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>experimentalismo<s n="n"/><s n="m"/></l><r>experimentalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>exotismo<s n="n"/><s n="m"/></l><r>exotisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estruturalismo<s n="n"/><s n="m"/></l><r>estructuralisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estrabismo<s n="n"/><s n="m"/></l><r>estrabisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>epicurismo<s n="n"/><s n="m"/></l><r>epicurisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>endemismo<s n="n"/><s n="m"/></l><r>endemisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ecumenismo<s n="n"/><s n="m"/></l><r>ecumenisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dualismo<s n="n"/><s n="m"/></l><r>dualisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dramatismo<s n="n"/><s n="m"/></l><r>dramatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>darwinismo<s n="n"/><s n="m"/></l><r>darwinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cromatismo<s n="n"/><s n="m"/></l><r>cromatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cristalizar<s n="vblex"/></l><r>cristalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>corporativismo<s n="n"/><s n="m"/></l><r>corporativisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>consumismo<s n="n"/><s n="m"/></l><r>consumisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>confucionismo<s n="n"/><s n="m"/></l><r>confucionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>conformismo<s n="n"/><s n="m"/></l><r>conformisme<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>companheirismo<s n="n"/><s n="m"/></l><r>companyerisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>companheirismo<s n="n"/><s n="m"/></l><r>companyonia<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>civilizar<s n="vblex"/></l><r>civilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>burocratismo<s n="n"/><s n="m"/></l><r>burocratisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>biomagnetismo<s n="n"/><s n="m"/></l><r>biomagnetisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>baptismo<s n="n"/><s n="m"/></l><r>baptisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>automorfismo<s n="n"/><s n="m"/></l><r>automorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>autismo<s n="n"/><s n="m"/></l><r>autisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arianismo<s n="n"/><s n="m"/></l><r>arrianisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>antroponímia<s n="n"/><s n="f"/></l><r>antroponímia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antiterrorismo<s n="n"/><s n="f"/></l><r>antiterrorisme<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antifederalista<s n="n"/><s n="mf"/></l><r>antifederalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>antifederalista<s n="adj"/></l><r>antifederalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>animismo<s n="n"/><s n="m"/></l><r>animisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vulcanismo<s n="n"/><s n="m"/></l><r>vulcanisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vampirismo<s n="n"/><s n="m"/></l><r>vampirisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>tropismo<s n="n"/><s n="m"/></l><r>tropisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sonambulismo<s n="n"/><s n="m"/></l><r>somnambulisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>socratismo<s n="n"/><s n="m"/></l><r>socratisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>snobismo<s n="n"/><s n="m"/></l><r>esnobisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sexismo<s n="n"/><s n="m"/></l><r>sexisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>separatismo<s n="n"/><s n="m"/></l><r>separatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sensacionalismo<s n="n"/><s n="m"/></l><r>sensacionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>reumatismo<s n="n"/><s n="m"/></l><r>reumatisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>relativismo<s n="n"/><s n="m"/></l><r>relativisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>reformismo<s n="n"/><s n="m"/></l><r>reformisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>rebaptizar<s n="vblex"/></l><r>rebatejar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>proxenetismo<s n="n"/><s n="m"/></l><r>proxenetisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>provincianismo<s n="n"/><s n="m"/></l><r>provincianisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>proselitismo<s n="n"/><s n="m"/></l><r>proselitisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>preciosismo<s n="n"/><s n="m"/></l><r>preciosisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pluripartidarismo<s n="n"/><s n="m"/></l><r>pluripartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>perfeccionismo<s n="n"/><s n="m"/></l><r>perfeccionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>multipartidarismo<s n="n"/><s n="m"/></l><r>multipartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mormonismo<s n="n"/><s n="m"/></l><r>mormonisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>moralismo<s n="n"/><s n="m"/></l><r>moralisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>modelismo<s n="n"/><s n="m"/></l><r>modelisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>luteranismo<s n="n"/><s n="m"/></l><r>luteranisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>legitimismo<s n="n"/><s n="m"/></l><r>legitimisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>jansenismo<s n="n"/><s n="m"/></l><r>jansenisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>jacobinismo<s n="n"/><s n="m"/></l><r>jacobinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>irredentismo<s n="n"/><s n="m"/></l><r>irredentisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>internacionalismo<s n="n"/><s n="m"/></l><r>internacionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>inconformismo<s n="n"/><s n="m"/></l><r>inconformisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>homomorfismo<s n="n"/><s n="m"/></l><r>homomorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fenomenalismo<s n="n"/><s n="m"/></l><r>fenomenalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fatalismo<s n="n"/><s n="m"/></l><r>fatalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>exibicionismo<s n="n"/><s n="m"/></l><r>exibicionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>evolucionismo<s n="n"/><s n="m"/></l><r>evolucionisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estrangeirismo<s n="n"/><s n="m"/></l><r>estrangeirisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estoicismo<s n="n"/><s n="m"/></l><r>estoïcisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>espiritualismo<s n="n"/><s n="m"/></l><r>espiritualisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>esoterismo<s n="n"/><s n="m"/></l><r>esoterisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>digitalizar<s n="vblex"/></l><r>digitalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>despotismo<s n="n"/><s n="m"/></l><r>despotisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>daltonismo<s n="n"/><s n="m"/></l><r>daltonisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>criticismo<s n="n"/><s n="m"/></l><r>criticisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>costumbrismo<s n="n"/><s n="m"/></l><r>costumisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>convencionalismo<s n="n"/><s n="m"/></l><r>convencionalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cesarismo<s n="n"/><s n="m"/></l><r>cesarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>centrismo<s n="n"/><s n="m"/></l><r>centrisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cateterismo<s n="n"/><s n="m"/></l><r>cateterisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>catabolismo<s n="n"/><s n="m"/></l><r>catabolisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>castrista<s n="adj"/></l><r>castrista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cartesianismo<s n="n"/><s n="m"/></l><r>cartesianisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>canibalismo<s n="n"/><s n="m"/></l><r>canibalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>caciquismo<s n="n"/><s n="m"/></l><r>caciquisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bonapartismo<s n="n"/><s n="m"/></l><r>bonapartisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>monolinguismo<s n="n"/><s n="m"/></l><r>monolingüisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bilinguismo<s n="n"/><s n="m"/></l><r>bilingüisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>trilinguismo<s n="n"/><s n="m"/></l><r>trilingüisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>monolingue<s n="adj"/></l><r>monolingüe<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bilingue<s n="adj"/></l><r>bilingüe<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trilingue<s n="adj"/></l><r>trilingüe<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multilingue<s n="adj"/></l><r>multilingüe<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autoritarismo<s n="n"/><s n="m"/></l><r>autoritarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>atomismo<s n="n"/><s n="m"/></l><r>atomisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>associativismo<s n="n"/><s n="m"/></l><r>associativisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arabismo<s n="n"/><s n="m"/></l><r>arabisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>antropomorfismo<s n="n"/><s n="m"/></l><r>antropomorfisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anticomunismo<s n="n"/><s n="m"/></l><r>anticomunisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>antagonismo<s n="n"/><s n="m"/></l><r>antagonisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anglicismo<s n="n"/><s n="m"/></l><r>anglicisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anabolismo<s n="n"/><s n="m"/></l><r>anabolisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>agilizar<s n="vblex"/></l><r>agilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>africanismo<s n="n"/><s n="m"/></l><r>africanisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aforismo<s n="n"/><s n="m"/></l><r>aforisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>activismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>academismo<s n="n"/><s n="m"/></l><r>academicisme<s n="n"/><s n="m"/></r></p></e>
 
   </section>
 </dictionary>
