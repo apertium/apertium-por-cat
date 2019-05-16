@@ -1323,6 +1323,7 @@
 <e>       <p><l>sonoro<s n="adj"/></l>                 <r>sonor<s n="adj"/></r></p></e>
 <e>       <p><l>soviético<s n="adj"/></l>              <r>soviètic<s n="adj"/></r></p></e>
 <e>       <p><l>sozinho<s n="adj"/></l>                <r>sol<s n="adj"/></r></p></e>
+<e>       <p><l>sozinho<s n="adv"/></l>                <r>sol<s n="adv"/></r></p></e>
 <e>       <p><l>suave<s n="adj"/></l>                  <r>suau<s n="adj"/></r></p></e>
 <e>       <p><l>sublime<s n="adj"/></l>                <r>sublim<s n="adj"/></r></p></e>
 <e>       <p><l>subsaariano<s n="adj"/></l>            <r>subsaharià<s n="adj"/></r></p></e>
@@ -1538,7 +1539,7 @@
 <e r="RL"><p><l>ademais<s n="adv"/></l>                <r>a<b/>més<b/>a<b/>més<s n="adv"/></r></p></e>
 <e>       <p><l>ademais<b/>de<s n="pr"/></l>           <r>a<b/>més<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>ademais<b/>de<s n="pr"/></l>           <r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
-<e       ><p><l>adentro<s n="adv"/></l>                <r>a<b/>dins<s n="adv"/></r></p></e>
+<e>       <p><l>adentro<s n="adv"/></l>                <r>a<b/>dins<s n="adv"/></r></p></e>
 <e r="RL"><p><l>adentro<s n="adv"/></l>                <r>endins<s n="adv"/></r></p></e>
 <e>       <p><l>adequadamente<s n="adv"/></l>          <r>adequadament<s n="adv"/></r></p></e>
 <e>       <p><l>adiante<s n="adv"/></l>                <r>avant<s n="adv"/></r></p></e>
@@ -1612,7 +1613,7 @@
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>endarrere<s n="adv"/></r></p></e>
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>endarrera<s n="adv"/></r></p></e>
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>enrera<s n="adv"/></r></p></e>
-<e       ><p><l>atrás<s n="adv"/></l>                  <r>enrere<s n="adv"/></r></p></e>
+<e>       <p><l>atrás<s n="adv"/></l>                  <r>enrere<s n="adv"/></r></p></e>
 <e r="LR"><p><l>atualmente<s n="adv"/></l>             <r>actualment<s n="adv"/></r></p></e>
 <e r="LR"><p><l>até<b/>mesmo<s n="adv"/></l>           <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
 <e>       <p><l>autenticamente<s n="adv"/></l>         <r>autènticament<s n="adv"/></r></p></e>
@@ -5579,8 +5580,6 @@
 <e r="RL"><p><l>síntese<s n="n"/><s n="f"/><s n="ND"/></l><r>síntesi<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>síntese<s n="n"/><s n="f"/><s n="ND"/></l><r>síntesi<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>sócio<s n="n"/></l>                    <r>soci<s n="n"/></r></p></e>
-<e>       <p><l>t<s n="n"/><s n="m"/></l>              <r>t<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>t<s n="n"/></l>                        <r>t<s n="n"/></r></p></e>
 <e>       <p><l>t-shirt<s n="n"/></l>                  <r>samarreta<s n="n"/></r></p></e>
 <e r="LR"><p><l>tabaco<s n="n"/></l>                   <r>tabac<s n="n"/></r></p></e>
 <e r="RL"><p><l>tabela<s n="n"/></l>                   <r>post<s n="n"/></r></p></e>
@@ -21062,7 +21061,7 @@
 <e>       <p><l>em<b/>frente<b/>a<s n="pr"/></l>       <r>enfront<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjan<s n="pr"/></r></p></e>
 <e r="RL"><p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjan<b/>de<s n="pr"/></r></p></e>
-<e       ><p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
+<e>       <p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>em<b/>meio<b/>de<s n="pr"/></l>        <r>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>termos<b/>de<s n="pr"/></l>      <r>en<b/>termes<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>torno<b/>de<s n="pr"/></l>       <r>entorn<b/>de<s n="pr"/></r></p></e>
@@ -22480,6 +22479,7 @@
 <e>       <p><l>pulsar<s n="vblex"/></l>               <r>prémer<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>puxar<s n="vblex"/></l>                <r>estirar<s n="vblex"/></r></p></e>
 <e>       <p><l>pôr<s n="vblex"/></l>                  <r>posar<s n="vblex"/></r></p></e>
+<e>       <p><l>pôr<g><b/>a<b/>mesa</g><s n="vblex"/></l><r>parar<g><b/>taula</g><s n="vblex"/></r></p></e>
 <e r="RL"><p><l>pôr<s n="vblex"/></l>                  <r>pondre<s n="vblex"/></r></p></e>
 <e>       <p><l>qualificar<s n="vblex"/></l>           <r>qualificar<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>quebrar<s n="vblex"/></l>              <r>trencar<s n="vblex"/></r></p></e>
@@ -23572,5 +23572,32 @@
 <e r="LR" a="wiktionary"><p><l>par<s n="adj"/></l><r>parell<s n="adj"/></r></p><par n="mf_GD"/></e>
 <e r="RL" a="wiktionary"><p><l>amante<s n="adj"/></l><r>amant<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
 <e r="RL" a="wiktionary"><p><l>ambiental<s n="adj"/></l><r>mediambiental<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>órfão<s n="adj"/></l><r>orfe<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>órfão<s n="n"/></l><r>orfe<s n="n"/></r></p></e>
+<e a="wiktionary"><p><l>abruptamente<s n="adv"/></l><r>abruptament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>absurdamente<s n="adv"/></l><r>absurdament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>abundantemente<s n="adv"/></l><r>abundantment<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>academicamente<s n="adv"/></l><r>acadèmicament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>aceitavelmente<s n="adv"/></l><r>acceptablement<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>aC<s n="adv"/></l><r>aC<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>anticonstitucionalmente<s n="adv"/></l><r>anticonstitucionalment<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>aprox.<s n="adv"/></l><r>aprox.<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>arbitrariamente<s n="adv"/></l><r>arbitràriament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>assimetricamente<s n="adv"/></l><r>asimètricament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>benignamente<s n="adv"/></l><r>benignament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>certamente<s n="adv"/></l><r>certament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>cientificamente<s n="adv"/></l><r>científicament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>comparativamente<s n="adv"/></l><r>comparativament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>comumente<s n="adv"/></l><r>comunament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>detalhadamente<s n="adv"/></l><r>detalladament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>ecleticamente<s n="adv"/></l><r>eclècticament<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>efeminadamente<s n="adv"/></l><r>efeminadament<s n="adv"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>ontem<b/>à<b/>noite<b/>à<b/>noite<s n="adv"/></l><r>anit<s n="adv"/></r></p></e>
+<e a="hector"><p><l>ontem<b/>à<b/>noite<b/>à<b/>noite<s n="adv"/></l><r>ahir<b/>a<b/>la<b/>nit<s n="adv"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>outrossim<s n="adv"/></l><r>altressí<s n="adv"/></r></p></e>
+<e r="LR"><p><l>outrossim<s n="adv"/></l><r>igualment<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>piano<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>avaramente<s n="adv"/></l><r>àvidament<s n="adv"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>pauco<s n="adv"/></l><r>poc<s n="adv"/></r></p></e>
   </section>
 </dictionary>
