@@ -210,6 +210,142 @@
 			<cat-item lemma="[1-3][0-9][0-9][0-9]" tags="num.*" />
 		</def-cat>
 		
+		<def-cat n="cents">
+			<cat-item lemma="cent" tags="num.*"/>
+			<cat-item lemma="dos-cents" tags="num.*"/>
+			<cat-item lemma="tres-cents" tags="num.*"/>
+			<cat-item lemma="quatre-cents" tags="num.*"/>
+			<cat-item lemma="cint-cents" tags="num.*"/>
+			<cat-item lemma="sis-cents" tags="num.*"/>
+			<cat-item lemma="set-cents" tags="num.*"/>
+			<cat-item lemma="vuit-cents" tags="num.*"/>
+			<cat-item lemma="huit-cents" tags="num.*"/>
+			<cat-item lemma="nou-cents" tags="num.*"/>
+		</def-cat>
+
+	<def-cat n="menys_de_cent">
+		<cat-item lemma="u" tags="num.*"/>
+		<cat-item lemma="dos" tags="num.*"/>
+		<cat-item lemma="tres" tags="num.*"/>
+		<cat-item lemma="quatre" tags="num.*"/>
+		<cat-item lemma="cinc" tags="num.*"/>
+		<cat-item lemma="sis" tags="num.*"/>
+		<cat-item lemma="set" tags="num.*"/>
+		<cat-item lemma="vuit" tags="num.*"/>
+		<cat-item lemma="huit" tags="num.*"/>
+		<cat-item lemma="nou" tags="num.*"/>
+		<cat-item lemma="deu" tags="num.*"/>
+		<cat-item lemma="onze" tags="num.*"/>
+		<cat-item lemma="dotze" tags="num.*"/>
+		<cat-item lemma="tretze" tags="num.*"/>
+		<cat-item lemma="catorze" tags="num.*"/>
+		<cat-item lemma="quinze" tags="num.*"/>
+		<cat-item lemma="setze" tags="num.*"/>
+		<cat-item lemma="disset" tags="num.*"/>
+		<cat-item lemma="dèsset" tags="num.*"/>
+		<cat-item lemma="divuit" tags="num.*"/>
+		<cat-item lemma="díhuit" tags="num.*"/>
+		<cat-item lemma="dinou" tags="num.*"/>
+		<cat-item lemma="dènou" tags="num.*"/>
+		<cat-item lemma="vint" tags="num.*"/>
+		<cat-item lemma="vint-i-un" tags="num.*"/>
+		<cat-item lemma="vint-i-dos" tags="num.*"/>
+		<cat-item lemma="vint-i-tres" tags="num.*"/>
+		<cat-item lemma="vint-i-quatre" tags="num.*"/>
+		<cat-item lemma="vint-i-cinc" tags="num.*"/>
+		<cat-item lemma="vint-i-sis" tags="num.*"/>
+		<cat-item lemma="vint-i-set" tags="num.*"/>
+		<cat-item lemma="vint-i-vuit" tags="num.*"/>
+		<cat-item lemma="vint-i-huit" tags="num.*"/>
+		<cat-item lemma="vint-i-nou" tags="num.*"/>
+		<cat-item lemma="trenta" tags="num.*"/>
+		<cat-item lemma="trenta-un" tags="num.*"/>
+		<cat-item lemma="trenta-dos" tags="num.*"/>
+		<cat-item lemma="trenta-tres" tags="num.*"/>
+		<cat-item lemma="trenta-quatre" tags="num.*"/>
+		<cat-item lemma="trenta-cinc" tags="num.*"/>
+		<cat-item lemma="trenta-sis" tags="num.*"/>
+		<cat-item lemma="trenta-set" tags="num.*"/>
+		<cat-item lemma="trenta-vuit" tags="num.*"/>
+		<cat-item lemma="trenta-huit" tags="num.*"/>
+		<cat-item lemma="trenta-nou" tags="num.*"/>
+		<cat-item lemma="quaranta" tags="num.*"/>
+		<cat-item lemma="quaranta-un" tags="num.*"/>
+		<cat-item lemma="quaranta-dos" tags="num.*"/>
+		<cat-item lemma="quaranta-tres" tags="num.*"/>
+		<cat-item lemma="quaranta-quatre" tags="num.*"/>
+		<cat-item lemma="quaranta-cinc" tags="num.*"/>
+		<cat-item lemma="quaranta-sis" tags="num.*"/>
+		<cat-item lemma="quaranta-set" tags="num.*"/>
+		<cat-item lemma="quaranta-vuit" tags="num.*"/>
+		<cat-item lemma="quaranta-huit" tags="num.*"/>
+		<cat-item lemma="quaranta-nou" tags="num.*"/>
+		<cat-item lemma="cinquanta" tags="num.*"/>
+		<cat-item lemma="cinquanta-un" tags="num.*"/>
+		<cat-item lemma="cinquanta-dos" tags="num.*"/>
+		<cat-item lemma="cinquanta-tres" tags="num.*"/>
+		<cat-item lemma="cinquanta-quatre" tags="num.*"/>
+		<cat-item lemma="cinquanta-cinc" tags="num.*"/>
+		<cat-item lemma="cinquanta-sis" tags="num.*"/>
+		<cat-item lemma="cinquanta-set" tags="num.*"/>
+		<cat-item lemma="cinquanta-vuit" tags="num.*"/>
+		<cat-item lemma="cinquanta-huit" tags="num.*"/>
+		<cat-item lemma="cinquanta-nou" tags="num.*"/>
+		<cat-item lemma="seixanta" tags="num.*"/>
+		<cat-item lemma="seixanta-un" tags="num.*"/>
+		<cat-item lemma="seixanta-dos" tags="num.*"/>
+		<cat-item lemma="seixanta-tres" tags="num.*"/>
+		<cat-item lemma="seixanta-quatre" tags="num.*"/>
+		<cat-item lemma="seixanta-cinc" tags="num.*"/>
+		<cat-item lemma="seixanta-sis" tags="num.*"/>
+		<cat-item lemma="seixanta-set" tags="num.*"/>
+		<cat-item lemma="seixanta-vuit" tags="num.*"/>
+		<cat-item lemma="seixanta-huit" tags="num.*"/>
+		<cat-item lemma="seixanta-nou" tags="num.*"/>
+		<cat-item lemma="setanta" tags="num.*"/>
+		<cat-item lemma="setanta-un" tags="num.*"/>
+		<cat-item lemma="setanta-dos" tags="num.*"/>
+		<cat-item lemma="setanta-tres" tags="num.*"/>
+		<cat-item lemma="setanta-quatre" tags="num.*"/>
+		<cat-item lemma="setanta-cinc" tags="num.*"/>
+		<cat-item lemma="setanta-sis" tags="num.*"/>
+		<cat-item lemma="setanta-set" tags="num.*"/>
+		<cat-item lemma="setanta-vuit" tags="num.*"/>
+		<cat-item lemma="setanta-huit" tags="num.*"/>
+		<cat-item lemma="setanta-nou" tags="num.*"/>
+		<cat-item lemma="vuitanta" tags="num.*"/>
+		<cat-item lemma="vuitanta-un" tags="num.*"/>
+		<cat-item lemma="vuitanta-dos" tags="num.*"/>
+		<cat-item lemma="vuitanta-tres" tags="num.*"/>
+		<cat-item lemma="vuitanta-quatre" tags="num.*"/>
+		<cat-item lemma="vuitanta-cinc" tags="num.*"/>
+		<cat-item lemma="vuitanta-sis" tags="num.*"/>
+		<cat-item lemma="vuitanta-set" tags="num.*"/>
+		<cat-item lemma="vuitanta-vuit" tags="num.*"/>
+		<cat-item lemma="vuitanta-nou" tags="num.*"/>
+		<cat-item lemma="huitanta" tags="num.*"/>
+		<cat-item lemma="huitanta-un" tags="num.*"/>
+		<cat-item lemma="huitanta-dos" tags="num.*"/>
+		<cat-item lemma="huitanta-tres" tags="num.*"/>
+		<cat-item lemma="huitanta-quatre" tags="num.*"/>
+		<cat-item lemma="huitanta-cinc" tags="num.*"/>
+		<cat-item lemma="huitanta-sis" tags="num.*"/>
+		<cat-item lemma="huitanta-set" tags="num.*"/>
+		<cat-item lemma="huitanta-huit" tags="num.*"/>
+		<cat-item lemma="huitanta-nou" tags="num.*"/>
+		<cat-item lemma="noranta" tags="num.*"/>
+		<cat-item lemma="noranta-un" tags="num.*"/>
+		<cat-item lemma="noranta-dos" tags="num.*"/>
+		<cat-item lemma="noranta-tres" tags="num.*"/>
+		<cat-item lemma="noranta-quatre" tags="num.*"/>
+		<cat-item lemma="noranta-cinc" tags="num.*"/>
+		<cat-item lemma="noranta-sis" tags="num.*"/>
+		<cat-item lemma="noranta-set" tags="num.*"/>
+		<cat-item lemma="noranta-vuit" tags="num.*"/>
+		<cat-item lemma="noranta-huit" tags="num.*"/>
+		<cat-item lemma="noranta-nou" tags="num.*"/>
+	</def-cat>
+
 		<def-cat n="estar">
 			<cat-item lemma="estar" tags="vblex.*"/>
 		</def-cat>
@@ -4270,7 +4406,31 @@
 <section-rules>
 
 
+<!-- NOMBRES	 -->
 
+	<rule comment="cent un > cem e um">
+		<pattern>
+			<pattern-item n="cents"/>
+			<pattern-item n="menys_de_cent"/>
+		</pattern>
+		<action>
+			<out> 
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<lit v="e"/>
+					<lit-tag v="cnjcoo"/>
+				</lu>
+				<b/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+	
 <!-- DATES	 -->
 	
 	<rule> <!-- del 23 de maig -> de 20 de maio -->

@@ -63,6 +63,18 @@
 		<cat-item tags="cnjsub"/>
 	</def-cat>
 	
+	<def-cat n="cnjadj">
+		<cat-item tags="cnjadj"/>
+	</def-cat>
+
+	<def-cat n="cnjcoo">
+		<cat-item tags="cnjcoo"/>
+	</def-cat>
+	
+	<def-cat n="e">
+		<cat-item lemma="e" tags="cnjcoo"/>
+	</def-cat>
+	
 	<def-cat n="seadv">
 		<cat-item lemma="se" tags="cnjadv"/>
 	</def-cat>
@@ -252,6 +264,124 @@
 		<cat-item tags="num.percent"/>
 	</def-cat>
 	
+	<def-cat n="cents">
+		<cat-item lemma="cem" tags="num.*"/>
+		<cat-item lemma="duzentos" tags="num.*"/>
+		<cat-item lemma="trezentos" tags="num.*"/>
+		<cat-item lemma="quatrocentos" tags="num.*"/>
+		<cat-item lemma="quinhentos" tags="num.*"/>
+		<cat-item lemma="seiscentos" tags="num.*"/>
+		<cat-item lemma="setecentos" tags="num.*"/>
+		<cat-item lemma="oitocentos" tags="num.*"/>
+		<cat-item lemma="novecentos" tags="num.*"/>
+	</def-cat>
+
+		<def-cat n="menys_de_cent">
+			<cat-item lemma="um" tags="num.*"/>
+			<cat-item lemma="dois" tags="num.*"/>
+			<cat-item lemma="três" tags="num.*"/>
+			<cat-item lemma="quatro" tags="num.*"/>
+			<cat-item lemma="cinco" tags="num.*"/>
+			<cat-item lemma="seis" tags="num.*"/>
+			<cat-item lemma="sete" tags="num.*"/>
+			<cat-item lemma="oito" tags="num.*"/>
+			<cat-item lemma="nove" tags="num.*"/>
+			<cat-item lemma="dez" tags="num.*"/>
+			<cat-item lemma="onze" tags="num.*"/>
+			<cat-item lemma="doze" tags="num.*"/>
+			<cat-item lemma="treze" tags="num.*"/>
+			<cat-item lemma="quatorze" tags="num.*"/>
+			<cat-item lemma="catorze" tags="num.*"/>
+			<cat-item lemma="quinze" tags="num.*"/>
+			<cat-item lemma="dezesseis" tags="num.*"/>
+			<cat-item lemma="dezasseis" tags="num.*"/>
+			<cat-item lemma="dezessete" tags="num.*"/>
+			<cat-item lemma="dezassete" tags="num.*"/>
+			<cat-item lemma="dezoito" tags="num.*"/>
+			<cat-item lemma="dezenove" tags="num.*"/>
+			<cat-item lemma="dezanove" tags="num.*"/>
+			<cat-item lemma="vinte" tags="num.*"/>
+			<cat-item lemma="vinte e um" tags="num.*"/>
+			<cat-item lemma="vinte e dois" tags="num.*"/>
+			<cat-item lemma="vinte e três" tags="num.*"/>
+			<cat-item lemma="vinte e quatro" tags="num.*"/>
+			<cat-item lemma="vinte e cinco" tags="num.*"/>
+			<cat-item lemma="vinte e seis" tags="num.*"/>
+			<cat-item lemma="vinte e sete" tags="num.*"/>
+			<cat-item lemma="vinte e oito" tags="num.*"/>
+			<cat-item lemma="vinte e nove" tags="num.*"/>
+			<cat-item lemma="trinta" tags="num.*"/>
+			<cat-item lemma="trinta e um" tags="num.*"/>
+			<cat-item lemma="trinta e dois" tags="num.*"/>
+			<cat-item lemma="trinta e três" tags="num.*"/>
+			<cat-item lemma="trinta e quatro" tags="num.*"/>
+			<cat-item lemma="trinta e cinco" tags="num.*"/>
+			<cat-item lemma="trinta e seis" tags="num.*"/>
+			<cat-item lemma="trinta e sete" tags="num.*"/>
+			<cat-item lemma="trinta e oito" tags="num.*"/>
+			<cat-item lemma="trinta e nove" tags="num.*"/>
+			<cat-item lemma="quarenta" tags="num.*"/>
+			<cat-item lemma="quarenta e um" tags="num.*"/>
+			<cat-item lemma="quarenta e dois" tags="num.*"/>
+			<cat-item lemma="quarenta e três" tags="num.*"/>
+			<cat-item lemma="quarenta e quatro" tags="num.*"/>
+			<cat-item lemma="quarenta e cinco" tags="num.*"/>
+			<cat-item lemma="quarenta e seis" tags="num.*"/>
+			<cat-item lemma="quarenta e sete" tags="num.*"/>
+			<cat-item lemma="quarenta e oito" tags="num.*"/>
+			<cat-item lemma="quarenta e nove" tags="num.*"/>
+			<cat-item lemma="cinquenta" tags="num.*"/>
+			<cat-item lemma="cinquenta e um" tags="num.*"/>
+			<cat-item lemma="cinquenta e dois" tags="num.*"/>
+			<cat-item lemma="cinquenta e três" tags="num.*"/>
+			<cat-item lemma="cinquenta e quatro" tags="num.*"/>
+			<cat-item lemma="cinquenta e cinco" tags="num.*"/>
+			<cat-item lemma="cinquenta e seis" tags="num.*"/>
+			<cat-item lemma="cinquenta e sete" tags="num.*"/>
+			<cat-item lemma="cinquenta e oito" tags="num.*"/>
+			<cat-item lemma="cinquenta e nove" tags="num.*"/>
+			<cat-item lemma="sessenta" tags="num.*"/>
+			<cat-item lemma="sessenta e um" tags="num.*"/>
+			<cat-item lemma="sessenta e dois" tags="num.*"/>
+			<cat-item lemma="sessenta e três" tags="num.*"/>
+			<cat-item lemma="sessenta e quatro" tags="num.*"/>
+			<cat-item lemma="sessenta e cinco" tags="num.*"/>
+			<cat-item lemma="sessenta e seis" tags="num.*"/>
+			<cat-item lemma="sessenta e sete" tags="num.*"/>
+			<cat-item lemma="sessenta e oito" tags="num.*"/>
+			<cat-item lemma="sessenta e nove" tags="num.*"/>
+			<cat-item lemma="setenta" tags="num.*"/>
+			<cat-item lemma="setenta e um" tags="num.*"/>
+			<cat-item lemma="setenta e dois" tags="num.*"/>
+			<cat-item lemma="setenta e três" tags="num.*"/>
+			<cat-item lemma="setenta e quatro" tags="num.*"/>
+			<cat-item lemma="setenta e cinco" tags="num.*"/>
+			<cat-item lemma="setenta e seis" tags="num.*"/>
+			<cat-item lemma="setenta e sete" tags="num.*"/>
+			<cat-item lemma="setenta e oito" tags="num.*"/>
+			<cat-item lemma="setenta e nove" tags="num.*"/>
+			<cat-item lemma="oitenta" tags="num.*"/>
+			<cat-item lemma="oitenta e um" tags="num.*"/>
+			<cat-item lemma="oitenta e dois" tags="num.*"/>
+			<cat-item lemma="oitenta e três" tags="num.*"/>
+			<cat-item lemma="oitenta e quatro" tags="num.*"/>
+			<cat-item lemma="oitenta e cinco" tags="num.*"/>
+			<cat-item lemma="oitenta e seis" tags="num.*"/>
+			<cat-item lemma="oitenta e sete" tags="num.*"/>
+			<cat-item lemma="oitenta e oito" tags="num.*"/>
+			<cat-item lemma="oitenta e nove" tags="num.*"/>
+			<cat-item lemma="noventa" tags="num.*"/>
+			<cat-item lemma="noventa e um" tags="num.*"/>
+			<cat-item lemma="noventa e dois" tags="num.*"/>
+			<cat-item lemma="noventa e três" tags="num.*"/>
+			<cat-item lemma="noventa e quatro" tags="num.*"/>
+			<cat-item lemma="noventa e cinco" tags="num.*"/>
+			<cat-item lemma="noventa e seis" tags="num.*"/>
+			<cat-item lemma="noventa e sete" tags="num.*"/>
+			<cat-item lemma="noventa e oito" tags="num.*"/>
+			<cat-item lemma="noventa e nove" tags="num.*"/>
+		</def-cat>
+
 	<def-cat n="cuavb">
 		<cat-item tags="cuavb.*"/>
 	</def-cat>
@@ -3200,6 +3330,28 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 			</out>
+		</action>
+	</rule>
+	
+	<rule comment="cem e um > cent un">
+		<pattern>
+			<pattern-item n="cents"/>
+			<pattern-item n="e"/>
+			<pattern-item n="menys_de_cent"/>
+		</pattern>
+		<action>
+			<out> 
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="2"/>
+			</call-macro>
 		</action>
 	</rule>
 	
