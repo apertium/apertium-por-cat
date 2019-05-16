@@ -309,7 +309,10 @@
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
   <rule weight="1.0">
-     <match lemma="traduzir" tags="vblex.*"/>
+     <or>
+       <match lemma="traduzir" tags="vblex.*"/>
+       <match lemma="viajar" tags="vblex.*"/>
+     </or>
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
 
