@@ -535,6 +535,7 @@
 <e>       <p><l>décimo<b/>primeiro<s n="adj"/></l>     <r>onzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>segundo<s n="adj"/></l>      <r>dotzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>terceiro<s n="adj"/></l>     <r>tretzè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR" a="hector"><p><l>trezeno<s n="adj"/></l>     <r>tretzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>quarto<s n="adj"/></l>       <r>catorzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>quinto<s n="adj"/></l>       <r>quinzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>sexto<s n="adj"/></l>        <r>setzè<s n="adj"/><s n="ord"/></r></p></e>
@@ -1067,7 +1068,7 @@
 <e r="LR"><p><l>orçamental<s n="adj"/><s n="mf"/></l>  <r>pressupostari<s n="adj"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>orçamentário<s n="adj"/></l>           <r>pressupostari<s n="adj"/></r></p></e>
 <e r="LR"><p><l>otimista<s n="adj"/></l>               <r>optimista<s n="adj"/></r></p></e>
-<e>       <p><l>outro<s n="adj"/></l><r>altre<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e>       <p><l>outro<s n="adj"/></l>                  <r>altre<s n="adj"/><s n="ind"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>paciente<s n="adj"/></l>               <r>pacient<s n="adj"/></r></p></e>
 <e>       <p><l>pacífico<s n="adj"/></l>               <r>pacífic<s n="adj"/></r></p></e>
 <e r="LR"><p><l>palestiniano<s n="adj"/></l>           <r>palestí<s n="adj"/></r></p></e>
@@ -2273,6 +2274,7 @@
           group det_symbol
       ****************************** -->
 <e>       <p><l>algum<s n="det"/></l>                  <r>algun<s n="det"/></r></p></e>
+<e r="RL"><p><l>algum<s n="det"/></l>                  <r>uns<b/>quants<s n="det"/></r></p></e>
 <e>       <p><l>aquele<s n="det"/></l>                 <r>aquell<s n="det"/></r></p></e>
 <e>       <p><l>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
 <e>       <p><l>certo<s n="det"/></l>                  <r>cert<s n="det"/></r></p></e>
@@ -4694,7 +4696,7 @@
 <e>       <p><l>noticia<s n="n"/></l>                  <r>noticia<s n="n"/></r></p></e>
 <e>       <p><l>notário<s n="n"/></l>                  <r>notari<s n="n"/></r></p></e>
 <e>       <p><l>notícia<s n="n"/></l>                  <r>notícia<s n="n"/></r></p></e>
-<e>       <p><l>novela<s n="n"/></l>                   <r>novel·la<s n="n"/></r></p></e>
+<e r="LR"><p><l>novela<s n="n"/></l>                   <r>novel·la<s n="n"/></r></p></e>
 <e>       <p><l>novembro<s n="n"/></l>                 <r>novembre<s n="n"/></r></p></e>
 <e>       <p><l>novidade<s n="n"/></l>                 <r>novetat<s n="n"/></r></p></e>
 <e>       <p><l>noz<s n="n"/></l>                      <r>nou<s n="n"/></r></p></e>
@@ -5348,7 +5350,8 @@
 <e>       <p><l>rock<s n="n"/></l>                     <r>rock<s n="n"/></r></p></e>
 <e>       <p><l>rodada<s n="n"/></l>                   <r>ronda<s n="n"/></r></p></e>
 <e r="LR"><p><l>rodovia<s n="n"/></l>                  <r>carretera<s n="n"/></r></p></e>
-<e>       <p><l>romance<s n="n"/></l>                  <r>romanç<s n="n"/></r></p></e>
+<e r="RL"><p><l>romance<s n="n"/><s n="m"/></l>        <r>romanç<s n="n"/><s n="m"/></r></p></e>
+<e       ><p><l>romance<s n="n"/><s n="m"/></l>        <r>novel·la<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>romantismo<s n="n"/></l>               <r>romanticisme<s n="n"/></r></p></e>
 <e>       <p><l>rompimento<s n="n"/><s n="m"/></l>     <r>trencament<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>rosa<s n="n"/></l>                     <r>rosa<s n="n"/></r></p></e>
@@ -20954,7 +20957,6 @@
 <e>       <p><l>XVIII<s n="num"/></l>                  <r>XVIII<s n="num"/></r></p></e>
 <e>       <p><l>XX<s n="num"/></l>                     <r>XX<s n="num"/></r></p></e>
 <e>       <p><l>XXI<s n="num"/></l>                    <r>XXI<s n="num"/></r></p></e>
-<e r="LR"><p><l>catorce<s n="num"/></l>                <r>catorce<s n="num"/></r></p></e>
 <e>       <p><l>cem<s n="num"/></l>                    <r>cent<s n="num"/></r></p></e>
 <e r="LR"><p><l>cento<s n="num"/><s n="mf"/></l>       <r>cent<s n="num"/><s n="mf"/></r></p></e>
 <e>       <p><l>cero<s n="num"/></l>                   <r>cero<s n="num"/></r></p></e>
@@ -21022,7 +21024,6 @@
 <e>       <p><l>oito<s n="num"/></l>                   <r>vuit<s n="num"/></r></p></e>
 <e r="RL"><p><l>oitocentos<s n="num"/></l>             <r>huit-cents<s n="num"/></r></p></e>
 <e>       <p><l>oitocentos<s n="num"/></l>             <r>vuit-cents<s n="num"/></r></p></e>
-<e>       <p><l>once<s n="num"/></l>                   <r>once<s n="num"/></r></p></e>
 <e>       <p><l>onze<s n="num"/></l>                   <r>onze<s n="num"/></r></p></e>
 <e>       <p><l>quarenta<s n="num"/></l>               <r>quaranta<s n="num"/></r></p></e>
 <e>       <p><l>quarenta<b/>e<b/>um<s n="num"/></l>    <r>quaranta-un<s n="num"/></r></p></e>
@@ -21036,9 +21037,9 @@
 <e r="RL"><p><l>quarenta<b/>e<b/>oito<s n="num"/></l>  <r>quaranta-huit<s n="num"/></r></p></e>
 <e>       <p><l>quarenta<b/>e<b/>nove<s n="num"/></l>  <r>quaranta-nou<s n="num"/></r></p></e>
 <e>       <p><l>quatorze<s n="num"/></l>               <r>catorze<s n="num"/></r></p></e>
+<e r="LR"><p><l>catorze<s n="num"/></l>               <r>catorze<s n="num"/></r></p></e>
 <e>       <p><l>quatro<s n="num"/></l>                 <r>quatre<s n="num"/></r></p></e>
 <e>       <p><l>quatrocentos<s n="num"/></l>           <r>quatre-cents<s n="num"/></r></p></e>
-<e>       <p><l>quince<s n="num"/></l>                 <r>quince<s n="num"/></r></p></e>
 <e>       <p><l>quinhentos<s n="num"/></l>             <r>cinc-cents<s n="num"/></r></p></e>
 <e>       <p><l>quinze<s n="num"/></l>                 <r>quinze<s n="num"/></r></p></e>
 <e>       <p><l>seis<s n="num"/></l>                   <r>sis<s n="num"/></r></p></e>
@@ -21084,9 +21085,9 @@
 <e>       <p><l>um<s n="num"/><s n="m"/></l>           <r>u<s n="num"/><s n="m"/></r></p></e>
 <e>       <p><l>vinte<s n="num"/></l>                  <r>vint<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>um<s n="num"/></l>       <r>vint-i-un<s n="num"/></r></p></e>
-<e>       <p><l>vinte<b/>e<b/>quatro<s n="num"/></l>   <r>vint-i-quatre<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>dois<s n="num"/></l>     <r>vint-i-dos<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>três<s n="num"/></l>     <r>vint-i-tres<s n="num"/></r></p></e>
+<e>       <p><l>vinte<b/>e<b/>quatro<s n="num"/></l>   <r>vint-i-quatre<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>cinco<s n="num"/></l>    <r>vint-i-cinc<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>seis<s n="num"/></l>     <r>vint-i-sis<s n="num"/></r></p></e>
 <e>       <p><l>vinte<b/>e<b/>sete<s n="num"/></l>     <r>vint-i-set<s n="num"/></r></p></e>
@@ -21248,6 +21249,7 @@
 <e>       <p><l>algo<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>alguna<b/>cosa<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>algo<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>quelcom<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
 <e>       <p><l>algum<s n="prn"/></l>                  <r>algun<s n="prn"/></r></p></e>
+<e r="RL"><p><l>algum<s n="prn"/></l>                  <r>uns<b/>quants<s n="prn"/></r></p></e>
 <e>       <p><l>alguém<s n="prn"/></l>                 <r>algú<s n="prn"/></r></p></e>
 <e>       <p><l>ambas<s n="prn"/></l>                  <r>ambdues<s n="prn"/></r></p></e>
 <e r="LR"><p><l>ambas<b/>as<s n="prn"/></l>            <r>ambdues<s n="prn"/></r></p></e>
@@ -23615,9 +23617,11 @@
 <e a="wiktionary"><p><l>vigésimo<b/>terceiro<s n="adj"/></l><r>vint-i-tresè<s n="adj"/><s n="ord"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>castelão<s n="adj"/></l><r>castellà<s n="adj"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>duodécimo<s n="adj"/></l><r>dotzè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR" a="hector"><p><l>dozeno<s n="adj"/></l><r>dotzè<s n="adj"/><s n="ord"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>polaco<s n="adj"/></l><r>polonès<s n="adj"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>santo<s n="adj"/></l><r>sant<s n="adj"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>undécimo<s n="adj"/></l><r>onzè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR" a="hector"><p><l>onzeno<s n="adj"/></l><r>onzè<s n="adj"/><s n="ord"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>abstrato<s n="adj"/></l><r>abstracte<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>acabado<s n="adj"/></l><r>acabat<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>gelado<s n="adj"/></l><r>gelat<s n="adj"/><s n="sup"/></r></p></e>
@@ -23698,5 +23702,17 @@
 <e a="hector"><p><l>mirandês<s n="adj"/></l><r>mirandès<s n="adj"/></r></p></e>
 <e a="hector"><p><l>leonês<s n="n"/></l><r>leonès<s n="n"/></r></p></e>
 <e a="hector"><p><l>leonês<s n="adj"/></l><r>leonès<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>nono<s n="adj"/></l><r>cinquanta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>oitavo<s n="adj"/></l><r>cinquanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>quinquagésimo<b/>oitavo<s n="adj"/></l>       <r>cinquanta-huité<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>primeiro<s n="adj"/></l><r>cinquanta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>quarto<s n="adj"/></l><r>cinquanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>quinto<s n="adj"/></l><r>cinquanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>segundo<s n="adj"/></l><r>cinquanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>sétimo<s n="adj"/></l><r>cinquanta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>sexto<s n="adj"/></l><r>cinquanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<b/>terceiro<s n="adj"/></l><r>cinquanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>quinquagésimo<s n="adj"/></l><r>cinquantè<s n="adj"/><s n="ord"/></r></p></e>
+
   </section>
 </dictionary>
