@@ -532,6 +532,7 @@
 <e>       <p><l>décimo<b/>sexto<s n="adj"/></l>        <r>setzè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>sétimo<s n="adj"/></l>       <r>dissetè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>oitavo<s n="adj"/></l>       <r>divuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>décimo<b/>oitavo<s n="adj"/></l>       <r>dihuité<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>décimo<b/>nono<s n="adj"/></l>         <r>dinovè<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>eclesiástico<s n="adj"/></l>           <r>eclesiàstic<s n="adj"/></r></p></e>
 <e>       <p><l>ecológico<s n="adj"/></l>              <r>ecològic<s n="adj"/></r></p></e>
@@ -1042,6 +1043,7 @@
 <e>       <p><l>ofensivo<s n="adj"/></l>               <r>ofensiu<s n="adj"/></r></p></e>
 <e>       <p><l>oficial<s n="adj"/></l>                <r>oficial<s n="adj"/></r></p></e>
 <e>       <p><l>oitavo<s n="adj"/></l>                 <r>vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>oitavo<s n="adj"/></l>       <r>huité<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>olímpico<s n="adj"/></l>               <r>olímpic<s n="adj"/></r></p></e>
 <e>       <p><l>opaco<s n="adj"/></l>                  <r>opac<s n="adj"/></r></p></e>
 <e>       <p><l>operativo<s n="adj"/></l>              <r>operatiu<s n="adj"/></r></p></e>
@@ -23416,6 +23418,7 @@
 <e a="wiktionary"><p><l>nefasto<s n="adj"/></l><r>nefast<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>nonagésimo<b/>nono<s n="adj"/></l><r>noranta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>nonagésimo<b/>oitavo<s n="adj"/></l><r>noranta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>nonagésimo<b/>oitavo<s n="adj"/></l>       <r>noranta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>nonagésimo<b/>primeiro<s n="adj"/></l><r>noranta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>nonagésimo<b/>quarto<s n="adj"/></l><r>noranta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>nonagésimo<b/>quinto<s n="adj"/></l><r>noranta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
@@ -23426,15 +23429,28 @@
 <e a="wiktionary"><p><l>nonagésimo<s n="adj"/></l><r>norantè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>ocioso<s n="adj"/></l><r>ociós<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>nono<s n="adj"/></l><r>vuitanta-novè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>nono<s n="adj"/></l><r>vuitanta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>oitavo<s n="adj"/></l><r>vuitanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>oitavo<s n="adj"/></l>       <r>huitanta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>primeiro<s n="adj"/></l><r>vuitanta-unè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>primeiro<s n="adj"/></l><r>huitanta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>quarto<s n="adj"/></l><r>vuitanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>quarto<s n="adj"/></l><r>huitanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>quinto<s n="adj"/></l><r>vuitanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>quinto<s n="adj"/></l><r>huitanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>quinto<s n="adj"/></l><r>vuitanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>quinto<s n="adj"/></l><r>huitanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>segundo<s n="adj"/></l><r>vuitanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>segundo<s n="adj"/></l><r>huitanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e a="wiktionary"><p><l>octogésimo<b/>segundo<s n="adj"/></l><r>vuitanta-dosè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>sétimo<s n="adj"/></l><r>huitanta-setè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>sétimo<s n="adj"/></l><r>vuitanta-setè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>sexto<s n="adj"/></l><r>huitanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>sexto<s n="adj"/></l><r>vuitanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<b/>terceiro<s n="adj"/></l><r>vuitanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<b/>terceiro<s n="adj"/></l><r>huitanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>octogésimo<s n="adj"/></l><r>vuitantè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>octogésimo<s n="adj"/></l><r>huitantè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>óptico<s n="adj"/></l><r>òptic<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>parelho<s n="adj"/></l><r>parell<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>passivo<s n="adj"/></l><r>passiu<s n="adj"/></r></p></e>
@@ -23442,6 +23458,7 @@
 <e a="wiktionary"><p><l>primogénito<s n="adj"/></l><r>hereu<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>quadragésimo<b/>nono<s n="adj"/></l><r>quaranta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quadragésimo<b/>oitavo<s n="adj"/></l><r>quaranta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>quadragésimo<b/>oitavo<s n="adj"/></l>       <r>quaranta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quadragésimo<b/>primeiro<s n="adj"/></l><r>quaranta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quadragésimo<b/>quarto<s n="adj"/></l><r>quaranta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quadragésimo<b/>quinto<s n="adj"/></l><r>quaranta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
@@ -23453,6 +23470,7 @@
 <e a="wiktionary"><p><l>resfriado<s n="adj"/></l><r>refredat<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>septuagésimo<b/>nono<s n="adj"/></l><r>setanta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>septuagésimo<b/>oitavo<s n="adj"/></l><r>setanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>septuagésimo<b/>oitavo<s n="adj"/></l>       <r>setanta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>septuagésimo<b/>primeiro<s n="adj"/></l><r>setanta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>septuagésimo<b/>quarto<s n="adj"/></l><r>setanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>septuagésimo<b/>quinto<s n="adj"/></l><r>setanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
@@ -23463,6 +23481,7 @@
 <e a="wiktionary"><p><l>septuagésimo<s n="adj"/></l><r>setantè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>sexagésimo<b/>nono<s n="adj"/></l><r>seixanta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>sexagésimo<b/>oitavo<s n="adj"/></l><r>seixanta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>sexagésimo<b/>oitavo<s n="adj"/></l>       <r>seixanta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>sexagésimo<b/>primeiro<s n="adj"/></l><r>seixanta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>sexagésimo<b/>quarto<s n="adj"/></l><r>seixanta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>sexagésimo<b/>quinto<s n="adj"/></l><r>seixanta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
@@ -23474,6 +23493,7 @@
 <e a="wiktionary"><p><l>tibetano<s n="adj"/></l><r>tibetà<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>trigésimo<b/>nono<s n="adj"/></l><r>trenta-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>trigésimo<b/>oitavo<s n="adj"/></l><r>trenta-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>trigésimo<b/>oitavo<s n="adj"/></l>       <r>treta-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>trigésimo<b/>primeiro<s n="adj"/></l><r>trenta-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>trigésimo<b/>quarto<s n="adj"/></l><r>trenta-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>trigésimo<b/>quinto<s n="adj"/></l><r>trenta-cinquè<s n="adj"/><s n="ord"/></r></p></e>
@@ -23489,6 +23509,7 @@
 <e a="wiktionary"><p><l>vassalo<s n="adj"/></l><r>vassall<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>vigésimo<b/>nono<s n="adj"/></l><r>vint-i-novè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>vigésimo<b/>oitavo<s n="adj"/></l><r>vint-i-vuitè<s n="adj"/><s n="ord"/></r></p></e>
+<e r="RL"><p><l>vigésimo<b/>oitavo<s n="adj"/></l>       <r>vint-i-huité<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>vigésimo<b/>primeiro<s n="adj"/></l><r>vint-i-unè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>vigésimo<b/>quarto<s n="adj"/></l><r>vint-i-quatrè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>vigésimo<b/>quinto<s n="adj"/></l><r>vint-i-cinquè<s n="adj"/><s n="ord"/></r></p></e>
