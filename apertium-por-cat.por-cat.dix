@@ -623,7 +623,6 @@
 <e>       <p><l>estúpido<s n="adj"/></l>               <r>estúpid<s n="adj"/></r></p></e>
 <e>       <p><l>etarra<s n="adj"/></l>                 <r>etarra<s n="adj"/></r></p></e>
 <e>       <p><l>eterno<s n="adj"/></l>                 <r>etern<s n="adj"/></r></p></e>
-<e>       <p><l>europeo<s n="adj"/></l>                <r>europeo<s n="adj"/></r></p></e>
 <e>       <p><l>europeu<s n="adj"/></l>                <r>europeu<s n="adj"/></r></p></e>
 <e>       <p><l>eventual<s n="adj"/></l>               <r>eventual<s n="adj"/></r></p></e>
 <e>       <p><l>evidente<s n="adj"/></l>               <r>evident<s n="adj"/></r></p></e>
@@ -869,13 +868,12 @@
 <e>       <p><l>iraquiano<s n="adj"/></l>              <r>iraquià<s n="adj"/></r></p></e>
 <e>       <p><l>irlandês<s n="adj"/></l>               <r>irlandès<s n="adj"/></r></p></e>
 <e>       <p><l>irregular<s n="adj"/></l>              <r>irregular<s n="adj"/></r></p></e>
-<e vl="pt"><p><l>irónico<s n="adj"/></l>                <r>irònic<s n="adj"/></r></p></e>
-<e vl="br"><p><l>irônico<s n="adj"/></l>                <r>irònic<s n="adj"/></r></p></e>
+<e vl="pt"><p><l>irónico<s n="adj"/></l>               <r>irònic<s n="adj"/></r></p></e>
+<e vl="br"><p><l>irônico<s n="adj"/></l>               <r>irònic<s n="adj"/></r></p></e>
 <e>       <p><l>islamista<s n="adj"/></l>              <r>islamista<s n="adj"/></r></p></e>
 <e>       <p><l>islâmico<s n="adj"/></l>               <r>islàmic<s n="adj"/></r></p></e>
-<e r="RL"><p><l>israelense<s n="adj"/><s n="mf"/></l>  <r>israelià<s n="adj"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>israelense<s n="adj"/><s n="mf"/></l>  <r>israelià<s n="adj"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>israelense<s n="adj"/><s n="mf"/></l>  <r>israelià<s n="adj"/><s n="m"/></r></p></e>
+<e vl="pt"><p><l>israelita<s n="adj"/></l>             <r>israelià<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e vl="br"><p><l>israelense<s n="adj"/></l>            <r>israelià<s n="adj"/></r></p><par n="mf_GD"/></e>
 <e>       <p><l>italiano<s n="adj"/></l>               <r>italià<s n="adj"/></r></p></e>
 <e>       <p><l>japonês<s n="adj"/></l>                <r>japonès<s n="adj"/></r></p></e>
 <e>       <p><l>jornalístico<s n="adj"/></l>           <r>periodístic<s n="adj"/></r></p></e>
@@ -1023,6 +1021,7 @@
 <e>       <p><l>navarro<s n="adj"/></l>                <r>navarrès<s n="adj"/></r></p></e>
 <e>       <p><l>navegante<s n="adj"/></l>              <r>navegant<s n="adj"/></r></p></e>
 <e>       <p><l>necessário<s n="adj"/></l>             <r>necessari<s n="adj"/></r></p></e>
+<e>       <p><l>desnecessário<s n="adj"/></l>          <r>innecessari<s n="adj"/></r></p></e>
 <e>       <p><l>negativo<s n="adj"/></l>               <r>negatiu<s n="adj"/></r></p></e>
 <e>       <p><l>negro<s n="adj"/></l>                  <r>negre<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>nervoso<s n="adj"/></l>                <r>nerviós<s n="adj"/></r></p></e>
@@ -3862,7 +3861,8 @@
 <e>       <p><l>filosofía<s n="n"/></l>                <r>filosofía<s n="n"/></r></p></e>
 <e r="RL"><p><l>fim<s n="n"/><s n="m"/></l>            <r>fi<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>fim<s n="n"/><s n="m"/></l>            <r>fi<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>final<s n="n"/></l>                    <r>final<s n="n"/></r></p></e>
+<e>       <p><l>final<s n="n"/><s n="m"/></l>          <r>final<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>final<s n="n"/><s n="f"/></l>          <r>final<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>finalidade<s n="n"/></l>               <r>finalitat<s n="n"/></r></p></e>
 <e>       <p><l>finalista<s n="n"/></l>                <r>finalista<s n="n"/></r></p></e>
 <e>       <p><l>financiamento<s n="n"/><s n="m"/></l>  <r>finançament<s n="n"/><s n="m"/></r></p></e>
@@ -4032,6 +4032,7 @@
 <e>       <p><l>guerrilha<s n="n"/><s n="f"/></l>      <r>escamot<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>guerrilheiro<s n="n"/></l>             <r>guerriller<s n="n"/></r></p></e>
 <e>       <p><l>guião<s n="n"/></l>                    <r>guió<s n="n"/></r></p></e>
+<e>       <p><l>hífen<s n="n"/></l>                    <r>guionet<s n="n"/></r></p></e>
 <e>       <p><l>guía<s n="n"/></l>                     <r>guía<s n="n"/></r></p></e>
 <e>       <p><l>gás<s n="n"/></l>                      <r>gas<s n="n"/></r></p></e>
 <e r="LR"><p><l>género<s n="n"/></l>                   <r>gènere<s n="n"/></r></p></e>
@@ -4242,12 +4243,11 @@
 <e>       <p><l>irregularidade<s n="n"/></l>           <r>irregularitat<s n="n"/></r></p></e>
 <e>       <p><l>irritação<s n="n"/></l>                <r>irritació<s n="n"/></r></p></e>
 <e>       <p><l>islamista<s n="n"/></l>                <r>islamista<s n="n"/></r></p></e>
-<e r="LR"><p><l>islã<s n="n"/></l>                     <r>islam<s n="n"/></r></p></e>
-<e>       <p><l>islão<s n="n"/></l>                    <r>islam<s n="n"/></r></p></e>
+<e vl="br"><p><l>islã<s n="n"/></l>                    <r>islam<s n="n"/></r></p></e>
+<e vl="pt"><p><l>islão<s n="n"/></l>                   <r>islam<s n="n"/></r></p></e>
 <e>       <p><l>isolamento<s n="n"/></l>               <r>aïllament<s n="n"/></r></p></e>
-<e r="RL"><p><l>israelense<s n="n"/><s n="mf"/></l>    <r>israelià<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>israelense<s n="n"/><s n="mf"/></l>    <r>israelià<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>israelense<s n="n"/><s n="mf"/></l>    <r>israelià<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt"><p><l>israelita<s n="n"/></l>               <r>israelià<s n="n"/></r></p><par n="mf_GD"/></e>
+<e vl="br"><p><l>israelense<s n="n"/></l>              <r>israelià<s n="n"/></r></p><par n="mf_GD"/></e>
 <e>       <p><l>italiano<s n="n"/></l>                 <r>italià<s n="n"/></r></p></e>
 <e>       <p><l>j<s n="n"/><s n="m"/></l>              <r>j<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>janeiro<s n="n"/></l>                  <r>gener<s n="n"/></r></p></e>
@@ -4540,6 +4540,7 @@
 <e>       <p><l>microfone<s n="n"/></l>                <r>micròfon<s n="n"/></r></p></e>
 <e>       <p><l>milagre<s n="n"/></l>                  <r>miracle<s n="n"/></r></p></e>
 <e>       <p><l>milha<s n="n"/></l>                    <r>milla<s n="n"/></r></p></e>
+<e>       <p><l>milhar<s n="n"/><s n="m"/></l>         <r>miler<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>milhão<s n="n"/></l>                   <r>milió<s n="n"/></r></p></e>
 <e>       <p><l>milionário<s n="n"/></l>               <r>milionari<s n="n"/></r></p></e>
 <e>       <p><l>militante<s n="n"/></l>                <r>militant<s n="n"/></r></p></e>
@@ -20973,10 +20974,7 @@
 <e>       <p><l>dois<s n="num"/></l>                   <r>dos<s n="num"/></r></p></e>
 <e>       <p><l>doze<s n="num"/></l>                   <r>dotze<s n="num"/></r></p></e>
 <e>       <p><l>duzentos<s n="num"/></l>               <r>dos-cents<s n="num"/></r></p></e>
-<e>       <p><l>mil<s n="num"/><s n="mf"/><s n="sg"/></l><r>mil<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>mil<s n="num"/><s n="mf"/><s n="pl"/></l><r>mil<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
-<e>       <p><l>milhar<s n="num"/><s n="mf"/><s n="pl"/></l><r>mil<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
-<e r="LR"><p><l>milhar<s n="num"/><s n="mf"/><s n="sg"/></l><r>mil<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+<e>       <p><l>mil<s n="num"/><s n="mf"/><s n="sg"/></l><r>mil<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>nove<s n="num"/></l>                   <r>nou<s n="num"/></r></p></e>
 <e>       <p><l>novecentos<s n="num"/></l>             <r>nou-cents<s n="num"/></r></p></e>
 <e>       <p><l>noventa<s n="num"/></l>                <r>noranta<s n="num"/></r></p></e>
@@ -22046,12 +22044,13 @@
 <e>       <p><l>experimentar<s n="vblex"/></l>         <r>experimentar<s n="vblex"/></r></p></e>
 <e>       <p><l>expirar<s n="vblex"/></l>              <r>expirar<s n="vblex"/></r></p></e>
 <e>       <p><l>explicar<s n="vblex"/></l>             <r>explicar<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>explicar<s n="vblex"/></l>             <r>aclarir<s n="vblex"/></r></p></e>
 <e>       <p><l>explodir<s n="vblex"/></l>             <r>explotar<s n="vblex"/></r></p></e>
 <e>       <p><l>explorar<s n="vblex"/></l>             <r>explorar<s n="vblex"/></r></p></e>
 <e>       <p><l>expor<s n="vblex"/></l>                <r>exposar<s n="vblex"/></r></p></e>
 <e>       <p><l>exportar<s n="vblex"/></l>             <r>exportar<s n="vblex"/></r></p></e>
-<e>       <p><l>expresar<s n="vblex"/></l>             <r>expresar<s n="vblex"/></r></p></e>
-<e>       <p><l>exprimir<s n="vblex"/></l>             <r>expressar<s n="vblex"/></r></p></e>
+<e>       <p><l>expressar<s n="vblex"/></l>            <r>expressar<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>exprimir<s n="vblex"/></l>             <r>expressar<s n="vblex"/></r></p></e>
 <e>       <p><l>expulsar<s n="vblex"/></l>             <r>expulsar<s n="vblex"/></r></p></e>
 <e>       <p><l>extinguir<s n="vblex"/></l>            <r>extingir<s n="vblex"/></r></p></e>
 <e>       <p><l>extrair<s n="vblex"/></l>              <r>extreure<s n="vblex"/></r></p></e>
@@ -22296,6 +22295,7 @@
 <e>       <p><l>mostrar<s n="vblex"/></l>              <r>mostrar<s n="vblex"/></r></p></e>
 <e>       <p><l>motivar<s n="vblex"/></l>              <r>motivar<s n="vblex"/></r></p></e>
 <e>       <p><l>mover<s n="vblex"/></l>                <r>moure<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>mover<s n="vblex"/></l>                <r>bellugar<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>movimentar<s n="vblex"/></l>           <r>moure<s n="vblex"/></r></p></e>
 <e>       <p><l>mudar<s n="vblex"/></l>                <r>canviar<s n="vblex"/></r></p></e>
 <e>       <p><l>mudar<s n="vblex"/></l>                <r>traslladar<s n="vblex"/></r></p></e>
@@ -23602,5 +23602,25 @@
 <e a="wiktionary"><p><l>piano<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>avaramente<s n="adv"/></l><r>àvidament<s n="adv"/></r></p></e>
 <e r="LR" a="wiktionary"><p><l>pauco<s n="adv"/></l><r>poc<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>aramaico<s n="n"/><s n="m"/></l><r>arameu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arameu<s n="n"/></l><r>arameu<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>aramaico<s n="adj"/></l><r>arameu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arameu<s n="adj"/></l><r>arameu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hebreu<s n="n"/></l><r>hebreu<s n="n"/></r></p></e>
+<e a="hector"><p><l>hebreu<s n="adj"/></l><r>hebreu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>romani<s n="n"/></l><r>romaní_gitano<s n="n"/></r></p></e>
+<e a="hector"><p><l>romani<s n="adj"/></l><r>romaní_gitano<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bengali<s n="n"/></l><r>bengalí<s n="n"/></r></p></e>
+<e a="hector"><p><l>bengali<s n="adj"/></l><r>bengalí<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>bengalês<s n="n"/></l><r>bengalí<s n="n"/></r></p><par n="GD_mf"/></e>
+<e r="LR" a="hector"><p><l>bengalês<s n="adj"/></l><r>bengalí<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>córnico<s n="n"/></l><r>còrnic<s n="n"/></r></p></e>
+<e a="hector"><p><l>córnico<s n="adj"/></l><r>còrnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asturo-leonês<s n="n"/><s n="m"/><s n="sg"/></l><r>asturlleonès<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>asturo-leonês<s n="adj"/></l><r>asturlleonès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mirandês<s n="n"/></l><r>mirandès<s n="n"/></r></p></e>
+<e a="hector"><p><l>mirandês<s n="adj"/></l><r>mirandès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leonês<s n="n"/></l><r>leonès<s n="n"/></r></p></e>
+<e a="hector"><p><l>leonês<s n="adj"/></l><r>leonès<s n="adj"/></r></p></e>
   </section>
 </dictionary>
