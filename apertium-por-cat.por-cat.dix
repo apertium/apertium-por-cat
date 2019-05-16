@@ -3405,11 +3405,11 @@
 <e>       <p><l>desvio<s n="n"/></l>                   <r>desviament<s n="n"/></r></p></e>
 <e>       <p><l>desígnio<s n="n"/></l>                 <r>designi<s n="n"/></r></p></e>
 <e>       <p><l>detalhe<s n="n"/></l>                  <r>detall<s n="n"/></r></p></e>
-<e>       <p><l>detective<s n="n"/></l>                <r>detectiu<s n="n"/></r></p></e>
+<e vl="pt"><p><l>detective<s n="n"/></l>               <r>detectiu<s n="n"/></r></p><par n="mf_GD"/></e>
 <e r="RL"><p><l>detenção<s n="n"/><s n="f"/></l>       <r>arrest<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>detenção<s n="n"/></l>                 <r>detenció<s n="n"/></r></p></e>
 <e>       <p><l>determinação<s n="n"/></l>             <r>determinació<s n="n"/></r></p></e>
-<e r="LR"><p><l>detetive<s n="n"/></l>                 <r>detectiu<s n="n"/></r></p></e>
+<e vl="br"><p><l>detetive<s n="n"/></l>                <r>detectiu<s n="n"/></r></p><par n="mf_GD"/></e>
 <e>       <p><l>deus<s n="n"/></l>                     <r>déu<s n="n"/></r></p></e>
 <e>       <p><l>dever<s n="n"/></l>                    <r>deure<s n="n"/></r></p></e>
 <e>       <p><l>devolução<s n="n"/></l>                <r>devolució<s n="n"/></r></p></e>
@@ -4635,9 +4635,7 @@
 <e>       <p><l>mãe<s n="n"/></l>                      <r>mare<s n="n"/></r></p></e>
 <e>       <p><l>mão<s n="n"/></l>                      <r>mà<s n="n"/></r></p></e>
 <e>       <p><l>média<s n="n"/></l>                    <r>mitjana<s n="n"/></r></p></e>
-<e r="LR"><p><l>médico<s n="n"/><s n="f"/></l>         <r>metge<s n="n"/><s n="mf"/></r></p></e>
-<e r="RL"><p><l>médico<s n="n"/><s n="GD"/></l>        <r>metge<s n="n"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>médico<s n="n"/><s n="m"/></l>         <r>metge<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>médico<s n="n"/></l>                   <r>metge<s n="n"/></r></p></e>
 <e>       <p><l>mérito<s n="n"/></l>                   <r>mèrit<s n="n"/></r></p></e>
 <e>       <p><l>método<s n="n"/></l>                   <r>mètode<s n="n"/></r></p></e>
 <e>       <p><l>mês<s n="n"/></l>                      <r>mes<s n="n"/></r></p></e>
@@ -4767,6 +4765,7 @@
 <e>       <p><l>organismo<s n="n"/></l>                <r>organisme<s n="n"/></r></p></e>
 <e>       <p><l>organizador<s n="n"/></l>              <r>organitzador<s n="n"/></r></p></e>
 <e>       <p><l>organização<s n="n"/></l>              <r>organització<s n="n"/></r></p></e>
+<e>       <p><l>reorganização<s n="n"/></l>            <r>reorganització<s n="n"/></r></p></e>
 <e>       <p><l>orgulho<s n="n"/></l>                  <r>orgull<s n="n"/></r></p></e>
 <e>       <p><l>orientação<s n="n"/></l>               <r>orientació<s n="n"/></r></p></e>
 <e>       <p><l>origem<s n="n"/><s n="f"/></l>         <r>origen<s n="n"/><s n="m"/></r></p></e>
@@ -21203,7 +21202,7 @@
 <e><p><l>a<b/>través<b/>de<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
 <e><p><l>antes<b/>de<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>para<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-<e><p><l>junto<b/>con<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
+<e><p><l>junto<b/>com<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
 <e><p><l>ao<b/>longo<b/>de<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
 <e><p><l>ao<b/>redor<b/>de<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>em<b/>volta<b/>de<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
@@ -22946,7 +22945,7 @@
 <e a="hector"><p><l>pedra<s n="n"/><s n="f"/></l><r>pedra<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>formatar<s n="vblex"/></l><r>formatar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>complexo<s n="n"/><s n="m"/></l><r>complex<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>cm<s n="n"/><s n="m"/></l><r>cm<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cm<s n="n"/><s n="m"/><s n="sg"/></l><r>cm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e a="hector"><p><l>bronze<s n="n"/><s n="m"/></l><r>bronze<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>suar<s n="vblex"/></l><r>suar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>primário<s n="adj"/></l><r>primari<s n="adj"/></r></p></e>
@@ -22960,7 +22959,7 @@
 <e a="hector"><p><l>aula<s n="n"/><s n="f"/></l><r>aula<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>átomo<s n="n"/><s n="m"/></l><r>àtom<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>aeronave<s n="n"/><s n="f"/></l><r>aeronau<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>técnica<s n="n"/><s n="f"/></l><r>técnica<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>técnica<s n="n"/><s n="f"/></l><r>tècnica<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>raça<s n="n"/><s n="f"/></l><r>raça<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>posicionar<s n="vblex"/></l><r>posicionar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>nordeste<s n="n"/><s n="m"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
@@ -23036,7 +23035,7 @@
 <e a="hector"><p><l>reeleger<s n="vblex"/></l><r>reelegir<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>química<s n="n"/><s n="f"/></l><r>química<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>porta<s n="n"/><s n="f"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>pioneiro<s n="n"/></l><r>pionet<s n="n"/></r></p></e>
+<e a="hector"><p><l>pioneiro<s n="n"/></l><r>pioner<s n="n"/></r></p></e>
 <e a="hector"><p><l>patrocínio<s n="n"/><s n="m"/></l><r>patrocini<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>ortodoxo<s n="adj"/></l><r>ortodox<s n="adj"/></r></p></e>
 <e a="hector"><p><l>norueguês<s n="n"/></l><r>noruec<s n="n"/></r></p></e>
@@ -23228,7 +23227,7 @@
 <e a="hector"><p><l>alcoolismo<s n="n"/><s n="m"/></l><r>alcoholisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>metabolismo<s n="n"/><s n="m"/></l><r>metabolisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>dinamizar<s n="vblex"/></l><r>dinamitzar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>bipartidarismo<s n="n"/><s n="m"/></l><r>bipartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bipartidarismo<s n="n"/><s n="m"/></l><r>bipartidisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>auditoria<s n="n"/><s n="f"/></l><r>auditoria<s n="n"/><s n="f"/></r></p></e>
 <e vl="br" a="hector"><p><l>ativismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
 <e vl="pt" a="hector"><p><l>activismo<s n="n"/><s n="m"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
@@ -23422,9 +23421,9 @@
 <e a="hector"><p><l>provincianismo<s n="n"/><s n="m"/></l><r>provincianisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>proselitismo<s n="n"/><s n="m"/></l><r>proselitisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>preciosismo<s n="n"/><s n="m"/></l><r>preciosisme<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>pluripartidarismo<s n="n"/><s n="m"/></l><r>pluripartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pluripartidarismo<s n="n"/><s n="m"/></l><r>pluripartidisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>perfeccionismo<s n="n"/><s n="m"/></l><r>perfeccionisme<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>multipartidarismo<s n="n"/><s n="m"/></l><r>multipartidarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>multipartidarismo<s n="n"/><s n="m"/></l><r>multipartidisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>mormonismo<s n="n"/><s n="m"/></l><r>mormonisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>moralismo<s n="n"/><s n="m"/></l><r>moralisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>modelismo<s n="n"/><s n="m"/></l><r>modelisme<s n="n"/><s n="m"/></r></p></e>
