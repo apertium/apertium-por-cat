@@ -4001,8 +4001,9 @@
 <e>       <p><l>gordura<s n="n"/><s n="f"/></l>        <r>greix<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>gota<s n="n"/></l>                     <r>gota<s n="n"/></r></p></e>
 <e>       <p><l>governante<s n="n"/></l>               <r>governant<s n="n"/></r></p></e>
-<e>       <p><l>governação<s n="n"/><s n="f"/></l>     <r>govern<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>governo<s n="n"/></l>                  <r>govern<s n="n"/></r></p></e>
+<e r="LR"><p><l>governação<s n="n"/><s n="f"/></l>     <r>governació<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>governo<s n="n"/><s n="f"/></l>        <r>governació<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>governo<s n="n"/></l>                  <r>govern<s n="n"/></r></p></e>
 <e>       <p><l>grade<s n="n"/></l>                    <r>reixa<s n="n"/></r></p></e>
 <e>       <p><l>grado<s n="n"/></l>                    <r>grado<s n="n"/></r></p></e>
 <e r="RL"><p><l>grama<s n="n"/><s n="f"/></l>          <r>gespa<s n="n"/><s n="f"/></r></p></e>
@@ -5580,7 +5581,8 @@
 <e r="RL"><p><l>síntese<s n="n"/><s n="f"/><s n="ND"/></l><r>síntesi<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>síntese<s n="n"/><s n="f"/><s n="ND"/></l><r>síntesi<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>sócio<s n="n"/></l>                    <r>soci<s n="n"/></r></p></e>
-<e>       <p><l>t-shirt<s n="n"/></l>                  <r>samarreta<s n="n"/></r></p></e>
+<e r="LR"><p><l>t-shirt<s n="n"/></l>                  <r>samarreta<s n="n"/></r></p></e>
+<e>       <p><l>camiseta<s n="n"/></l>                 <r>samarreta<s n="n"/></r></p></e>
 <e r="LR"><p><l>tabaco<s n="n"/></l>                   <r>tabac<s n="n"/></r></p></e>
 <e r="RL"><p><l>tabela<s n="n"/></l>                   <r>post<s n="n"/></r></p></e>
 <e r="LR"><p><l>tabela<s n="n"/></l>                   <r>taula<s n="n"/></r></p></e>
@@ -23579,7 +23581,8 @@
 <e a="wiktionary"><p><l>abundantemente<s n="adv"/></l><r>abundantment<s n="adv"/></r></p></e>
 <e a="wiktionary"><p><l>academicamente<s n="adv"/></l><r>acadèmicament<s n="adv"/></r></p></e>
 <e a="wiktionary"><p><l>aceitavelmente<s n="adv"/></l><r>acceptablement<s n="adv"/></r></p></e>
-<e a="wiktionary"><p><l>aC<s n="adv"/></l><r>aC<s n="adv"/></r></p></e>
+<e a="hector"><p><l>d.C.<s n="adv"/></l><r>dC<s n="adv"/></r></p></e>
+<e a="wiktionary"><p><l>a.C.<s n="adv"/></l><r>aC<s n="adv"/></r></p></e>
 <e a="wiktionary"><p><l>anticonstitucionalmente<s n="adv"/></l><r>anticonstitucionalment<s n="adv"/></r></p></e>
 <e a="wiktionary"><p><l>aprox.<s n="adv"/></l><r>aprox.<s n="adv"/></r></p></e>
 <e a="wiktionary"><p><l>arbitrariamente<s n="adv"/></l><r>arbitràriament<s n="adv"/></r></p></e>
