@@ -308,6 +308,10 @@
      <match lemma="mudar" tags="vblex.*"><select lemma="traslladar"/></match>
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
+  <rule weight="1.0">
+     <match lemma="traduzir" tags="vblex.*"/>
+     <match lemma="para" tags="pr"><select lemma="a"/></match>
+  </rule>
 
 
 <!-- **************** ADJ **************** -->

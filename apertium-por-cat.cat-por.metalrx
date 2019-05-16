@@ -334,6 +334,10 @@
      <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
      <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
+  <rule weight="1.0">
+     <match lemma="traduir" tags="vblex.*"/>
+     <match lemma="a" tags="pr"><select lemma="para"/></match>
+  </rule>
 
 <!-- **************** NP **************** -->
 
