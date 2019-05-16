@@ -175,6 +175,14 @@
       <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+
+    <pardef n="anterior_precoç">
+      <e>       <p><l><s n="mf"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="mf"/><s n="pl"/></l><r><s n="GD"/><s n="pl"/></r></p></e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -1251,6 +1259,11 @@
 <e>       <p><l>rouco<s n="adj"/></l>                  <r>ronc<s n="adj"/></r></p></e>
 <e>       <p><l>rural<s n="adj"/></l>                  <r>rural<s n="adj"/></r></p></e>
 <e>       <p><l>russo<s n="adj"/></l>                  <r>rus<s n="adj"/></r></p></e>
+<e>       <p><l>bielorrusso<s n="adj"/></l>            <r>bielorús<s n="adj"/></r></p></e>
+<e r="LR"><p><l>bielorusso<s n="adj"/></l>             <r>bielorús<s n="adj"/></r></p></e>
+<e r="LR"><p><l>belorrusso<s n="adj"/></l>             <r>bielorús<s n="adj"/></r></p></e>
+<e r="LR"><p><l>belorusso<s n="adj"/></l>              <r>bielorús<s n="adj"/></r></p></e>
+<e>       <p><l>belarusso<s n="adj"/></l>              <r>belarús<s n="adj"/></r></p></e>
 <e>       <p><l>rápido<s n="adj"/></l>                 <r>ràpid<s n="adj"/></r></p></e>
 <e>       <p><l>rígido<s n="adj"/></l>                 <r>rígid<s n="adj"/></r></p></e>
 <e>       <p><l>rústico<s n="adj"/></l>                <r>rústic<s n="adj"/></r></p></e>
@@ -5352,6 +5365,11 @@
 <e>       <p><l>rumor<s n="n"/><s n="m"/></l>          <r>rumor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ruptura<s n="n"/></l>                  <r>ruptura<s n="n"/></r></p></e>
 <e>       <p><l>russo<s n="n"/></l>                    <r>rus<s n="n"/></r></p></e>
+<e>       <p><l>bielorrusso<s n="n"/></l>              <r>bielorús<s n="n"/></r></p></e>
+<e r="LR"><p><l>bielorusso<s n="n"/></l>               <r>bielorús<s n="n"/></r></p></e>
+<e r="LR"><p><l>belorrusso<s n="n"/></l>               <r>bielorús<s n="n"/></r></p></e>
+<e r="LR"><p><l>belorusso<s n="n"/></l>                <r>bielorús<s n="n"/></r></p></e>
+<e>       <p><l>belarusso<s n="n"/></l>                <r>belarús<s n="n"/></r></p></e>
 <e>       <p><l>ruído<s n="n"/></l>                    <r>soroll<s n="n"/></r></p></e>
 <e>       <p><l>ruína<s n="n"/></l>                    <r>ruïna<s n="n"/></r></p></e>
 <e>       <p><l>rádio<s n="n"/><s n="f"/></l>          <r>ràdio<s n="n"/><s n="f"/></r></p></e>
@@ -23527,5 +23545,32 @@
 <e r="RL" a="wiktionary"><p><l>gelado<s n="adj"/></l><r>gelat<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>inusitado<s n="adj"/></l><r>inusitat<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>ocioso<s n="adj"/></l><r>ociós<s n="adj"/><s n="sup"/></r></p></e>
+<e a="wiktionary"><p><l>alienável<s n="adj"/></l><r>alienable<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>amante<s n="adj"/></l><r>amant<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>biodegradável<s n="adj"/></l><r>biodegradable<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>cafre<s n="adj"/></l><r>cafre<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>canalha<s n="adj"/></l><r>canalla<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>chocante<s n="adj"/></l><r>xocant<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>confiável<s n="adj"/></l><r>fiable<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>factível<s n="adj"/></l><r>factible<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>guarani<s n="adj"/></l><r>guaraní<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>hipotecável<s n="adj"/></l><r>hipotecable<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>interpolar<s n="adj"/></l><r>interpolar<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>irracional<s n="adj"/></l><r>irracional<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>meridional<s n="adj"/></l><r>meridional<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>ovóide<s n="adj"/></l><r>ovoide<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>pessimista<s n="adj"/></l><r>pessimista<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>polar<s n="adj"/></l><r>polar<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>recipiente<s n="adj"/></l><r>recipient<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>restaurante<s n="adj"/></l><r>restaurant<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>solar<s n="adj"/></l><r>solar<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>tagarela<s n="adj"/></l><r>loquaç<s n="adj"/></r></p><par n="anterior_precoç"/></e>
+<e a="wiktionary"><p><l>transversal<s n="adj"/></l><r>transversal<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>viajante<s n="adj"/></l><r>viatger<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="wiktionary"><p><l>visitante<s n="adj"/></l><r>visitant<s n="adj"/></r></p></e>
+<e a="wiktionary"><p><l>volante<s n="adj"/></l><r>volant<s n="adj"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>par<s n="adj"/></l><r>parell<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e r="RL" a="wiktionary"><p><l>amante<s n="adj"/></l><r>amant<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e r="RL" a="wiktionary"><p><l>ambiental<s n="adj"/></l><r>mediambiental<s n="adj"/></r></p></e>
   </section>
 </dictionary>
