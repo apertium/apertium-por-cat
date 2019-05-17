@@ -3148,7 +3148,7 @@
 					<test>
 						<not>
 							<equal>
-								<clip pos="3" side="tl" part="lem"/> <!-- el pronom sï¿½ que tï¿½ traducciï¿½-->
+								<clip pos="3" side="tl" part="lem"/> <!-- el pronom sí que té traducció-->
 								<lit v=""/>
 							</equal>
 						</not>
@@ -3163,7 +3163,9 @@
 							</test>
 							<out>
 								<lu>
-									<clip pos="3" side="tl" part="lem"/>
+									<get-case-from pos="1">
+										<clip pos="3" side="tl" part="lem"/>
+									</get-case-from>
 									<clip pos="3" side="tl" part="a_prn"/>
 									<lit-tag v="pro"/>
 		 							<clip pos="3" side="tl" part="a_ref"/>
@@ -3186,7 +3188,9 @@
 							<out>
 								<mlu>
 									<lu>
-										<clip pos="2" side="tl" part="lemh"/>
+										<get-case-from pos="1">
+											<clip pos="2" side="tl" part="lemh"/>
+										</get-case-from>
 										<clip pos="2" side="tl" part="a_verb"/>
 										<lit-tag v="ifi"/>
 										<clip pos="1" side="tl" part="persona"/>
@@ -3206,12 +3210,13 @@
 							</out>
 						</otherwise>
 					</choose>
-	
 				</when>
 				<otherwise>
 					<out>
 						<lu>
-							<clip pos="2" side="tl" part="lemh"/>
+							<get-case-from pos="1">
+								<clip pos="2" side="tl" part="lemh"/>
+							</get-case-from>
 							<clip pos="2" side="tl" part="a_verb"/>
 							<lit-tag v="ifi"/>
 							<clip pos="1" side="tl" part="persona"/>
@@ -10852,7 +10857,11 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_infnm"/>
+					<clip pos="2" side="tl" part="a_verb"/>
+					<clip pos="2" side="tl" part="temps"/>
+					<clip pos="2" side="tl" part="persona"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
 			</out>
