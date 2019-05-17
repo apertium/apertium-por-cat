@@ -372,6 +372,21 @@
   </rule>
 
 
+<!-- **************** PRN **************** -->
+
+<!-- que > què, quin -->
+
+  <rule weight="0.6">
+     <match lemma="que" tags="prn.itg.*"><select lemma="què"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="que" tags="prn.itg.*"><select lemma="quin"/></match>
+     <or>
+       <match tags="n.*"/>
+       <match tags="adj.*"/>
+     </or>
+  </rule>
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Afonso" p2="Alfons" />

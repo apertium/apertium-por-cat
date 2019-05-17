@@ -355,6 +355,21 @@
      <match lemma="com" tags="adv"><select lemma="quanto"/></match>
   </rule>
 
+<!-- **************** PRN **************** -->
+
+<!-- quin > que, qual -->
+
+  <rule weight="0.6">
+     <match lemma="quin" tags="prn.itg.*"><select lemma="qual"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="quin" tags="prn.itg.*"><select lemma="que"/></match>
+     <or>
+       <match tags="n.*"/>
+       <match tags="adj.*"/>
+     </or>
+  </rule>
+
 <!-- **************** NP **************** -->
 
   <macro name="noms_propis" p1="Alfons" p2="Afonso" />
