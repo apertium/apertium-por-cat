@@ -338,8 +338,21 @@
      <or>
        <match lemma="traduir" tags="vblex.*"/>
        <match lemma="viatjar" tags="vblex.*"/>
+       <match lemma="anar" tags="vblex.*"/>
      </or>
      <match lemma="a" tags="pr"><select lemma="para"/></match>
+  </rule>
+
+<!-- **************** ADV **************** -->
+
+<!-- com > como, quanto -->
+
+  <rule weight="0.6">
+     <match lemma="com" tags="adv"><select lemma="como"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="tant"/>
+     <match lemma="com" tags="adv"><select lemma="quanto"/></match>
   </rule>
 
 <!-- **************** NP **************** -->
