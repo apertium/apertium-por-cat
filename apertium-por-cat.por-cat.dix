@@ -1197,9 +1197,6 @@
 <e>       <p><l>pálido<s n="adj"/></l>                 <r>pàl·lid<s n="adj"/></r></p></e>
 <e>       <p><l>péssimo<s n="adj"/></l>                <r>pèssim<s n="adj"/></r></p></e>
 <e>       <p><l>público<s n="adj"/></l>                <r>públic<s n="adj"/></r></p></e>
-<e r="LR"><p><l>qual<s n="adj"/><s n="itg"/><s n="mf"/></l><r>quin<s n="adj"/><s n="itg"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>qual<s n="adj"/><s n="itg"/><s n="mf"/></l><r>quin<s n="adj"/><s n="itg"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>qual<s n="adj"/><s n="itg"/><s n="mf"/></l><r>quin<s n="adj"/><s n="itg"/><s n="m"/></r></p></e>
 <e>       <p><l>quanto<s n="adj"/></l>                 <r>quant<s n="adj"/></r></p></e>
 <e>       <p><l>quarto<s n="adj"/></l>                 <r>quart<s n="adj"/><s n="ord"/></r></p></e>
 <e r="RL"><p><l>quente<s n="adj"/><s n="mf"/></l>      <r>calent<s n="adj"/><s n="f"/></r></p></e>
@@ -1790,6 +1787,11 @@
 <e r="RL"><p><l>então<s n="adv"/></l>                  <r>aleshores<s n="adv"/></r></p></e>
 <e>       <p><l>então<s n="adv"/></l>                  <r>llavors<s n="adv"/></r></p></e>
 <e r="LR"><p><l>naquel<b/>então<s n="adv"/></l>        <r>en<b/>aquell<b/>temps<s n="adv"/></r></p></e>
+<e>       <p><l>desde<b/>então<s n="adv"/></l>         <r>des<b/>de<b/>llavors<s n="adv"/></r></p></e>
+<e r="RL"><p><l>desde<b/>então<s n="adv"/></l>         <r>des<b/>d'aleshores<s n="adv"/></r></p></e>
+<e r="RL"><p><l>desde<b/>então<s n="adv"/></l>         <r>d'ençà<s n="adv"/></r></p></e>
+<e r="RL"><p><l>desde<b/>então<s n="adv"/></l>         <r>de<b/>llavors<b/>ençà<s n="adv"/></r></p></e>
+<e r="RL"><p><l>desde<b/>então<s n="adv"/></l>         <r>d'aleshores<b/>ençà<s n="adv"/></r></p></e>
 <e>       <p><l>especialmente<s n="adv"/></l>          <r>especialment<s n="adv"/></r></p></e>
 <e>       <p><l>especificamente<s n="adv"/></l>        <r>específicament<s n="adv"/></r></p></e>
 <e>       <p><l>estatisticamente<s n="adv"/></l>       <r>estadísticament<s n="adv"/></r></p></e>
@@ -2202,6 +2204,7 @@
 <e>       <p><l>de<b/>vez<b/>em<b/>quando<s n="cnjadv"/></l><r>de<b/>tant<b/>en<b/>tant<s n="cnjadv"/></r></p></e>
 <e>       <p><l>demissão<b/>por<b/>justa<b/>causa<s n="cnjadv"/></l><r>comiat<b/>procedent<s n="cnjadv"/></r></p></e>
 <e>       <p><l>desde<b/>que<s n="cnjadv"/></l>        <r>des<b/>que<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>desde<b/>que<s n="cnjadv"/></l>        <r>d'ençà<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>do<b/>contrário<s n="cnjadv"/></l>     <r>en<b/>cas<b/>contrari<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>em<b/>caso<b/>que<s n="cnjadv"/></l>   <r>donat<b/>cas<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>em<b/>caso<b/>que<s n="cnjadv"/></l>   <r>en<b/>cas<b/>que<s n="cnjadv"/></r></p></e>
@@ -2232,7 +2235,11 @@
 <e>       <p><l>pelo<b/>jeito<b/>que<s n="cnjadv"/></l><r>por<b/>la<b/>manera<b/>com<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>pelo<b/>menos<s n="adv"/></l>          <r>almenys<s n="adv"/></r></p></e>
 <e>       <p><l>pois<s n="cnjadv"/></l>                <r>doncs<s n="cnjadv"/></r></p></e>
-<e>       <p><l>porquanto<s n="cnjadv"/></l>           <r>puix<b/>que<s n="cnjadv"/></r></p></e>
+<e r="LR"><p><l>pois<b/>então<s n="cnjadv"/></l>       <r>doncs<s n="cnjadv"/></r></p></e>
+<e r="LR"><p><l>pois<b/>que<s n="cnjadv"/></l>         <r>puix<b/>que<s n="cnjadv"/></r></p></e>
+<e>       <p><l>porquanto<s n="cnjadv"/></l>           <r>atès<b/>que<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>porquanto<s n="cnjadv"/></l>           <r>atés<b/>que<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>porquanto<s n="cnjadv"/></l>           <r>puix<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>porque<s n="cnjadv"/></l>              <r>perquè<s n="cnjadv"/></r></p></e>
 <e>       <p><l>portanto<s n="cnjadv"/></l>            <r>per<b/>tant<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>porém<s n="cnjadv"/></l>               <r>no<b/>obstant<b/>això<s n="cnjadv"/></r></p></e>
@@ -2381,6 +2388,11 @@
 <e>       <p><l>accionista<s n="n"/></l>               <r>accionista<s n="n"/></r></p></e>
 <e>       <p><l>aceitação<s n="n"/></l>                <r>acceptació<s n="n"/></r></p></e>
 <e>       <p><l>aceleração<s n="n"/></l>               <r>acceleració<s n="n"/></r></p></e>
+<e>       <p><l>desaceleração<s n="n"/></l>            <r>desacceleració<s n="n"/></r></p></e>
+<e>       <p><l>acelerador<s n="n"/></l>               <r>accelerador<s n="n"/></r></p></e>
+<e>       <p><l>aceleramento<s n="n"/></l>             <r>accelerament<s n="n"/></r></p></e>
+<e r="LR"><p><l>desaceleramento<s n="n"/></l>          <r>desacceleració<s n="n"/></r></p></e>
+<e>       <p><l>aceleradamente<s n="adv"/></l>         <r>acceleradament<s n="adv"/></r></p></e>
 <e>       <p><l>acento<s n="n"/></l>                   <r>accent<s n="n"/></r></p></e>
 <e>       <p><l>acesso<s n="n"/></l>                   <r>accés<s n="n"/></r></p></e>
 <e>       <p><l>achado<s n="n"/><s n="m"/></l>         <r>troballa<s n="n"/><s n="f"/></r></p></e>
@@ -2552,6 +2564,8 @@
 <e>       <p><l>aroma<s n="n"/><s n="m"/></l>          <r>aroma<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt"><p><l>arquitecto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
 <e vl="br"><p><l>arquiteto<s n="n"/></l><r>arquitecte<s n="n"/></r></p><par n="outro_altre"/></e>
+<e vl="pt"><p><l>arquitectura<s n="n"/></l><r>arquitectura<s n="n"/></r></p></e>
+<e vl="br"><p><l>arquitetura<s n="n"/></l><r>arquitectura<s n="n"/></r></p></e>
 <e>       <p><l>arquivo<s n="n"/></l>                  <r>arxiu<s n="n"/></r></p></e>
 <e r="RL"><p><l>arquivo<s n="n"/></l>                  <r>fitxer<s n="n"/></r></p></e>
 <e>       <p><l>arranjo<s n="n"/></l>                  <r>arranjament<s n="n"/></r></p></e>
@@ -21135,6 +21149,7 @@
 <e r="LR"><p><l>debaixo<b/>de<s n="pr"/></l>           <r>sota<s n="pr"/></r></p></e>
 <e>       <p><l>depois<b/>de<s n="pr"/></l>            <r>després<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>desde<s n="pr"/></l>                   <r>des<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>desde<s n="pr"/></l>                   <r>d'ençà<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>devido<b/>a<s n="pr"/></l>             <r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>durante<s n="pr"/></l>                 <r>durant<s n="pr"/></r></p></e>
 <e>       <p><l>em<s n="pr"/></l>                      <r>en<s n="pr"/></r></p></e>
@@ -21313,12 +21328,11 @@
         <r>qual<s n="rel"/><s n="an"/></r> 
       </p>
     </e>-->
-<e r="LR"><p><l>qual<s n="prn"/><s n="itg"/><s n="mf"/></l><r>quin<s n="prn"/><s n="itg"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>qual<s n="prn"/><s n="itg"/><s n="mf"/></l><r>quin<s n="prn"/><s n="itg"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>qual<s n="prn"/><s n="itg"/><s n="mf"/></l><r>quin<s n="prn"/><s n="itg"/><s n="m"/></r></p></e>
+<e>       <p><l>qual<s n="prn"/><s n="itg"/></l>       <r>quin<s n="prn"/><s n="itg"/></r></p><par n="mf_GD"/><par n="sp_sp"/></e>
+<e>       <p><l>que<s n="prn"/><s n="itg"/></l>        <r>quin<s n="prn"/><s n="itg"/></r></p><par n="mf_GD"/><par n="sg_ND"/></e>
 <e>       <p><l>qualquer<s n="prn"/></l>               <r>qualsevol<s n="prn"/></r></p></e>
 <e>       <p><l>quanto<s n="prn"/></l>                 <r>quant<s n="prn"/></r></p></e>
-<e>       <p><l>que<s n="prn"/><s n="itg"/></l>        <r>què<s n="prn"/><s n="itg"/></r></p></e>
+<e>       <p><l>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></l><r>què<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
 <e>       <p><l>quem<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>qui<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>quem<b/>quer<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="ND"/></r></p></e>
 <e>       <p><l>se<s n="prn"/><s n="enc"/><s n="ref"/></l><r>es<s n="prn"/><s n="enc"/><s n="ref"/></r></p></e>
@@ -21398,6 +21412,7 @@
 <e>       <p><l>aceder<s n="vblex"/></l>               <r>accedir<s n="vblex"/></r></p></e>
 <e>       <p><l>aceitar<s n="vblex"/></l>              <r>acceptar<s n="vblex"/></r></p></e>
 <e>       <p><l>acelerar<s n="vblex"/></l>             <r>accelerar<s n="vblex"/></r></p></e>
+<e>       <p><l>desacelerar<s n="vblex"/></l>          <r>desaccelerar<s n="vblex"/></r></p></e>
 <e>       <p><l>acender<s n="vblex"/></l>              <r>encendre<s n="vblex"/></r></p></e>
 <e>       <p><l>acentuar<s n="vblex"/></l>             <r>accentuar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>acercar<s n="vblex"/></l>              <r>acostar<s n="vblex"/></r></p></e>
