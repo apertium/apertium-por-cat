@@ -1496,6 +1496,7 @@
 <e r="LR"><p><l>úmido<s n="adj"/></l>                  <r>humit<s n="adj"/></r></p></e>
 <e>       <p><l>único<s n="adj"/></l>                  <r>únic<s n="adj"/></r></p></e>
 <e>       <p><l>útil<s n="adj"/></l>                   <r>útil<s n="adj"/></r></p></e>
+
     <!-- ******************************
           group adv_symbol
       ****************************** -->
@@ -1672,6 +1673,7 @@
 <e>       <p><l>com<b/>tudo<b/>que<b/>eu<b/>tenho<b/>direito<s n="adv"/></l><r>amb<b/>totes<b/>les<b/>de<b/>la<b/>llei<s n="adv"/></r></p></e>
 <e r="LR"><p><l>com<b/>uma<b/>mão<b/>na<b/>frente<b/>e<b/>outra<b/>atrás<s n="adv"/></l><r>amb<b/>una<b/>mà<b/>davant<b/>i<b/>una<b/>mà<b/>darrere<s n="adv"/></r></p></e>
 <e>       <p><l>como<s n="adv"/></l>                   <r>com<s n="adv"/></r></p></e>
+<e>       <p><l>quanto<s n="adv"/></l>                 <r>com<s n="adv"/></r></p></e>
 <e>       <p><l>como<b/>exemplo<s n="adv"/></l>        <r>com<b/>a<b/>exemple<s n="adv"/></r></p></e>
 <e>       <p><l>comodamente<s n="adv"/></l>            <r>còmodament<s n="adv"/></r></p></e>
 <e>       <p><l>completamente<s n="adv"/></l>          <r>completament<s n="adv"/></r></p></e>
@@ -1787,6 +1789,7 @@
 <e>       <p><l>entre<b/>as<b/>refeições<s n="adv"/></l><r>entre<b/>hores<s n="adv"/></r></p></e>
 <e r="RL"><p><l>então<s n="adv"/></l>                  <r>aleshores<s n="adv"/></r></p></e>
 <e>       <p><l>então<s n="adv"/></l>                  <r>llavors<s n="adv"/></r></p></e>
+<e r="LR"><p><l>naquel<b/>então<s n="adv"/></l>        <r>en<b/>aquell<b/>temps<s n="adv"/></r></p></e>
 <e>       <p><l>especialmente<s n="adv"/></l>          <r>especialment<s n="adv"/></r></p></e>
 <e>       <p><l>especificamente<s n="adv"/></l>        <r>específicament<s n="adv"/></r></p></e>
 <e>       <p><l>estatisticamente<s n="adv"/></l>       <r>estadísticament<s n="adv"/></r></p></e>
@@ -1977,6 +1980,7 @@
 <e>       <p><l>ontem<s n="adv"/></l>                  <r>ahir<s n="adv"/></r></p></e>
 <e r="RL"><p><l>ontem<b/>à<b/>noite<s n="adv"/></l>    <r>anit<s n="adv"/></r></p></e>
 <e>       <p><l>out<s n="adv"/></l>                    <r>out<s n="adv"/></r></p></e>
+<e r="LR"><p><l>outrora<s n="adv"/></l>                <r>en<b/>altre<b/>temps<s n="adv"/></r></p></e>
 <e>       <p><l>pacientemente<s n="adv"/></l>          <r>pacientment<s n="adv"/></r></p></e>
 <e r="LR"><p><l>para<b/>além<s n="adv"/></l>           <r>més<b/>enllà<s n="adv"/></r></p></e>
 <e>       <p><l>para<b/>valer<s n="adv"/></l>          <r>de<b/>debò<s n="adv"/></r></p></e>
@@ -2310,6 +2314,7 @@
 <e>       <p><l>um<s n="det"/></l>                     <r>un<s n="det"/></r></p></e>
 <e r="LR"><p><l>vosso<s n="det"/></l>                  <r>el<b/>vostre<s n="det"/></r></p></e>
 <e>       <p><l>vário<s n="det"/></l>                  <r>divers<s n="det"/></r></p></e>
+
     <!-- ******************************
           group ij_symbol
       ****************************** -->
@@ -4008,6 +4013,7 @@
 <e>       <p><l>governo<s n="n"/></l>                  <r>govern<s n="n"/></r></p></e>
 <e>       <p><l>grade<s n="n"/></l>                    <r>reixa<s n="n"/></r></p></e>
 <e>       <p><l>grado<s n="n"/></l>                    <r>grado<s n="n"/></r></p></e>
+<e>       <p><l>graduar<s n="vblex"/></l>              <r>graduar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>grama<s n="n"/><s n="f"/></l>          <r>gespa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>grama<s n="n"/><s n="f"/></l>          <r>gram<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>granada<s n="n"/></l>                  <r>magrana<s n="n"/></r></p></e>
