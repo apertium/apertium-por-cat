@@ -312,6 +312,7 @@
      <or>
        <match lemma="traduzir" tags="vblex.*"/>
        <match lemma="viajar" tags="vblex.*"/>
+       <!--       <match lemma="ir" tags="vblex.*"/> -->
      </or>
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
