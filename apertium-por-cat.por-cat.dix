@@ -5963,9 +5963,8 @@
 <e>       <p><l>índole<s n="n"/></l>                   <r>índole<s n="n"/></r></p></e>
 <e>       <p><l>ódio<s n="n"/></l>                     <r>odi<s n="n"/></r></p></e>
 <e r="LR"><p><l>óleo<s n="n"/></l>                     <r>oli<s n="n"/></r></p></e>
-<e r="RL"><p><l>ónibus<s n="n"/><s n="m"/><s n="sp"/></l><r>autobús<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>ónibus<s n="n"/><s n="m"/><s n="sp"/></l><r>autobús<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR"><p><l>ónibus<s n="n"/><s n="m"/><s n="sp"/></l><r>autobús<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+<e vl="pt"><p><l>ónibus<s n="n"/><s n="m"/></l>        <r>autobús<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+<e vl="br"><p><l>ônibus<s n="n"/><s n="m"/></l>        <r>autobús<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 <e r="LR"><p><l>ónus<s n="n"/><s n="m"/><s n="sp"/></l><r>càrrega<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>ónus<s n="n"/><s n="m"/><s n="sp"/></l><r>càrrega<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>ónus<s n="n"/><s n="m"/><s n="sp"/></l><r>càrrega<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -5973,7 +5972,6 @@
 <e>       <p><l>órbita<s n="n"/></l>                   <r>òrbita<s n="n"/></r></p></e>
 <e>       <p><l>órgão<s n="n"/></l>                    <r>òrgan<s n="n"/></r></p></e>
 <e r="RL"><p><l>órgão<s n="n"/></l>                    <r>orgue<s n="n"/></r></p></e>
-<e r="LR"><p><l>ônibus<s n="n"/><s n="m"/><s n="sp"/></l><r>autobús<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 
     <!-- ******************************
           group np_symbol
@@ -23733,6 +23731,8 @@
 <e a="wiktionary"><p><l>quinquagésimo<b/>sexto<s n="adj"/></l><r>cinquanta-sisè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quinquagésimo<b/>terceiro<s n="adj"/></l><r>cinquanta-tresè<s n="adj"/><s n="ord"/></r></p></e>
 <e a="wiktionary"><p><l>quinquagésimo<s n="adj"/></l><r>cinquantè<s n="adj"/><s n="ord"/></r></p></e>
+<e><p><l>Rio<s n="np"/><s n="top"/></l><r>Rio<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Rio<b/>de<b/>Janeiro<s n="np"/><s n="top"/></l><r>Rio<b/>de<b/>Janeiro<s n="np"/><s n="top"/></r></p></e>
 
   </section>
 </dictionary>
