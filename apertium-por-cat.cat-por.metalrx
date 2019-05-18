@@ -290,6 +290,34 @@
      <match tags="adj.*"/>
   </rule>
 
+  <!-- cap >> chefe, cabeça, cabo -->
+  <rule weight="0.8">
+    <match lemma="cap" tags="n.*"><select lemma="chefe"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cap" tags="n.*"><select lemma="cabo"/></match>
+    <or><match tags="np.top.*"/><match tags="np.loc"/></or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cap" tags="n.*"><select lemma="cabo"/></match>
+    <match lemma="de" tags="pr"/>
+    <or><match tags="np.top.*"/><match tags="np.loc"/></or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cap" tags="n.*"><select lemma="cabeça"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="comarca" tags="n.*"/>
+
+      <match lemma="animal" tags="n.*"/>
+      <match lemma="peix" tags="n.*"/>
+      <match lemma="gos" tags="n.*"/>
+      <match lemma="gat" tags="n.*"/>
+      <match lemma="bou" tags="n.*"/>
+      <match lemma="vaca" tags="n.*"/>
+    </or>
+  </rule>
+
   <!-- població > população, povoação -->
 
   <rule weight="0.6">
