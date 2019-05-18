@@ -715,6 +715,8 @@
 <e>       <p><l>fácil<s n="adj"/></l>                  <r>fàcil<s n="adj"/></r></p></e>
 <e>       <p><l>férreo<s n="adj"/></l>                 <r>ferri<s n="adj"/></r></p></e>
 <e>       <p><l>físico<s n="adj"/></l>                 <r>físic<s n="adj"/></r></p></e>
+<e>       <p><l>físico<s n="n"/></l>                   <r>físic<s n="n"/></r></p></e>
+<e>       <p><l>física<s n="n"/></l>                   <r>física<s n="n"/></r></p></e>
 <e>       <p><l>galego<s n="adj"/></l>                 <r>gallec<s n="adj"/></r></p></e>
 <e>       <p><l>galáctico<s n="adj"/></l>              <r>galàctic<s n="adj"/></r></p></e>
 <e r="RL"><p><l>galã<s n="adj"/><s n="mf"/></l>        <r>galà<s n="adj"/><s n="m"/></r></p></e>
@@ -3312,6 +3314,7 @@
 <e r="LR"><p><l>cárcere<s n="n"/><s n="m"/></l>        <r>presó<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cátedra<s n="n"/></l>                  <r>càtedra<s n="n"/></r></p></e>
 <e>       <p><l>câmara<s n="n"/></l>                   <r>càmera<s n="n"/></r></p></e>
+<e>       <p><l>câmara<s n="n"/></l>                   <r>cambra<s n="n"/></r></p></e>
 <e r="LR"><p><l>câmbio<s n="n"/><s n="m"/></l>         <r>canvi<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>câmera<s n="n"/></l>                   <r>càmera<s n="n"/></r></p></e>
 <e r="LR"><p><l>câmpus<s n="n"/></l>                   <r>campus<s n="n"/></r></p></e>
@@ -3707,7 +3710,7 @@
 <e>       <p><l>estabelecimento<s n="n"/></l>          <r>establiment<s n="n"/></r></p></e>
 <e>       <p><l>estabilidade<s n="n"/></l>             <r>estabilitat<s n="n"/></r></p></e>
 <e>       <p><l>estacionamento<s n="n"/></l>           <r>aparcament<s n="n"/></r></p></e>
-<e>       <p><l>estadia<s n="n"/></l>                  <r>estada<s n="n"/></r></p></e>
+<e vl="pt"><p><l>estadia<s n="n"/></l>                  <r>estada<s n="n"/></r></p></e>
 <e>       <p><l>estado<s n="n"/></l>                   <r>estat<s n="n"/></r></p></e>
 <e r="LR"><p><l>estafa<s n="n"/></l>                   <r>cansament<s n="n"/></r></p></e>
 <e>       <p><l>estandarte<s n="n"/></l>               <r>estendard<s n="n"/></r></p></e>
@@ -3734,8 +3737,8 @@
 <e r="LR"><p><l>estupro<s n="n"/><s n="m"/></l>        <r>violació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>estádio<s n="n"/></l>                  <r>estadi<s n="n"/></r></p></e>
 <e>       <p><l>estátua<s n="n"/></l>                  <r>estàtua<s n="n"/></r></p></e>
-<e r="LR"><p><l>estância<s n="n"/></l>                 <r>estada<s n="n"/></r></p></e>
-<e>       <p><l>estância<s n="n"/></l>                 <r>cambra<s n="n"/></r></p></e>
+<e vl="pt"><p><l>estância<s n="n"/></l>                 <r>estada<s n="n"/></r></p></e>
+<e i="yes"><p><l>estância<s n="n"/></l>                 <r>cambra<s n="n"/></r></p></e>
 <e>       <p><l>estímulo<s n="n"/></l>                 <r>estímul<s n="n"/></r></p></e>
 <e>       <p><l>estômago<s n="n"/></l>                 <r>estómac<s n="n"/></r></p></e>
 <e r="RL"><p><l>estômago<s n="n"/></l>                 <r>estómec<s n="n"/></r></p></e>
@@ -23037,7 +23040,7 @@
 <e a="hector"><p><l>colapso<s n="n"/><s n="m"/></l><r>col·lapse<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>captura<s n="n"/><s n="f"/></l><r>captura<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>capacitar<s n="vblex"/></l><r>capacitar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>banhar<s n="vblex"/></l><r>banhar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>banhar<s n="vblex"/></l><r>banyar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>antecessor<s n="n"/></l><r>antecessor<s n="n"/></r></p></e>
 <e a="hector"><p><l>adequar<s n="vblex"/></l><r>adequar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>vinha<s n="n"/><s n="f"/></l><r>vinya<s n="n"/><s n="f"/></r></p></e>
@@ -23045,6 +23048,7 @@
 <e a="hector"><p><l>usualmente<s n="adv"/></l><r>usualment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>UNESCO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>testemunhar<s n="vblex"/></l><r>testimoniar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>testificar<s n="vblex"/></l><r>testificar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>teoria<s n="n"/><s n="f"/></l><r>teoria<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tecnologia<s n="n"/><s n="f"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>status<s n="n"/><s n="m"/><s n="sp"/></l><r>estatus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -23733,6 +23737,517 @@
 <e a="wiktionary"><p><l>quinquagésimo<s n="adj"/></l><r>cinquantè<s n="adj"/><s n="ord"/></r></p></e>
 <e><p><l>Rio<s n="np"/><s n="top"/></l><r>Rio<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Rio<b/>de<b/>Janeiro<s n="np"/><s n="top"/></l><r>Rio<b/>de<b/>Janeiro<s n="np"/><s n="top"/></r></p></e>
+<e a="wiktionary"><p><l>abecedário<s n="n"/><s n="m"/></l><r>abecedari<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>absinto<s n="n"/><s n="m"/></l><r>absenta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>acabado<s n="n"/><s n="m"/></l><r>acabat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>acabamento<s n="n"/><s n="m"/></l><r>acabat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>acrofobia<s n="n"/><s n="f"/></l><r>acrofòbia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>actínio<s n="n"/><s n="m"/></l><r>actini<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>acupuntura<s n="n"/><s n="f"/></l><r>acupuntura<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>adivinha<s n="n"/><s n="f"/></l><r>endevinalla<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>adjectivo<s n="n"/><s n="m"/></l><r>adjectiu<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>advérbio<s n="n"/><s n="m"/></l><r>adverbi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aeronáutica<s n="n"/><s n="f"/></l><r>aeronàutica<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>afeto<s n="n"/><s n="m"/></l><r>afecte<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alambique<s n="n"/><s n="m"/></l><r>alambí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>albergaria<s n="n"/><s n="f"/></l><r>alberg<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alecrim<s n="n"/><s n="m"/></l><r>romaní<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alface<s n="n"/><s n="f"/></l><r>enciam<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alfarrobeira<s n="n"/><s n="f"/></l><r>garrofer<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>algaravia<s n="n"/><s n="f"/></l><r>algaravia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>algodão<s n="n"/><s n="m"/></l><r>cotó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>algoritmo<s n="n"/><s n="m"/></l><r>algorisme<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>algoritmo<s n="n"/><s n="m"/></l><r>algoritme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alho<s n="n"/><s n="m"/></l><r>all<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aljava<s n="n"/><s n="f"/></l><r>buirac<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alódio<s n="n"/><s n="m"/></l><r>alou<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>alpaca<s n="n"/><s n="f"/></l><r>alpaca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>alumínio<s n="n"/><s n="m"/></l><r>alumini<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>amálgama<s n="n"/><s n="f"/></l><r>amalgama<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>amanhã<s n="n"/><s n="m"/><s n="sg"/></l><r>demà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="wiktionary"><p><l>amerício<s n="n"/><s n="m"/></l><r>americi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>amito<s n="n"/><s n="m"/></l><r>amit<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>amuleto<s n="n"/><s n="m"/></l><r>amulet<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>anchova<s n="n"/><s n="f"/></l><r>anxova<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>andaime<s n="n"/><s n="m"/></l><r>bastida<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>andorinha<s n="n"/><s n="f"/></l><r>oreneta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>antídoto<s n="n"/><s n="m"/></l><r>antídot<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>antimónio<s n="n"/><s n="m"/></l><r>antimoni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>antipartícula<s n="n"/><s n="f"/></l><r>antipartícula<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>antropocentrismo<s n="n"/><s n="m"/></l><r>antropocentrisme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>apêndice<s n="n"/><s n="m"/></l><r>apèndix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aposta<s n="n"/><s n="f"/></l><r>aposta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>aqueduto<s n="n"/><s n="m"/></l><r>aqüeducte<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arbusto<s n="n"/><s n="m"/></l><r>arbust<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arcaísmo<s n="n"/><s n="m"/></l><r>arcaisme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aréola<s n="n"/><s n="f"/></l><r>arèola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>argamassa<s n="n"/><s n="f"/></l><r>argamassa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>argila<s n="n"/><s n="f"/></l><r>argila<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>árgon<s n="n"/><s n="m"/></l><r>argó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arpão<s n="n"/><s n="m"/></l><r>arpó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arquitrave<s n="n"/><s n="f"/></l><r>arquitrau<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arquivolta<s n="n"/><s n="f"/></l><r>arquivolta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>arrepio<s n="n"/><s n="m"/></l><r>calfred<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arsénio<s n="n"/><s n="m"/></l><r>arsènic<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>arteríola<s n="n"/><s n="f"/></l><r>arteriola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>artilharia<s n="n"/><s n="f"/></l><r>artilleria<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>asbesto<s n="n"/><s n="m"/></l><r>amiant<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ástato<s n="n"/><s n="m"/></l><r>àstat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>atalho<s n="n"/><s n="m"/></l><r>drecera<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>atril<s n="n"/><s n="m"/></l><r>faristol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>atum<s n="n"/><s n="m"/></l><r>tonyina<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>augúrio<s n="n"/><s n="m"/></l><r>auguri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aurora<s n="n"/><s n="f"/></l><r>aurora<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>avaria<s n="n"/><s n="f"/></l><r>avaria<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>avental<s n="n"/><s n="m"/></l><r>davantal<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>aviso<s n="n"/><s n="m"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>azeiteira<s n="n"/><s n="f"/></l><r>setrill<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>azeviche<s n="n"/><s n="m"/></l><r>atzabeja<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>bacalhau<s n="n"/><s n="m"/></l><r>bacallà<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>badalo<s n="n"/><s n="m"/></l><r>batall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>bagunça<s n="n"/><s n="f"/></l><r>guirigall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>baioneta<s n="n"/><s n="f"/></l><r>baioneta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>banheira<s n="n"/><s n="f"/></l><r>banyera<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>barbarismo<s n="n"/><s n="m"/></l><r>barbarisme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>barbatana<s n="n"/><s n="f"/></l><r>aleta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>básquete<s n="n"/><s n="m"/><s n="sg"/></l><r>basquetbol<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="wiktionary"><p><l>berbequim<s n="n"/><s n="m"/></l><r>trepant<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>berílio<s n="n"/><s n="m"/></l><r>beril·li<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>berquélio<s n="n"/><s n="m"/></l><r>berkeli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>betão<s n="n"/><s n="m"/></l><r>formigó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>bigorna<s n="n"/><s n="f"/></l><r>enclusa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>biologia<s n="n"/><s n="f"/></l><r>biologia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>biotecnologia<s n="n"/><s n="f"/></l><r>biotecnologia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>bismuto<s n="n"/><s n="m"/></l><r>bismut<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>bocejo<s n="n"/><s n="m"/></l><r>badall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>bolso<s n="n"/><s n="m"/></l><r>butxaca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>bombo<s n="n"/><s n="m"/></l><r>bombo<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>boro<s n="n"/><s n="m"/></l><r>bor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>bromo<s n="n"/><s n="m"/></l><r>brom<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>busto<s n="n"/><s n="m"/></l><r>bust<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>caça<s n="n"/><s n="f"/></l><r>caça<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cachecol<s n="n"/><s n="m"/></l><r>bufanda<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cádmio<s n="n"/><s n="m"/></l><r>cadmi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cálcio<s n="n"/><s n="m"/></l><r>calci<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>calda<s n="n"/><s n="f"/></l><r>almívar<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cálice<s n="n"/><s n="m"/></l><r>calze<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>califórnio<s n="n"/><s n="m"/></l><r>californi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>calo<s n="n"/><s n="m"/></l><r>call<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>canela<s n="n"/><s n="f"/></l><r>canyella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>capitel<s n="n"/><s n="m"/></l><r>capitell<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>caracol<s n="n"/><s n="m"/></l><r>caragol<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>caracol<s n="n"/><s n="m"/></l><r>cargol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>casca<s n="n"/><s n="f"/></l><r>escorça<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>castor<s n="n"/><s n="m"/></l><r>castor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>catapulta<s n="n"/><s n="f"/></l><r>catapulta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>caule<s n="n"/><s n="m"/></l><r>tija<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cegonha<s n="n"/><s n="f"/></l><r>cigonya<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cenoura<s n="n"/><s n="f"/></l><r>pastanaga<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cêntimo<s n="n"/><s n="m"/></l><r>cèntim<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cera<s n="n"/><s n="f"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cério<s n="n"/><s n="m"/></l><r>ceri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>césio<s n="n"/><s n="m"/></l><r>cesi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>chalota<s n="n"/><s n="f"/></l><r>escalunya<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>chaminé<s n="n"/><s n="f"/></l><r>xemeneia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>chapéu<s n="n"/><s n="m"/></l><r>barret<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>chassi<s n="n"/><s n="m"/></l><r>xassís<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>chumbo<s n="n"/><s n="m"/></l><r>plom<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>chuveiro<s n="n"/><s n="m"/></l><r>xàfec<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cimento<s n="n"/><s n="m"/></l><r>ciment<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cipreste<s n="n"/><s n="m"/></l><r>xiprer<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cisne<s n="n"/><s n="m"/></l><r>cigne<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>claustro<s n="n"/><s n="m"/></l><r>claustre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cloro<s n="n"/><s n="m"/></l><r>clor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cobalto<s n="n"/><s n="m"/></l><r>cobalt<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cobertor<s n="n"/><s n="m"/></l><r>manta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cobre<s n="n"/><s n="m"/></l><r>coure<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>códice<s n="n"/><s n="m"/></l><r>còdex<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>codicilo<s n="n"/><s n="m"/></l><r>codicil<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cofre<s n="n"/><s n="m"/></l><r>cofre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>colcheia<s n="n"/><s n="f"/></l><r>corxera<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>colete<s n="n"/><s n="m"/></l><r>armilla<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>colete<s n="n"/><s n="m"/></l><r>collar<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>colmeia<s n="n"/><s n="f"/></l><r>rusc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cólon<s n="n"/><s n="m"/></l><r>còlon<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>confraria<s n="n"/><s n="f"/></l><r>confraria<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>contrabaixo<s n="n"/><s n="m"/></l><r>contrabaix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>convés<s n="n"/><s n="m"/></l><r>coberta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>coordenada<s n="n"/><s n="f"/></l><r>coordenada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>corda<s n="n"/><s n="f"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cordilheira<s n="n"/><s n="f"/></l><r>serralada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cornija<s n="n"/><s n="f"/></l><r>cornisa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cortiça<s n="n"/><s n="f"/></l><r>suro<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>corvo<s n="n"/><s n="m"/></l><r>corb<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>costela<s n="n"/><s n="f"/></l><r>costella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cotovelo<s n="n"/><s n="m"/></l><r>colze<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cotovia<s n="n"/><s n="f"/></l><r>alosa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>couraça<s n="n"/><s n="f"/></l><r>cuirassa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cozido<s n="n"/><s n="m"/></l><r>escudella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>crinolina<s n="n"/><s n="f"/></l><r>mirinyac<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cripta<s n="n"/><s n="f"/></l><r>cripta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>crípton<s n="n"/><s n="m"/></l><r>criptó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>crisálida<s n="n"/><s n="f"/></l><r>crisàlide<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>crítica<s n="n"/><s n="f"/></l><r>crítica<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>cromo<s n="n"/><s n="m"/></l><r>crom<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>crucifixo<s n="n"/><s n="m"/></l><r>crucifix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>cúrio<s n="n"/><s n="m"/></l><r>curi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>decímetro<s n="n"/><s n="m"/></l><r>decímetre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>dedal<s n="n"/><s n="m"/></l><r>didal<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>delfim<s n="n"/><s n="m"/></l><r>dofí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>delta<s n="n"/><s n="m"/></l><r>delta<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>desmaio<s n="n"/><s n="m"/></l><r>desmai<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>diácono<s n="n"/><s n="m"/></l><r>diaca<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>dieta<s n="n"/><s n="f"/></l><r>dieta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>dinastia<s n="n"/><s n="f"/></l><r>dinastia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>distanásia<s n="n"/><s n="f"/></l><r>distanàsia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>dote<s n="n"/><s n="m"/></l><r>dot<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>eclipse<s n="n"/><s n="m"/></l><r>eclipsi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>eléctron<s n="n"/><s n="m"/></l><r>electró<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>elipse<s n="n"/><s n="f"/></l><r>el·lipse<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>emblema<s n="n"/><s n="m"/></l><r>emblema<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>empatia<s n="n"/><s n="f"/></l><r>empatia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>enxofre<s n="n"/><s n="m"/></l><r>sofre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>érbio<s n="n"/><s n="m"/></l><r>erbi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ermo<s n="n"/><s n="m"/></l><r>erm<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>escândio<s n="n"/><s n="m"/></l><r>escandi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>escora<s n="n"/><s n="f"/></l><r>escora<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>esgrima<s n="n"/><s n="f"/></l><r>esgrima<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>esmalte<s n="n"/><s n="m"/></l><r>esmalt<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>espargo<s n="n"/><s n="m"/></l><r>espàrrec<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>espirro<s n="n"/><s n="m"/></l><r>esternut<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>esquadro<s n="n"/><s n="m"/></l><r>escaire<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>esquilo<s n="n"/><s n="m"/></l><r>esquirol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>estaleiro<s n="n"/><s n="m"/></l><r>drassana<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>estanho<s n="n"/><s n="m"/></l><r>estany<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>estendal<s n="n"/><s n="m"/></l><r>estenedor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>estola<s n="n"/><s n="f"/></l><r>estola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>estorninho<s n="n"/><s n="m"/></l><r>estornell<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>estrofe<s n="n"/><s n="f"/></l><r>estrofa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>estrôncio<s n="n"/><s n="m"/></l><r>estronci<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>etimologia<s n="n"/><s n="f"/></l><r>etimologia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>európio<s n="n"/><s n="m"/></l><r>europi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>evangelho<s n="n"/><s n="m"/></l><r>evangeli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>fábula<s n="n"/><s n="f"/></l><r>faula<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>fada<s n="n"/><s n="f"/></l><r>fada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>fagote<s n="n"/><s n="m"/></l><r>fagot<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>falácia<s n="n"/><s n="f"/></l><r>fal·làcia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>falcão<s n="n"/><s n="m"/></l><r>falcó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>falésia<s n="n"/><s n="f"/></l><r>penya-segat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>faraó<s n="n"/><s n="m"/></l><r>faraó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>farpa<s n="n"/><s n="f"/></l><r>estella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>fauna<s n="n"/><s n="f"/></l><r>fauna<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>febre<s n="n"/><s n="f"/></l><r>febre<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>fechadura<s n="n"/><s n="f"/></l><r>pany<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>fêmea<s n="n"/><s n="f"/></l><r>femella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>férmio<s n="n"/><s n="m"/></l><r>fermi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>feudo<s n="n"/><s n="m"/></l><r>feu<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>fígado<s n="n"/><s n="m"/></l><r>fetge<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>física<s n="n"/><s n="f"/></l><r>física<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>flauta<s n="n"/><s n="f"/></l><r>flauta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>floco<s n="n"/><s n="m"/></l><r>floc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>flúor<s n="n"/><s n="m"/></l><r>fluor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>foca<s n="n"/><s n="f"/></l><r>foca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>foice<s n="n"/><s n="f"/></l><r>falç<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>fosso<s n="n"/><s n="m"/></l><r>fossat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>frade<s n="n"/><s n="m"/></l><r>frare<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>fragata<s n="n"/><s n="f"/></l><r>fragata<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>freio<s n="n"/><s n="m"/></l><r>fre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>funcho<s n="n"/><s n="m"/></l><r>fonoll<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>funda<s n="n"/><s n="f"/></l><r>fona<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>funil<s n="n"/><s n="m"/></l><r>embut<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>gadanha<s n="n"/><s n="f"/></l><r>dalla<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>gadolínio<s n="n"/><s n="m"/></l><r>gadolini<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>gaivota<s n="n"/><s n="f"/></l><r>gavina<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>galinha<s n="n"/><s n="f"/></l><r>gallina<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>gálio<s n="n"/><s n="m"/></l><r>gal·li<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>gaveta<s n="n"/><s n="f"/></l><r>calaix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>gazela<s n="n"/><s n="f"/></l><r>gasela<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>gengiva<s n="n"/><s n="f"/></l><r>geniva<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>genro<s n="n"/><s n="m"/></l><r>gendre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>geologia<s n="n"/><s n="f"/></l><r>geologia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>germânio<s n="n"/><s n="m"/></l><r>germani<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ginásio<s n="n"/><s n="m"/></l><r>gimnàs<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>girassol<s n="n"/><s n="m"/></l><r>gira-sol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>grafia<s n="n"/><s n="f"/></l><r>grafia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>háfnio<s n="n"/><s n="m"/></l><r>hafni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>hélio<s n="n"/><s n="m"/></l><r>heli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>hérnia<s n="n"/><s n="f"/></l><r>hèrnia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>hidrogénio<s n="n"/><s n="m"/></l><r>hidrogen<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>hipotenusa<s n="n"/><s n="f"/></l><r>hipotenusa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>hólmio<s n="n"/><s n="m"/></l><r>holmi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>hóstia<s n="n"/><s n="f"/></l><r>hòstia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>hussardo<s n="n"/><s n="m"/></l><r>hússar<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ideologia<s n="n"/><s n="f"/></l><r>ideologia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>impressora<s n="n"/><s n="f"/></l><r>impressora<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>infixo<s n="n"/><s n="m"/></l><r>infix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>injúria<s n="n"/><s n="f"/></l><r>injúria<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>iodo<s n="n"/><s n="m"/></l><r>iode<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>irídio<s n="n"/><s n="m"/></l><r>iridi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>isca<s n="n"/><s n="f"/></l><r>esca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>isca<s n="n"/><s n="f"/></l><r>esquer<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>isótopo<s n="n"/><s n="m"/></l><r>isòtop<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>itérbio<s n="n"/><s n="m"/></l><r>iterbi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ítrio<s n="n"/><s n="m"/></l><r>itri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>jaqueta<s n="n"/><s n="f"/></l><r>jaqueta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>jejum<s n="n"/><s n="m"/></l><r>dejuni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>judiaria<s n="n"/><s n="f"/></l><r>call<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>jugo<s n="n"/><s n="m"/></l><r>jou<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>labirinto<s n="n"/><s n="m"/></l><r>laberint<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lagartixa<s n="n"/><s n="f"/></l><r>sargantana<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>lama<s n="n"/><s n="f"/></l><r>fang<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lança<s n="n"/><s n="f"/></l><r>llança<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>lantânio<s n="n"/><s n="m"/></l><r>lantani<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lareira<s n="n"/><s n="f"/></l><r>xemeneia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>lã<s n="n"/><s n="f"/></l><r>llana<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>laurêncio<s n="n"/><s n="m"/></l><r>lawrenci<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lebre<s n="n"/><s n="f"/></l><r>llebre<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>levedura<s n="n"/><s n="f"/></l><r>llevat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>limão<s n="n"/><s n="m"/></l><r>llimona<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>linho<s n="n"/><s n="m"/></l><r>lli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>liquidificador<s n="n"/><s n="m"/></l><r>batedora<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>lírio<s n="n"/><s n="m"/></l><r>lliri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lítio<s n="n"/><s n="m"/></l><r>liti<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>louça<s n="n"/><s n="f"/></l><r>vaixella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>lugre<s n="n"/><s n="m"/></l><r>lugre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>lutécio<s n="n"/><s n="m"/></l><r>luteci<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>machismo<s n="n"/><s n="m"/></l><r>masclisme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>madrasta<s n="n"/><s n="f"/></l><r>madrastra<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>madrepérola<s n="n"/><s n="f"/></l><r>nacre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>magnésio<s n="n"/><s n="m"/></l><r>magnesi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>malte<s n="n"/><s n="m"/></l><r>malt<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mamilo<s n="n"/><s n="m"/></l><r>mugró<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>manga<s n="n"/><s n="f"/></l><r>màniga<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>manilha<s n="n"/><s n="f"/></l><r>grilló<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>marfim<s n="n"/><s n="m"/></l><r>vori<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>martelo<s n="n"/><s n="m"/></l><r>martell<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>medusa<s n="n"/><s n="f"/></l><r>medusa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>melão<s n="n"/><s n="m"/></l><r>meló<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mendelévio<s n="n"/><s n="m"/></l><r>mendelevi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mentalismo<s n="n"/><s n="m"/></l><r>mentalisme<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mercúrio<s n="n"/><s n="m"/></l><r>mercuri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>merengue<s n="n"/><s n="m"/></l><r>merenga<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>merlão<s n="n"/><s n="m"/></l><r>merlet<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mesquita<s n="n"/><s n="f"/></l><r>mesquita<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>milhete<s n="n"/><s n="m"/></l><r>mill<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>milho<s n="n"/><s n="m"/></l><r>blat<b/>de<b/>moro<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>missa<s n="n"/><s n="f"/></l><r>missa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>moinho<s n="n"/><s n="m"/></l><r>molí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>molho<s n="n"/><s n="m"/></l><r>salsa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>molibdénio<s n="n"/><s n="m"/></l><r>molibdè<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>molusco<s n="n"/><s n="m"/></l><r>mol·lusc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>montaria<s n="n"/><s n="f"/></l><r>cavalcadura<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>morcego<s n="n"/><s n="m"/></l><r>ratpenat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>morfema<s n="n"/><s n="m"/></l><r>morfema<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mó<s n="n"/><s n="f"/></l><r>mola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>mosquete<s n="n"/><s n="m"/></l><r>mosquet<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>mosteiro<s n="n"/><s n="m"/></l><r>monestir<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>motocicleta<s n="n"/><s n="f"/></l><r>motocicleta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>muleta<s n="n"/><s n="f"/></l><r>crossa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>musgo<s n="n"/><s n="m"/></l><r>molsa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>navalha<s n="n"/><s n="f"/></l><r>navalla<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>neodímio<s n="n"/><s n="m"/></l><r>neodimi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>neptúnio<s n="n"/><s n="m"/></l><r>neptuni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>neutrão<s n="n"/><s n="m"/></l><r>neutró<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>neutrino<s n="n"/><s n="m"/></l><r>neutrí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>nevada<s n="n"/><s n="f"/></l><r>nevada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>nióbio<s n="n"/><s n="m"/></l><r>niobi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>níquel<s n="n"/><s n="m"/></l><r>níquel<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>nitrogénio<s n="n"/><s n="m"/></l><r>nitrogen<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>nobélio<s n="n"/><s n="m"/></l><r>nobeli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>nora<s n="n"/><s n="f"/></l><r>nora<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>obelisco<s n="n"/><s n="m"/></l><r>obelisc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ofego<s n="n"/><s n="m"/></l><r>panteix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>omelete<s n="n"/><s n="f"/></l><r>truita<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>orchata<s n="n"/><s n="f"/></l><r>orxata<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>orquestra<s n="n"/><s n="f"/></l><r>orquestra<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>ósmio<s n="n"/><s n="m"/></l><r>osmi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>paládio<s n="n"/><s n="m"/></l><r>pal·ladi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>palheiro<s n="n"/><s n="m"/></l><r>paller<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>papagaio<s n="n"/><s n="m"/></l><r>estel<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>papoila<s n="n"/><s n="f"/></l><r>cascall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>papoila<s n="n"/><s n="f"/></l><r>rosella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>papo<s n="n"/><s n="m"/></l><r>xarrada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>papo<s n="n"/><s n="m"/></l><r>xerrada<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>parafuso<s n="n"/><s n="m"/></l><r>caragol<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>parafuso<s n="n"/><s n="m"/></l><r>cargol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>partitura<s n="n"/><s n="f"/></l><r>partitura<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pepino<s n="n"/><s n="m"/></l><r>cogombre<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>perca<s n="n"/><s n="f"/></l><r>perca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pesca<s n="n"/><s n="f"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pêssego<s n="n"/><s n="m"/></l><r>préssec<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>pestana<s n="n"/><s n="f"/></l><r>pestanya<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pétala<s n="n"/><s n="f"/></l><r>pètal<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt" a="wiktionary"><p><l>pino<s n="n"/><s n="m"/></l><r>pi<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="wiktionary"><p><l>pinheiro<s n="n"/><s n="m"/></l><r>pi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>piolho<s n="n"/><s n="m"/></l><r>poll<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>pizza<s n="n"/><s n="f"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>platina<s n="n"/><s n="f"/></l><r>platí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>plutónio<s n="n"/><s n="m"/></l><r>plutoni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>polegar<s n="n"/><s n="m"/></l><r>polze<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>poltrona<s n="n"/><s n="f"/></l><r>poltrona<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>porca<s n="n"/><s n="f"/></l><r>femella<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>porcelana<s n="n"/><s n="f"/></l><r>porcellana<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>potássio<s n="n"/><s n="m"/></l><r>potassi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>preguiça<s n="n"/><s n="f"/></l><r>mandra<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>presa<s n="n"/><s n="f"/></l><r>ullal<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>presbitério<s n="n"/><s n="m"/></l><r>presbiteri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>priorado<s n="n"/><s n="m"/></l><r>priorat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>proa<s n="n"/><s n="f"/></l><r>proa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>protactínio<s n="n"/><s n="m"/></l><r>protoactini<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>pseudociência<s n="n"/><s n="f"/></l><r>pseudociència<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>psicose<s n="n"/><s n="f"/></l><r>psicosi<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pulga<s n="n"/><s n="f"/></l><r>puça<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>pulso<s n="n"/><s n="m"/></l><r>canell<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>puré<s n="n"/><s n="m"/></l><r>puré<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>quark<s n="n"/><s n="m"/></l><r>quark<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>quilha<s n="n"/><s n="f"/></l><r>quilla<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>rajada<s n="n"/><s n="f"/></l><r>ràfega<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>raposa<s n="n"/><s n="f"/></l><r>guineu<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>receptáculo<s n="n"/><s n="m"/></l><r>receptacle<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>regência<s n="n"/><s n="f"/></l><r>regència<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>régua<s n="n"/><s n="f"/></l><r>regle<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>relíquia<s n="n"/><s n="f"/></l><r>relíquia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>rena<s n="n"/><s n="f"/></l><r>ren<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>rénio<s n="n"/><s n="m"/></l><r>reni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>resfriado<s n="n"/><s n="m"/></l><r>refredat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>rim<s n="n"/><s n="m"/></l><r>ronyó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>roda<s n="n"/><s n="f"/></l><r>roda<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>ródio<s n="n"/><s n="m"/></l><r>rodi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>rubídio<s n="n"/><s n="m"/></l><r>rubidi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>rubi<s n="n"/><s n="m"/></l><r>robí<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ruténio<s n="n"/><s n="m"/></l><r>ruteni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>rutherfórdio<s n="n"/><s n="m"/></l><r>rutherfordi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sabão<s n="n"/><s n="m"/></l><r>sabó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sacramento<s n="n"/><s n="m"/></l><r>sagrament<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>salada<s n="n"/><s n="f"/></l><r>amanida<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>sal<s n="n"/><s n="m"/></l><r>sal<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>samário<s n="n"/><s n="m"/></l><r>samari<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sândalo<s n="n"/><s n="m"/></l><r>sàndal<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sapato<s n="n"/><s n="m"/></l><r>sabata<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>sável<s n="n"/><s n="m"/></l><r>saboga<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>seda<s n="n"/><s n="f"/></l><r>seda<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>seiva<s n="n"/><s n="f"/></l><r>saba<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>seixo<s n="n"/><s n="m"/></l><r>còdol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>selénio<s n="n"/><s n="m"/></l><r>seleni<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>semáforo<s n="n"/><s n="m"/></l><r>semàfor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>senado<s n="n"/><s n="m"/></l><r>senat<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sereia<s n="n"/><s n="f"/></l><r>sirena<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>serrote<s n="n"/><s n="m"/></l><r>xerrac<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>silício<s n="n"/><s n="m"/></l><r>silici<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sobremesa<s n="n"/><s n="f"/></l><r>postres<s n="n"/><s n="f"/></r></p><par n="ND_pl"/></e>
+<e a="wiktionary"><p><l>sobrenome<s n="n"/><s n="m"/></l><r>cognom<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>solar<s n="n"/><s n="m"/></l><r>solar<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>sola<s n="n"/><s n="f"/></l><r>sola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>solubilidade<s n="n"/><s n="f"/></l><r>solubilitat<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>spin<s n="n"/><s n="m"/><s n="sg"/></l><r>espín<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="wiktionary"><p><l>talão<s n="n"/><s n="m"/></l><r>taló<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tálio<s n="n"/><s n="m"/></l><r>tal·li<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tamanco<s n="n"/><s n="m"/></l><r>esclop<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tântalo<s n="n"/><s n="m"/></l><r>tàntal<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tecnécio<s n="n"/><s n="m"/></l><r>tecneci<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>teixo<s n="n"/><s n="m"/></l><r>teix<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>televisor<s n="n"/><s n="m"/></l><r>televisor<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>telhado<s n="n"/><s n="m"/></l><r>teulada<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>telha<s n="n"/><s n="f"/></l><r>teula<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>telúrio<s n="n"/><s n="m"/></l><r>tel·luri<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tentáculo<s n="n"/><s n="m"/></l><r>tentacle<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>térbio<s n="n"/><s n="m"/></l><r>terbi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>titânio<s n="n"/><s n="m"/></l><r>titani<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>toalha<s n="n"/><s n="f"/></l><r>tovallola<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>tocha<s n="n"/><s n="f"/></l><r>torxa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>toga<s n="n"/><s n="f"/></l><r>toga<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>tomate<s n="n"/><s n="m"/></l><r>tomàquet<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tórax<s n="n"/><s n="m"/></l><r>tòrax<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tório<s n="n"/><s n="m"/></l><r>tori<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>torneira<s n="n"/><s n="f"/></l><r>aixeta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>traça<s n="n"/><s n="f"/></l><r>arna<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>traço<s n="n"/><s n="m"/></l><r>traç<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>transumância<s n="n"/><s n="f"/></l><r>transhumància<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>travessia<s n="n"/><s n="f"/></l><r>travessia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>trevo<s n="n"/><s n="m"/></l><r>trèvol<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>trombone<s n="n"/><s n="m"/></l><r>trombó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>trompete<s n="n"/><s n="m"/></l><r>trompeta<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>trovão<s n="n"/><s n="m"/></l><r>tro<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>truta<s n="n"/><s n="f"/></l><r>truita<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>tubarão<s n="n"/><s n="m"/></l><r>tauró<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>túlio<s n="n"/><s n="m"/></l><r>tuli<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tumulto<s n="n"/><s n="m"/></l><r>tumult<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>tungsténio<s n="n"/><s n="m"/></l><r>tungstè<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>turfa<s n="n"/><s n="f"/></l><r>torba<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>valentia<s n="n"/><s n="f"/></l><r>valentia<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>vanádio<s n="n"/><s n="m"/></l><r>vanadi<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>vassalo<s n="n"/><s n="m"/></l><r>vassall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>veludo<s n="n"/><s n="m"/></l><r>vellut<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>ventosa<s n="n"/><s n="f"/></l><r>ventosa<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>vidraceiro<s n="n"/><s n="m"/></l><r>vidrier<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>vime<s n="n"/><s n="m"/></l><r>vímet<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>vindima<s n="n"/><s n="f"/></l><r>verema<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>violoncelo<s n="n"/><s n="m"/></l><r>violoncel<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>vírgula<s n="n"/><s n="f"/></l><r>coma<s n="n"/><s n="f"/></r></p></e>
+<e a="wiktionary"><p><l>visco<s n="n"/><s n="m"/></l><r>vesc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>vitral<s n="n"/><s n="m"/></l><r>vitrall<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>xénon<s n="n"/><s n="m"/></l><r>xenó<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>xilofone<s n="n"/><s n="m"/></l><r>xilòfon<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>xisto<s n="n"/><s n="m"/></l><r>esquist<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>zinco<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>zircónio<s n="n"/><s n="m"/></l><r>zirconi<s n="n"/><s n="m"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>caverna<s n="n"/><s n="f"/></l><r>cova<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>experiência<s n="n"/><s n="f"/></l><r>experiment<s n="n"/><s n="m"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>fome<s n="n"/><s n="f"/></l><r>gana<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>fumo<s n="n"/><s n="m"/></l><r>fum<s n="n"/><s n="m"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>leito<s n="n"/><s n="m"/></l><r>llit<s n="n"/><s n="m"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>marco<s n="n"/><s n="m"/></l><r>fita<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>par<s n="n"/><s n="m"/></l><r>parella<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>solo<s n="n"/><s n="m"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="wiktionary"><p><l>terra<s n="n"/><s n="f"/></l><r>línia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>acaso<s n="n"/><s n="m"/></l><r>atzar<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>albergue<s n="n"/><s n="m"/></l><r>pensió<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>anelo<s n="n"/><s n="m"/></l><r>anhel<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>beliche<s n="n"/><s n="m"/></l><r>llitera<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>capucho<s n="n"/><s n="m"/></l><r>caputxa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>cauda<s n="n"/><s n="f"/></l><r>cua<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>ceia<s n="n"/><s n="f"/></l><r>sopar<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>chama<s n="n"/><s n="f"/></l><r>flama<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>comer<s n="n"/><s n="m"/></l><r>dinar<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>comer<s n="n"/><s n="m"/></l><r>menjar<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>cunha<s n="n"/><s n="f"/></l><r>bressol<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>estela<s n="n"/><s n="f"/></l><r>estela<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>faina<s n="n"/><s n="f"/></l><r>feina<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>falar<s n="n"/><s n="m"/></l><r>parlar<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>ferida<s n="n"/><s n="f"/></l><r>ferida<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>floresta<s n="n"/><s n="f"/></l><r>bosc<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>fusta<s n="n"/><s n="f"/></l><r>fusta<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>globo<s n="n"/><s n="m"/></l><r>globus<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
+<e r="LR" a="wiktionary"><p><l>gola<s n="n"/><s n="f"/></l><r>coll<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>lareira<s n="n"/><s n="f"/></l><r>llar<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>leme<s n="n"/><s n="m"/></l><r>timó<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>maca<s n="n"/><s n="f"/></l><r>llitera<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>naipe<s n="n"/><s n="m"/></l><r>coll<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>nó<s n="n"/><s n="m"/></l><r>nus<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>polvo<s n="n"/><s n="m"/></l><r>pop<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>prêmio<s n="n"/><s n="m"/></l><r>premi<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>recta<s n="n"/><s n="f"/></l><r>línia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>rir<s n="n"/><s n="m"/></l><r>riure<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>robot<s n="n"/><s n="m"/></l><r>robot<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>serifa<s n="n"/><s n="f"/></l><r>gràcia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="wiktionary"><p><l>sé<s n="n"/><s n="f"/></l><r>seu<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>apito<s n="n"/><s n="m"/></l><r>xiulet<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>avalanche<s n="n"/><s n="f"/></l><r>allau<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>capa<s n="n"/><s n="f"/></l><r>coberta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>capa<s n="n"/><s n="f"/></l><r>portada<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>casa<s n="n"/><s n="f"/></l><r>trau<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>cinza<s n="n"/><s n="f"/></l><r>gris<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>dado<s n="n"/><s n="m"/></l><r>dau<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>encontro<s n="n"/><s n="m"/></l><r>cita<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>estrela<s n="n"/><s n="f"/></l><r>estel<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>garra<s n="n"/><s n="f"/></l><r>urpa<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>passeio<s n="n"/><s n="m"/></l><r>vorera<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>perna<s n="n"/><s n="f"/></l><r>pota<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>prata<s n="n"/><s n="f"/></l><r>argent<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>raio<s n="n"/><s n="m"/></l><r>llamp<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>tapete<s n="n"/><s n="m"/></l><r>tapís<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>tédio<s n="n"/><s n="m"/></l><r>avorriment<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="wiktionary"><p><l>touro<s n="n"/><s n="m"/></l><r>bou<s n="n"/><s n="m"/></r></p></e>
 
   </section>
 </dictionary>

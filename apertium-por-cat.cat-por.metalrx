@@ -311,6 +311,14 @@
      <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/></or>
   </rule>
 
+  <!-- caragol >> caracol, parafuso -->
+  <rule weight="0.8">
+    <match lemma="caragol" tags="n.*"><select lemma="caracol"/></match>
+  </rule>
+  <rule weight="0.8">
+    <match lemma="cargol" tags="n.*"><select lemma="caracol"/></match>
+  </rule>
+
 <!-- **************** V **************** -->
 
 <!-- traslladar > transladar, mudar -->

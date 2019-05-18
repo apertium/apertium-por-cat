@@ -336,6 +336,17 @@
 
 <!-- **************** N **************** -->
 
+<!-- câmara > cambra, càmera -->
+
+  <rule weight="0.6">
+     <match lemma="câmara" tags="n.*"><select lemma="cambra"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="câmara" tags="n.*"><select lemma="càmera"/></match>
+     <match lemma="fotográfico" tags="adj.*"/>
+  </rule>
+
+
 <!-- dirección > direcció, adreça -->
 
   <rule weight="0.6">
