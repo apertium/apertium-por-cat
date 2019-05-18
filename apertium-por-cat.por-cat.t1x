@@ -84,6 +84,10 @@
 	  	<cat-item tags="prn.itg.*"/>
 	</def-cat>
 	
+   <def-cat n="que_prn">   	  	  
+	  	<cat-item lemma="que" tags="prn.itg.*"/>
+	</def-cat>
+	
 	<def-cat n="prnsub">
 		<cat-item lemma="eu" tags="prn.tn.*"/>
 		<cat-item lemma="tu" tags="prn.tn.*"/>
@@ -412,7 +416,7 @@
 		<cat-item lemma="o" tags="detnt"/>
 	</def-cat>
 	
-	<def-cat n="querel">
+	<def-cat n="que_rel">
 		<cat-item lemma="que" tags="rel.*"/>
 		<cat-item lemma="que" tags="cnjsub"/>
 	</def-cat>
@@ -3487,6 +3491,41 @@
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>  
+			</out>
+		</action>
+	</rule>
+	
+	<rule> <!-- REGLA 9: QUE NOM -->
+		<pattern>
+			<pattern-item n="que_prn"/>
+			<pattern-item n="nom"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>     
+			<call-macro n="f_lexicadj">
+				<with-param pos="1"/>
+				<with-param pos="2"/>
+			</call-macro> 
+			<call-macro n="f_comparativa">
+				<with-param pos="1"/>
+			</call-macro>
+			<out>  
+				<lu>  
+					<clip pos="1" side="tl" part="lem"/>
+					<clip pos="1" side="tl" part="a_prn"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu> 
+					<clip pos="2" side="tl" part="lem"/>
+					<clip pos="2" side="tl" part="a_nom"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
+				</lu>
 			</out>
 		</action>
 	</rule>
@@ -13541,7 +13580,7 @@
 		<pattern>
 			<pattern-item n="de"/>
 			<pattern-item n="detnt"/>
-			<pattern-item n="querel"/>
+			<pattern-item n="que_rel"/>
 		</pattern>
 		<action>
 			<choose>
