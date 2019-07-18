@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <metalrx>
-
   <def-macros>
     <def-macro name="noms_propis">
       <rule weight="0.6">
@@ -317,9 +316,29 @@
     </or>
   </rule>
 
+  <!-- conductor > condutor, conductor, autista (br: professional) -->
+  <rule weight="0.6">
+    <match lemma="conductor" tags="n.*"><select lemma="conductor"/></match>
+  </rule>
+  <rule weight="0.8">
+    <match lemma="conductor" tags="n.*"><select lemma="condutor"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="conductor" tags="n.*"><select lemma="autista"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="autobús" tags="n.*"/>
+      <match lemma="autocar" tags="n.*"/>
+      <match lemma="camió" tags="n.*"/>
+      <match lemma="metro" tags="n.*"/>
+      <match lemma="tramvia" tags="n.*"/>
+      <match lemma="troleibús" tags="n.*"/>
+    </or>
+  </rule>
+
   <!-- moral > moral n.f, moral n.m -->
   <rule weight="0.6">
-     <match lemma="moral" tags="n.*"><select lemma="moral" tags="n.f.*"/></match>
+    <match lemma="moral" tags="n.*"><select lemma="moral" tags="n.f.*"/></match>
   </rule>
   <rule weight="1.0">
     <match lemma="moral" tags="n.*"><select lemma="moral" tags="n.m.*"/></match>
@@ -354,11 +373,65 @@
   <rule weight="0.8">
     <match lemma="cargol" tags="n.*"><select lemma="caracol"/></match>
   </rule>
+  <rule weight="1.0">
+     <match lemma="caragol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <or>
+       <match lemma="pla" tags="adj.*"/>
+       <match lemma="quadrat" tags="adj.*"/>
+       <match lemma="hexagonal" tags="adj.*"/>
+     </or>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="caragol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <match lemma="en" tags="pr"/>
+     <match lemma="estrella" tags="n.*"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="caragol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <match lemma="de" tags="pr"/>
+     <match lemma="pala" tags="n.*"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="caragol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <or><match tags="np.cog.*"/><match tags="np.al.*"/></or> <!-- Philips, Allen, etc. -->
+  </rule>
+  <rule weight="1.0">
+     <match lemma="cargol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <or>
+       <match lemma="pla" tags="adj.*"/>
+       <match lemma="quadrat" tags="adj.*"/>
+       <match lemma="hexagonal" tags="adj.*"/>
+     </or>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="cargol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <match lemma="en" tags="pr"/>
+     <match lemma="estrella" tags="n.*"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="cargol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <match lemma="de" tags="pr"/>
+     <match lemma="pala" tags="n.*"/>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="cargol" tags="n.m.*"><select lemma="parafuso"/></match>
+     <or><match tags="np.cog.*"/><match tags="np.al.*"/></or> <!-- Philips, Allen, etc. -->
+  </rule>
+
+  <!-- tret > caratteristica, sparo -->
+  <rule weight="0.6">
+     <match lemma="tret" tags="n.*"><select lemma="caratteristica"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="tret" tags="n.*"><select lemma="sparo"/></match>
+     <match lemma="a" tags="pr"/>
+  </rule>
+
+  <!-- taula > tavola, tavolo, tabella -->
 
 <!-- **************** V **************** -->
 
-<!-- traslladar > transladar, mudar -->
-
+  <!-- traslladar > transladar, mudar -->
   <rule weight="0.6">
      <match lemma="traslladar" tags="pr"><select lemma="transladar"/></match>
   </rule>
@@ -369,8 +442,7 @@
 
 <!-- **************** PR **************** -->
 
-<!-- a > a, para -->
-
+  <!-- a > a, para -->
   <rule weight="0.6">
      <match lemma="a" tags="pr"><select lemma="a"/></match>
   </rule>
@@ -389,8 +461,7 @@
 
 <!-- **************** ADV **************** -->
 
-<!-- com > como, quanto -->
-
+  <!-- com > como, quanto -->
   <rule weight="0.6">
      <match lemma="com" tags="adv"><select lemma="como"/></match>
   </rule>
@@ -401,8 +472,7 @@
 
 <!-- **************** PRN **************** -->
 
-<!-- quin > que, qual -->
-
+  <!-- quin > que, qual -->
   <rule weight="0.6">
      <match lemma="quin" tags="prn.itg.*"><select lemma="qual"/></match>
   </rule>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <metalrx>
-
   <def-macros>
     <def-macro name="noms_propis">
       <rule weight="0.6">
@@ -292,15 +291,12 @@
 
 <!-- **************** PR **************** -->
 
-<!-- além de > més enllà de, a més de -->
-
+  <!-- além de > més enllà de, a més de -->
   <rule weight="0.6">
      <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
   </rule>
 
-
-<!-- para > per a, cap a, a -->
-
+  <!-- para > per a, cap a, a -->
   <rule weight="0.6">
      <match lemma="para" tags="pr"><select lemma="per a"/></match>
   </rule>
@@ -317,11 +313,9 @@
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
 
-
 <!-- **************** ADJ **************** -->
 
-<!-- são > sa, sant -->
-
+  <!-- são > sa, sant -->
   <rule weight="0.6">
      <match lemma="são" tags="adj.*"><select lemma="sa"/></match>
   </rule>
@@ -336,8 +330,7 @@
 
 <!-- **************** N **************** -->
 
-<!-- câmara > cambra, càmera -->
-
+  <!-- câmara > cambra, càmera -->
   <rule weight="0.6">
      <match lemma="câmara" tags="n.*"><select lemma="cambra"/></match>
   </rule>
@@ -346,34 +339,31 @@
      <match lemma="fotográfico" tags="adj.*"/>
   </rule>
 
-
-<!-- dirección > direcció, adreça -->
-
+  <!-- dirección > direcció, adreça -->
   <rule weight="0.6">
      <match lemma="dirección" tags="n.*"><select lemma="direcció"/></match>
   </rule>
 
-
-<!-- freguesia > parròquia, clientela -->
-
+  <!-- freguesia > parròquia, clientela -->
   <rule weight="0.6">
      <match lemma="freguesia" tags="n.*"><select lemma="parròquia"/></match>
   </rule>
 
-
 <!-- **************** ADV **************** -->
 
-<!-- além > més enllà, a més -->
-
+  <!-- além > més enllà, a més -->
   <rule weight="0.6">
      <match lemma="além" tags="adv"><select lemma="més enllà"/></match>
   </rule>
 
-
 <!-- **************** V **************** -->
 
-<!-- mudar > canviar, traslladar, mudar -->
+  <!-- afastar > apartar, allunyar -->
+  <rule weight="0.6">
+     <match lemma="afastar" tags="vblex.*"><select lemma="apartar"/></match>
+  </rule>
 
+  <!-- mudar > canviar, traslladar, mudar -->
   <rule weight="0.6">
      <match lemma="mudar" tags="vblex.*"><select lemma="canviar"/></match>
   </rule>
@@ -382,11 +372,9 @@
      <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
 
-
 <!-- **************** PRN **************** -->
 
-<!-- que > què, quin -->
-
+  <!-- que > què, quin -->
   <rule weight="0.6">
      <match lemma="que" tags="prn.itg.*"><select lemma="què"/></match>
   </rule>
