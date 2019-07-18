@@ -281,7 +281,6 @@
 <!-- **************** N **************** -->
 
   <!-- poble > povoação, aldeia -->
-
   <rule weight="0.6">
      <match lemma="poble" tags="n.*"><select lemma="povoação"/></match>
   </rule>
@@ -318,14 +317,23 @@
     </or>
   </rule>
 
-  <!-- població > população, povoação -->
+  <!-- moral > moral n.f, moral n.m -->
+  <rule weight="0.6">
+     <match lemma="moral" tags="n.*"><select lemma="moral" tags="n.f.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="moral" tags="n.*"><select lemma="moral" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match tags="det.*"/>
+    <match lemma="equip" tags="n.*"/>
+  </rule>
 
+  <!-- població > população, povoação -->
   <rule weight="0.6">
      <match lemma="població" tags="n.*"><select lemma="população"/></match>
   </rule>
 
   <!-- got > godo, verre -->
-
   <rule weight="0.6">
      <match lemma="got" tags="n.*"><select lemma="godo"/></match>
   </rule>

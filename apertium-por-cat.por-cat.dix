@@ -1501,6 +1501,10 @@
 <e>       <p><l>único<s n="adj"/></l>                  <r>únic<s n="adj"/></r></p></e>
 <e>       <p><l>útil<s n="adj"/></l>                   <r>útil<s n="adj"/></r></p></e>
 
+<e vl="br" a="hector"><p><l>alfandegário<s n="adj"/></l>                   <r>duaner<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>aduaneiro<s n="adj"/></l>                   <r>duaner<s n="adj"/></r></p></e>
+<!-- xxxxxx -->
+
     <!-- ******************************
           group adv_symbol
       ****************************** -->
@@ -4625,7 +4629,8 @@
 <e r="RL"><p><l>moradia<s n="n"/><s n="f"/></l>        <r>vivenda<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>morador<s n="n"/><s n="m"/></l>        <r>habitant<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>morador<s n="n"/><s n="f"/></l>        <r>habitant<s n="n"/><s n="mf"/></r></p></e>
-<e>       <p><l>moral<s n="n"/></l>                    <r>moral<s n="n"/></r></p></e>
+<e>       <p><l>moral<s n="n"/><s n="m"/></l>          <r>moral<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>moral<s n="n"/><s n="f"/></l>          <r>moral<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>mortalidade<s n="n"/></l>              <r>mortalitat<s n="n"/></r></p></e>
 <e>       <p><l>morte<s n="n"/><s n="f"/></l>          <r>mort<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>morte<s n="n"/><s n="f"/></l>          <r>defunció<s n="n"/><s n="f"/></r></p></e>
@@ -5586,6 +5591,10 @@
 <e>       <p><l>suicídio<s n="n"/></l>                 <r>suïcidi<s n="n"/></r></p></e>
 <e>       <p><l>sujeira<s n="n"/></l>                  <r>brutícia<s n="n"/></r></p></e>
 <e>       <p><l>sujeito<s n="n"/></l>                  <r>subjecte<s n="n"/></r></p></e>
+<e vl="pt"><p><l>conjuntivo<s n="n"/></l>              <r>subjuntiu<s n="n"/></r></p></e>
+<e vl="br"><p><l>subjuntivo<s n="n"/></l>              <r>subjuntiu<s n="n"/></r></p></e>
+<e vl="pt"><p><l>conjuntivo<s n="adj"/></l>            <r>subjuntiu<s n="adj"/></r></p></e>
+<e vl="br"><p><l>subjuntivo<s n="adj"/></l>            <r>subjuntiu<s n="adj"/></r></p></e>
 <e>       <p><l>sul<s n="n"/></l>                      <r>sud<s n="n"/></r></p></e>
 <e>       <p><l>sul-americano<s n="n"/></l>            <r>sud-americà<s n="n"/></r></p></e>
 <e>       <p><l>sumário<s n="n"/></l>                  <r>sumari<s n="n"/></r></p></e>
@@ -5799,7 +5808,8 @@
 <e>       <p><l>táctica<s n="n"/></l>                  <r>tàctica<s n="n"/></r></p></e>
 <e r="LR"><p><l>tática<s n="n"/></l>                   <r>tàctica<s n="n"/></r></p></e>
 <e>       <p><l>táxi<s n="n"/></l>                     <r>taxi<s n="n"/></r></p></e>
-<e>       <p><l>técnico<s n="n"/></l>                  <r>tècnic<s n="n"/></r></p></e>
+<e>       <p><l>técnico<s n="n"/><s n="m"/></l>        <r>tècnic<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>técnica<s n="n"/><s n="f"/></l>        <r>tècnica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tédio<s n="n"/></l>                    <r>tedi<s n="n"/></r></p></e>
 <e r="LR"><p><l>término<s n="n"/></l>                  <r>terme<s n="n"/></r></p></e>
 <e>       <p><l>tênis<s n="n"/></l>                    <r>tennis<s n="n"/></r></p></e>
@@ -5984,6 +5994,8 @@
 <e>       <p><l>órbita<s n="n"/></l>                   <r>òrbita<s n="n"/></r></p></e>
 <e>       <p><l>órgão<s n="n"/></l>                    <r>òrgan<s n="n"/></r></p></e>
 <e r="RL"><p><l>órgão<s n="n"/></l>                    <r>orgue<s n="n"/></r></p></e>
+
+<!-- xxxxxx -->
 
     <!-- ******************************
           group np_symbol
