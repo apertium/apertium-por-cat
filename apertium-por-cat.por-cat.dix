@@ -1195,7 +1195,7 @@
 <e>       <p><l>próprio<s n="adj"/></l>                <r>propi<s n="adj"/></r></p></e>
 <e r="RL"><p><l>próximo<s n="adj"/><s n="GD"/></l>     <r>vinent<s n="adj"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>próximo<s n="adj"/><s n="GD"/><s n="ND"/></l><r>vinent<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-<e       ><p><l>próximo<s n="adj"/></l>                <r>proper<s n="adj"/></r></p></e>
+<e>       <p><l>próximo<s n="adj"/></l>                <r>proper<s n="adj"/></r></p></e>
 <e r="RL"><p><l>próximo<s n="adj"/></l>                <r>pròxim<s n="adj"/></r></p></e>
 <e>       <p><l>psicológico<s n="adj"/></l>            <r>psicològic<s n="adj"/></r></p></e>
 <e>       <p><l>publicitário<s n="adj"/></l>           <r>publicitari<s n="adj"/></r></p></e>
@@ -5387,7 +5387,7 @@
 <e>       <p><l>rodada<s n="n"/></l>                   <r>ronda<s n="n"/></r></p></e>
 <e r="LR"><p><l>rodovia<s n="n"/></l>                  <r>carretera<s n="n"/></r></p></e>
 <e r="RL"><p><l>romance<s n="n"/><s n="m"/></l>        <r>romanç<s n="n"/><s n="m"/></r></p></e>
-<e       ><p><l>romance<s n="n"/><s n="m"/></l>        <r>novel·la<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>romance<s n="n"/><s n="m"/></l>        <r>novel·la<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>romantismo<s n="n"/></l>               <r>romanticisme<s n="n"/></r></p></e>
 <e>       <p><l>rompimento<s n="n"/><s n="m"/></l>     <r>trencament<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>rosa<s n="n"/></l>                     <r>rosa<s n="n"/></r></p></e>
@@ -5548,7 +5548,7 @@
 <e r="LR"><p><l>socorro<s n="n"/><s n="m"/><s n="pl"/></l><r>socors<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>socorro<s n="n"/><s n="m"/><s n="sg"/></l><r>socors<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e>       <p><l>sofrimento<s n="n"/></l>               <r>sofriment<s n="n"/></r></p></e>
-<e>       <i>soja<s n="n"/></i></e>
+<e>       <p><l>soja<s n="n"/></l>                     <r>soja<s n="n"/></r></p></e>
 <e>       <p><l>sol<s n="n"/></l>                      <r>sol<s n="n"/></r></p></e>
 <e>       <p><l>soldado<s n="n"/><s n="mf"/></l>       <r>soldat<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>soldado<s n="n"/><s n="mf"/></l>       <r>soldat<s n="n"/><s n="f"/></r></p></e>
@@ -5739,7 +5739,7 @@
 <e>       <p><l>touro<s n="n"/></l>                    <r>toro<s n="n"/></r></p></e>
 <e>       <p><l>toxicómano<s n="n"/></l>               <r>toxicòman<s n="n"/></r></p></e>
 <e r="LR"><p><l>toxicômano<s n="n"/></l>               <r>toxicòman<s n="n"/></r></p></e>
-<e>       <i>toxina<s n="n"/></i></e>
+<e>       <p><l>toxina<s n="n"/></l>                   <r>toxina<s n="n"/></r></p></e>
 <e>       <p><l>trabalhador<s n="n"/></l>              <r>treballador<s n="n"/></r></p></e>
 <e r="RL"><p><l>trabalho<s n="n"/><s n="m"/></l>       <r>faena<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>trabalho<s n="n"/><s n="m"/></l>       <r>feina<s n="n"/><s n="f"/></r></p></e>
@@ -5999,7 +5999,7 @@
 <e vl="pt pt_pre1990" a="hector"><p><l>caminho-de-ferro<s n="n"/><s n="m"/></l><r>ferrocarril<s n="n"/><s n="m"/></r></p></e>
 <e vl="br" a="hector"><p><l>ferrovia<s n="n"/><s n="f"/></l><r>ferrocarril<s n="n"/><s n="m"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>mesa-de-cabeceira<s n="n"/><s n="f"/></l><r>tauleta<g><b/>de<b/>nit</g><s n="n"/><s n="f"/></r></p></e>
-<e r="LR" vl="pt pt_pre1990" a="hector"><p><l>mesinha-de-cabeceira<s n="n"/><s n="f"/></l><r>tauleta<g><b/>de<b/>nit</g><s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" r="LR" a="hector"><p><l>mesinha-de-cabeceira<s n="n"/><s n="f"/></l><r>tauleta<g><b/>de<b/>nit</g><s n="n"/><s n="f"/></r></p></e>
 
 <!-- xxxxxx -->
 
@@ -21350,12 +21350,7 @@
 <e>       <p><l>o<b/>vosso<s n="prn"/></l>             <r>el<b/>vostre<s n="prn"/></r></p></e>
 <e>       <p><l>outro<s n="prn"/></l>                  <r>un<b/>altre<s n="prn"/></r></p></e>
 <e>       <p><l>pouco<s n="prn"/></l>                  <r>poc<s n="prn"/></r></p></e>
-  <!--  <e>
-      <p>
-        <l>qual<s n="rel"/><s n="adv"/></l> 
-        <r>qual<s n="rel"/><s n="an"/></r> 
-      </p>
-    </e>-->
+  <!--  <e><p><l>qual<s n="rel"/><s n="adv"/></l> <r>qual<s n="rel"/><s n="an"/></r></p></e>-->
 <e>       <p><l>qual<s n="prn"/><s n="itg"/></l>       <r>quin<s n="prn"/><s n="itg"/></r></p><par n="mf_GD"/><par n="sp_sp"/></e>
 <e>       <p><l>que<s n="prn"/><s n="itg"/></l>        <r>quin<s n="prn"/><s n="itg"/></r></p><par n="mf_GD"/><par n="sg_ND"/></e>
 <e>       <p><l>qualquer<s n="prn"/></l>               <r>qualsevol<s n="prn"/></r></p></e>
