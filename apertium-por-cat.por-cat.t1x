@@ -3853,6 +3853,7 @@
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
+				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
 					<clip pos="3" side="tl" part="tags"/>
@@ -3891,6 +3892,7 @@
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
+				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
 					<clip pos="3" side="tl" part="tags"/>
