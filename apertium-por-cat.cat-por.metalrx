@@ -277,7 +277,43 @@
 
 <rules>
 
+<!-- **************** ADJ **************** -->
+
+  <!-- cardinal > cardeal, cardinal -->
+  <rule weight="0.6">
+     <match lemma="cardinal" tags="adj.*"><select lemma="cardeal"/></match>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="nombre" tags="n.*"/>
+       <match lemma="número" tags="n.*"/>	<!-- castellanisme, però per si de cas -->
+     </or>
+     <match lemma="cardinal" tags="adj.*"><select lemma="cardinal"/></match>
+  </rule>
+
+  <!-- primer > primeiro, primo -->
+  <rule weight="0.6">
+     <match lemma="primer" tags="adj.*"><select lemma="primeiro"/></match>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="nombre" tags="n.*"/>
+       <match lemma="número" tags="n.*"/>	<!-- castellanisme, però per si de cas -->
+     </or>
+     <match lemma="primer" tags="adj.*"><select lemma="primo"/></match>
+  </rule>
+
 <!-- **************** N **************** -->
+
+  <!-- habitació > habitação, quarto -->
+  <rule weight="0.6">
+     <match lemma="habitació" tags="n.*"><select lemma="habitação"/></match>
+  </rule>
+
+  <!-- estada > estadia, estada -->
+  <rule weight="0.6">
+     <match lemma="estada" tags="n.*"><select lemma="estadia"/></match>
+  </rule>
 
   <!-- poble > povoação, aldeia -->
   <rule weight="0.6">
@@ -288,7 +324,7 @@
      <match tags="adj.*"/>
   </rule>
 
-  <!-- cap >> chefe, cabeça, cabo -->
+  <!-- cap > chefe, cabeça, cabo -->
   <rule weight="0.8">
     <match lemma="cap" tags="n.*"><select lemma="chefe"/></match>
   </rule>
@@ -366,7 +402,7 @@
      <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/></or>
   </rule>
 
-  <!-- caragol >> caracol, parafuso -->
+  <!-- caragol > caracol, parafuso -->
   <rule weight="0.8">
     <match lemma="caragol" tags="n.*"><select lemma="caracol"/></match>
   </rule>

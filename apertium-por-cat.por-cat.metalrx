@@ -328,7 +328,64 @@
      <match tags=""/>
   </rule>
 
+  <!-- inteiro > sencer, enter -->
+  <rule weight="0.6">
+     <match lemma="inteiro" tags="adj.*"><select lemma="sencer"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="número" tags="n.*"/>
+     <match lemma="inteiro" tags="adj.*"><select lemma="enter"/></match>
+  </rule>
+
 <!-- **************** N **************** -->
+
+  <!-- direção/direcção > direcció, adreça -->
+  <rule weight="0.6">
+    <or>
+      <match lemma="direção" tags="n.*"><select lemma="direcció"/></match>
+      <match lemma="direcção" tags="n.*"><select lemma="direcció"/></match>
+    </or>
+  </rule>
+
+  <!-- número > nombre, número -->
+  <rule weight="0.6">
+    <match lemma="número" tags="n.*"><select lemma="nombre"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="número" tags="n.*"><select lemma="número"/></match>
+    <or>
+      <match lemma="uno"/>
+      <match lemma="pi"/>
+      <match lemma="e"/>
+    </or>
+  </rule>
+
+  <!-- quarto > habitació, quart -->
+  <rule weight="0.6">
+     <match lemma="quarto" tags="n.*"><select lemma="habitació"/></match>
+  </rule>
+  <rule weight="1.0">
+     <or><match tags="num.*"/><match tags="num"/></or>
+     <match tags="cnjcoo"/>
+     <match lemma="quarto" tags="n.*"><select lemma="quart"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="quarto" tags="n.*"><select lemma="quart"/></match>
+     <or>
+       <match lemma="crescente" tags="adj.*"/>
+       <match lemma="minguante" tags="adj.*"/>
+     </or>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="quarto" tags="n.*"><select lemma="quart"/></match>
+     <match lemma="de" tags="pr"/>
+     <or>
+       <match lemma="hora" tags="n.*"/>
+       <match lemma="quilo" tags="n.*"/>
+       <match lemma="quilograma" tags="n.*"/>
+       <match lemma="litro" tags="n.*"/>
+     </or>
+  </rule>
 
   <!-- câmara > cambra, càmera -->
   <rule weight="0.6">
