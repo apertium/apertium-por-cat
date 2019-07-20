@@ -3076,12 +3076,12 @@
 			</choose>
 		</def-macro>
 	
-		<def-macro n="f_outverb2" npar="2"> <!-- comprova si hi ha pronoms que no es tradueixen del catalï¿½ al portuguï¿½s segons en diccionari ("hi" i "en") i envia el verb amb pronom o sense, i al lloc on correspon. Aquesta funciï¿½ ï¿½s necessï¿½ria perquï¿½ funcioni bï¿½ la cua en les multiparaules amb flexiï¿½ incorporada. Si el verb ï¿½s un participi, tambï¿½ s'assegura que el gï¿½nere i nombre siguin "m.pl" -->
+		<def-macro n="f_outverb2" npar="2"> <!-- comprova si hi ha pronoms que no es tradueixen del català al portuguès segons en diccionari ("hi" i "en") i envia el verb amb pronom o sense, i al lloc on correspon. Aquesta funció és necessària perquè funcioni bé la cua en les multiparaules amb flexió incorporada. Si el verb és un participi, també s'assegura que el gènere i nombre siguin "m.sg" -->
 			<choose>
 				<when>
 					<test>
 						<equal>
-							<clip pos="2" side="tl" part="temps"/> <!-- si ï¿½s un pp es posa en m.sg-->
+							<clip pos="2" side="tl" part="temps"/> <!-- si és un pp es posa en m.sg-->
 							<lit-tag v="pp"/>
 						</equal>
 					</test>
@@ -3100,7 +3100,7 @@
 					<test>
 						<not>
 							<equal>
-								<clip pos="2" side="tl" part="lem"/> <!-- el pronom sï¿½ que tï¿½ traducciï¿½-->
+								<clip pos="2" side="tl" part="lem"/> <!-- el pronom sí que té traducció-->
 								<lit v=""/>
 							</equal>
 						</not>
@@ -3155,7 +3155,9 @@
 									</test>
 									<out>
 										<lu>
-											<clip pos="2" side="tl" part="lem"/>
+											<get-case-from pos="1">
+												<clip pos="2" side="tl" part="lem"/>
+											</get-case-from>
 											<clip pos="2" side="tl" part="a_prn"/>
 											<lit-tag v="pro"/>
 			 								<clip pos="2" side="tl" part="a_ref"/>
@@ -3165,7 +3167,9 @@
 										</lu>  
 										<b/>
 										<lu>	
-											<clip pos="1" side="tl" part="lemh"/>
+											<get-case-from pos="2">
+												<clip pos="1" side="tl" part="lemh"/>
+											</get-case-from>
 											<clip pos="1" side="tl" part="a_verb"/>
 											<clip pos="1" side="tl" part="temps"/>
 											<clip pos="1" side="tl" part="persona"/>
@@ -3217,7 +3221,155 @@
 			</choose>
 		</def-macro>
 
-		<def-macro n="f_outverb2ifi" npar="3"> <!-- comprova si hi ha pronoms que no es tradueixen del catalï¿½ al portuguï¿½s segons en diccionari ("hi" i "en") i envia el verb ifi amb pronom o sense, i al lloc on correspon. -->
+		<def-macro n="f_outverb2inv" npar="2"> <!-- comprova si hi ha pronoms que no es tradueixen del català al portuguès segons en diccionari ("hi" i "en") i envia el verb amb pronom o sense, i al lloc on correspon. Aquesta funció és necessària perquè funcioni bé la cua en les multiparaules amb flexió incorporada. Si el verb és un participi, també s'assegura que el gènere i nombre siguin "m.sg" -->
+	<!-- Aquesta macro és gairebé idèntica a f_outverb2, però es crida quan s'inverteix d'ordren en la crida els paràmetres, de manera a tractar correctament el canvi maj/min -->
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="2" side="tl" part="temps"/> <!-- si és un pp es posa en m.sg-->
+							<lit-tag v="pp"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="2" side="tl" part="gen"/> 
+						<lit-tag v="m"/>
+					</let>
+					<let>
+						<clip pos="2" side="tl" part="nbr"/> 
+						<lit-tag v="sg"/>
+					</let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<not>
+							<equal>
+								<clip pos="2" side="tl" part="lem"/> <!-- el pronom sí que té traducció-->
+								<lit v=""/>
+							</equal>
+						</not>
+					</test>
+					<choose>
+						<when>
+							<test>
+								<or>
+									<equal>
+										<clip pos="1" side="tl" part="temps"/>
+										<lit-tag v="cni"/>
+									</equal>
+									<equal>
+										<clip pos="1" side="tl" part="temps"/>
+										<lit-tag v="fti"/>
+									</equal>
+								</or>
+							</test>
+							<call-macro n="f_bcond">
+								<with-param pos="1"/>
+							</call-macro>
+							<out>
+								<mlu>
+									<lu>
+										<get-case-from pos="2">
+											<clip pos="1" side="tl" part="lemh"/>
+										</get-case-from>
+										<clip pos="1" side="tl" part="a_verb"/>
+									</lu> 
+									<lu>
+										<clip pos="2" side="tl" part="lem"/>
+										<lit-tag v="prn.enc"/>
+										<clip pos="2" side="tl" part="tipoenc_pro"/>
+									</lu> 
+									<lu>
+										<lit v="ar"/>
+										<lit-tag v="cuavb"/>
+										<clip pos="1" side="tl" part="temps"/>
+										<clip pos="1" side="tl" part="persona"/>
+										<clip pos="1" side="tl" part="nbr"/>
+										<clip pos="1" side="tl" part="lemq"/>
+									</lu>
+								</mlu>
+							</out>
+						</when>
+						<otherwise>
+							<choose>
+								<when>
+									<test>
+										<equal>
+											<var n="proclise"/>
+											<lit v="true"/>
+										</equal>
+									</test>
+									<out>
+										<lu>
+											<clip pos="2" side="tl" part="lem"/>
+											<clip pos="2" side="tl" part="a_prn"/>
+											<lit-tag v="pro"/>
+			 								<clip pos="2" side="tl" part="a_ref"/>
+											<clip pos="2" side="tl" part="persona"/>
+											<clip pos="2" side="tl" part="gen"/>
+											<clip pos="2" side="tl" part="nbr"/>
+										</lu>  
+										<b/>
+										<lu>	
+											<clip pos="1" side="tl" part="lemh"/>
+											<clip pos="1" side="tl" part="a_verb"/>
+											<clip pos="1" side="tl" part="temps"/>
+											<clip pos="1" side="tl" part="persona"/>
+											<clip pos="1" side="tl" part="gen"/>
+											<clip pos="1" side="tl" part="nbr"/>
+											<clip pos="1" side="tl" part="lemq"/>
+										</lu>
+									</out>
+								</when>
+								<otherwise>
+									<out>
+										<mlu>
+											<lu>
+												<get-case-from pos="2">
+													<clip pos="1" side="tl" part="lemh"/>
+												</get-case-from>
+												<clip pos="1" side="tl" part="a_verb"/>
+												<clip pos="1" side="tl" part="temps"/>
+												<clip pos="1" side="tl" part="persona"/>
+												<clip pos="1" side="tl" part="nbr"/>
+											</lu>
+											<lu>
+												<clip pos="2" side="tl" part="lem"/>
+												<clip pos="2" side="tl" part="a_prn"/>
+												<lit-tag v="enc"/>
+		 										<clip pos="2" side="tl" part="a_ref"/>
+												<clip pos="2" side="tl" part="persona"/>
+												<clip pos="2" side="tl" part="gen"/>
+												<clip pos="2" side="tl" part="nbr"/>
+												<clip pos="1" side="tl" part="lemq"/>
+											</lu>
+										</mlu>
+									</out>
+								</otherwise>
+							</choose>
+						</otherwise>
+					</choose>
+				</when>
+				<otherwise>
+					<out>
+						<lu>
+							<get-case-from pos="2">
+								<clip pos="1" side="tl" part="lemh"/>
+							</get-case-from>
+							<clip pos="1" side="tl" part="a_verb"/>
+							<clip pos="1" side="tl" part="temps"/>
+							<clip pos="1" side="tl" part="persona"/>
+							<clip pos="1" side="tl" part="nbr"/>
+							<clip pos="1" side="tl" part="lemq"/>
+						</lu>
+					</out>
+				</otherwise>
+			</choose>
+		</def-macro>
+
+		<def-macro n="f_outverb2ifi" npar="3"> <!-- comprova si hi ha pronoms que no es tradueixen del català al portuguàs segons en diccionari ("hi" i "en") i envia el verb ifi amb pronom o sense, i al lloc on correspon. -->
 			<choose>
 				<when>
 					<test>
@@ -3309,7 +3461,7 @@
 					<test>
 						<not>
 							<equal>
-								<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sï¿½ que tï¿½ traducciï¿½-->
+								<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sí que té traducció-->
 								<lit v=""/>
 							</equal>
 						</not>
@@ -3319,7 +3471,7 @@
 							<test>
 								<not>
 									<equal>
-										<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom tambï¿½-->
+										<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom també-->
 										<lit v=""/>
 									</equal>
 								</not>
@@ -3380,7 +3532,7 @@
 								</otherwise>
 							</choose>
 						</when>
-						<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+						<otherwise> <!-- el 2n no té traducció-->
 							<choose>
 								<when>
 									<test>
@@ -3429,13 +3581,13 @@
 						</otherwise>
 					</choose>
 				</when>
-				<otherwise> <!-- el 1r no tï¿½ traducciï¿½-->
+				<otherwise> <!-- el 1r no té traducció-->
 					<choose>
 						<when>
 							<test>
 								<not>
 									<equal>
-										<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sï¿½-->
+										<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sí-->
 										<lit v=""/>
 									</equal>
 								</not>
@@ -3486,7 +3638,7 @@
 								</otherwise>
 							</choose>
 						</when>
-						<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+						<otherwise> <!-- el 2n no té traducció-->
 							<choose>
 								<when>
 									<test>
@@ -3548,7 +3700,7 @@
 				</when>
 			</choose>
 			<choose>
-				<when> <!--quï¿½ fer si ha de ser mesoclï¿½tic-->
+				<when> <!--què fer si ha de ser mesoclític-->
 					<test>
 						<or>
 							<equal>
@@ -3566,7 +3718,7 @@
 							<test>
 								<not>
 									<equal>
-										<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sï¿½ que tï¿½ traducciï¿½-->
+										<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sí que té traducció-->
 										<lit v=""/>
 									</equal>
 								</not>
@@ -3576,7 +3728,7 @@
 									<test>
 										<not>
 											<equal>
-												<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom tambï¿½-->
+												<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom també-->
 												<lit v=""/>
 											</equal>
 										</not>
@@ -3608,7 +3760,7 @@
 										</mlu>
 									</out>
 								</when>
-								<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+								<otherwise> <!-- el 2n no té traducció-->
 									<out>
 										<mlu>
 											<lu>
@@ -3633,13 +3785,13 @@
 								</otherwise>
 							</choose>
 						</when>
-						<otherwise> <!-- el 1r no tï¿½ traducciï¿½-->
+						<otherwise> <!-- el 1r no té traducció-->
 							<choose>
 								<when>
 									<test>
 										<not>
 											<equal>
-												<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sï¿½-->
+												<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sí-->
 												<lit v=""/>
 											</equal>
 										</not>
@@ -3667,7 +3819,7 @@
 										</mlu>
 									</out>
 								</when>
-								<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+								<otherwise> <!-- el 2n no té traducció-->
 									<out>
 										<mlu>
 											<lu>
@@ -3687,7 +3839,7 @@
 				</when>
 				<otherwise>
 					<choose>
-						<when><!-- si ï¿½s proclï¿½tic-->
+						<when><!-- si és proclític-->
 							<test>
 								<equal>
 									<var n="proclise"/>
@@ -3699,7 +3851,7 @@
 									<test>
 										<not>
 											<equal>
-												<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sï¿½ que tï¿½ traducciï¿½-->
+												<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sí que té traducció-->
 												<lit v=""/>
 											</equal>
 										</not>
@@ -3709,7 +3861,7 @@
 											<test>
 												<not>
 													<equal>
-														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom tambï¿½-->
+														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom també-->
 														<lit v=""/>
 													</equal>
 												</not>
@@ -3742,7 +3894,7 @@
 												</lu>
 											</out>
 										</when>
-										<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+										<otherwise> <!-- el 2n no té traducció-->
 											<out>
 												<lu>
 													<get-case-from pos="1" >
@@ -3767,13 +3919,13 @@
 										</otherwise>
 									</choose>
 								</when>
-								<otherwise> <!-- el 1r no tï¿½ traducciï¿½-->
+								<otherwise> <!-- el 1r no té traducció-->
 									<choose>
 										<when>
 											<test>
 												<not>
 													<equal>
-														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sï¿½-->
+														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sí-->
 														<lit v=""/>
 													</equal>
 												</not>
@@ -3798,7 +3950,7 @@
 												</lu>
 											</out>
 										</when>
-										<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+										<otherwise> <!-- el 2n no té traducció-->
 											<out>
 												<mlu>
 													<lu>
@@ -3822,7 +3974,7 @@
 									<test>
 										<not>
 											<equal>
-												<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sï¿½ que tï¿½ traducciï¿½-->
+												<clip pos="2" side="tl" part="lem"/> <!-- el 1r pronom sí que té traducció-->
 												<lit v=""/>
 											</equal>
 										</not>
@@ -3832,7 +3984,7 @@
 											<test>
 												<not>
 													<equal>
-														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom tambï¿½-->
+														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom també-->
 														<lit v=""/>
 													</equal>
 												</not>
@@ -3860,7 +4012,7 @@
 												</mlu>
 											</out>
 										</when>
-										<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+										<otherwise> <!-- el 2n no té traducció-->
 											<out>
 												<mlu>
 													<lu>
@@ -3881,13 +4033,13 @@
 										</otherwise>
 									</choose>
 								</when>
-								<otherwise> <!-- el 1r no tï¿½ traducciï¿½-->
+								<otherwise> <!-- el 1r no té traducció-->
 									<choose>
 										<when>
 											<test>
 												<not>
 													<equal>
-														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sï¿½-->
+														<clip pos="3" side="tl" part="lem"/> <!-- i el 2n pronom sí-->
 														<lit v=""/>
 													</equal>
 												</not>
@@ -3910,7 +4062,7 @@
 												</mlu>
 											</out>
 										</when>
-										<otherwise> <!-- el 2n no tï¿½ traducciï¿½-->
+										<otherwise> <!-- el 2n no té traducció-->
 											<out>
 												<mlu>
 													<lu>
@@ -6981,7 +7133,7 @@
 				</lu>
 				<b pos="2"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="4"/>
 				<with-param pos="3"/>
 			</call-macro>
@@ -7124,7 +7276,7 @@
 				</lu>
 				<b pos="3"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="5"/>
 				<with-param pos="4"/>
 			</call-macro>
@@ -7233,7 +7385,7 @@
 				</lu>
 				<b pos="2"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="4"/>
 				<with-param pos="3"/>
 			</call-macro>
@@ -7362,7 +7514,7 @@
 				</lu>
 				<b pos="3"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="5"/>
 				<with-param pos="4"/>
 			</call-macro>
@@ -7748,7 +7900,6 @@
 			</out>
 			<call-macro n="f_outverb2">
 				<with-param pos="3"/>
-				<with-param pos="4"/>
 				<with-param pos="5"/>
 			</call-macro>
 			<out>
@@ -7926,7 +8077,7 @@
 				</lu>
 				<b pos="2"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="4"/>
 				<with-param pos="3"/>
 			</call-macro>
@@ -8049,7 +8200,7 @@
 				</lu>
 				<b pos="3"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="5"/>
 				<with-param pos="4"/>
 			</call-macro>
@@ -8173,7 +8324,7 @@
 				</lu>
 				<b pos="2"/>
 			</out>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="4"/>
 				<with-param pos="3"/>
 			</call-macro>
@@ -10066,7 +10217,7 @@
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
 			</call-macro>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
 			</call-macro>
@@ -10198,7 +10349,7 @@
 					</call-macro>
 				</when>
 				<otherwise>
-					<call-macro n="f_outverb2">
+					<call-macro n="f_outverb2inv">
 						<with-param pos="2"/>
 						<with-param pos="1"/>
 					</call-macro>
@@ -10469,7 +10620,7 @@
 		<call-macro n="f_concord1">
 			<with-param pos="1"/>
 		</call-macro>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
 			</call-macro>
@@ -10624,7 +10775,7 @@
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
 			</call-macro>
-			<call-macro n="f_outverb2">
+			<call-macro n="f_outverb2inv">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
 			</call-macro>
