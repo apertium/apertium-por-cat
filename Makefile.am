@@ -7,17 +7,21 @@ LANG2=cat
 
 VAR1=#leave empty
 VAR2=_bra
+VAR3=_pt_pre1990
 
 LANG1P=$(LANG1)$(VAR1)
 LANG1B=$(LANG1)$(VAR2)
+LANG1PP=$(LANG1)$(VAR3)
 
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX1P=$(LANG1P)-$(LANG2)
 PREFIX1B=$(LANG1B)-$(LANG2)
+PREFIX1PP=$(LANG1PP)-$(LANG2)
 
 PREFIX2=$(LANG2)-$(LANG1)
 PREFIX2P=$(LANG2)-$(LANG1P)
 PREFIX2B=$(LANG2)-$(LANG1B)
+PREFIX2PP=$(LANG2)-$(LANG1PP)
 
 BASENAME=apertium-$(PREFIX1)
 
@@ -30,17 +34,21 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
-	$(PREFIX2).automorf.bin	\
-	$(PREFIX2).automorf.bin	\
+	$(PREFIX2P).automorf.bin	\
+	$(PREFIX2B).automorf.bin	\
+	$(PREFIX2PP).automorf.bin	\
 	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2P).autobil.bin	\
 	$(PREFIX2B).autobil.bin	\
+	$(PREFIX2PP).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2P).autogen.bin	\
 	$(PREFIX2B).autogen.bin	\
+	$(PREFIX2PP).autogen.bin	\
 	$(PREFIX2P).autopgen.bin	\
 	$(PREFIX2B).autopgen.bin	\
+	$(PREFIX2PP).autopgen.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t1x.bin	
 
@@ -74,6 +82,9 @@ $(PREFIX2P).autogen.bin: $(AP_SRC1)/$(LANG1P).autogen.bin
 $(PREFIX2B).autogen.bin: $(AP_SRC1)/$(LANG1B).autogen.bin
 	cp $< $@
 
+$(PREFIX2PP).autogen.bin: $(AP_SRC1)/$(LANG1PP).autogen.bin
+	cp $< $@
+
 # -------------------
 # Catalan analysis:
 # -------------------
@@ -85,6 +96,9 @@ $(PREFIX2P).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2P).autobil.bin
 	lt-trim $^ $@
 
 $(PREFIX2B).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2B).autobil.bin
+	lt-trim $^ $@
+
+$(PREFIX2PP).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2PP).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -132,6 +146,9 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 .deps/$(PREFIX1).por_bra.dix: .deps/$(PREFIX1).dix
 	python genvldix.py br $< >$@
 
+.deps/$(PREFIX1).por_pt_pre1990.dix: .deps/$(PREFIX1).dix
+	python genvldix.py pt_pre1990 $< >$@
+
 $(PREFIX2P).autobil.bin: .deps/$(PREFIX1).por.dix
 	apertium-validate-dictionary $<
 	lt-comp --var-left=pt rl $< $@
@@ -139,6 +156,10 @@ $(PREFIX2P).autobil.bin: .deps/$(PREFIX1).por.dix
 $(PREFIX2B).autobil.bin: .deps/$(PREFIX1).por_bra.dix
 	apertium-validate-dictionary $<
 	lt-comp --var-left=br rl $< $@
+
+$(PREFIX2PP).autobil.bin: .deps/$(PREFIX1).por_pt_pre1990.dix
+	apertium-validate-dictionary $<
+	lt-comp --var-left=pt_pre1990 rl $< $@
 
 
 
@@ -200,6 +221,9 @@ $(PREFIX2P).autopgen.bin: $(AP_SRC1)/$(LANG1P).autopgen.bin
 	cp $< $@
 
 $(PREFIX2B).autopgen.bin: $(AP_SRC1)/$(LANG1B).autopgen.bin
+	cp $< $@
+
+$(PREFIX2PP).autopgen.bin: $(AP_SRC1)/$(LANG1PP).autopgen.bin
 	cp $< $@
 
 ###############################################################################
