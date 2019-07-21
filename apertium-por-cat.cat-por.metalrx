@@ -273,6 +273,60 @@
         <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
      </rule>
     </def-macro>
+
+    <!-- Aquesta macro tria el verb p2 si p1 no és pronominal i p3 si p1 és pronominal -->
+    <!-- p1 = verb cat, p2 = verb ita no pron, p3 = verb ita pron -->
+    <def-macro name="verb_nopron_pron">
+      <rule weight="0.8">
+        <match lemma="{{p1}}" tags="vblex.*"><select lemma="{{p2}}"/></match>
+      </rule>
+      <rule weight="1.0">
+        <match tags="prn.pro.p1.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p3}}"/></match>
+      </rule>
+      <rule weight="1.0">
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p3}}"/></match>
+        <match tags="prn.enc.p1.*.sg"/>
+      </rule>
+      <rule weight="1.0">
+        <match tags="prn.pro.p2.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p3}}"/></match>
+      </rule>
+      <rule weight="1.0">
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p3}}"/></match>
+        <match tags="prn.enc.p2.*.sg"/>
+      </rule>
+      <rule weight="1.0">
+        <match tags="prn.pro.ref.p3.*.sp"/>
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p3}}"/></match>
+        </or>
+      </rule>
+      <rule weight="1.0">
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p3}}"/></match>
+        </or>
+        <match tags="prn.enc.ref.p3.*.sp"/>
+      </rule>
+      <rule weight="1.0">
+        <match tags="prn.pro.p1.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p3}}"/></match>
+      </rule>
+      <rule weight="1.0">
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p3}}"/></match>
+        <match tags="prn.enc.p1.*.pl"/>
+      </rule>
+      <rule weight="1.0">
+        <match tags="prn.pro.p2.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p3}}"/></match>
+      </rule>
+      <rule weight="1.0">
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p3}}"/></match>
+        <match tags="prn.enc.p2.*.pl"/>
+      </rule>
+    </def-macro>
   </def-macros>
 
 <rules>
@@ -304,6 +358,40 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- corrent > corrente f, corrente m -->
+  <rule weight="0.6">
+    <match lemma="corrent" tags="n.*"><select lemma="corrente" tags="n.f.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="estar" tags="vblex.*"/>
+      <match lemma="posar" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="2">
+      <or>
+        <match tags="prn.enc.*"/>
+        <match tags="adv"/>
+      </or>
+    </repeat>
+    <match lemma="a" tags="pr"/>
+    <match tags="det.def.*"/>
+    <match lemma="corrent" tags="n.*"><select lemma="corrente" tags="n.m.*"/></match>
+  </rule>
+
+  <!-- camioneta > carrinha# de caixa aberta, etc. (Por) -->
+  <!-- camioneta > caminhonete, etc. (Bra) -->
+  <rule weight="0.6">
+    <match lemma="camioneta" tags="n.*"><select lemma="carrinha# de caixa aberta"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="camioneta" tags="n.*"><select lemma="caminhonete"/></match>
+  </rule>
+
+  <!-- dutxa > chuveiro/duche, banho de chuveiro (Por) -->
+  <rule weight="0.6">
+    <match lemma="dutxa" tags="n.*"><select lemma="chuveiro"/></match>
+  </rule>
 
   <!-- usuari > usuário, utente, utilizador -->
   <rule weight="0.8">
@@ -511,16 +599,43 @@
 
   <!-- traslladar > transladar, mudar -->
   <rule weight="0.6">
-    <match lemma="traslladar" tags="vblex"><select lemma="transladar"/></match>
+    <match lemma="traslladar" tags="vblex.*"><select lemma="transladar"/></match>
   </rule>
   <rule weight="1.0">
     <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
 
+  <!-- banyar > dar# banho, tomar# banho -->
+  <macro name="verb_nopron_pron" p1="banyar" p2="dar# banho" p3="tomar# banho"/>
+  <rule weight="2.0">
+    <match tags="np.top.*"/>
+    <match lemma="banyar" tags="vblex.*"><select lemma="banhar"/></match>
+  </rule>
+  <rule weight="2.0">
+    <match lemma="banyar" tags="vblex.*"><select lemma="banhar"/></match>
+    <match tags="np.top.*"/>
+  </rule>
+  <rule weight="2.0">
+    <match lemma="banyar" tags="vblex.pp.*"><select lemma="banhar"/></match>
+    <match lemma="per" tags="pr"/>
+  </rule>
+  <rule weight="2.0">
+    <or>
+      <match lemma="ser" tags="vbser.*"/>
+      <match lemma="estar" tags="vblex.*"/>
+    </or>
+    <match lemma="banyar" tags="vblex.pp.*"><select lemma="banhar"/></match>
+  </rule>
+
+  <!-- dutxar > dar# um duche, tomar# um duche (Por) -->
+  <!-- dutxar > dar# uma ducha, tomar# uma ducha (Bra) -->
+  <macro name="verb_nopron_pron" p1="dutxar" p2="dar# um duche" p3="tomar# um duche"/>
+  <macro name="verb_nopron_pron" p1="dutxar" p2="dar# uma ducha" p3="tomar# uma ducha"/>
+
   <!-- estar > estar, ser -->
   <rule weight="0.6">
-    <match lemma="estar" tags="vblex"><select lemma="estar"/></match>
+    <match lemma="estar" tags="vblex.*"><select lemma="estar"/></match>
   </rule>
   <rule weight="1.0">
     <match lemma="estar" tags="vblex.*"><select lemma="ser"/></match>

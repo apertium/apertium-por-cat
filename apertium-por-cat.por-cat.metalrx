@@ -339,6 +339,15 @@
 
 <!-- **************** N **************** -->
 
+  <!-- autocarro > autobús, autocar (Por) -->
+  <!-- ônibus > autobús, autocar (Bra) -->
+  <rule weight="0.6">
+    <match lemma="autocarro" tags="n.*"><select lemma="autobús"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="ônibus" tags="n.*"><select lemma="autobús"/></match>
+  </rule>
+
   <!-- cadastro > cadastre, antecedents penals, registre -->
   <rule weight="0.6">
     <match lemma="cadastro" tags="n.*"><select lemma="cadastre"/></match>
