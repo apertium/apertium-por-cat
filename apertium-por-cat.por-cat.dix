@@ -1411,8 +1411,21 @@
 <e a="hector"><p><l>ordinal<s n="adj"/></l><r>ordinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cardeal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cardinal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenvolupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenrotllat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenvolupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenrotllat<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>este<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leste<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oeste<s n="adj"/></l><r>oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>norte<s n="adj"/></l><r>nord<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sul<s n="adj"/></l><r>sud<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nordeste<s n="adj"/></l><r>nord-est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noroeste<s n="adj"/></l><r>nord-oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sudoeste<s n="adj"/></l><r>sud-oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sueste<s n="adj"/></l><r>sud-est<s n="adj"/></r></p></e>
 
-<!-- xxxxxx -->
+<!-- xxxxx -->
 
     <!-- ******************************
           group adv_symbol
@@ -1683,7 +1696,6 @@
 <e>       <p><l>em<b/>matéria<b/>de<s n="pr"/></l>     <r>en<b/>qüestió<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>media<s n="adv"/></l>            <r>de<b/>mitjana<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>mãos<s n="adv"/></l>             <r>en<b/>mà<s n="adv"/></r></p></e>
-<e r="LR"><p><l>em<b/>mãos<s n="adv"/></l>             <r>en<b/>mà<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>médio<b/>prazo<s n="adv"/></l>   <r>a<b/>mig<b/>termini<s n="adv"/></r></p></e>
 <e r="RL"><p><l>em<b/>médio<b/>prazo<s n="adv"/></l>   <r>a<b/>mig<b/>plaç<s n="adv"/></r></p></e>
 <e>       <p><l>em<b/>potencial<s n="adv"/></l>        <r>en<b/>potència<s n="adv"/></r></p></e>
@@ -1860,7 +1872,7 @@
 <e r="RL"><p><l>mão<b/>de<b/>ferro<s n="adv"/></l>     <r>mà<b/>dura<s n="adv"/></r></p></e>
 <e>       <p><l>mãos<b/>ao<b/>alto<s n="adv"/></l>     <r>manos<b/>enlaire<s n="adv"/></r></p></e>
 <e r="LR"><p><l>na<b/>bucha<s n="adv"/></l>            <r>en<b/>el<b/>blanc<s n="adv"/></r></p></e>
-<e>       <p><l>na<b/>contramão<s n="adv"/></l>        <r>en<b/>contra<s n="adv"/></r></p></e>
+<e r="LR"><p><l>na<b/>contramão<s n="adv"/></l>        <r>en<b/>contra<s n="adv"/></r></p></e>
 <e>       <p><l>na<b/>largura<s n="adv"/></l>          <r>d'ample<s n="adv"/></r></p></e>
 <e>       <p><l>na<b/>mosca<s n="adv"/></l>            <r>en<b/>el<b/>blanc<s n="adv"/></r></p></e>
 <e>       <p><l>na<b/>praça<s n="adv"/></l>            <r>a<b/>la<b/>plaça<s n="adv"/></r></p></e>
@@ -2091,6 +2103,29 @@
 <e><p><l>ao<b/>lado<s n="adv"/></l><r>al<b/>costat<s n="adv"/></r></p></e>
 <e><p><l>de<b/>um<b/>lado<b/>para<b/>o<b/>outro<s n="adv"/></l><r>d'un<b/>costat<b/>a<b/>l'altre<s n="adv"/></r></p></e>
 <e><p><l>para<b/>um<b/>lado<s n="adv"/></l><r>cap<b/>a<b/>un<b/>costat<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>leste<s n="adv"/></l><r>a<b/>l'est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>oeste<s n="adv"/></l><r>a<b/>l'oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>norte<s n="adv"/></l><r>al<b/>nord<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>sul<s n="adv"/></l><r>al<b/>sud<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>nordeste<s n="adv"/></l><r>al<b/>nord-est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>noroeste<s n="adv"/></l><r>al<b/>nord-oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>sudoeste<s n="adv"/></l><r>al<b/>sud-oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>sueste<s n="adv"/></l><r>al<b/>sud-est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>leste<s n="adv"/></l><r>cap<b/>a<b/>l'est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>oeste<s n="adv"/></l><r>cap<b/>a<b/>l'oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>norte<s n="adv"/></l><r>cap<b/>al<b/>nord<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>sul<s n="adv"/></l><r>cap<b/>al<b/>sud<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>nordeste<s n="adv"/></l><r>cap<b/>al<b/>nord-est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>noroeste<s n="adv"/></l><r>cap<b/>al<b/>nord-oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>sudoeste<s n="adv"/></l><r>cap<b/>al<b/>sud-oest<s n="adv"/></r></p></e>
+<e a="hector"><p><l>para<b/>sueste<s n="adv"/></l><r>cap<b/>al<b/>sud-est<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>favor<s n="adv"/></l><r>a<b/>favor<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>ao<b/>contrário<s n="adv"/></l><r>al<b/>contrari<s n="adv"/></r></p></e>
+<e a="hector"><p><l>do<b/>avesso<s n="adv"/></l><r>a<b/>l'inrevés<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>ás<b/>avessas<s n="adv"/></l><r>a<b/>l'inrevés<s n="adv"/></r></p></e>
+<e a="hector"><p><l>contra<s n="adv"/></l><r>en<b/>contra<s n="adv"/></r></p></e>
+
+<!-- xxxxx -->
 
     <!-- ******************************
           group cnjadv_symbol
@@ -2140,8 +2175,8 @@
 <e>       <p><l>mesmo<b/>assim<s n="cnjadv"/></l>      <r>tot<b/>i<b/>així<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>mesmo<b/>assim<s n="cnjadv"/></l>      <r>tot<b/>i<b/>això<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>mesmo<b/>que<s n="cnjadv"/></l>        <r>encara<b/>que<s n="cnjadv"/></r></p></e>
-<e r="RL"><p><l>muito<b/>pelo<b/>contrário<s n="cnjadv"/></l><r>per<b/>contra<s n="cnjadv"/></r></p></e>
-<e>       <p><l>muito<b/>pelo<b/>contrário<s n="cnjadv"/></l><r>ben<b/>al<b/>contrari<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>muito<b/>pelo<b/>contrário<s n="adv"/></l><r>ans<b/>al<b/>contrari<s n="adv"/></r></p></e>
+<e>       <p><l>muito<b/>pelo<b/>contrário<s n="adv"/></l><r>ben<b/>al<b/>contrari<s n="adv"/></r></p></e>
 <e>       <p><l>naquele<b/>tempo<s n="cnjadv"/></l>    <r>en<b/>aquells<b/>temps<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>naquele<b/>tempo<s n="cnjadv"/></l>    <r>en<b/>aquell<b/>temps<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>naquele<b/>tempo<s n="cnjadv"/></l>    <r>en<b/>aquella<b/>època<s n="cnjadv"/></r></p></e>
@@ -2151,7 +2186,8 @@
 <e>       <p><l>os<b/>prós<b/>e<b/>os<b/>contras<s n="cnjadv"/></l><r>els<b/>pros<b/>i<b/>contres<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>os<b/>prós<b/>e<b/>os<b/>contras<s n="cnjadv"/></l><r>els<b/>pros<b/>i<b/>els<b/>contres<s n="cnjadv"/></r></p></e>
 <e>       <p><l>para<b/>o<b/>qual<s n="cnjadv"/></l>   <r>per<b/>a<b/>això<s n="cnjadv"/></r></p></e>
-<e>       <p><l>pelo<b/>contrário<s n="cnjadv"/></l>   <r>al<b/>contrari<s n="cnjadv"/></r></p></e>
+<e>       <p><l>pelo<b/>contrário<s n="adv"/></l>      <r>al<b/>contrari<s n="adv"/></r></p></e>
+<e r="RL"><p><l>pelo<b/>contrário<s n="adv"/></l>      <r>per<b/>contra<s n="adv"/></r></p></e>
 <e r="LR"><p><l>pelo<b/>jeito<s n="cnjadv"/></l>       <r>pel<b/>que<b/>sembla<s n="cnjadv"/></r></p></e>
 <e>       <p><l>pelo<b/>jeito<b/>que<s n="cnjadv"/></l><r>por<b/>la<b/>manera<b/>com<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>pelo<b/>menos<s n="adv"/></l>          <r>almenys<s n="adv"/></r></p></e>
@@ -2287,7 +2323,7 @@
 <e>       <p><l>PSC<s n="n"/></l>                      <r>PSC<s n="n"/></r></p></e>
 <e>       <p><l>PSOE<s n="n"/></l>                     <r>PSOE<s n="n"/></r></p></e>
 <e>       <p><l>RG<s n="n"/></l>                       <r>DNI<s n="n"/></r></p></e>
-<e>       <p><l>Sr<s n="n"/></l>                       <r>Sr<s n="n"/></r></p></e>
+<!--<e>       <p><l>Sr<s n="n"/></l>                       <r>Sr<s n="n"/></r></p></e> -->
 <e>       <p><l>UE<s n="n"/></l>                       <r>UE<s n="n"/></r></p></e>
 <e r="LR"><p><l>a<b/>internet<s n="n"/></l>            <r>internet<s n="n"/></r></p></e>
 <e r="LR"><p><l>a_internet<s n="n"/></l>               <r>internet<s n="n"/></r></p></e>
@@ -3294,6 +3330,7 @@
 <e r="RL"><p><l>desenho<s n="n"/></l>                  <r>disseny<s n="n"/></r></p></e>
 <e r="RL"><p><l>desenvolvimento<s n="n"/></l>          <r>desenrotllament<s n="n"/></r></p></e>
 <e>       <p><l>desenvolvimento<s n="n"/></l>          <r>desenvolupament<s n="n"/></r></p></e>
+<e>       <p><l>subdesenvolvimento<s n="n"/></l>       <r>subdesenvolupament<s n="n"/></r></p></e>
 <e>       <p><l>desequilíbrio<s n="n"/></l>            <r>desequilibri<s n="n"/></r></p></e>
 <e>       <p><l>deserto<s n="n"/></l>                  <r>desert<s n="n"/></r></p></e>
 <e>       <p><l>desespero<s n="n"/><s n="m"/></l>      <r>desesperació<s n="n"/><s n="f"/></r></p></e>
@@ -4315,7 +4352,8 @@
 <e>       <p><l>madeira<s n="n"/></l>                  <r>fusta<s n="n"/></r></p></e>
 <e>       <p><l>madrileno<s n="n"/></l>                <r>madrileny<s n="n"/></r></p></e>
 <e>       <p><l>madrugada<s n="n"/></l>                <r>matinada<s n="n"/></r></p></e>
-<e>       <p><l>maestro<s n="n"/></l><r>mestre<s n="n"/></r></p><par n="outro_altre"/></e>
+<e r="LR"><p><l>maestro<s n="n"/></l>                  <r>mestre<s n="n"/></r></p><par n="outro_altre"/></e>
+<e>       <p><l>mestre<s n="n"/></l>                   <r>mestre<s n="n"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>magia<s n="n"/></l>                    <r>màgia<s n="n"/></r></p></e>
 <e>       <p><l>magistrado<s n="n"/></l>               <r>magistrat<s n="n"/></r></p></e>
 <e>       <p><l>magnata<s n="n"/></l>                  <r>magnat<s n="n"/></r></p></e>
@@ -4950,6 +4988,7 @@
 <e>       <p><l>prodígio<s n="n"/></l>                 <r>prodigi<s n="n"/></r></p></e>
 <e>       <p><l>profesor<s n="n"/></l>                 <r>profesor<s n="n"/></r></p></e>
 <e>       <p><l>professor<s n="n"/></l>                <r>professor<s n="n"/></r></p></e>
+<e r="RL"><p><l>professor<s n="n"/></l>                <r>mestre<g><b/>d'escola</g><s n="n"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>profeta<s n="n"/></l>                  <r>profeta<s n="n"/></r></p></e>
 <e>       <p><l>profissional<s n="n"/></l>             <r>professional<s n="n"/></r></p></e>
 <e>       <p><l>profissão<s n="n"/></l>                <r>professió<s n="n"/></r></p></e>
@@ -5132,8 +5171,8 @@
 <e>       <p><l>refúgio<s n="n"/></l>                  <r>refugi<s n="n"/></r></p></e>
 <e r="RL"><p><l>refúgio<s n="n"/></l>                  <r>recer<s n="n"/></r></p></e>
 <e>       <p><l>regime<s n="n"/></l>                   <r>règim<s n="n"/></r></p></e>
-<e vl="pt pt_pre1990"><p><l>registo<s n="n"/></l>                  <r>registre<s n="n"/></r></p></e>
-<e>       <p><l>registro<s n="n"/></l>                 <r>registre<s n="n"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>registo<s n="n"/><s n="m"/></l><r>registre<s n="n"/><s n="m"/></r></p><par n="sp_sp"/></e>
+<e>       <p><l>registro<s n="n"/><s n="m"/></l>       <r>registre<s n="n"/><s n="m"/></r></p><par n="sp_sp"/></e>
 <e r="RL"><p><l>registro<s n="n"/></l>                 <r>empadronament<s n="n"/></r></p></e>
 <e>       <p><l>região<s n="n"/></l>                   <r>regió<s n="n"/></r></p></e>
 <e>       <p><l>regra<s n="n"/></l>                    <r>regla<s n="n"/></r></p></e>
@@ -5653,8 +5692,9 @@
 <e>       <p><l>urânio<s n="n"/></l>                   <r>urani<s n="n"/></r></p></e>
 <e r="LR"><p><l>usina<s n="n"/></l>                    <r>fàbrica<s n="n"/></r></p></e>
 <e>       <p><l>uso<s n="n"/></l>                      <r>ús<s n="n"/></r></p></e>
-<e vl="br"><p><l>usuário<s n="n"/></l>                  <r>usuari<s n="n"/></r></p></e>
-<e vl="pt pt_pre1990"><p><l>utente<s n="n"/></l><r>usuari<s n="n"/></r></p><par n="mf_GD"/></e>
+<e vl="br"><p><l>usuário<s n="n"/></l>                 <r>usuari<s n="n"/></r></p><par n="mf_mf"/></e>
+<e vl="pt pt_pre1990"><p><l>utente<s n="n"/></l>       <r>usuari<s n="n"/></r></p><par n="mf_GD"/></e>
+<e>       <p><l>utilizador<s n="n"/></l>               <r>usuari<s n="n"/></r></p><par n="mf_mf"/></e>
 <e>       <p><l>utilidade<s n="n"/></l>                <r>utilitat<s n="n"/></r></p></e>
 <e>       <p><l>utilização<s n="n"/></l>               <r>utilització<s n="n"/></r></p></e>
 <e>       <p><l>utopia<s n="n"/></l>                   <r>utopia<s n="n"/></r></p></e>
@@ -5835,8 +5875,21 @@
 <e a="hector"><p><l>próton<s n="n"/><s n="m"/></l><r>protó<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>elétron<s n="n"/><s n="m"/></l><r>electró<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>primo<s n="n"/></l><r>cosí<s n="n"/></r></p></e>
+<e a="hector"><p><l>primo<b/>direito<s n="n"/></l><r>cosí<b/>germà<s n="n"/></r></p></e>
+<e a="hector"><p><l>fan<s n="n"/></l><r>fan<s n="n"/></r></p></e>
+<e vl="br" a="hector"><p><l>torcida<s n="n"/><s n="f"/></l><r>afició<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>claque<s n="n"/><s n="f"/></l><r>afició<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>claquista<s n="n"/></l><r>aficionat<s n="n"/></r></p><par n="mf_GD"/></e>
+<e vl="br" a="hector"><p><l>torcedor<s n="n"/></l><r>aficionat<s n="n"/></r></p></e>
+<e a="hector"><p><l>gosto<s n="n"/><s n="m"/></l><r>afició<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>passatempo<s n="n"/><s n="m"/></l><r>afició<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>passatempo<s n="n"/><s n="m"/></l><r>passatemps<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
+<e a="hector"><p><l>hobby<s n="n"/><s n="m"/></l><r>hobby<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cadastro<s n="n"/><s n="m"/><s n="sg"/></l><r>antecedents<b/>penals<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e a="hector"><p><l>cadastro<s n="n"/><s n="m"/></l><r>cadastre<s n="n"/><s n="m"/></r></p><par n="sp_sp"/></e>
+<e a="hector"><p><l>cadastro<s n="n"/><s n="m"/></l><r>registre<s n="n"/><s n="m"/></r></p><par n="sp_sp"/></e>
 
-<!-- xxxxxx -->
+<!-- xxxxx -->
 
     <!-- ******************************
           group np_symbol
@@ -20979,6 +21032,7 @@
 <e>       <p><l>vinte<b/>e<b/>nove<s n="num"/></l>     <r>vint-i-nou<s n="num"/></r></p></e>
 <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e>       <re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/></r></p></e>
+
     <!-- ******************************
           group pr_symbol
       ****************************** -->
@@ -21008,6 +21062,7 @@
 <e r="RL"><p><l>como<s n="pr"/></l>                    <r>com<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>como<b/>prova<b/>de<s n="pr"/></l>     <r>com<b/>a<b/>prova<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>contra<s n="pr"/></l>                  <r>contra<s n="pr"/></r></p></e>
+<e r="RL"><p><l>contra<s n="pr"/></l>                  <r>en<b/>contra<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>contra<s n="pr"/></l>                  <r>versus<s n="pr"/></r></p></e>
 <e>       <p><l>de<s n="pr"/></l>                      <r>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>debaixo<b/>de<s n="pr"/></l>           <r>sota<s n="pr"/></r></p></e>
@@ -21019,7 +21074,8 @@
 <e>       <p><l>em<s n="pr"/></l>                      <r>en<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>consequência<b/>de<s n="pr"/></l><r>a<b/>conseqüència<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>decorrência<b/>de<s n="pr"/></l> <r>en<b/>el<b/>transcurs<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>em<b/>frente<b/>a<s n="pr"/></l>       <r>enfront<b/>de<s n="pr"/></r></p></e>
+<e r="LR"><p><l>em<b/>frente<b/>a<s n="pr"/></l>       <r>davant<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>em<b/>frente<b/>a<s n="pr"/></l>       <r>enfront<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjan<s n="pr"/></r></p></e>
 <e r="RL"><p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjan<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>meados<b/>de<s n="pr"/></l>      <r>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
@@ -21105,6 +21161,18 @@
 <e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>a<b/>començaments<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>al<b/>principi<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>a<b/>començos<b/>de<s n="pr"/></l><r>al<b/>començament<b/>de<s n="pr"/></r></p></e>
+<e r="LR" a="hector"><p><l>a<b/>este<b/>de<s n="pr"/></l><r>a<b/>l'est<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>leste<b/>de<s n="pr"/></l><r>a<b/>l'est<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>oeste<b/>de<s n="pr"/></l><r>a<b/>l'oest<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>norte<b/>de<s n="pr"/></l><r>al<b/>nord<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>sul<b/>de<s n="pr"/></l><r>al<b/>sud<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>nordeste<b/>de<s n="pr"/></l><r>al<b/>nord-est<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>noroeste<b/>de<s n="pr"/></l><r>al<b/>nord-oest<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>sudoeste<b/>de<s n="pr"/></l><r>al<b/>sud-oest<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>sueste<b/>de<s n="pr"/></l><r>al<b/>sud-est<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>a<b/>favor<b/>de<s n="pr"/></l><r>al<b/>favor<b/>de<s n="pr"/></r></p></e>
+<e r="LR" a="hector"><p><l>en<b/>prol<b/>de<s n="pr"/></l><r>al<b/>favor<b/>de<s n="pr"/></r></p></e>
+<e a="hector"><p><l>ao<b/>contrário<b/>de<s n="pr"/></l><r>al<b/>contrari<b/>de<s n="pr"/></r></p></e>
 
     <!-- ******************************
           group preadv_symbol
@@ -22551,6 +22619,7 @@
 <e>       <p><l>retirar<s n="vblex"/></l>              <r>retirar<s n="vblex"/></r></p></e>
 <e>       <p><l>retomar<s n="vblex"/></l>              <r>reprendre<s n="vblex"/></r></p></e>
 <e>       <p><l>retorcer<s n="vblex"/></l>             <r>retorçar<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>retorcer<s n="vblex"/></l>             <r>retòrcer<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>retornar<s n="vblex"/></l>             <r>retornar<s n="vblex"/></r></p></e>
 <e>       <p><l>retroceder<s n="vblex"/></l>           <r>retrocedir<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>reunir<s n="vblex"/></l>               <r>aplegar<s n="vblex"/></r></p></e>
@@ -22673,6 +22742,8 @@
 <e>       <p><l>tomar<s n="vblex"/></l>                <r>prendre<s n="vblex"/></r></p></e>
 <e>       <p><l>torcer<s n="vblex"/></l>               <r>torçar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>torcer<s n="vblex"/></l>               <r>tòrcer<s n="vblex"/></r></p></e>
+<e r="LR" vl="br"><p><l>torcer<g><b/>para</g><s n="vblex"/></l><r>ser<g><b/>aficionat<b/>de</g><s n="vblex"/></r></p></e>
+<e r="LR" vl="br"><p><l>torcer<g><b/>por</g><s n="vblex"/></l><r>ser<g><b/>aficionat<b/>de</g><s n="vblex"/></r></p></e>
 <e r="LR"><p><l>tornar<s n="vblex"/></l>               <r>fer<s n="vblex"/></r></p></e>
 <e>       <p><l>torturar<s n="vblex"/></l>             <r>torturar<s n="vblex"/></r></p></e>
 <e>       <p><l>trabalhar<s n="vblex"/></l>            <r>treballar<s n="vblex"/></r></p></e>
@@ -22752,8 +22823,27 @@
           group vbmod_symbol
       ****************************** -->
 <e r="LR"><p><l>deber<s n="vbmod"/></l>                <r>haver<g><b/>de</g><s n="vbmod"/></r></p></e>
-<e r="RL"><p><l>dever<s n="vbmod"/></l>                <r>deure<s n="vbmod"/></r></p></e>
-<e r="LR"><p><l>dever<s n="vbmod"/></l>                <r>haver<g><b/>de</g><s n="vbmod"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="pp"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="pp"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="ger"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="ger"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="inf"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="inf"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="cni"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="cni"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="fts"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="fts"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="fti"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="fti"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="pii"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="pii"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="pri"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="pri"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="pis"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="pis"/></r></p></e>
+<e r="LR"><p><l>dever<s n="vbmod"/><s n="prs"/></l><r>haver<g><b/>de</g><s n="vbmod"/><s n="prs"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="pp"/></l><r>deure<s n="vbmod"/><s n="pp"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="ger"/></l><r>deure<s n="vbmod"/><s n="ger"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="inf"/></l><r>deure<s n="vbmod"/><s n="inf"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="cni"/></l><r>deure<s n="vbmod"/><s n="cni"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="fts"/></l><r>deure<s n="vbmod"/><s n="fts"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="fti"/></l><r>deure<s n="vbmod"/><s n="fti"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="pii"/></l><r>deure<s n="vbmod"/><s n="pii"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="pri"/></l><r>deure<s n="vbmod"/><s n="pri"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="pis"/></l><r>deure<s n="vbmod"/><s n="pis"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="prs"/></l><r>deure<s n="vbmod"/><s n="prs"/></r></p></e>
+<e r="RL"><p><l>dever<s n="vbmod"/><s n="ifi"/></l><r>deure<s n="vbmod"/><s n="ifi"/></r></p></e>
 <e>       <p><l>fazer<g><b/>falta</g><s n="vblex"/></l><r>caldre<s n="vbmod"/></r></p></e>
 <e r="LR"><p><l>haver<g><b/>de</g><s n="vbmod"/></l>   <r>haver<g><b/>de</g><s n="vbmod"/></r></p></e>
 <e>       <p><l>poder<s n="vbmod"/></l>                <r>poder<s n="vbmod"/></r></p></e>
@@ -22773,6 +22863,7 @@
 <e>       <re>[.\?;:!]</re><p><l><s n="sent"/></l>     <r><s n="sent"/></r></p></e>
 <e>       <p><l>ter<s n="vbhaver"/></l>                <r>haver<s n="vbhaver"/></r></p></e>
 <e>       <p><l>ser<s n="vbser"/></l>                  <r>ser<s n="vbser"/></r></p></e>
+<e>       <p><l>ser<s n="vbser"/></l>                  <r>estar<s n="vblex"/></r></p></e>
 
 <e a="hector"><p><l>província<s n="n"/><s n="f"/></l><r>província<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>era<s n="n"/><s n="f"/></l><r>era<s n="n"/><s n="f"/></r></p></e>
@@ -22788,7 +22879,8 @@
 <e vl="pt_pre1990" a="hector"><p><l>asteróide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>vila<s n="n"/><s n="f"/></l><r>vila<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>revestir<s n="vblex"/></l><r>revestir<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>leste<s n="n"/><s n="m"/></l><r>est<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>leste<s n="n"/><s n="m"/><s n="sg"/></l><r>est<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR" a="hector"><p><l>este<s n="n"/><s n="m"/><s n="sg"/></l><r>est<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e a="hector"><p><l>influenciar<s n="vblex"/></l><r>influenciar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>serra<s n="n"/><s n="f"/></l><r>serra<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>classificar<s n="vblex"/></l><r>classificar<s n="vblex"/></r></p></e>
@@ -22831,7 +22923,7 @@
 <e a="hector"><p><l>bronze<s n="n"/><s n="m"/></l><r>bronze<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>suar<s n="vblex"/></l><r>suar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>primário<s n="adj"/></l><r>primari<s n="adj"/></r></p></e>
-<e a="hector"><p><l>predominantemente<s n="adv"/></l><r>predominantmente<s n="adv"/></r></p></e>
+<e a="hector"><p><l>predominantemente<s n="adv"/></l><r>predominantment<s n="adv"/></r></p></e>
 <e vl="br" a="hector"><p><l>planejar<s n="vblex"/></l><r>planejar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>matriz<s n="n"/><s n="f"/></l><r>matriu<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>localizar<s n="vblex"/></l><r>localitzar<s n="vblex"/></r></p></e>
