@@ -339,6 +339,21 @@
 
 <!-- **************** N **************** -->
 
+  <!-- despedida > comiat, acomiadament (Bra) -->
+  <rule weight="0.6">
+    <match lemma="despedida" tags="n.*"><select lemma="comiat"/></match>
+  </rule>
+
+  <!-- demissão > dimissió, acomiadament (Bra) -->
+  <rule weight="0.6">
+    <match lemma="demissão" tags="n.*"><select lemma="dimissió"/></match>
+  </rule>
+
+  <!-- arquivo > fitxer, arxiu (Bra) -->
+  <rule weight="0.6">
+    <match lemma="arquivo" tags="n.*"><select lemma="fitxer"/></match>
+  </rule>
+
   <!-- autocarro > autobús, autocar (Por) -->
   <!-- ônibus > autobús, autocar (Bra) -->
   <rule weight="0.6">

@@ -359,6 +359,34 @@
 
 <!-- **************** N **************** -->
 
+  <!-- cua > cauda/calda/rabo, fila -->
+  <rule weight="0.6">
+    <or>
+      <match lemma="cua" tags="n.*"><select lemma="cauda"/></match>
+      <match lemma="cua" tags="n.*"><select lemma="calda"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="fer" tags="vblex.*"/>
+    <repeat from="0" upto="1">
+      <or>
+        <match tags="adv"/>
+        <match tags="adj.*"/>
+      </or>
+    </repeat>
+    <match lemma="cua" tags="n.*"><select lemma="fila"/></match>
+  </rule>
+
+  <!-- company > companheiro, colega -->
+  <rule weight="0.6">
+    <match lemma="company" tags="n.*"><select lemma="companheiro"/></match>
+  </rule>
+
+  <!-- acomiadament > demissão, despedida (Bra) -->
+  <rule weight="0.6">
+    <match lemma="acomiadament" tags="n.*"><select lemma="demissão"/></match>
+  </rule>
+
   <!-- corrent > corrente f, corrente m -->
   <rule weight="0.6">
     <match lemma="corrent" tags="n.*"><select lemma="corrente" tags="n.f.*"/></match>
