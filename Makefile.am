@@ -49,9 +49,10 @@ TARGETS_COMMON =		\
 	$(PREFIX2P).autopgen.bin	\
 	$(PREFIX2B).autopgen.bin	\
 	$(PREFIX2PP).autopgen.bin	\
-	$(PREFIX2).t1x.bin	\
-	$(PREFIX2).t1x.bin	
-
+	$(PREFIX2P).t1x	\
+	$(PREFIX2P).t1x.bin	\
+	$(PREFIX2B).t1x	\
+	$(PREFIX2B).t1x.bin	
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 
@@ -198,9 +199,23 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 #	apertium-preprocess-transfer $< $@
 
 
-$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
-	apertium-validate-transfer $<
-	apertium-preprocess-transfer $< $@
+#$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
+#	apertium-validate-transfer $<
+#	apertium-preprocess-transfer $< $@
+
+$(PREFIX2P).t1x: $(BASENAME).$(PREFIX2).t1x
+	./filterrules.sh pt_PT $(BASENAME).$(PREFIX2).t1x >$@
+
+$(PREFIX2B).t1x: $(BASENAME).$(PREFIX2).t1x
+	./filterrules.sh pt_BR $(BASENAME).$(PREFIX2).t1x >$@
+
+$(PREFIX2P).t1x.bin: $(PREFIX2P).t1x
+	apertium-validate-transfer $(PREFIX2P).t1x
+	apertium-preprocess-transfer $(PREFIX2P).t1x $@
+
+$(PREFIX2B).t1x.bin: $(PREFIX2B).t1x
+	apertium-validate-transfer $(PREFIX2B).t1x
+	apertium-preprocess-transfer $(PREFIX2B).t1x $@
 
 #$(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
 #	apertium-validate-interchunk $<
