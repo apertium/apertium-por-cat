@@ -267,6 +267,8 @@
 <e vl="pt br"><p><l>atual<s n="adj"/></l>                  <r>actual<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990"><p><l>atómico<s n="adj"/></l>                <r>atòmic<s n="adj"/></r></p></e>
 <e vl="br"><p><l>atômico<s n="adj"/></l>                <r>atòmic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>subatómico<s n="adj"/></l>                <r>subatòmic<s n="adj"/></r></p></e>
+<e vl="br"><p><l>subatômico<s n="adj"/></l>                <r>subatòmic<s n="adj"/></r></p></e>
 <e><p><l>audaz<s n="adj"/></l><r>audaç<s n="adj"/></r></p><par n="feroz_feroç"/></e>
 <e>       <p><l>audiovisual<s n="adj"/></l>            <r>audiovisual<s n="adj"/></r></p></e>
 <e>       <p><l>ausente<s n="adj"/></l>                <r>absent<s n="adj"/></r></p></e>
@@ -3143,7 +3145,8 @@
 <e>       <p><l>convite<s n="n"/><s n="m"/></l>        <r>invitació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>convivência<s n="n"/></l>              <r>convivència<s n="n"/></r></p></e>
 <e>       <p><l>convocação<s n="n"/></l>               <r>convocatòria<s n="n"/></r></p></e>
-<e>       <p><l>convênio<s n="n"/></l>                 <r>conveni<s n="n"/></r></p></e>
+<e vl="br"><p><l>convênio<s n="n"/></l>                 <r>conveni<s n="n"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>convénio<s n="n"/></l>                 <r>conveni<s n="n"/></r></p></e>
 <e r="LR"><p><l>convívio<s n="n"/><s n="m"/></l>       <r>convivència<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cooperação<s n="n"/></l>               <r>cooperació<s n="n"/></r></p></e>
 <e>       <p><l>coordenador<s n="n"/></l>              <r>coordinador<s n="n"/></r></p></e>
@@ -23794,7 +23797,8 @@
 <e a="wiktionary"><p><l>arquitrave<s n="n"/><s n="f"/></l><r>arquitrau<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>arquivolta<s n="n"/><s n="f"/></l><r>arquivolta<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>arrepio<s n="n"/><s n="m"/></l><r>calfred<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>arsénio<s n="n"/><s n="m"/></l><r>arsènic<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>arsénio<s n="n"/><s n="m"/></l><r>arsènic<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>arsênio<s n="n"/><s n="m"/></l><r>arsènic<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>arteríola<s n="n"/><s n="f"/></l><r>arteriola<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>artilharia<s n="n"/><s n="f"/></l><r>artilleria<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>asbesto<s n="n"/><s n="m"/></l><r>amiant<s n="n"/><s n="m"/></r></p></e>
@@ -23979,7 +23983,8 @@
 <e a="wiktionary"><p><l>háfnio<s n="n"/><s n="m"/></l><r>hafni<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>hélio<s n="n"/><s n="m"/></l><r>heli<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>hérnia<s n="n"/><s n="f"/></l><r>hèrnia<s n="n"/><s n="f"/></r></p></e>
-<e a="wiktionary"><p><l>hidrogénio<s n="n"/><s n="m"/></l><r>hidrogen<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>hidrogénio<s n="n"/><s n="m"/></l><r>hidrogen<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>hidrogênio<s n="n"/><s n="m"/></l><r>hidrogen<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>hipotenusa<s n="n"/><s n="f"/></l><r>hipotenusa<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>hólmio<s n="n"/><s n="m"/></l><r>holmi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>hóstia<s n="n"/><s n="f"/></l><r>hòstia<s n="n"/><s n="f"/></r></p></e>
@@ -24040,7 +24045,8 @@
 <e a="wiktionary"><p><l>missa<s n="n"/><s n="f"/></l><r>missa<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>moinho<s n="n"/><s n="m"/></l><r>molí<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>molho<s n="n"/><s n="m"/></l><r>salsa<s n="n"/><s n="f"/></r></p></e>
-<e a="wiktionary"><p><l>molibdénio<s n="n"/><s n="m"/></l><r>molibdè<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>molibdénio<s n="n"/><s n="m"/></l><r>molibdè<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>molibdênio<s n="n"/><s n="m"/></l><r>molibdè<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>molusco<s n="n"/><s n="m"/></l><r>mol·lusc<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>montaria<s n="n"/><s n="f"/></l><r>cavalcadura<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>morcego<s n="n"/><s n="m"/></l><r>ratpenat<s n="n"/><s n="m"/></r></p></e>
@@ -24062,7 +24068,8 @@
 <e a="wiktionary"><p><l>nevada<s n="n"/><s n="f"/></l><r>nevada<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>nióbio<s n="n"/><s n="m"/></l><r>niobi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>níquel<s n="n"/><s n="m"/></l><r>níquel<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>nitrogénio<s n="n"/><s n="m"/></l><r>nitrogen<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>nitrogénio<s n="n"/><s n="m"/></l><r>nitrogen<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>nitrogênio<s n="n"/><s n="m"/></l><r>nitrogen<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>nobélio<s n="n"/><s n="m"/></l><r>nobeli<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>nora<s n="n"/><s n="f"/></l><r>nora<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>obelisco<s n="n"/><s n="m"/></l><r>obelisc<s n="n"/><s n="m"/></r></p></e>
@@ -24119,14 +24126,16 @@
 <e a="wiktionary"><p><l>régua<s n="n"/><s n="f"/></l><r>regle<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>relíquia<s n="n"/><s n="f"/></l><r>relíquia<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>rena<s n="n"/><s n="f"/></l><r>ren<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>rénio<s n="n"/><s n="m"/></l><r>reni<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>rénio<s n="n"/><s n="m"/></l><r>reni<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>rênio<s n="n"/><s n="m"/></l><r>reni<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>resfriado<s n="n"/><s n="m"/></l><r>refredat<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>rim<s n="n"/><s n="m"/></l><r>ronyó<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>roda<s n="n"/><s n="f"/></l><r>roda<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>ródio<s n="n"/><s n="m"/></l><r>rodi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>rubídio<s n="n"/><s n="m"/></l><r>rubidi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>rubi<s n="n"/><s n="m"/></l><r>robí<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>ruténio<s n="n"/><s n="m"/></l><r>ruteni<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>ruténio<s n="n"/><s n="m"/></l><r>ruteni<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>rutênio<s n="n"/><s n="m"/></l><r>ruteni<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>rutherfórdio<s n="n"/><s n="m"/></l><r>rutherfordi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>sabão<s n="n"/><s n="m"/></l><r>sabó<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>sacramento<s n="n"/><s n="m"/></l><r>sagrament<s n="n"/><s n="m"/></r></p></e>
@@ -24139,7 +24148,8 @@
 <e a="wiktionary"><p><l>seda<s n="n"/><s n="f"/></l><r>seda<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>seiva<s n="n"/><s n="f"/></l><r>saba<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>seixo<s n="n"/><s n="m"/></l><r>còdol<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>selénio<s n="n"/><s n="m"/></l><r>seleni<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>selénio<s n="n"/><s n="m"/></l><r>seleni<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>selênio<s n="n"/><s n="m"/></l><r>seleni<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>semáforo<s n="n"/><s n="m"/></l><r>semàfor<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>senado<s n="n"/><s n="m"/></l><r>senat<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>sereia<s n="n"/><s n="f"/></l><r>sirena<s n="n"/><s n="f"/></r></p></e>
@@ -24183,7 +24193,8 @@
 <e a="wiktionary"><p><l>tubarão<s n="n"/><s n="m"/></l><r>tauró<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>túlio<s n="n"/><s n="m"/></l><r>tuli<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>tumulto<s n="n"/><s n="m"/></l><r>tumult<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>tungsténio<s n="n"/><s n="m"/></l><r>tungstè<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>tungsténio<s n="n"/><s n="m"/></l><r>tungstè<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>tungstênio<s n="n"/><s n="m"/></l><r>tungstè<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>turfa<s n="n"/><s n="f"/></l><r>torba<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>valentia<s n="n"/><s n="f"/></l><r>valentia<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>vanádio<s n="n"/><s n="m"/></l><r>vanadi<s n="n"/><s n="m"/></r></p></e>
