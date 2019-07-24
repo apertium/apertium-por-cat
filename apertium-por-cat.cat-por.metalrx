@@ -307,6 +307,8 @@
         <or>
           <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p3}}"/></match>
           <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p3}}"/></match>
         </or>
         <match tags="prn.enc.ref.p3.*.sp"/>
       </rule>
@@ -375,6 +377,11 @@
       </or>
     </repeat>
     <match lemma="cua" tags="n.*"><select lemma="fila"/></match>
+  </rule>
+
+  <!-- estreia > estrena, debut -->
+  <rule weight="0.6">
+    <match lemma="estreia" tags="n.*"><select lemma="estrena"/></match>
   </rule>
 
   <!-- company > companheiro, colega -->
@@ -625,6 +632,19 @@
 
 <!-- **************** V **************** -->
 
+  <!-- cridar > chamar, gritar -->
+  <rule weight="0.6">
+     <match lemma="cridar" tags="vblex.*"><select lemma="chamar"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="li" tags="prn.pro.*"/>
+     <match lemma="cridar" tags="vblex.*"><select lemma="gritar"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="cridar" tags="vblex.*"><select lemma="gritar"/></match>
+     <match lemma="li" tags="prn.enc.*"/>
+  </rule>
+
   <!-- traslladar > transladar, mudar -->
   <rule weight="0.6">
     <match lemma="traslladar" tags="vblex.*"><select lemma="transladar"/></match>
@@ -633,6 +653,9 @@
     <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
+
+  <!-- dir > dizer, chamar -->
+  <macro name="verb_nopron_pron" p1="dir" p2="dizer" p3="chamar"/>
 
   <!-- banyar > dar# banho, tomar# banho -->
   <macro name="verb_nopron_pron" p1="banyar" p2="dar# banho" p3="tomar# banho"/>
