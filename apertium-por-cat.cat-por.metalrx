@@ -383,6 +383,14 @@
   <rule weight="0.6">
     <match lemma="estreia" tags="n.*"><select lemma="estrena"/></match>
   </rule>
+  <rule weight="1.0">
+    <match lemma="estreia" tags="n.*"><select lemma="debut"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match tags="np.ant.*"/>
+      <match tags="np.loc.*"/>
+    </or>
+  </rule>
 
   <!-- company > companheiro, colega -->
   <rule weight="0.6">

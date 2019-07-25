@@ -366,6 +366,9 @@
   </rule>
   <rule weight="1.0">
     <match lemma="mudar" tags="vblex.*"><select lemma="traslladar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
     <match lemma="para" tags="pr"><select lemma="a"/></match>
   </rule>
   <rule weight="1.0">
@@ -374,7 +377,21 @@
       <match lemma="viajar" tags="vblex.*"/>
       <!--       <match lemma="ir" tags="vblex.*"/> -->
     </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
     <match lemma="para" tags="pr"><select lemma="a"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="avançar" tags="vblex.*"/>
+      <match lemma="xxxviajar" tags="vblex.*"/>
+      <!--       <match lemma="ir" tags="vblex.*"/> -->
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="para" tags="pr"><select lemma="cap a"/></match>
   </rule>
 
 <!-- **************** ADJ **************** -->
