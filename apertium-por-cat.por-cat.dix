@@ -1440,6 +1440,7 @@
 <e a="hector"><p><l>multitarefa<s n="adj"/></l><r>multitasca<s n="adj"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>barcelonês<s n="adj"/></l><r>barceloní<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>barcelonês<s n="adj"/></l><r>barcelonès<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>restante<s n="adj"/></l><r>altre<s n="adj"/><s n="ind"/></r></p><par n="pobre_pobre"/></e>
 
 <!-- xxxxx -->
 
@@ -2294,7 +2295,6 @@
 <e r="LR"><p><l>outro<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>altre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>outro<s n="det"/><s n="ind"/></l>      <r>altre<s n="det"/><s n="ind"/></r></p><par n="outro_altre"/></e>
 <e>       <p><l>qualquer<s n="det"/><s n="ind"/></l>   <r>qualsevol<s n="det"/><s n="ind"/></r></p><par n="GD_mf"/></e>
-<e r="LR"><p><l>restantes<s n="det"/></l>              <r>altre<s n="det"/></r></p></e>
 <e r="LR"><p><l>seu<s n="det"/><s n="pos"/></l>        <r>el<b/>seu<s n="det"/><s n="pos"/></r></p></e>
 <e r="LR"><p><l>teu<s n="det"/></l>                    <r>el<b/>teu<s n="det"/></r></p></e>
 <e>       <p><l>um<s n="det"/></l>                     <r>un<s n="det"/></r></p></e>
@@ -3489,7 +3489,7 @@
 <e><p><l>doente<s n="n"/></l><r>malalt<s n="n"/></r></p><par n="mf_GD"/></e>
 <e>       <p><l>doença<s n="n"/></l>                   <r>malaltia<s n="n"/></r></p></e>
 <e r="RL"><p><l>doença<s n="n"/></l>                   <r>malura<s n="n"/></r></p></e>
-<e r="RL"><p><l>doença<s n="n"/></l>                   <r>dolència<s n="n"/></r></p></e>
+<e r="RL" vl="pt pt_pre1990"><p><l>doença<s n="n"/></l><r>dolència<s n="n"/></r></p></e>
 <e>       <p><l>dom<s n="n"/></l>                      <r>do<s n="n"/></r></p></e>
 <e>       <p><l>domicílio<s n="n"/></l>                <r>domicili<s n="n"/></r></p></e>
 <e>       <p><l>domingo<s n="n"/></l>                  <r>diumenge<s n="n"/></r></p></e>
@@ -8098,6 +8098,193 @@
 
 <e a="hector"><p><l>barcelonês<s n="n"/></l><r>barceloní<s n="n"/></r></p></e>
 <e r="RL" a="hector"><p><l>barcelonês<s n="n"/></l><r>barcelonès<s n="n"/></r></p></e>
+
+<e a="hector"><p><l>adjacência<s n="n"/><s n="f"/></l><r>adjacència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>admitância<s n="n"/><s n="f"/></l><r>admitància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>adolescência<s n="n"/><s n="f"/></l><r>adolescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>afluência<s n="n"/><s n="f"/></l><r>afluència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alcalescência<s n="n"/><s n="f"/></l><r>alcalescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ambivalência<s n="n"/><s n="f"/></l><r>ambivalència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ambulância<s n="n"/><s n="f"/></l><r>ambulància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antecedência<s n="n"/><s n="m"/></l><r>antecedència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anuência<s n="n"/><s n="f"/></l><r>anuència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>apetência<s n="n"/><s n="f"/></l><r>apetència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aquiescência<s n="n"/><s n="f"/></l><r>aquiescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>arborescência<s n="n"/><s n="f"/></l><r>arborescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>arrogância<s n="n"/><s n="f"/></l><r>arrogància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ascendência<s n="n"/><s n="f"/></l><r>ascendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>assonância<s n="n"/><s n="f"/></l><r>assonància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>autoconsciência<s n="n"/><s n="f"/></l><r>autoconsciència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>beligerância<s n="n"/><s n="f"/></l><r>bel·ligerància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>beneficência<s n="n"/><s n="f"/></l><r>beneficència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>benevolência<s n="n"/><s n="f"/></l><r>benevolència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>bioluminescência<s n="n"/><s n="f"/></l><r>bioluminescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cadência<s n="n"/><s n="f"/></l><r>cadència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>capacitância<s n="n"/><s n="f"/></l><r>capacitància<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>carência<s n="n"/><s n="f"/></l><r>carència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>clarividência<s n="n"/><s n="f"/></l><r>clarividència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>clemência<s n="n"/><s n="f"/></l><r>clemència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>coalescência<s n="n"/><s n="f"/></l><r>coalescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>coexistência<s n="n"/><s n="f"/></l><r>coexistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>concomitância<s n="n"/><s n="f"/></l><r>concomitància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>condescendência<s n="n"/><s n="f"/></l><r>condescendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>confidência<s n="n"/><s n="f"/></l><r>confidència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>confluência<s n="n"/><s n="f"/></l><r>confluència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>congruência<s n="n"/><s n="f"/></l><r>congruència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>consistência<s n="n"/><s n="f"/></l><r>consistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>consonância<s n="n"/><s n="f"/></l><r>consonància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>constância<s n="n"/><s n="f"/></l><r>constància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>contingência<s n="n"/><s n="f"/></l><r>contingència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>continência<s n="n"/><s n="f"/></l><r>continència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>conveniência<s n="n"/><s n="f"/></l><r>conveniència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>convergência<s n="n"/><s n="f"/></l><r>convergència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>corpulência<s n="n"/><s n="f"/></l><r>corpulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>decência<s n="n"/><s n="f"/></l><r>decència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>deferência<s n="n"/><s n="f"/></l><r>deferència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>denúncia<s n="n"/><s n="f"/></l><r>denúncia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>descendência<s n="n"/><s n="f"/></l><r>descendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desinência<s n="n"/><s n="f"/></l><r>desinència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>diatermância<s n="n"/><s n="f"/></l><r>diatermància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>difluência<s n="n"/><s n="f"/></l><r>difluència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>displicência<s n="n"/><s n="f"/></l><r>displicència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dissidência<s n="n"/><s n="f"/></l><r>dissidència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dissonância<s n="n"/><s n="f"/></l><r>dissonància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>divergência<s n="n"/><s n="f"/></l><r>divergència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>docência<s n="n"/><s n="f"/></l><r>docència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>efervescência<s n="n"/><s n="f"/></l><r>efervescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>eflorescência<s n="n"/><s n="f"/></l><r>eflorescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>electroluminescência<s n="n"/><s n="f"/></l><r>electroluminescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>elegância<s n="n"/><s n="f"/></l><r>elegància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>eminência<s n="n"/><s n="f"/></l><r>eminència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>emitância<s n="n"/><s n="f"/></l><r>emitància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>equidistância<s n="n"/><s n="f"/></l><r>equidistància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>equivalência<s n="n"/><s n="f"/></l><r>equivalència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estridência<s n="n"/><s n="f"/></l><r>estridència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>excelência<s n="n"/><s n="f"/></l><r>excel·lència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>excrescência<s n="n"/><s n="f"/></l><r>excrescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>exorbitância<s n="n"/><s n="f"/></l><r>exorbitància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>exsurgência<s n="n"/><s n="f"/></l><r>exsurgència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>extravagância<s n="n"/><s n="f"/></l><r>extravagància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>exuberância<s n="n"/><s n="f"/></l><r>exuberància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>flatulência<s n="n"/><s n="f"/></l><r>flatulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fluorescência<s n="n"/><s n="f"/></l><r>fluorescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fosforescência<s n="n"/><s n="f"/></l><r>fosforescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fragância<s n="n"/><s n="f"/></l><r>fragància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fraudulência<s n="n"/><s n="f"/></l><r>fraudulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>gerência<s n="n"/><s n="f"/></l><r>gerència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>impertinência<s n="n"/><s n="f"/></l><r>impertinència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>impotência<s n="n"/><s n="f"/></l><r>impotència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>improcedência<s n="n"/><s n="f"/></l><r>improcedència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>imprudência<s n="n"/><s n="f"/></l><r>imprudència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inadvertência<s n="n"/><s n="f"/></l><r>inadvertència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inapetência<s n="n"/><s n="f"/></l><r>inapetència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>incandescência<s n="n"/><s n="f"/></l><r>incandescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>incidência<s n="n"/><s n="f"/></l><r>incidència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inclemência<s n="n"/><s n="f"/></l><r>inclemència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>incongruência<s n="n"/><s n="f"/></l><r>incongruència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inconsciência<s n="n"/><s n="f"/></l><r>inconsciència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inconsistência<s n="n"/><s n="f"/></l><r>inconsistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inconstância<s n="n"/><s n="f"/></l><r>inconstància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>incontinência<s n="n"/><s n="f"/></l><r>incontinència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inconveniência<s n="n"/><s n="f"/></l><r>inconveniència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>incumbência<s n="n"/><s n="f"/></l><r>incumbència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>indecência<s n="n"/><s n="f"/></l><r>indecència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>indigência<s n="n"/><s n="f"/></l><r>indigència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>indolência<s n="n"/><s n="f"/></l><r>indolència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>indulgência<s n="n"/><s n="f"/></l><r>indulgència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ineficiência<s n="n"/><s n="f"/></l><r>ineficiència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inelegância<s n="n"/><s n="f"/></l><r>inelegància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inexistência<s n="n"/><s n="f"/></l><r>inexistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inexperiência<s n="n"/><s n="f"/></l><r>inexperiència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inferência<s n="n"/><s n="f"/></l><r>inferència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inflorescência<s n="n"/><s n="f"/></l><r>inflorescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ingerência<s n="n"/><s n="f"/></l><r>ingerència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ininteligência<s n="n"/><s n="f"/></l><r>inintel·ligència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inoperância<s n="n"/><s n="f"/></l><r>inoperància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insignificância<s n="n"/><s n="f"/></l><r>insignificància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insistência<s n="n"/><s n="f"/></l><r>insistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insolvência<s n="n"/><s n="f"/></l><r>insolvència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insolência<s n="n"/><s n="f"/></l><r>insolència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insuficiência<s n="n"/><s n="f"/></l><r>insuficiència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>intendência<s n="n"/><s n="f"/></l><r>intendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>interdependência<s n="n"/><s n="f"/></l><r>interdependència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>interferência<s n="n"/><s n="f"/></l><r>interferència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>intermitência<s n="n"/><s n="f"/></l><r>intermitència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>intransigência<s n="n"/><s n="f"/></l><r>intransigència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>invariância<s n="n"/><s n="f"/></l><r>invariància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>irreverência<s n="n"/><s n="f"/></l><r>irreverència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>itinerância<s n="n"/><s n="f"/></l><r>itinerància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>jactância<s n="n"/><s n="f"/></l><r>jactància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>jurisprudência<s n="n"/><s n="f"/></l><r>jurisprudència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>lactância<s n="n"/><s n="f"/></l><r>lactància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>latência<s n="n"/><s n="f"/></l><r>latència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>litispendência<s n="n"/><s n="f"/></l><r>litispendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>luminescência<s n="n"/><s n="f"/></l><r>luminescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>luminância<s n="n"/><s n="f"/></l><r>luminància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>magnificência<s n="n"/><s n="f"/></l><r>magnificència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>malevolência<s n="n"/><s n="f"/></l><r>malevolència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>militância<s n="n"/><s n="f"/></l><r>militància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>negligência<s n="n"/><s n="f"/></l><r>negligència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>obsolescência<s n="n"/><s n="f"/></l><r>obsolescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>omnipotência<s n="n"/><s n="f"/></l><r>omnipotència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>omnisciência<s n="n"/><s n="f"/></l><r>omnisciència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>opalescência<s n="n"/><s n="f"/></l><r>opalescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>opulência<s n="n"/><s n="f"/></l><r>opulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>permeância<s n="n"/><s n="f"/></l><r>permeància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>persistência<s n="n"/><s n="f"/></l><r>persistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pertinência<s n="n"/><s n="f"/></l><r>pertinència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pestilência<s n="n"/><s n="f"/></l><r>pestilència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>petulância<s n="n"/><s n="f"/></l><r>petulància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>plenipotência<s n="n"/><s n="f"/></l><r>plenipotència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>polivalência<s n="n"/><s n="f"/></l><r>polivalència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>precedência<s n="n"/><s n="f"/></l><r>precedència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>preeminência<s n="n"/><s n="f"/></l><r>preeminència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>preexistência<s n="n"/><s n="f"/></l><r>preexistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>preponderância<s n="n"/><s n="f"/></l><r>preponderància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>prepotência<s n="n"/><s n="f"/></l><r>prepotència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>prestância<s n="n"/><s n="f"/></l><r>prestància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>protuberância<s n="n"/><s n="f"/></l><r>protuberància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>providência<s n="n"/><s n="f"/></l><r>providència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>radiância<s n="n"/><s n="f"/></l><r>radiància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reactância<s n="n"/><s n="f"/></l><r>reactància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recrudescência<s n="n"/><s n="f"/></l><r>recrudescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>redundância<s n="n"/><s n="f"/></l><r>redundància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reincidência<s n="n"/><s n="f"/></l><r>reincidència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>repugnância<s n="n"/><s n="f"/></l><r>repugnància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>resiliência<s n="n"/><s n="f"/></l><r>resiliència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ressurgência<s n="n"/><s n="f"/></l><r>ressurgència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reticência<s n="n"/><s n="f"/></l><r>reticència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reverência<s n="n"/><s n="f"/></l><r>reverència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sapiência<s n="n"/><s n="f"/></l><r>sapiència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sobreabundância<s n="n"/><s n="f"/></l><r>sobreabundància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>solvência<s n="n"/><s n="f"/></l><r>solvència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sonoluminescência<s n="n"/><s n="f"/></l><r>sonoluminescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>subconsciência<s n="n"/><s n="f"/></l><r>subconsciència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>subsistência<s n="n"/><s n="f"/></l><r>subsistència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>suculência<s n="n"/><s n="f"/></l><r>suculència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>suficiência<s n="n"/><s n="f"/></l><r>suficiència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>superabundância<s n="n"/><s n="f"/></l><r>superabundància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>superintendência<s n="n"/><s n="f"/></l><r>superintendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>superpotência<s n="n"/><s n="f"/></l><r>superpotència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>suplência<s n="n"/><s n="f"/></l><r>suplència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>susceptância<s n="n"/><s n="f"/></l><r>susceptància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tangência<s n="n"/><s n="f"/></l><r>tangència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teleconferência<s n="n"/><s n="f"/></l><r>teleconferència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>transcendência<s n="n"/><s n="f"/></l><r>transcendència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>transigência<s n="n"/><s n="f"/></l><r>transigència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>triboluminescência<s n="n"/><s n="f"/></l><r>triboluminescència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>turbulência<s n="n"/><s n="f"/></l><r>turbulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>turgência<s n="n"/><s n="f"/></l><r>turgència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vagância<s n="n"/><s n="m"/></l><r>vagància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>variância<s n="n"/><s n="f"/></l><r>variància<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vergência<s n="n"/><s n="m"/></l><r>vergència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>videoconferência<s n="n"/><s n="f"/></l><r>videoconferència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>virulência<s n="n"/><s n="f"/></l><r>virulència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>abstinência<s n="n"/><s n="f"/></l><r>abstinència<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>dolência<s n="n"/><s n="f"/></l><r>dolència<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>supervivência<s n="n"/><s n="f"/></l><r>supervivència<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>mongeta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>fesol<s n="n"/><s n="m"/></r></p></e>
 
 <!-- xxxxx -->
 
