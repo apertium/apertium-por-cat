@@ -1438,6 +1438,8 @@
 <e a="hector"><p><l>czarista<s n="adj"/><s n="mf"/></l><r>tsarista<s n="adj"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>multiusuário<s n="adj"/></l><r>multiusuari<s n="adj"/></r></p><par n="mf_GD"/><par n="sp_ND"/></e>
 <e a="hector"><p><l>multitarefa<s n="adj"/></l><r>multitasca<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>barcelonês<s n="adj"/></l><r>barceloní<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>barcelonês<s n="adj"/></l><r>barcelonès<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -2843,6 +2845,8 @@
 <e>       <p><l>carreira<s n="n"/></l>                 <r>carrera<s n="n"/></r></p></e>
 <e r="RL"><p><l>carreira<s n="n"/></l>                 <r>cursa<s n="n"/></r></p></e>
 <e>       <p><l>carro<s n="n"/></l>                    <r>cotxe<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>carro<g><b/>de<b/>combate</g><s n="n"/><s n="m"/></l><r>tanc<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>carro<g><b/>de<b/>combate</g><s n="n"/><s n="m"/></l><r>carro<g><b/>de<b/>combat</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>carroça<s n="n"/><s n="f"/></l>        <r>carro<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>carta<s n="n"/></l>                    <r>carta<s n="n"/></r></p></e>
 <e>       <p><l>cartaz<s n="n"/></l>                   <r>cartell<s n="n"/></r></p></e>
@@ -3633,6 +3637,10 @@
 <e r="LR"><p><l>esconderijo<s n="n"/></l>              <r>amagatall<s n="n"/></r></p></e>
 <e r="RL"><p><l>esconderijo<s n="n"/></l>              <r>amagatall<s n="n"/></r></p></e>
 <e>       <p><l>escravo<s n="n"/></l>                  <r>esclau<s n="n"/></r></p></e>
+<e a="hector"><p><l>escravatura<s n="n"/></l>          <r>esclavitud<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>escravidão<s n="n"/></l>    <r>esclavitud<s n="n"/></r></p></e>
+<e a="hector"><p><l>escravismo<s n="n"/></l>           <r>esclavisme<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>escravagismo<s n="n"/></l>  <r>esclavisme<s n="n"/></r></p></e>
 <e r="LR"><p><l>escrita<s n="n"/></l>                  <r>escriptura<s n="n"/></r></p></e>
 <e>       <p><l>escrito<s n="n"/></l>                  <r>escrit<s n="n"/></r></p></e>
 <e>       <p><l>escritor<s n="n"/></l>                 <r>escriptor<s n="n"/></r></p></e>
@@ -4515,7 +4523,7 @@
 <e>       <p><l>mentalidade<s n="n"/></l>              <r>mentalitat<s n="n"/></r></p></e>
 <e>       <p><l>mente<s n="n"/></l>                    <r>ment<s n="n"/></r></p></e>
 <e>       <p><l>mentira<s n="n"/></l>                  <r>mentida<s n="n"/></r></p></e>
-<e>       <p><l>menção<s n="n"/><s n="f"/></l>         <r>esment<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>menção<s n="n"/><s n="f"/></l>         <r>esment<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>mercado<s n="n"/></l>                  <r>mercat<s n="n"/></r></p></e>
 <e>       <p><l>mercadoria<s n="n"/></l>               <r>mercaderia<s n="n"/></r></p></e>
 <e>       <p><l>mesa<s n="n"/></l>                     <r>taula<s n="n"/></r></p></e>
@@ -5596,7 +5604,8 @@
 <e r="RL"><p><l>tampa<s n="n"/></l>                    <r>tapadora<s n="n"/></r></p></e>
 <e r="RL"><p><l>tampa<s n="n"/><s n="f"/></l>          <r>tap<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>tampa<s n="n"/></l>                    <r>tapa<s n="n"/></r></p></e>
-<e>       <p><l>tanque<s n="n"/></l>                   <r>tanc<s n="n"/></r></p></e>
+<e>       <p><l>tanque<s n="n"/><s n="m"/></l>         <r>tanc<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>tanque<g><b/>de<b/>guerra</g><s n="n"/><s n="m"/></l><r>tanc<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>tanque<s n="n"/><s n="m"/></l>         <r>aigüera<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tapete<s n="n"/><s n="m"/></l>         <r>catifa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tarde<s n="n"/></l>                    <r>tarda<s n="n"/></r></p></e>
@@ -6579,7 +6588,6 @@
 <e a="hector"><p><l>facilitação<s n="n"/><s n="f"/></l><r>facilitació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fascinação<s n="n"/><s n="f"/></l><r>fascinació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fecundação<s n="n"/><s n="f"/></l><r>fecundació<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>felação<s n="n"/><s n="f"/></l><r>felació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>felicitação<s n="n"/><s n="f"/></l><r>felicitació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fenestração<s n="n"/><s n="f"/></l><r>fenestració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fermentação<s n="n"/><s n="f"/></l><r>fermentació<s n="n"/><s n="f"/></r></p></e>
@@ -7184,6 +7192,295 @@
 <e a="hector"><p><l>vociferação<s n="n"/><s n="f"/></l><r>vociferació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>volição<s n="n"/><s n="f"/></l><r>volició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>vulneração<s n="n"/><s n="f"/></l><r>vulneració<s n="n"/><s n="f"/></r></p></e>
+
+<e a="hector"><p><l>abdução<s n="n"/><s n="f"/></l><r>abducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aflição<s n="n"/><s n="f"/></l><r>aflicció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>agudização<s n="n"/><s n="f"/></l><r>agudització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alfabetização<s n="n"/><s n="f"/></l><r>alfabetització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aliteração<s n="n"/><s n="f"/></l><r>al·literació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alocução<s n="n"/><s n="f"/></l><r>al·locució<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alucinação<s n="n"/><s n="f"/></l><r>al·lucinació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>americanização<s n="n"/><s n="f"/></l><r>americanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>amortização<s n="n"/><s n="f"/></l><r>amortització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>animalização<s n="n"/><s n="f"/></l><r>animalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anodização<s n="n"/><s n="f"/></l><r>anodització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antiglobalização<s n="n"/><s n="f"/></l><r>antiglobalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>arborização<s n="n"/><s n="f"/></l><r>arborització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aromatização<s n="n"/><s n="f"/></l><r>aromatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>atomização<s n="n"/><s n="f"/></l><r>atomització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>automatização<s n="n"/><s n="f"/></l><r>automatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>balcanização<s n="n"/><s n="f"/></l><r>balcanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>banalização<s n="n"/><s n="f"/></l><r>banalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>bipolarização<s n="n"/><s n="f"/></l><r>bipolarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>burocratização<s n="n"/><s n="f"/></l><r>burocratització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>canalização<s n="n"/><s n="f"/></l><r>canalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>canonização<s n="n"/><s n="f"/></l><r>canonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>capitalização<s n="n"/><s n="f"/></l><r>capitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>caracterização<s n="n"/><s n="f"/></l><r>caracterització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>carbonização<s n="n"/><s n="f"/></l><r>carbonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>categorização<s n="n"/><s n="f"/></l><r>categorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>catequização<s n="n"/><s n="f"/></l><r>catequització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cauterização<s n="n"/><s n="f"/></l><r>cauterització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cavilação<s n="n"/><s n="f"/></l><r>cavil·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>centralização<s n="n"/><s n="f"/></l><r>centralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cicatrização<s n="n"/><s n="f"/></l><r>cicatrització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>climatização<s n="n"/><s n="f"/></l><r>climatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colonização<s n="n"/><s n="f"/></l><r>colonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colação<s n="n"/><s n="f"/></l><r>col·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colectivização<s n="n"/><s n="f"/></l><r>col·lectivització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>coligação<s n="n"/><s n="f"/></l><r>col·ligació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colimação<s n="n"/><s n="f"/></l><r>col·limació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colineação<s n="n"/><s n="f"/></l><r>col·lineació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>compatibilização<s n="n"/><s n="f"/></l><r>compatibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>conceptualização<s n="n"/><s n="f"/></l><r>conceptualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>confraternização<s n="n"/><s n="f"/></l><r>confraternització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>constitucionalização<s n="n"/><s n="f"/></l><r>constitucionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>constrição<s n="n"/><s n="f"/></l><r>constricció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>contemporização<s n="n"/><s n="f"/></l><r>contemporització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>contextualização<s n="n"/><s n="f"/></l><r>contextualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>contravalação<s n="n"/><s n="f"/></l><r>contraval·lació<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>convocação<s n="n"/><s n="f"/></l><r>convocació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>corresponsabilização<s n="n"/><s n="f"/></l><r>corresponsabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cristalização<s n="n"/><s n="f"/></l><r>cristal·lització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cristianização<s n="n"/><s n="f"/></l><r>cristianització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>culpabilização<s n="n"/><s n="f"/></l><r>culpabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cutinização<s n="n"/><s n="f"/></l><r>cutinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>decimalização<s n="n"/><s n="f"/></l><r>decimalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>democratização<s n="n"/><s n="f"/></l><r>democratització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desamortização<s n="n"/><s n="f"/></l><r>desamortització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desautorização<s n="n"/><s n="f"/></l><r>desautorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desburocratização<s n="n"/><s n="f"/></l><r>desburocratització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>descapitalização<s n="n"/><s n="f"/></l><r>descapitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>descentralização<s n="n"/><s n="f"/></l><r>descentralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>descolonização<s n="n"/><s n="f"/></l><r>descolonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desconstrução<s n="n"/><s n="f"/></l><r>desconstrucció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desestalinização<s n="n"/><s n="f"/></l><r>desestalinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desindustrialização<s n="n"/><s n="f"/></l><r>desindustrialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desinstalação<s n="n"/><s n="f"/></l><r>desinstal·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desmaterialização<s n="n"/><s n="f"/></l><r>desmaterialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desmilitarização<s n="n"/><s n="f"/></l><r>desmilitarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desmineralização<s n="n"/><s n="f"/></l><r>desmineralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desmoralização<s n="n"/><s n="f"/></l><r>desmoralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desnacionalização<s n="n"/><s n="f"/></l><r>desnacionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desnaturalização<s n="n"/><s n="f"/></l><r>desnaturalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desorganização<s n="n"/><s n="f"/></l><r>desorganització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>despalatalização<s n="n"/><s n="f"/></l><r>despalatalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>despenalização<s n="n"/><s n="f"/></l><r>despenalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>despersonalização<s n="n"/><s n="f"/></l><r>despersonalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desratização<s n="n"/><s n="f"/></l><r>desratització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desregularização<s n="n"/><s n="f"/></l><r>desregularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dessalinização<s n="n"/><s n="f"/></l><r>dessalinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dessensibilização<s n="n"/><s n="f"/></l><r>dessensibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>destilação<s n="n"/><s n="f"/></l><r>destil·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>destribalização<s n="n"/><s n="f"/></l><r>destribalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>digitalização<s n="n"/><s n="f"/></l><r>digitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dinamização<s n="n"/><s n="f"/></l><r>dinamització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>divinização<s n="n"/><s n="f"/></l><r>divinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dramatização<s n="n"/><s n="f"/></l><r>dramatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>edução<s n="n"/><s n="f"/></l><r>educció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>electrização<s n="n"/><s n="f"/></l><r>electrització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>entronização<s n="n"/><s n="f"/></l><r>entronització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>equalização<s n="n"/><s n="f"/></l><r>equalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>erotização<s n="n"/><s n="f"/></l><r>erotització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>escolarização<s n="n"/><s n="f"/></l><r>escolarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>especialização<s n="n"/><s n="f"/></l><r>especialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>espiritualização<s n="n"/><s n="f"/></l><r>espiritualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>esquematização<s n="n"/><s n="f"/></l><r>esquematització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estabilização<s n="n"/><s n="f"/></l><r>estabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estandardização<s n="n"/><s n="f"/></l><r>estandardització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>esterilização<s n="n"/><s n="f"/></l><r>esterilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estigmatização<s n="n"/><s n="f"/></l><r>estigmatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estilização<s n="n"/><s n="f"/></l><r>estilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>eterização<s n="n"/><s n="f"/></l><r>eterització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>eternização<s n="n"/><s n="f"/></l><r>eternització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>evangelização<s n="n"/><s n="f"/></l><r>evangelització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>exteriorização<s n="n"/><s n="f"/></l><r>exteriorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>familiarização<s n="n"/><s n="f"/></l><r>familiarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>federalização<s n="n"/><s n="f"/></l><r>federalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>felação<s n="n"/><s n="f"/></l><r>fel·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>feminização<s n="n"/><s n="f"/></l><r>feminització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fertilização<s n="n"/><s n="f"/></l><r>fertilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fibrilação<s n="n"/><s n="f"/></l><r>fibril·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>finalização<s n="n"/><s n="f"/></l><r>finalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fiscalização<s n="n"/><s n="f"/></l><r>fiscalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fistulização<s n="n"/><s n="f"/></l><r>fistulització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>flagelação<s n="n"/><s n="f"/></l><r>flagel·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>flexibilização<s n="n"/><s n="f"/></l><r>flexibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>focalização<s n="n"/><s n="f"/></l><r>focalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>formalização<s n="n"/><s n="f"/></l><r>formalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fossilização<s n="n"/><s n="f"/></l><r>fossilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fotoionização<s n="n"/><s n="f"/></l><r>fotoionització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>galvanização<s n="n"/><s n="f"/></l><r>galvanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>generalização<s n="n"/><s n="f"/></l><r>generalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>geometrização<s n="n"/><s n="f"/></l><r>geometrització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>germanização<s n="n"/><s n="f"/></l><r>germanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>grafitização<s n="n"/><s n="f"/></l><r>grafitització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>granitização<s n="n"/><s n="f"/></l><r>granitització<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>gravação<s n="n"/><s n="f"/></l><r>gravació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>harmonização<s n="n"/><s n="f"/></l><r>harmonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>helenização<s n="n"/><s n="f"/></l><r>hel·lenització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hepatização<s n="n"/><s n="f"/></l><r>hepatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>herborização<s n="n"/><s n="f"/></l><r>herborització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hipnotização<s n="n"/><s n="f"/></l><r>hipnotització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hominização<s n="n"/><s n="f"/></l><r>hominització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>humanização<s n="n"/><s n="f"/></l><r>humanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>idealização<s n="n"/><s n="f"/></l><r>idealització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ilação<s n="n"/><s n="f"/></l><r>il·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ilegalização<s n="n"/><s n="f"/></l><r>il·legalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>iluminação<s n="n"/><s n="f"/></l><r>il·luminació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>iluviação<s n="n"/><s n="f"/></l><r>il·luviació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>impermeabilização<s n="n"/><s n="f"/></l><r>impermeabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>individualização<s n="n"/><s n="f"/></l><r>individualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>indução<s n="n"/><s n="f"/></l><r>inducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>industrialização<s n="n"/><s n="f"/></l><r>industrialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>informatização<s n="n"/><s n="f"/></l><r>informatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insatisfação<s n="n"/><s n="f"/></l><r>insatisfacció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insensibilização<s n="n"/><s n="f"/></l><r>insensibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>insonorização<s n="n"/><s n="f"/></l><r>insonorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>instilação<s n="n"/><s n="f"/></l><r>instil·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>institucionalização<s n="n"/><s n="f"/></l><r>institucionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>instrumentalização<s n="n"/><s n="f"/></l><r>instrumentalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inteleção<s n="n"/><s n="f"/></l><r>intel·lecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>intelectualização<s n="n"/><s n="f"/></l><r>intel·lectualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>interdição<s n="n"/><s n="f"/></l><r>interdicció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>interiorização<s n="n"/><s n="f"/></l><r>interiorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>internacionalização<s n="n"/><s n="f"/></l><r>internacionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>interpelação<s n="n"/><s n="f"/></l><r>interpel·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>inutilização<s n="n"/><s n="f"/></l><r>inutilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ionização<s n="n"/><s n="f"/></l><r>ionització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>iotização<s n="n"/><s n="f"/></l><r>iotització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>islamização<s n="n"/><s n="f"/></l><r>islamització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>jurisdição<s n="n"/><s n="f"/></l><r>jurisdicció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>labialização<s n="n"/><s n="f"/></l><r>labialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>legalização<s n="n"/><s n="f"/></l><r>legalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>lematização<s n="n"/><s n="f"/></l><r>lematització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>liberalização<s n="n"/><s n="f"/></l><r>liberalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>liofilização<s n="n"/><s n="f"/></l><r>liofilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>latinização<s n="n"/><s n="f"/></l><r>llatinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>magnetização<s n="n"/><s n="f"/></l><r>magnetització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>magnetostrição<s n="n"/><s n="f"/></l><r>magnetostricció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>marginalização<s n="n"/><s n="f"/></l><r>marginalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>marmorização<s n="n"/><s n="f"/></l><r>marmorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>matematização<s n="n"/><s n="f"/></l><r>matematització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>materialização<s n="n"/><s n="f"/></l><r>materialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>maximização<s n="n"/><s n="f"/></l><r>maximització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mecanização<s n="n"/><s n="f"/></l><r>mecanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mediatização<s n="n"/><s n="f"/></l><r>mediatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>melificação<s n="n"/><s n="f"/></l><r>mel·lificació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>memorização<s n="n"/><s n="f"/></l><r>memorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>menção<s n="n"/><s n="f"/></l><r>menció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mercerização<s n="n"/><s n="f"/></l><r>mercerització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>metalização<s n="n"/><s n="f"/></l><r>metal·lització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>meteorização<s n="n"/><s n="f"/></l><r>meteorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>militarização<s n="n"/><s n="f"/></l><r>militarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mineralização<s n="n"/><s n="f"/></l><r>mineralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>miniaturização<s n="n"/><s n="f"/></l><r>miniaturització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>minimização<s n="n"/><s n="f"/></l><r>minimització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>molificação<s n="n"/><s n="f"/></l><r>mol·lificació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>monopolização<s n="n"/><s n="f"/></l><r>monopolització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>moralização<s n="n"/><s n="f"/></l><r>moralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>motorização<s n="n"/><s n="f"/></l><r>motorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mundialização<s n="n"/><s n="f"/></l><r>mundialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>municipalização<s n="n"/><s n="f"/></l><r>municipalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>nacionalização<s n="n"/><s n="f"/></l><r>nacionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>narcotização<s n="n"/><s n="f"/></l><r>narcotització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>naturalização<s n="n"/><s n="f"/></l><r>naturalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>nebulização<s n="n"/><s n="f"/></l><r>nebulització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neutralização<s n="n"/><s n="f"/></l><r>neutralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>normativização<s n="n"/><s n="f"/></l><r>normativització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>obstrução<s n="n"/><s n="f"/></l><r>obstrucció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>oficialização<s n="n"/><s n="f"/></l><r>oficialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>optimização<s n="n"/><s n="f"/></l><r>optimització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>oscilação<s n="n"/><s n="f"/></l><r>oscil·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ozonização<s n="n"/><s n="f"/></l><r>ozonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>palatalização<s n="n"/><s n="f"/></l><r>palatalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>paliação<s n="n"/><s n="f"/></l><r>pal·liació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>parametrização<s n="n"/><s n="f"/></l><r>parametrització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>particularização<s n="n"/><s n="f"/></l><r>particularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pasteurização<s n="n"/><s n="f"/></l><r>pasteurització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pauperização<s n="n"/><s n="f"/></l><r>pauperització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>penalização<s n="n"/><s n="f"/></l><r>penalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>peptização<s n="n"/><s n="f"/></l><r>peptització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>periodização<s n="n"/><s n="f"/></l><r>periodització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>permeabilização<s n="n"/><s n="f"/></l><r>permeabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>personalização<s n="n"/><s n="f"/></l><r>personalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>poetização<s n="n"/><s n="f"/></l><r>poetització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>polarização<s n="n"/><s n="f"/></l><r>polarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>polimerização<s n="n"/><s n="f"/></l><r>polimerització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>politização<s n="n"/><s n="f"/></l><r>politització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>policitação<s n="n"/><s n="f"/></l><r>pol·licitació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>polinização<s n="n"/><s n="f"/></l><r>pol·linització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>polução<s n="n"/><s n="f"/></l><r>pol·lució<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>popularização<s n="n"/><s n="f"/></l><r>popularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>potabilização<s n="n"/><s n="f"/></l><r>potabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>precarização<s n="n"/><s n="f"/></l><r>precarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>preconização<s n="n"/><s n="f"/></l><r>preconització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>proletarização<s n="n"/><s n="f"/></l><r>proletarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pronominalização<s n="n"/><s n="f"/></l><r>pronominalització<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>prorrogação<s n="n"/><s n="f"/></l><r>prorrogació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>quantização<s n="n"/><s n="f"/></l><r>quantització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>racemização<s n="n"/><s n="f"/></l><r>racemització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>racionalização<s n="n"/><s n="f"/></l><r>racionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>radicalização<s n="n"/><s n="f"/></l><r>radicalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recapitalização<s n="n"/><s n="f"/></l><r>recapitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recolonização<s n="n"/><s n="f"/></l><r>recolonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recoleção<s n="n"/><s n="f"/></l><r>recol·lecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recolocação<s n="n"/><s n="f"/></l><r>recol·locació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>recondução<s n="n"/><s n="f"/></l><r>reconducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>regionalização<s n="n"/><s n="f"/></l><r>regionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>regularização<s n="n"/><s n="f"/></l><r>regularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reindustrialização<s n="n"/><s n="f"/></l><r>reindustrialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reinstalação<s n="n"/><s n="f"/></l><r>reinstal·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reintrodução<s n="n"/><s n="f"/></l><r>reintroducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>relativização<s n="n"/><s n="f"/></l><r>relativització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>renacionalização<s n="n"/><s n="f"/></l><r>renacionalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>rendibilização<s n="n"/><s n="f"/></l><r>rendibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reprivatização<s n="n"/><s n="f"/></l><r>reprivatització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>responsabilização<s n="n"/><s n="f"/></l><r>responsabilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reurbanização<s n="n"/><s n="f"/></l><r>reurbanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reutilização<s n="n"/><s n="f"/></l><r>reutilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>revitalização<s n="n"/><s n="f"/></l><r>revitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>romanização<s n="n"/><s n="f"/></l><r>romanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>salinização<s n="n"/><s n="f"/></l><r>salinització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sectorização<s n="n"/><s n="f"/></l><r>sectorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>secularização<s n="n"/><s n="f"/></l><r>secularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sensibilização<s n="n"/><s n="f"/></l><r>sensibilització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>simbolização<s n="n"/><s n="f"/></l><r>simbolització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sincronização<s n="n"/><s n="f"/></l><r>sincronització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sintetização<s n="n"/><s n="f"/></l><r>sintetització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sintonização<s n="n"/><s n="f"/></l><r>sintonització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sistematização<s n="n"/><s n="f"/></l><r>sistematització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>socialização<s n="n"/><s n="f"/></l><r>socialització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>solarização<s n="n"/><s n="f"/></l><r>solarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>solubilização<s n="n"/><s n="f"/></l><r>solubilització<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>solicitação<s n="n"/><s n="f"/></l><r>sol·licitació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sonorização<s n="n"/><s n="f"/></l><r>sonorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sovietização<s n="n"/><s n="f"/></l><r>sovietització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>suavização<s n="n"/><s n="f"/></l><r>suavització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>subdireção<s n="n"/><s n="f"/></l><r>subdirecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>suberização<s n="n"/><s n="f"/></l><r>suberització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>superprodução<s n="n"/><s n="f"/></l><r>superproducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teatralização<s n="n"/><s n="f"/></l><r>teatralització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>temporização<s n="n"/><s n="f"/></l><r>temporització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teorização<s n="n"/><s n="f"/></l><r>teorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tetanização<s n="n"/><s n="f"/></l><r>tetanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>totalização<s n="n"/><s n="f"/></l><r>totalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>transdução<s n="n"/><s n="f"/></l><r>transducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>uniformização<s n="n"/><s n="f"/></l><r>uniformització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>universalização<s n="n"/><s n="f"/></l><r>universalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>urbanização<s n="n"/><s n="f"/></l><r>urbanització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vacilação<s n="n"/><s n="f"/></l><r>vacil·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vacuolização<s n="n"/><s n="f"/></l><r>vacuolització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>valorização<s n="n"/><s n="f"/></l><r>valorització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vaporização<s n="n"/><s n="f"/></l><r>vaporització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vascularização<s n="n"/><s n="f"/></l><r>vascularització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vasoconstrição<s n="n"/><s n="f"/></l><r>vasoconstricció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>velarização<s n="n"/><s n="f"/></l><r>velarització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>verbalização<s n="n"/><s n="f"/></l><r>verbalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>visualização<s n="n"/><s n="f"/></l><r>visualització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vitalização<s n="n"/><s n="f"/></l><r>vitalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vocalização<s n="n"/><s n="f"/></l><r>vocalització<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>volatilização<s n="n"/><s n="f"/></l><r>volatilització<s n="n"/><s n="f"/></r></p></e>
 
 <e a="hector"><p><l>potentado<s n="n"/><s n="m"/></l><r>potentat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>magnate<s n="n"/><s n="mf"/></l><r>magnat<s n="n"/><s n="mf"/></r></p></e>
@@ -7798,6 +8095,9 @@
 <e a="hector"><p><l>vulgaridade<s n="n"/><s n="f"/></l><r>vulgaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>vulnerabilidade<s n="n"/><s n="f"/></l><r>vulnerabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>maioridade<s n="n"/><s n="f"/></l><r>majoria<g><b/>d'edat</g><s n="n"/><s n="f"/></r></p></e>
+
+<e a="hector"><p><l>barcelonês<s n="n"/></l><r>barceloní<s n="n"/></r></p></e>
+<e r="RL" a="hector"><p><l>barcelonês<s n="n"/></l><r>barcelonès<s n="n"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -28961,6 +29261,7 @@
 <e>       <p><l>ingerir<s n="vblex"/></l>              <r>ingerir<s n="vblex"/></r></p></e>
 <e>       <p><l>ingresar<s n="vblex"/></l>             <r>ingresar<s n="vblex"/></r></p></e>
 <e>       <p><l>iniciar<s n="vblex"/></l>              <r>iniciar<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>iniciar<s n="vblex"/></l>              <r>endegar<s n="vblex"/></r></p></e>
 <e>       <p><l>inquietar<s n="vblex"/></l>            <r>inquietar<s n="vblex"/></r></p></e>
 <e>       <p><l>inquirir<s n="vblex"/></l>             <r>inquirir<s n="vblex"/></r></p></e>
 <e>       <p><l>inscrever<s n="vblex"/></l>            <r>inscriure<s n="vblex"/></r></p></e>
