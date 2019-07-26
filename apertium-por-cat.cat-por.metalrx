@@ -331,6 +331,31 @@
     </def-macro>
   </def-macros>
 
+  <def-seqs>
+    <def-seq n="edifici">
+      <match lemma="edifici"/>
+      <match lemma="parlament"/>
+      <match lemma="congrés"/>
+      <match lemma="senat"/>
+      <match lemma="universitat"/>
+      <match lemma="facultat"/>
+      <match lemma="escola"/>
+      <match lemma="col·legi"/>
+      <match lemma="institut"/>
+      <match lemma="hospital"/>
+      <match lemma="clínica"/>
+      <match lemma="policlínica"/>
+      <match lemma="ajuntament"/>
+
+      <match lemma="casa"/>
+      <match lemma="mas"/>
+      <match lemma="masia"/>
+      <match lemma="torre"/>
+      <match lemma="castell"/>
+      <match lemma="presó"/>
+    </def-seq>
+  </def-seqs>
+
 <rules>
 
 <!-- **************** ADJ **************** -->
@@ -361,6 +386,32 @@
 
 <!-- **************** N **************** -->
 
+  <!-- ala > asa, ala -->
+  <rule weight="0.6">
+    <match lemma="ala" tags="n.*"><select lemma="asa"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="ala" tags="n.*"><select lemma="ala"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adj.*"/>
+    </repeat>
+    <match lemma="de" tags="pr"/>
+    <match tags="det.*"/>
+    <or>
+      <seq n="edifici"/>
+    </or>
+  </rule>
+
+  <!-- inversió > investimento, inversão -->
+  <rule weight="0.6">
+    <match lemma="inversió" tags="n.*"><select lemma="investimento"/></match>
+  </rule>
+
+  <!-- implicació > envolvimento, implicação -->
+  <rule weight="0.6">
+    <match lemma="implicació" tags="n.*"><select lemma="envolvimento"/></match>
+  </rule>
+
   <!-- cua > cauda/calda/rabo, fila -->
   <rule weight="0.6">
     <or>
@@ -377,19 +428,6 @@
       </or>
     </repeat>
     <match lemma="cua" tags="n.*"><select lemma="fila"/></match>
-  </rule>
-
-  <!-- estreia > estrena, debut -->
-  <rule weight="0.6">
-    <match lemma="estreia" tags="n.*"><select lemma="estrena"/></match>
-  </rule>
-  <rule weight="1.0">
-    <match lemma="estreia" tags="n.*"><select lemma="debut"/></match>
-    <match lemma="de" tags="pr"/>
-    <or>
-      <match tags="np.ant.*"/>
-      <match tags="np.loc.*"/>
-    </or>
   </rule>
 
   <!-- company > companheiro, colega -->

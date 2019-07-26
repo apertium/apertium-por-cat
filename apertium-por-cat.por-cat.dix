@@ -1441,6 +1441,10 @@
 <e a="hector"><p><l>barcelonês<s n="adj"/></l><r>barceloní<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>barcelonês<s n="adj"/></l><r>barcelonès<s n="adj"/></r></p></e>
 <e r="LR" a="hector"><p><l>restante<s n="adj"/></l><r>altre<s n="adj"/><s n="ind"/></r></p><par n="pobre_pobre"/></e>
+<e a="hector"><p><l>mediterrâneo<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transmediterrâneo<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>mediterrânico<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>transmediterrânico<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -2006,7 +2010,7 @@
 <e r="RL"><p><l>qual<b/>o<b/>motivo<s n="adv"/></l>    <r>a<b/>què<b/>ve<s n="adv"/></r></p></e>
 <e>       <p><l>qual<b/>o<b/>motivo<s n="adv"/></l>    <r>per<b/>quin<b/>motiu<s n="adv"/></r></p></e>
 <e r="RL"><p><l>qual<b/>o<b/>motivo<s n="adv"/></l>    <r>quin<b/>és<b/>el<b/>motiu<s n="adv"/></r></p></e>
-<e>       <p><l>quando<s n="adv"/></l>                 <r>quan<s n="adv"/></r></p></e>
+<e>       <p><l>quando<s n="adv"/><s n="itg"/></l>     <r>quan<s n="adv"/><s n="itg"/></r></p></e>
 <e r="LR"><p><l>quando<b/>muito<s n="adv"/></l>        <r>com<b/>a<b/>molt<s n="adv"/></r></p></e>
 <e r="LR"><p><l>quiçá<s n="adv"/></l>                  <r>potser<s n="adv"/></r></p></e>
 <e r="RL"><p><l>quiçá<s n="adv"/></l>                  <r>potser<s n="adv"/></r></p></e>
@@ -2436,7 +2440,7 @@
 <e>       <p><l>ajuda<s n="n"/><s n="f"/></l>          <r>ajuda<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>ajuda<s n="n"/><s n="f"/></l>          <r>ajut<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ajuste<s n="n"/></l>                   <r>ajust<s n="n"/></r></p></e>
-<e r="LR"><p><l>ala<s n="n"/></l>                      <r>ala<s n="n"/></r></p></e>
+<e>       <p><l>ala<s n="n"/></l>                      <r>ala<s n="n"/></r></p></e>
 <e>       <p><l>alarme<s n="n"/><s n="m"/></l>         <r>alarma<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>alcance<s n="n"/></l>                  <r>abast<s n="n"/></r></p></e>
 <e>       <p><l>aldeia<s n="n"/><s n="f"/></l>         <r>poble<s n="n"/><s n="m"/></r></p></e>
@@ -2562,6 +2566,8 @@
 <e>       <p><l>artigo<s n="n"/></l>                   <r>article<s n="n"/></r></p></e>
 <e>       <p><l>artista<s n="n"/></l>                  <r>artista<s n="n"/></r></p></e>
 <e>       <p><l>asa<s n="n"/></l>                      <r>ala<s n="n"/></r></p></e>
+<e>       <p><l>asa<s n="n"/></l>                      <r>nansa<s n="n"/></r></p></e>
+<e r="RL"><p><l>asa<s n="n"/></l>                      <r>ansa<s n="n"/></r></p></e>
 <e>       <p><l>ascensão<s n="n"/><s n="f"/></l>       <r>ascens<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>asco<s n="n"/></l>                     <r>fàstic<s n="n"/></r></p></e>
 <e>       <p><l>asesor<s n="n"/></l>                   <r>asesor<s n="n"/></r></p></e>
@@ -3032,7 +3038,6 @@
 <e vl="pt pt_pre1990" r="LR"><p><l>comboio<b/>metropolitano<s n="n"/></l><r>tren<g>de<b/>rodalies</g><s n="n"/></r></p></e>
 <e vl="pt pt_pre1990" r="LR"><p><l>comboio<g><b/>de<b/>subúrbio</g><s n="n"/></l><r>tren<g>de<b/>rodalies</g><s n="n"/></r></p></e>
 <e>       <p><l>combustível<s n="n"/></l>              <r>combustible<s n="n"/></r></p></e>
-<e r="RL"><p><l>combustível<s n="n"/></l>              <r>carburant<s n="n"/></r></p></e>
 <e>       <p><l>comemoração<s n="n"/></l>              <r>commemoració<s n="n"/></r></p></e>
 <e>       <p><l>comentarista<s n="n"/></l>             <r>comentarista<s n="n"/></r></p></e>
 <e>       <p><l>comentário<s n="n"/></l>               <r>comentari<s n="n"/></r></p></e>
@@ -4280,8 +4285,9 @@
 <e>       <p><l>junho<s n="n"/></l>                    <r>juny<s n="n"/></r></p></e>
 <e>       <p><l>junta<s n="n"/></l>                    <r>junta<s n="n"/></r></p></e>
 <e r="LR"><p><l>juro<s n="n"/></l>                     <r>interès<s n="n"/></r></p></e>
-<e>       <p><l>justificativa<s n="n"/></l>            <r>justificació<s n="n"/></r></p></e>
-<e r="LR"><p><l>justificação<s n="n"/></l>             <r>justificació<s n="n"/></r></p></e>
+<e>       <p><l>justificativa<s n="n"/><s n="f"/></l>  <r>comprovant<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>comprovativo<s n="n"/><s n="m"/></l>   <r>comprovant<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>justificação<s n="n"/></l>             <r>justificació<s n="n"/></r></p></e>
 <e>       <p><l>justiça<s n="n"/></l>                  <r>justícia<s n="n"/></r></p></e>
 <e r="RL"><p><l>juventude<s n="n"/></l>                <r>jovenalla<s n="n"/></r></p></e>
 <e r="RL"><p><l>juventude<s n="n"/><s n="f"/></l>      <r>jovent<s n="n"/><s n="m"/></r></p></e>
@@ -5633,7 +5639,8 @@
 <e><p><l>tempo<s n="n"/><s n="m"/></l><r>temps<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
 <e>       <p><l>temporada<s n="n"/></l>                <r>temporada<s n="n"/></r></p></e>
 <e>       <p><l>tendência<s n="n"/></l>                <r>tendència<s n="n"/></r></p></e>
-<e>       <p><l>tenente<s n="n"/></l>                  <r>tinent<s n="n"/></r></p></e>
+<e>       <p><l>tenente<s n="n"/><s n="mf"/></l>       <r>tinent<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>tenente<s n="n"/><s n="mf"/></l>       <r>tinent<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tenista<s n="n"/></l>                  <r>tennista<s n="n"/></r></p></e>
 <e>       <p><l>tensão<s n="n"/></l>                   <r>tensió<s n="n"/></r></p></e>
 <e>       <p><l>tentativa<s n="n"/></l>                <r>temptativa<s n="n"/></r></p></e>
@@ -6052,7 +6059,7 @@
 <e a="hector"><p><l>discípulo<s n="n"/></l><r>deixeble<s n="n"/></r></p><par n="outro_altre"/></e>
 <e a="hector"><p><l>missionário<s n="n"/></l><r>missioner<s n="n"/></r></p></e>
 <e a="hector"><p><l>geometria<s n="n"/><s n="f"/></l><r>geometria<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>almirante<s n="n"/><s n="mf"/></l><r>almirall<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+<e a="hector"><p><l>almirante<s n="n"/><s n="m"/></l><r>almirall<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>pronúncia<s n="n"/><s n="f"/></l><r>pronunciació<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="hector"><p><l>pronúncia<s n="n"/><s n="f"/></l><r>pronúncia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ressonância<s n="n"/><s n="f"/></l><r>ressò<s n="n"/><s n="m"/></r></p></e>
@@ -8285,6 +8292,139 @@
 <e r="LR" a="hector"><p><l>supervivência<s n="n"/><s n="f"/></l><r>supervivència<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>mongeta<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>fesol<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ponto<g><b/>de<b/>interrogação</g><s n="n"/><s n="m"/></l><r>interrogant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>actuante<s n="n"/><s n="mf"/></l><r>actuant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>adoptante<s n="n"/><s n="mf"/></l><r>adoptant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>adquirente<s n="n"/><s n="mf"/></l><r>adquirent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>afluente<s n="n"/><s n="f"/></l><r>afluent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aguante<s n="n"/><s n="m"/></l><r>aguant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ajudante<s n="n"/><s n="mf"/></l><r>ajudant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>antecedente<s n="n"/><s n="m"/></l><r>antecedent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anticoagulante<s n="n"/><s n="m"/></l><r>anticoagulant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anunciante<s n="n"/><s n="mf"/></l><r>anunciant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ascendente<s n="n"/><s n="mf"/></l><r>ascendent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>assaltante<s n="n"/><s n="mf"/></l><r>assaltant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>atlante<s n="n"/><s n="mf"/></l><r>atlant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>bacante<s n="n"/><s n="f"/></l><r>bacant<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>batente<s n="n"/><s n="m"/></l><r>batent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cabrestante<s n="n"/><s n="m"/></l><r>cabrestant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>calmante<s n="n"/><s n="m"/></l><r>calmant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>carburante<s n="n"/><s n="m"/></l><r>carburant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>causante<s n="n"/><s n="mf"/></l><r>causant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cedente<s n="n"/><s n="mf"/></l><r>cedent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>coeficiente<s n="n"/><s n="m"/></l><r>coeficient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>colorante<s n="n"/><s n="m"/></l><r>colorant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>combatente<s n="n"/><s n="mf"/></l><r>combatent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>comediante<s n="n"/></l><r>comediant<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>comitente<s n="n"/><s n="mf"/></l><r>comitent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>concedente<s n="n"/><s n="mf"/></l><r>concedent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>condicionante<s n="n"/><s n="f"/></l><r>condicionant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>consciente<s n="n"/><s n="m"/></l><r>conscient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>constante<s n="n"/><s n="f"/></l><r>constant<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>consultante<s n="n"/><s n="mf"/></l><r>consultant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>contendente<s n="n"/><s n="mf"/></l><r>contendent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>contracorrente<s n="n"/><s n="f"/><s n="sg"/></l><r>contracorrent<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>convalescente<s n="n"/><s n="mf"/></l><r>convalescent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>convivente<s n="n"/><s n="mf"/></l><r>convivent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cooperante<s n="n"/><s n="mf"/></l><r>cooperant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>debutante<s n="n"/><s n="mf"/></l><r>debutant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>decapante<s n="n"/><s n="m"/></l><r>decapant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>delegante<s n="n"/><s n="mf"/></l><r>delegant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>demandante<s n="n"/><s n="mf"/></l><r>demandant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>demente<s n="n"/><s n="mf"/></l><r>dement<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>denunciante<s n="n"/><s n="mf"/></l><r>denunciant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dependente<s n="n"/></l><r>dependent<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>descendente<s n="n"/><s n="mf"/></l><r>descendent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dessecante<s n="n"/><s n="m"/></l><r>dessecant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>detergente<s n="n"/><s n="m"/></l><r>detergent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>determinante<s n="n"/><s n="m"/></l><r>determinant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>diluente<s n="n"/><s n="m"/></l><r>diluent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dissidente<s n="n"/><s n="mf"/></l><r>dissident<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dissolvente<s n="n"/><s n="m"/></l><r>dissolvent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>edulcorante<s n="n"/><s n="m"/></l><r>edulcorant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>efluente<s n="n"/><s n="m"/></l><r>efluent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>emulgente<s n="n"/><s n="m"/></l><r>emulgent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>emulsionante<s n="n"/><s n="m"/></l><r>emulsionant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>endossante<s n="n"/><s n="mf"/></l><r>endossant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>prateleira<s n="n"/><s n="f"/></l><r>prestage<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>prateleira<s n="n"/><s n="f"/></l><r>estant<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>prateleira<s n="n"/><s n="f"/></l><r>lleixa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estante<s n="n"/><s n="f"/></l><r>prestageria<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" a="hector"><p><l>estante<s n="n"/><s n="f"/></l><r>estanteria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>excedente<s n="n"/><s n="m"/></l><r>excedent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>excipiente<s n="n"/><s n="m"/></l><r>excipient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>executante<s n="n"/><s n="mf"/></l><r>executant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>expectorante<s n="n"/><s n="m"/></l><r>expectorant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>exponente<s n="n"/><s n="mf"/></l><r>exponent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>farsante<s n="n"/><s n="mf"/></l><r>farsant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>figurante<s n="n"/><s n="mf"/></l><r>figurant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>gestante<s n="n"/><s n="f"/></l><r>gestant<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>gradiente<s n="n"/><s n="m"/></l><r>gradient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>guante<s n="n"/><s n="m"/></l><r>manyopla<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>habilitante<s n="n"/><s n="mf"/></l><r>habilitant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>implante<s n="n"/><s n="m"/></l><r>implant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>indigente<s n="n"/><s n="mf"/></l><r>indigent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>informante<s n="n"/><s n="mf"/></l><r>informant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ingrediente<s n="n"/><s n="m"/></l><r>ingredient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>insurgente<s n="n"/><s n="mf"/></l><r>insurgent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>intendente<s n="n"/></l><r>intendent<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>intrigante<s n="n"/><s n="mf"/></l><r>intrigant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>lactante<s n="n"/><s n="mf"/></l><r>lactant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>laxante<s n="n"/><s n="m"/></l><r>laxant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>litigante<s n="n"/><s n="mf"/></l><r>litigant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>lubrificante<s n="n"/><s n="m"/></l><r>lubrificant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mandante<s n="n"/><s n="mf"/></l><r>mandant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mendicante<s n="n"/><s n="mf"/></l><r>mendicant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mordente<s n="n"/><s n="m"/></l><r>mordent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mutante<s n="n"/><s n="mf"/></l><r>mutant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>narcotraficante<s n="n"/><s n="mf"/></l><r>narcotraficant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>negociante<s n="n"/><s n="mf"/></l><r>negociant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>octante<s n="n"/><s n="m"/></l><r>octant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>oferente<s n="n"/><s n="mf"/></l><r>oferent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oponente<s n="n"/><s n="mf"/></l><r>oponent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oriente<s n="n"/><s n="m"/><s n="sg"/></l><r>orient<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>oxidante<s n="n"/><s n="m"/></l><r>oxidant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>parapente<s n="n"/><s n="m"/></l><r>parapent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>passante<s n="n"/><s n="mf"/></l><r>passant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>passavante<s n="n"/><s n="m"/></l><r>passavant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>patente<s n="n"/><s n="f"/></l><r>patent<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pedante<s n="n"/><s n="mf"/></l><r>pedant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>penitente<s n="n"/><s n="mf"/></l><r>penitent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>permanente<s n="n"/><s n="f"/></l><r>permanent<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>conferencista<s n="n"/><s n="mf"/></l><r>ponent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>conferencista<s n="n"/><s n="mf"/></l><r>conferenciant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>pretendente<s n="n"/><s n="m"/></l><r>pretendent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>principiante<s n="n"/><s n="mf"/></l><r>principiant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>proponente<s n="n"/><s n="mf"/></l><r>proponent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>purgante<s n="n"/><s n="m"/></l><r>purgant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>quadrante<s n="n"/><s n="m"/></l><r>quadrant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>quociente<s n="n"/><s n="m"/></l><r>quocient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>refrigerante<s n="n"/><s n="m"/></l><r>refrigerant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>regente<s n="n"/><s n="mf"/></l><r>regent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>reincidente<s n="n"/><s n="mf"/></l><r>reincident<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>rente<s n="n"/><s n="m"/></l><r>rent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>renunciante<s n="n"/><s n="mf"/></l><r>renunciant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>residente<s n="n"/><s n="mf"/></l><r>resident<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>restante<s n="n"/><s n="mf"/></l><r>restant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>resultante<s n="n"/><s n="f"/></l><r>resultant<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>servente<s n="n"/></l><r>servent<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>sextante<s n="n"/><s n="m"/></l><r>sextant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>significante<s n="n"/><s n="m"/></l><r>significant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sobrevivente<s n="n"/><s n="mf"/></l><r>sobrevivent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>subagente<s n="n"/><s n="mf"/></l><r>subagent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>subcomandante<s n="n"/><s n="mf"/></l><r>subcomandant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>subconsciente<s n="n"/><s n="m"/></l><r>subconscient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>subcontinente<s n="n"/><s n="m"/></l><r>subcontinent<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>suficiente<s n="n"/><s n="m"/></l><r>suficient<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>superintendente<s n="n"/></l><r>superintendent<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>supervivente<s n="n"/><s n="mf"/></l><r>supervivent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>suplente<s n="n"/><s n="mf"/></l><r>suplent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>tangente<s n="n"/><s n="f"/></l><r>tangent<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alça<s n="n"/><s n="f"/></l><r>mànec<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>tridente<s n="n"/><s n="m"/></l><r>trident<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>turbante<s n="n"/><s n="m"/></l><r>turbant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vidente<s n="n"/><s n="mf"/></l><r>vident<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>votante<s n="n"/><s n="mf"/></l><r>votant<s n="n"/><s n="mf"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -8332,7 +8472,10 @@
 <e>       <p><l>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Astúries<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Atenas<s n="np"/></l>                  <r>Atenes<s n="np"/></r></p></e>
 <e>       <p><l>Angola<s n="np"/></l>                  <r>Angola<s n="np"/></r></p></e>
-<e>       <p><l>Augusto<s n="np"/></l>                 <r>Augusto<s n="np"/></r></p></e>
+<e>       <p><l>Augusto<s n="np"/><s n="cog"/></l>     <r>Augusto<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Augusto<s n="np"/><s n="ant"/></l>     <r>Augusto<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>August<s n="np"/><s n="ant"/></l>      <r>August<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Augusta<s n="np"/><s n="ant"/></l>     <r>Augusta<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Austrália<s n="np"/></l>               <r>Austràlia<s n="np"/></r></p></e>
 <e>       <p><l>Aznar<s n="np"/></l>                   <r>Aznar<s n="np"/></r></p></e>
 <e>       <p><l>Azorín<s n="np"/></l>                  <r>Azorín<s n="np"/></r></p></e>
@@ -28090,6 +28233,8 @@
 <e a="hector"><p><l>Crimeia<s n="np"/><s n="top"/></l><r>Crimea<s n="np"/><s n="top"/></r></p></e>
 <e a="hector"><p><l>Rússia<s n="np"/><s n="top"/></l><r>Rússia<s n="np"/><s n="top"/></r></p></e>
 <e a="hector"><p><l>Sibéria<s n="np"/><s n="top"/></l><r>Sibèria<s n="np"/><s n="top"/></r></p></e>
+<e a="hector"><p><l>Mediterrâneo<s n="np"/><s n="top"/></l><r>Mediterrani<s n="np"/><s n="top"/></r></p></e>
+<e r="RL" a="hector"><p><l>Mediterrâneo<s n="np"/><s n="top"/><s n="m"/></l><r>Mediterrània<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -29717,6 +29862,7 @@
 <e>       <p><l>procurar<s n="vblex"/></l>             <r>buscar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>procurar<s n="vblex"/></l>             <r>cercar<s n="vblex"/></r></p></e>
 <e>       <p><l>produzir<s n="vblex"/></l>             <r>produir<s n="vblex"/></r></p></e>
+<e>       <p><l>coproduzir<s n="vblex"/></l>           <r>coproduir<s n="vblex"/></r></p></e>
 <e>       <p><l>programar<s n="vblex"/></l>            <r>programar<s n="vblex"/></r></p></e>
 <e>       <p><l>progredir<s n="vblex"/></l>            <r>progressar<s n="vblex"/></r></p></e>
 <e>       <p><l>proibir<s n="vblex"/></l>              <r>prohibir<s n="vblex"/></r></p></e>

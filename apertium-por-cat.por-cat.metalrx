@@ -420,6 +420,41 @@
 
 <!-- **************** N **************** -->
 
+  <!-- asa > ala, nansa/ansa -->
+  <rule weight="0.6">
+    <match lemma="asa" tags="n.*"><select lemma="ala"/></match>
+  </rule>
+
+  <!-- declive > declivi, pendent -->
+  <rule weight="0.6">
+    <match lemma="declive" tags="n.*"><select lemma="declivi"/></match>
+  </rule>
+
+  <!-- reforma > reforma, jubilació (Por) -->
+  <rule weight="0.6">
+    <match lemma="reforma" tags="n.*"><select lemma="reforma"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="reforma" tags="n.*"><select lemma="jubilació"/></match>
+    <or>
+      <match lemma="antecipado" tags="adj.*"/>
+      <match lemma="antecipar" tags="vblex.pp.*"/>
+    </or>
+  </rule>
+
+  <!-- estreia > estrena, debut -->
+  <rule weight="0.6">
+    <match lemma="estreia" tags="n.*"><select lemma="estrena"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estreia" tags="n.*"><select lemma="debut"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match tags="np.ant.*"/>
+      <match tags="np.loc.*"/>
+    </or>
+  </rule>
+
   <!-- prefeitura > ajuntament, alcaldia (Bra) -->
   <rule weight="0.6">
     <match lemma="prefeitura" tags="n.*"><select lemma="ajuntament"/></match>
@@ -587,6 +622,16 @@
       <match lemma="en prol de" tags="pr"/>
       <match lemma="en contra" tags="adv"/>
       <match lemma="contra" tags="pr"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ser" tags="vbser.*"><select lemma="estar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or>
+      <match lemma="basar" tags="vblex.pp.*"/>
+      <match lemma="basar" tags="vblex.pp.*"/>
     </or>
   </rule>
 
