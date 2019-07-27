@@ -2363,6 +2363,9 @@
 <e>       <p><l>um<s n="det"/></l>                     <r>un<s n="det"/></r></p></e>
 <e r="LR"><p><l>vosso<s n="det"/></l>                  <r>el<b/>vostre<s n="det"/></r></p></e>
 <e>       <p><l>vário<s n="det"/></l>                  <r>divers<s n="det"/></r></p></e>
+<e r="LR"><p><l>ambos<s n="det"/></l>                  <r>ambdós<s n="det"/></r></p></e>
+<e>       <p><l>ambos<b/>os<s n="det"/></l>            <r>ambdós<s n="det"/></r></p></e>
+<e r="RL"><p><l>ambos<s n="det"/></l>                  <r>tots<b/>dos<s n="det"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
@@ -5885,7 +5888,11 @@
 <e r="LR"><p><l>vazamento<s n="n"/><s n="m"/></l>      <r>fugida<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>vazio<s n="n"/></l>                    <r>buit<s n="n"/></r></p></e>
 <e>       <p><l>veia<s n="n"/></l>                     <r>vena<s n="n"/></r></p></e>
-<e r="RL"><p><l>vela<s n="n"/></l>                     <r>espelma<s n="n"/></r></p></e>
+<e>       <p><l>vela<s n="n"/></l>                     <r>espelma<s n="n"/></r></p></e>
+<e r="RL" a="hector"><p><l>vela<s n="n"/></l>          <r>candela<s n="n"/></r></p></e>
+<e a="hector"><p><l>vela<s n="n"/></l>                 <r>bugia<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>vela<g><b/>de<b/>ignição</g><s n="n"/></l><r>bugia<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>bugia<s n="n"/></l>         <r>bugia<s n="n"/></r></p></e>
 <e>       <p><l>vela<s n="n"/></l>                     <r>vela<s n="n"/></r></p></e>
 <e>       <p><l>velhice<s n="n"/></l>                  <r>vellesa<s n="n"/></r></p></e>
 <e>       <p><l>velocidade<s n="n"/></l>               <r>velocitat<s n="n"/></r></p></e>
@@ -8540,6 +8547,169 @@
 <e a="hector"><p><l>urologista<s n="n"/></l><r>uròleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>vulcanologista<s n="n"/></l><r>vulcanòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>zoologista<s n="n"/></l><r>zoòleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>aerofagia<s n="n"/><s n="f"/></l><r>aerofagia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aerologia<s n="n"/><s n="f"/></l><r>aerologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>agrogeologia<s n="n"/><s n="f"/></l><r>agrogeologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>agrologia<s n="n"/><s n="f"/></l><r>agrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>alergologia<s n="n"/><s n="f"/></l><r>al·lergologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anagogia<s n="n"/><s n="f"/></l><r>anagogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>andrologia<s n="n"/><s n="f"/></l><r>andrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>angiologia<s n="n"/><s n="f"/></l><r>angiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antilogia<s n="n"/><s n="f"/></l><r>antilogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antologia<s n="n"/><s n="f"/></l><r>antologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antropobiologia<s n="n"/><s n="f"/></l><r>antropobiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antropologia<s n="n"/><s n="f"/></l><r>antropologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>apologia<s n="n"/><s n="f"/></l><r>apologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>arqueologia<s n="n"/><s n="f"/></l><r>arqueologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>artrologia<s n="n"/><s n="f"/></l><r>artrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>assiriologia<s n="n"/><s n="f"/></l><r>assiriologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>astrobiologia<s n="n"/><s n="f"/></l><r>astrobiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>astrologia<s n="n"/><s n="m"/></l><r>astrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>axiologia<s n="n"/><s n="f"/></l><r>axiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>bacteriologia<s n="n"/><s n="f"/></l><r>bacteriologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>bioenergia<s n="n"/><s n="f"/></l><r>bioenergia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>bromatologia<s n="n"/><s n="f"/></l><r>bromatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cardiologia<s n="n"/><s n="f"/></l><r>cardiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cirurgia<s n="n"/><s n="f"/></l><r>cirurgia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>citologia<s n="n"/><s n="f"/></l><r>citologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>climatologia<s n="n"/><s n="f"/></l><r>climatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>coprologia<s n="n"/><s n="f"/></l><r>coprologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cosmologia<s n="n"/><s n="f"/></l><r>cosmologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>criminologia<s n="n"/><s n="f"/></l><r>criminologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>criptologia<s n="n"/><s n="f"/></l><r>criptologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cristologia<s n="n"/><s n="f"/></l><r>cristologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cronologia<s n="n"/><s n="f"/></l><r>cronologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>demonologia<s n="n"/><s n="f"/></l><r>demonologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dendrocronologia<s n="n"/><s n="f"/></l><r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dendrologia<s n="n"/><s n="f"/></l><r>dendrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>deontologia<s n="n"/><s n="f"/></l><r>deontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dermatologia<s n="n"/><s n="f"/></l><r>dermatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>dialectologia<s n="n"/><s n="f"/></l><r>dialectologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ecologia<s n="n"/><s n="f"/></l><r>ecologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>edafologia<s n="n"/><s n="f"/></l><r>edafologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>elegia<s n="n"/><s n="f"/></l><r>elegia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>embriologia<s n="n"/><s n="f"/></l><r>embriologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>endocrinologia<s n="n"/><s n="f"/></l><r>endocrinologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>enologia<s n="n"/><s n="f"/></l><r>enologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>entomologia<s n="n"/><s n="f"/></l><r>entomologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>epidemiologia<s n="n"/><s n="f"/></l><r>epidemiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>epistemologia<s n="n"/><s n="f"/></l><r>epistemologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>escatologia<s n="n"/><s n="f"/></l><r>escatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>espeleologia<s n="n"/><s n="f"/></l><r>espeleologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estomatologia<s n="n"/><s n="f"/></l><r>estomatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>etiologia<s n="n"/><s n="f"/></l><r>etiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>etnologia<s n="n"/><s n="f"/></l><r>etnologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>etnopsicologia<s n="n"/><s n="f"/></l><r>etnopsicologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>etologia<s n="n"/><s n="f"/></l><r>etologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>farmacologia<s n="n"/><s n="f"/></l><r>farmacologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fenologia<s n="n"/><s n="f"/></l><r>fenologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fenomenologia<s n="n"/><s n="f"/></l><r>fenomenologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>filologia<s n="n"/><s n="f"/></l><r>filologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fisiologia<s n="n"/><s n="f"/></l><r>fisiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fisiopatologia<s n="n"/><s n="f"/></l><r>fisiopatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fitologia<s n="n"/><s n="f"/></l><r>fitologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fitopatologia<s n="n"/><s n="f"/></l><r>fitopatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fonologia<s n="n"/><s n="f"/></l><r>fonologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fraseologia<s n="n"/><s n="f"/></l><r>fraseologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>frenologia<s n="n"/><s n="f"/></l><r>frenologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>futurologia<s n="n"/><s n="f"/></l><r>futurologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>genealogia<s n="n"/><s n="f"/></l><r>genealogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>geocronologia<s n="n"/><s n="f"/></l><r>geocronologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>geomorfologia<s n="n"/><s n="f"/></l><r>geomorfologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>gerontologia<s n="n"/><s n="f"/></l><r>gerontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ginecologia<s n="n"/><s n="f"/></l><r>ginecologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>glaciologia<s n="n"/><s n="f"/></l><r>glaciologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>grafologia<s n="n"/><s n="f"/></l><r>grafologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hematologia<s n="n"/><s n="f"/></l><r>hematologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hemiplegia<s n="n"/><s n="f"/></l><r>hemiplegia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hepatologia<s n="n"/><s n="f"/></l><r>hepatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hidrogeologia<s n="n"/><s n="f"/></l><r>hidrogeologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hidrologia<s n="n"/><s n="f"/></l><r>hidrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>histologia<s n="n"/><s n="f"/></l><r>histologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>homologia<s n="n"/><s n="f"/></l><r>homologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ictiologia<s n="n"/><s n="f"/></l><r>ictiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>laringologia<s n="n"/><s n="f"/></l><r>laringologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>letargia<s n="n"/><s n="f"/></l><r>letargia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>lexicologia<s n="n"/><s n="f"/></l><r>lexicologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>limnologia<s n="n"/><s n="f"/></l><r>limnologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>litologia<s n="n"/><s n="f"/></l><r>litologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>malacologia<s n="n"/><s n="f"/></l><r>malacologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mastologia<s n="n"/><s n="f"/></l><r>mastologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>meteorologia<s n="n"/><s n="f"/></l><r>meteorologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>metrologia<s n="n"/><s n="f"/></l><r>metrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>micologia<s n="n"/><s n="f"/></l><r>micologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>microbiologia<s n="n"/><s n="f"/></l><r>microbiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>micropaleontologia<s n="n"/><s n="f"/></l><r>micropaleontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mineralogia<s n="n"/><s n="f"/></l><r>mineralogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>misologia<s n="n"/><s n="f"/></l><r>misologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>mitologia<s n="n"/><s n="f"/></l><r>mitologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>morfologia<s n="n"/><s n="f"/></l><r>morfologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>musicologia<s n="n"/><s n="f"/></l><r>musicologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>necrologia<s n="n"/><s n="f"/></l><r>necrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>nefrologia<s n="n"/><s n="f"/></l><r>nefrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neologia<s n="n"/><s n="f"/></l><r>neologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neurocirurgia<s n="n"/><s n="f"/></l><r>neurocirurgia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neurofisiologia<s n="n"/><s n="f"/></l><r>neurofisiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neurologia<s n="n"/><s n="f"/></l><r>neurologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>neuropatologia<s n="n"/><s n="f"/></l><r>neuropatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>noologia<s n="n"/><s n="f"/></l><r>noologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>nosologia<s n="n"/><s n="f"/></l><r>nosologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>numerologia<s n="n"/><s n="f"/></l><r>numerologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>odontologia<s n="n"/><s n="f"/></l><r>odontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>oftalmologia<s n="n"/><s n="f"/></l><r>oftalmologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>oncologia<s n="n"/><s n="f"/></l><r>oncologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ontologia<s n="n"/><s n="f"/></l><r>ontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>orgia<s n="n"/><s n="f"/></l><r>orgia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ornitologia<s n="n"/><s n="f"/></l><r>ornitologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ortologia<s n="n"/><s n="f"/></l><r>ortologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>otologia<s n="n"/><s n="f"/></l><r>otologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>otorrinolaringologia<s n="n"/><s n="f"/></l><r>otorrinolaringologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>paleontologia<s n="n"/><s n="f"/></l><r>paleontologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>palinologia<s n="n"/><s n="f"/></l><r>palinologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>paraplegia<s n="n"/><s n="f"/></l><r>paraplegia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>parapsicologia<s n="n"/><s n="f"/></l><r>parapsicologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>parasitologia<s n="n"/><s n="f"/></l><r>parasitologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>paremiologia<s n="n"/><s n="f"/></l><r>paremiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pedologia<s n="n"/><s n="f"/></l><r>pedologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>petrologia<s n="n"/><s n="f"/></l><r>petrologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pneumologia<s n="n"/><s n="f"/></l><r>pneumologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>podologia<s n="n"/><s n="f"/></l><r>podologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pomologia<s n="n"/><s n="f"/></l><r>pomologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>posologia<s n="n"/><s n="f"/></l><r>posologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>potamologia<s n="n"/><s n="f"/></l><r>potamologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>psicopatologia<s n="n"/><s n="f"/></l><r>psicopatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>psicopedagogia<s n="n"/><s n="f"/></l><r>psicopedagogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>radiologia<s n="n"/><s n="f"/></l><r>radiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reologia<s n="n"/><s n="f"/></l><r>reologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>rinologia<s n="n"/><s n="f"/></l><r>rinologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sedimentologia<s n="n"/><s n="f"/></l><r>sedimentologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>semasiologia<s n="n"/><s n="f"/></l><r>semasiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>semiologia<s n="n"/><s n="f"/></l><r>semiologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>serologia<s n="n"/><s n="f"/></l><r>serologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sexologia<s n="n"/><s n="f"/></l><r>sexologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>simbologia<s n="n"/><s n="f"/></l><r>simbologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sinecologia<s n="n"/><s n="f"/></l><r>sinecologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sinergia<s n="n"/><s n="f"/></l><r>sinergia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sismologia<s n="n"/><s n="f"/></l><r>sismologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sociologia<s n="n"/><s n="f"/></l><r>sociologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tanatologia<s n="n"/><s n="f"/></l><r>tanatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tautologia<s n="n"/><s n="f"/></l><r>tautologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teleologia<s n="n"/><s n="f"/></l><r>teleologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teologia<s n="n"/><s n="f"/></l><r>teologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>teratologia<s n="n"/><s n="f"/></l><r>teratologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>terminologia<s n="n"/><s n="f"/></l><r>terminologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tetralogia<s n="n"/><s n="f"/></l><r>tetralogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tetraplegia<s n="n"/><s n="f"/></l><r>tetraplegia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tipologia<s n="n"/><s n="f"/></l><r>tipologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tocologia<s n="n"/><s n="f"/></l><r>tocologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>topologia<s n="n"/><s n="f"/></l><r>topologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>toxicologia<s n="n"/><s n="f"/></l><r>toxicologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>traumatologia<s n="n"/><s n="f"/></l><r>traumatologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>trilogia<s n="n"/><s n="f"/></l><r>trilogia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>urologia<s n="n"/><s n="f"/></l><r>urologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>virologia<s n="n"/><s n="f"/></l><r>virologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vulcanologia<s n="n"/><s n="f"/></l><r>vulcanologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoologia<s n="n"/><s n="f"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -8836,7 +9006,7 @@
 <e>       <p><l>Luís<s n="np"/></l>                    <r>Luís<s n="np"/></r></p></e>
 <e>       <p><l>Inácio<s n="np"/></l>                  <r>Inácio<s n="np"/></r></p></e>
 <e>       <p><l>Londres<s n="np"/></l>                 <r>Londres<s n="np"/></r></p></e>
-<e>       <p><l>Los<b/>Angeles<s n="np"/></l>          <r>Los<b/>Àngeles<s n="np"/></r></p></e>
+<e>       <p><l>Los<b/>Angeles<s n="np"/><s n="top"/></l><r>Los<b/>Angeles<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Louis<s n="np"/></l>                   <r>Louis<s n="np"/></r></p></e>
 <e>       <p><l>Lozano<s n="np"/></l>                  <r>Lozano<s n="np"/></r></p></e>
 <e>       <p><l>Lucas<s n="np"/></l>                   <r>Lucas<s n="np"/></r></p></e>
@@ -28699,6 +28869,7 @@
 <e r="LR"><p><l>ambas<b/>as<s n="prn"/></l>            <r>ambdues<s n="prn"/></r></p></e>
 <e>       <p><l>ambos<s n="prn"/></l>                  <r>ambdós<s n="prn"/></r></p></e>
 <e r="LR"><p><l>ambos<b/>os<s n="prn"/></l>            <r>ambdós<s n="prn"/></r></p></e>
+<e r="RL"><p><l>ambos<s n="prn"/></l>                  <r>tots<b/>dos<s n="prn"/></r></p></e>
 <e>       <p><l>aquele<s n="prn"/></l>                 <r>aquell<s n="prn"/></r></p></e>
 <e>       <p><l>aquilo<s n="prn"/></l>                 <r>allò<s n="prn"/></r></p></e>
 <e>       <p><l>comigo<s n="prn"/></l>                 <r>amb<b/>mi<s n="prn"/></r></p></e>
@@ -28745,6 +28916,7 @@
 <e>       <p><l>o<b/>teu<s n="prn"/></l>               <r>el<b/>teu<s n="prn"/></r></p></e>
 <e>       <p><l>o<b/>vosso<s n="prn"/></l>             <r>el<b/>vostre<s n="prn"/></r></p></e>
 <e>       <p><l>outro<s n="prn"/></l>                  <r>un<b/>altre<s n="prn"/></r></p></e>
+<e>       <p><l>outro<s n="prn"/></l>                  <r>altre<s n="prn"/></r></p></e>
 <e>       <p><l>pouco<s n="prn"/></l>                  <r>poc<s n="prn"/></r></p></e>
   <!--  <e><p><l>qual<s n="rel"/><s n="adv"/></l> <r>qual<s n="rel"/><s n="an"/></r></p></e>-->
 <e>       <p><l>qual<s n="prn"/><s n="itg"/></l>       <r>quin<s n="prn"/><s n="itg"/></r></p><par n="mf_GD"/><par n="sp_sp"/></e>
@@ -29649,6 +29821,7 @@
 <e>       <p><l>gobernar<s n="vblex"/></l>             <r>gobernar<s n="vblex"/></r></p></e>
 <e>       <p><l>golear<s n="vblex"/></l>               <r>golejar<s n="vblex"/></r></p></e>
 <e>       <p><l>golpear<s n="vblex"/></l>              <r>copejar<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>golpear<s n="vblex"/></l>              <r>colpejar<s n="vblex"/></r></p></e>
 <e>       <p><l>gostar<s n="vblex"/></l>               <r>agradar<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>gozar<s n="vblex"/></l>                <r>gaudir<s n="vblex"/></r></p></e>
 <e>       <p><l>grabar<s n="vblex"/></l>               <r>grabar<s n="vblex"/></r></p></e>
@@ -30235,6 +30408,7 @@
 <e r="RL"><p><l>tentar<s n="vblex"/></l>               <r>temptar<s n="vblex"/></r></p></e>
 <e>       <p><l>ter<s n="vblex"/></l>                  <r>tenir<s n="vblex"/></r></p></e>
 <e a="mginesti"><p><l>ter<g><b/>cuidado</g><s n="vblex"/></l><r>anar<g><b/>amb<b/>compte</g><s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ter<g><b/>em<b/>vista</g><s n="vblex"/></l><r>tenir<g><b/>en<b/>compte</g><s n="vblex"/></r></p></e>
 <e>       <p><l>ter<g><b/>saudades</g><s n="vblex"/></l><r>trobar<g><b/>a<b/>faltar</g><s n="vblex"/></r></p></e>
 <e>       <p><l>ter<g><b/>vontade<b/>de</g><s n="vblex"/></l><r>tenir<g><b/>ganes<b/>de</g><s n="vblex"/></r></p></e>
 <e r="LR"><p><l>terminar<s n="vblex"/></l>             <r>acabar<s n="vblex"/></r></p></e>
