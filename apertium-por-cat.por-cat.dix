@@ -5105,13 +5105,13 @@
 <e>       <p><l>predecesor<s n="n"/></l>               <r>predecesor<s n="n"/></r></p></e>
 <e>       <p><l>predição<s n="n"/></l>                 <r>predicció<s n="n"/></r></p></e>
 <e r="LR" vl="pt pt1990"><p><l>autarca<s n="n"/></l>                 <r>alcalde<s n="n"/></r></p><par n="mf_GD"/></e>
-<e vl="pt pt1990"><p><l>presidente<g><b/>da<b/>câmara<b/>municipal</g><s n="n"/></l><r>alcalde<s n="n"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>presidente<g><b/>da<b/>câmara<b/>municipal</g><s n="n"/></l><r>alcalde<s n="n"/></r></p></e>
 <e vl="br"><p><l>prefeito<s n="n"/></l>                 <r>alcalde<s n="n"/></r></p></e>
-<e r="RL" vl="pt pt1990"><p><l>autarca<s n="n"/></l>                 <r>batlle<s n="n"/></r></p><par n="mf_GD"/></e>
+<e r="RL" vl="pt pt_pre1990"><p><l>autarca<s n="n"/></l>                 <r>batlle<s n="n"/></r></p><par n="mf_GD"/></e>
 <e r="RL" vl="br"><p><l>prefeito<s n="n"/></l>                 <r>batlle<s n="n"/></r></p></e>
 <e vl="br"><p><l>prefeitura<s n="n"/><s n="f"/></l>     <r>ajuntament<s n="n"/><s n="m"/></r></p></e>
 <e vl="pt pt_pre1990"><p><l>câmara<b/>municipal<s n="n"/><s n="f"/></l><r>ajuntament<s n="n"/><s n="m"/></r></p></e>
-<e vl="pt pt1990"><p><l>presidência<g><b/>da<b/>câmara<b/>municipal</g><s n="n"/></l><r>alcaldia<s n="n"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>presidência<g><b/>da<b/>câmara<b/>municipal</g><s n="n"/></l><r>alcaldia<s n="n"/></r></p></e>
 <e vl="br"><p><l>prefeitura<s n="n"/><s n="f"/></l>     <r>alcaldia<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>preferência<s n="n"/></l>              <r>preferència<s n="n"/></r></p></e>
 <e>       <p><l>pregão<s n="n"/></l>                   <r>pregó<s n="n"/></r></p></e>
