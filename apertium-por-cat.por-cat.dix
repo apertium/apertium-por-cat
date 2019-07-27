@@ -1414,96 +1414,113 @@
 <e>       <p><l>único<s n="adj"/></l>                  <r>únic<s n="adj"/></r></p></e>
 <e>       <p><l>útil<s n="adj"/></l>                   <r>útil<s n="adj"/></r></p></e>
 
-<e vl="br" a="hector"><p><l>alfandegário<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
-<e vl="pt pt_pre1990" a="hector"><p><l>aduaneiro<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
-<e a="hector"><p><l>ortográfico<s n="adj"/></l><r>ortogràfic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>ordinal<s n="adj"/></l><r>ordinal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>cardeal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>cardinal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenvolupat<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenrotllat<s n="adj"/></r></p></e>
-<e a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenvolupat<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenrotllat<s n="adj"/></r></p></e>
-<e r="LR" a="hector"><p><l>este<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
-<e a="hector"><p><l>leste<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
-<e a="hector"><p><l>oeste<s n="adj"/></l><r>oest<s n="adj"/></r></p></e>
-<e a="hector"><p><l>norte<s n="adj"/></l><r>nord<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sul<s n="adj"/></l><r>sud<s n="adj"/></r></p></e>
-<e a="hector"><p><l>nordeste<s n="adj"/></l><r>nord-est<s n="adj"/></r></p></e>
-<e a="hector"><p><l>noroeste<s n="adj"/></l><r>nord-oest<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sudoeste<s n="adj"/></l><r>sud-oest<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sueste<s n="adj"/></l><r>sud-est<s n="adj"/></r></p></e>
-<e a="hector"><p><l>neutro<s n="adj"/></l><r>neutre<s n="adj"/></r></p><par n="outro_altre"/></e>
-<e a="hector"><p><l>farto<s n="adj"/></l><r>fart<s n="adj"/></r></p></e>
-<e a="hector"><p><l>czarista<s n="adj"/><s n="mf"/></l><r>tsarista<s n="adj"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>multiusuário<s n="adj"/></l><r>multiusuari<s n="adj"/></r></p><par n="mf_GD"/><par n="sp_ND"/></e>
-<e a="hector"><p><l>multitarefa<s n="adj"/></l><r>multitasca<s n="adj"/></r></p><par n="mf_GD"/></e>
-<e a="hector"><p><l>barcelonês<s n="adj"/></l><r>barceloní<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>barcelonês<s n="adj"/></l><r>barcelonès<s n="adj"/></r></p></e>
-<e r="LR" a="hector"><p><l>restante<s n="adj"/></l><r>altre<s n="adj"/><s n="ind"/></r></p><par n="pobre_pobre"/></e>
-<e a="hector"><p><l>mediterrâneo<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
-<e a="hector"><p><l>transmediterrâneo<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
-<e r="LR" a="hector"><p><l>mediterrânico<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
-<e r="LR" a="hector"><p><l>transmediterrânico<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
-<e a="hector"><p><l>astrólogo<s n="n"/></l><r>astròleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>bacteriólogo<s n="n"/></l><r>bacteriòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>burgo<s n="n"/><s n="m"/></l><r>burg<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="hector"><p><l>citólogo<s n="n"/></l><r>citòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>climatólogo<s n="n"/></l><r>climatòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>cosmólogo<s n="n"/></l><r>cosmòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>criminólogo<s n="n"/></l><r>criminòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>demagogo<s n="n"/></l><r>demagog<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>dialectólogo<s n="n"/></l><r>dialectòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>ecólogo<s n="n"/></l><r>ecòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>egiptólogo<s n="n"/></l><r>egiptòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>embriólogo<s n="n"/></l><r>embriòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>entomólogo<s n="n"/></l><r>entomòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>enólogo<s n="n"/></l><r>enòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>espeleólogo<s n="n"/></l><r>espeleòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>estratego<s n="n"/></l><r>estrateg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>etimólogo<s n="n"/></l><r>etimòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>etnólogo<s n="n"/></l><r>etnòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>etólogo<s n="n"/></l><r>etòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>exergo<s n="n"/><s n="m"/></l><r>exerg<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="hector"><p><l>fenomenólogo<s n="n"/></l><r>fenomenòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>filólogo<s n="n"/></l><r>filòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>fonólogo<s n="n"/></l><r>fonòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>geólogo<s n="n"/></l><r>geòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>gongo<s n="n"/><s n="m"/></l><r>gong<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="hector"><p><l>tantã<s n="n"/><s n="m"/></l><r>gong<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="hector"><p><l>grafólogo<s n="n"/></l><r>grafòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>hematólogo<s n="n"/></l><r>hematòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>hidrólogo<s n="n"/></l><r>hidròleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>ictiólogo<s n="n"/></l><r>ictiòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>ideólogo<s n="n"/></l><r>ideòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>leprólogo<s n="n"/></l><r>lepròleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>lexicólogo<s n="n"/></l><r>lexicòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>microbiólogo<s n="n"/></l><r>microbiòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>misólogo<s n="n"/></l><r>misòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>monólogo<s n="n"/><s n="m"/></l><r>monòleg<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="hector"><p><l>museólogo<s n="n"/></l><r>museòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>musicólogo<s n="n"/></l><r>musicòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>neurólogo<s n="n"/></l><r>neuròleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>oftalmólogo<s n="n"/></l><r>oftalmòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>ornitólogo<s n="n"/></l><r>ornitòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>paleontólogo<s n="n"/></l><r>paleontòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>paleólogo<s n="n"/></l><r>paleòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>parapsicólogo<s n="n"/></l><r>parapsicòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>parasitólogo<s n="n"/></l><r>parasitòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>pedagogo<s n="n"/></l><r>pedagog<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>pomólogo<s n="n"/></l><r>pomòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>prólogo<s n="n"/><s n="m"/></l><r>pròleg<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>psicopedagogo<s n="n"/></l><r>psicopedagog<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>reumatólogo<s n="n"/></l><r>reumatòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>sexólogo<s n="n"/></l><r>sexòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>sinólogo<s n="n"/></l><r>sinòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>sismólogo<s n="n"/></l><r>sismòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>tecnólogo<s n="n"/></l><r>tecnòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>teólogo<s n="n"/></l><r>teòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>toxicólogo<s n="n"/></l><r>toxicòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>urólogo<s n="n"/></l><r>uròleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>vulcanólogo<s n="n"/></l><r>vulcanòleg<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>zoólogo<s n="n"/></l><r>zoòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>vário<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>estadual<s n="adj"/></l><r>estatal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>botânico<s n="adj"/></l><r>botànic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aberto<s n="adj"/></l><r>obert<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teórico<s n="adj"/></l><r>teòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>celular<s n="adj"/></l><r>cel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sanguíneo<s n="adj"/></l><r>sanguini<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>obscuro<s n="adj"/></l><r>fosc<s n="adj"/></r></p></e>
+<e a="hector"><p><l>checo<s n="adj"/></l><r>txec<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>tcheco<s n="adj"/></l><r>txec<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ucraniano<s n="adj"/></l><r>ucraïnès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>notório<s n="adj"/></l><r>notori<s n="adj"/></r></p></e>
+<e a="hector"><p><l>folclórico<s n="adj"/></l><r>folklòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acessível<s n="adj"/></l><r>accessible<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sustentável<s n="adj"/></l><r>sostenible<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retangular<s n="adj"/></l><r>rectangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nominal<s n="adj"/></l><r>nominal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrográfico<s n="adj"/></l><r>hidrogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>finlandês<s n="adj"/></l><r>finlandès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diferencial<s n="adj"/></l><r>diferencial<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aplicável<s n="adj"/></l><r>aplicable<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nulo<s n="adj"/></l><r>nul<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>luso<s n="adj"/></l><r>portuguès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liso<s n="adj"/></l><r>llis<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>liso<s n="adj"/></l><r>llis<s n="adj"/><s n="sup"/></r></p></e>
+<e r="LR" a="hector"><p><l>hidrelétrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cirílico<s n="adj"/></l><r>ciríl·lic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>social-democrata<s n="adj"/></l><r>socialdemòcrata<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prejudicial<s n="adj"/></l><r>perjudicial<s n="adj"/></r></p></e>
+<e a="hector"><p><l>portátil<s n="adj"/></l><r>portàtil<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perpendicular<s n="adj"/></l><r>perpendicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>passageiro<s n="adj"/></l><r>passatger<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oceânico<s n="adj"/></l><r>oceànic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>místico<s n="adj"/></l><r>místic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marsupial<s n="adj"/></l><r>marsupial<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisiológico<s n="adj"/></l><r>fisiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atmosférico<s n="adj"/></l><r>atmosfèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atlântico<s n="adj"/></l><r>atlàntic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acidental<s n="adj"/></l><r>accidental<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vetorial<s n="adj"/></l><r>vectorial<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sintático<s n="adj"/></l><r>sintàctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prisioneiro<s n="adj"/></l><r>presoner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gay<s n="adj"/></l><r>gai<s n="adj"/></r></p></e>
+<e a="hector"><p><l>burguês<s n="adj"/></l><r>burgès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bibliográfico<s n="adj"/></l><r>bibliogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assimétrico<s n="adj"/></l><r>asimètric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anormal<s n="adj"/></l><r>anormal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amazônico<s n="adj"/></l><r>amazònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adaptativo<s n="adj"/></l><r>adaptatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>visigótico<s n="adj"/></l><r>visigòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sociológico<s n="adj"/></l><r>sociològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heterossexual<s n="adj"/></l><r>heterosexual<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gaélico<s n="adj"/></l><r>gaèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>excêntrico<s n="adj"/></l><r>excèntric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cíclico<s n="adj"/></l><r>cíclic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urinário<s n="adj"/></l><r>urinari<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trigonométrico<s n="adj"/></l><r>trigonomètric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tridimensional<s n="adj"/></l><r>tridimensional<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transnacional<s n="adj"/></l><r>transnacional<s n="adj"/></r></p></e>
+<e a="hector"><p><l>torácico<s n="adj"/></l><r>toràcic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sul-africano<s n="adj"/></l><r>sud-africà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>socioeconômico<s n="adj"/></l><r>socioeconòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siderúrgico<s n="adj"/></l><r>siderúrgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transatlântico<s n="adj"/></l><r>transatlàntic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inativo<s n="adj"/></l><r>inactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impróprio<s n="adj"/></l><r>impropi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>implícito<s n="adj"/></l><r>implícit<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imperativo<s n="adj"/></l><r>imperatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fronteiriço<s n="adj"/></l><r>fronterer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concêntrico<s n="adj"/></l><r>concèntric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bissexual<s n="adj"/></l><r>bisexual<s n="adj"/></r></p></e>
+<e a="hector"><p><l>culturalista<s n="adj"/></l><r>culturalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circulatório<s n="adj"/></l><r>circulatori<s n="adj"/></r></p></e>
+<e a="hector"><p><l>checheno<s n="adj"/></l><r>txetxè<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sintomático<s n="adj"/></l><r>simptomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sinfónico<s n="adj"/></l><r>simfònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>futebolístico<s n="adj"/></l><r>futbolístic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sumério<s n="adj"/></l><r>sumeri<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sociocultural<s n="adj"/></l><r>sociocultural<s n="adj"/></r></p></e>
+<e a="hector"><p><l>egocêntrico<s n="adj"/></l><r>egocèntric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aventureiro<s n="adj"/></l><r>aventurer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multicultural<s n="adj"/></l><r>multicultural<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interestadual<s n="adj"/></l><r>interestatal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eurocêntrico<s n="adj"/></l><r>eurocèntric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assexual<s n="adj"/></l><r>asexual<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unissexual<s n="adj"/></l><r>unisexual<s n="adj"/></r></p></e>
+<e a="hector"><p><l>traduzível<s n="adj"/></l><r>traduïble<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heliocêntrico<s n="adj"/></l><r>heliocèntric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>executável<s n="adj"/></l><r>executable<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eurasiático<s n="adj"/></l><r>eurasiàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eufemístico<s n="adj"/></l><r>eufemístic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etílico<s n="adj"/></l><r>etílic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>doutoral<s n="adj"/></l><r>doctoral<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dialectológico<s n="adj"/></l><r>dialectològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dialectal<s n="adj"/></l><r>dialectal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>despótico<s n="adj"/></l><r>despòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acíclico<s n="adj"/></l><r>acíclic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alsaciano<s n="adj"/></l><r>alsacià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bissexto<s n="adj"/></l><r>bissextil<s n="adj"/></r></p><par n="GD_mf"/><par n="sp_sp"/></e>
+<e a="hector"><p><l>bissexto<s n="adj"/></l><r>de<b/>traspàs<s n="adj"/></r></p><par n="mf_GD"/><par n="sp_ND"/></e>
+<e a="hector"><p><l>prestigiado<s n="adj"/></l><r>prestigiós<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>prestigiado<s n="adj"/></l><r>prestigiós<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>chuvache<s n="adj"/></l><r>txuvaix<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>tártaro<s n="adj"/></l><r>tàtar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>basquir<s n="adj"/></l><r>baixkir<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e r="LR" a="hector"><p><l>nazi<s n="adj"/></l><r>nazi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neonazi<s n="adj"/></l><r>neonazi<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -1989,8 +2006,8 @@
 <e>       <p><l>ocasionalmente<s n="adv"/></l>         <r>ocasionalment<s n="adv"/></r></p></e>
 <e>       <p><l>oficialmente<s n="adv"/></l>           <r>oficialment<s n="adv"/></r></p></e>
 <e>       <p><l>olimpicamente<s n="adv"/></l>          <r>olímpicament<s n="adv"/></r></p></e>
-<e r="RL"><p><l>onde<s n="adv"/></l>                   <r>a<b/>on<s n="adv"/></r></p></e>
-<e>       <p><l>onde<s n="adv"/></l>                   <r>on<s n="adv"/></r></p></e>
+<e r="RL"><p><l>onde<s n="adv"/><s n="itg"/></l>        <r>a<b/>on<s n="adv"/><s n="itg"/></r></p></e>
+<e>       <p><l>onde<s n="adv"/><s n="itg"/></l>        <r>on<s n="adv"/><s n="itg"/></r></p></e>
 <e>       <p><l>onde<b/>não<b/>tem<s n="adv"/></l>     <r>on<b/>no<b/>n'hi<b/>ha<s n="adv"/></r></p></e>
 <e>       <p><l>onde<b/>quer<s n="adv"/></l>           <r>onsevulla<s n="adv"/></r></p></e>
 <e>       <p><l>ontem<s n="adv"/></l>                  <r>ahir<s n="adv"/></r></p></e>
@@ -2210,6 +2227,14 @@
 <e r="LR" a="hector"><p><l>cabonde<s n="adv"/></l><r>bastant<s n="adv"/></r></p></e>
 <e a="hector"><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>
 <e a="hector"><p><l>etc.<s n="adv"/></l><r>etc.<s n="adv"/></r></p></e>
+<e r="RL" a="hector"><p><l>respetivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>repentinamente<s n="adv"/></l><r>de<b/>sobte<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>provisoriamente<s n="adv"/></l><r>provisionalment<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>prontamente<s n="adv"/></l><r>ràpidament<s n="adv"/></r></p></e>
+<e a="hector"><p><l>culturalmente<s n="adv"/></l><r>culturalment<s n="adv"/></r></p></e>
+<e a="hector"><p><l>criticamente<s n="adv"/></l><r>críticament<s n="adv"/></r></p></e>
+<e a="hector"><p><l>ferozmente<s n="adv"/></l><r>feroçment<s n="adv"/></r></p></e>
+<e a="hector"><p><l>desproporcionalmente<s n="adv"/></l><r>desproporcionalment<s n="adv"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -5251,7 +5276,6 @@
 <e>       <p><l>radar<s n="n"/></l>                    <r>radar<s n="n"/></r></p></e>
 <e>       <p><l>radiografia<s n="n"/></l>              <r>radiografia<s n="n"/></r></p></e>
 <e>       <p><l>rainha<s n="n"/><s n="f"/></l>         <r>rei<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>raio<s n="n"/></l>                     <r>raig<s n="n"/></r></p></e>
 <e>       <p><l>raio<s n="n"/><s n="m"/></l>           <r>radi<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>raiva<s n="n"/></l>                    <r>ràbia<s n="n"/></r></p></e>
 <e>       <p><l>raiz<s n="n"/></l>                     <r>arrel<s n="n"/></r></p></e>
@@ -8711,6 +8735,133 @@
 <e a="hector"><p><l>vulcanologia<s n="n"/><s n="f"/></l><r>vulcanologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoologia<s n="n"/><s n="f"/></r></p></e>
 
+<e vl="br" a="hector"><p><l>alfandegário<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>aduaneiro<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortográfico<s n="adj"/></l><r>ortogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ordinal<s n="adj"/></l><r>ordinal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cardeal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cardinal<s n="adj"/></l><r>cardinal<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenvolupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desenvolvido<s n="adj"/></l><r>desenrotllat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenvolupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>subdesenvolvido<s n="adj"/></l><r>subdesenrotllat<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>este<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leste<s n="adj"/></l><r>est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oeste<s n="adj"/></l><r>oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>norte<s n="adj"/></l><r>nord<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sul<s n="adj"/></l><r>sud<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nordeste<s n="adj"/></l><r>nord-est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noroeste<s n="adj"/></l><r>nord-oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sudoeste<s n="adj"/></l><r>sud-oest<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sueste<s n="adj"/></l><r>sud-est<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neutro<s n="adj"/></l><r>neutre<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e a="hector"><p><l>farto<s n="adj"/></l><r>fart<s n="adj"/></r></p></e>
+<e a="hector"><p><l>czarista<s n="adj"/><s n="mf"/></l><r>tsarista<s n="adj"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>multiusuário<s n="adj"/></l><r>multiusuari<s n="adj"/></r></p><par n="mf_GD"/><par n="sp_ND"/></e>
+<e a="hector"><p><l>multitarefa<s n="adj"/></l><r>multitasca<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>barcelonês<s n="adj"/></l><r>barceloní<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>barcelonês<s n="adj"/></l><r>barcelonès<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>restante<s n="adj"/></l><r>altre<s n="adj"/><s n="ind"/></r></p><par n="pobre_pobre"/></e>
+<e a="hector"><p><l>mediterrâneo<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transmediterrâneo<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>mediterrânico<s n="adj"/></l><r>mediterrani<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>transmediterrânico<s n="adj"/></l><r>transmediterrani<s n="adj"/></r></p></e>
+<e a="hector"><p><l>astrólogo<s n="n"/></l><r>astròleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>bacteriólogo<s n="n"/></l><r>bacteriòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>burgo<s n="n"/><s n="m"/></l><r>burg<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>citólogo<s n="n"/></l><r>citòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>climatólogo<s n="n"/></l><r>climatòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>cosmólogo<s n="n"/></l><r>cosmòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>criminólogo<s n="n"/></l><r>criminòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>demagogo<s n="n"/></l><r>demagog<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>dialectólogo<s n="n"/></l><r>dialectòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>ecólogo<s n="n"/></l><r>ecòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>egiptólogo<s n="n"/></l><r>egiptòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>embriólogo<s n="n"/></l><r>embriòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>entomólogo<s n="n"/></l><r>entomòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>enólogo<s n="n"/></l><r>enòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>espeleólogo<s n="n"/></l><r>espeleòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>estratego<s n="n"/></l><r>estrateg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>etimólogo<s n="n"/></l><r>etimòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>etnólogo<s n="n"/></l><r>etnòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>etólogo<s n="n"/></l><r>etòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>exergo<s n="n"/><s n="m"/></l><r>exerg<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>fenomenólogo<s n="n"/></l><r>fenomenòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>filólogo<s n="n"/></l><r>filòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>fonólogo<s n="n"/></l><r>fonòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>geólogo<s n="n"/></l><r>geòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>gongo<s n="n"/><s n="m"/></l><r>gong<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>tantã<s n="n"/><s n="m"/></l><r>gong<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>grafólogo<s n="n"/></l><r>grafòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>hematólogo<s n="n"/></l><r>hematòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>hidrólogo<s n="n"/></l><r>hidròleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>ictiólogo<s n="n"/></l><r>ictiòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>ideólogo<s n="n"/></l><r>ideòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>leprólogo<s n="n"/></l><r>lepròleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>lexicólogo<s n="n"/></l><r>lexicòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>microbiólogo<s n="n"/></l><r>microbiòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>misólogo<s n="n"/></l><r>misòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>monólogo<s n="n"/><s n="m"/></l><r>monòleg<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>museólogo<s n="n"/></l><r>museòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>musicólogo<s n="n"/></l><r>musicòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>neurólogo<s n="n"/></l><r>neuròleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>oftalmólogo<s n="n"/></l><r>oftalmòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>ornitólogo<s n="n"/></l><r>ornitòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>paleontólogo<s n="n"/></l><r>paleontòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>paleólogo<s n="n"/></l><r>paleòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>parapsicólogo<s n="n"/></l><r>parapsicòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>parasitólogo<s n="n"/></l><r>parasitòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>pedagogo<s n="n"/></l><r>pedagog<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>pomólogo<s n="n"/></l><r>pomòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>prólogo<s n="n"/><s n="m"/></l><r>pròleg<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>psicopedagogo<s n="n"/></l><r>psicopedagog<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>reumatólogo<s n="n"/></l><r>reumatòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>sexólogo<s n="n"/></l><r>sexòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>sinólogo<s n="n"/></l><r>sinòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>sismólogo<s n="n"/></l><r>sismòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>tecnólogo<s n="n"/></l><r>tecnòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>teólogo<s n="n"/></l><r>teòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>toxicólogo<s n="n"/></l><r>toxicòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>urólogo<s n="n"/></l><r>uròleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>vulcanólogo<s n="n"/></l><r>vulcanòleg<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>zoólogo<s n="n"/></l><r>zoòleg<s n="n"/></r></p></e>
+<e a="hector"><p><l>teórico<s n="n"/></l><r>teòric<s n="n"/></r></p></e>
+<e a="hector"><p><l>interface<s n="n"/><s n="f"/></l><r>interfície<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>filtro<s n="n"/><s n="m"/></l><r>filtre<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>enzima<s n="n"/><s n="f"/></l><r>enzim<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>compreensão<s n="n"/><s n="f"/></l><r>comprensió<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>ênfase<s n="n"/><s n="f"/></l><r>èmfasi<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cilindro<s n="n"/><s n="m"/></l><r>cilindre<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>croata<s n="n"/></l><r>croat<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>croata<s n="adj"/></l><r>croat<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>culinária<s n="n"/><s n="f"/></l><r>gastronomia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>triângulo<s n="n"/><s n="m"/></l><r>triangle<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>gerador<s n="n"/><s n="m"/></l><r>generador<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>burguesia<s n="n"/><s n="f"/></l><r>burgesia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aproveitamento<s n="n"/><s n="m"/></l><r>aprofitament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ucraniano<s n="n"/></l><r>ucraïnès<s n="n"/></r></p></e>
+<e a="hector"><p><l>pureza<s n="n"/><s n="f"/></l><r>puresa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>observatório<s n="n"/><s n="m"/></l><r>observatori<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>manual<s n="n"/><s n="m"/></l><r>manual<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>gay<s n="n"/><s n="m"/></l><r>gai<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>sustentabilidade<s n="n"/><s n="f"/></l><r>sostenibilitat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>flutuação<s n="n"/><s n="f"/></l><r>fluctuació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>aterrissagem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aterragem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>subtipo<s n="n"/><s n="m"/></l><r>subtipus<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
+<e a="hector"><p><l>subsistema<s n="n"/><s n="m"/></l><r>subsistema<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>suborno<s n="n"/><s n="m"/></l><r>suborn<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>somatório<s n="n"/><s n="m"/></l><r>sumatori<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fobia<s n="n"/><s n="f"/></l><r>fòbia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sumério<s n="n"/></l><r>sumeri<s n="n"/></r></p></e>
+<e a="hector"><p><l>chuvache<s n="n"/></l><r>txuvaix<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>tártaro<s n="n"/></l><r>tàtar<s n="n"/></r></p></e>
+<e a="hector"><p><l>basquir<s n="n"/></l><r>baixkir<s n="n"/></r></p><par n="mf_GD"/></e>
+<e r="LR" a="hector"><p><l>nazi<s n="n"/><s n="mf"/></l><r>nazi<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>neonazi<s n="n"/><s n="mf"/></l><r>neonazi<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>goleador<s n="n"/></l><r>golejador<s n="n"/></r></p></e>
+<e a="hector"><p><l>goleada<s n="n"/><s n="f"/></l><r>golejada<s n="n"/><s n="f"/></r></p></e>
+
 <!-- xxxxx -->
 
     <!-- ******************************
@@ -9090,8 +9241,8 @@
 <e>       <p><l>Pablo<s n="np"/></l>                   <r>Pablo<s n="np"/></r></p></e>
 <e>       <p><l>Pacheco<s n="np"/></l>                 <r>Pacheco<s n="np"/></r></p></e>
 <e>       <p><l>Paquistão<s n="np"/></l>               <r>Pakistan<s n="np"/></r></p></e>
-<e>       <p><l>Paraguay<s n="np"/></l>                <r>Paraguay<s n="np"/></r></p></e>
-<e>       <p><l>Paris<s n="np"/></l>                   <r>París<s n="np"/></r></p></e>
+<e>       <p><l>Paraguay<s n="np"/></l>                <r>Paraguai<s n="np"/></r></p></e>
+<e>       <p><l>Paris<s n="np"/><s n="top"/></l>       <r>París<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Pascual<s n="np"/></l>                 <r>Pascual<s n="np"/></r></p></e>
 <e>       <p><l>Pasqual<s n="np"/></l>                 <r>Pasqual<s n="np"/></r></p></e>
 <e>       <p><l>Paul<s n="np"/></l>                    <r>Paul<s n="np"/></r></p></e>
@@ -9183,7 +9334,7 @@
 <e>       <p><l>Tunes<s n="np"/></l>                   <r>Tunis<s n="np"/></r></p></e>
 <e>       <p><l>Turquía<s n="np"/></l>                 <r>Turquía<s n="np"/></r></p></e>
 <e>       <p><l>Tóquio<s n="np"/></l>                  <r>Tòquio<s n="np"/></r></p></e>
-<e>       <p><l>Uruguay<s n="np"/></l>                 <r>Uruguay<s n="np"/></r></p></e>
+<e>       <p><l>Uruguay<s n="np"/></l>                 <r>Uruguai<s n="np"/></r></p></e>
 <e r="LR"><p><l>Valencia<s n="np"/></l>                <r>València<s n="np"/></r></p></e>
 <e r="RL"><p><l>Valencia<s n="np"/></l>                <r>València<s n="np"/></r></p></e>
 <e>       <p><l>Valladolid<s n="np"/></l>              <r>Valladolid<s n="np"/></r></p></e>
@@ -30557,6 +30708,11 @@
 <e i="yes" a="hector"><p><l>desligar<s n="vblex"/></l><r>deslligar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>desflorestar<s n="vblex"/></l><r>desforestar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>descontentar<s n="vblex"/></l><r>descontentar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sitiar<s n="vblex"/></l><r>assetjar<s n="vblex"/></r></p></e>
+<e r="RL" a="hector"><p><l>recomendar<s n="vblex"/></l><r>recomenar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>escravizar<s n="vblex"/></l><r>esclavitzar<s n="vblex"/></r></p></e>
+<e i="yes" a="hector"><p><l>desligar<s n="vblex"/></l><r>deslligar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>arquivar<s n="vblex"/></l><r>arxivar<s n="vblex"/></r></p></e>
   	
 <!-- xxxxx -->
 
@@ -31752,7 +31908,7 @@
 <e a="wiktionary"><p><l>merlão<s n="n"/><s n="m"/></l><r>merlet<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>mesquita<s n="n"/><s n="f"/></l><r>mesquita<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>milhete<s n="n"/><s n="m"/></l><r>mill<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>milho<s n="n"/><s n="m"/></l><r>blat<b/>de<b/>moro<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>milho<s n="n"/><s n="m"/></l><r>blat<g><b/>de<b/>moro</g><s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>missa<s n="n"/><s n="f"/></l><r>missa<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>moinho<s n="n"/><s n="m"/></l><r>molí<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>molho<s n="n"/><s n="m"/></l><r>salsa<s n="n"/><s n="f"/></r></p></e>
@@ -31978,7 +32134,7 @@
 <e r="RL" a="wiktionary"><p><l>passeio<s n="n"/><s n="m"/></l><r>vorera<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>perna<s n="n"/><s n="f"/></l><r>pota<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>prata<s n="n"/><s n="f"/></l><r>argent<s n="n"/><s n="m"/></r></p></e>
-<e r="RL" a="wiktionary"><p><l>raio<s n="n"/><s n="m"/></l><r>llamp<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>raio<s n="n"/><s n="m"/></l><r>llamp<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>tapete<s n="n"/><s n="m"/></l><r>tapís<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>tédio<s n="n"/><s n="m"/></l><r>avorriment<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>touro<s n="n"/><s n="m"/></l><r>bou<s n="n"/><s n="m"/></r></p></e>

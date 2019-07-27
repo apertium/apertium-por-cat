@@ -563,11 +563,13 @@
     </or>
   </rule>
 
-  <!-- conductor > condutor, conductor, autista (br: professional) -->
+  <!-- vela > vela, espelma, bugia -->
   <rule weight="0.6">
-    <match lemma="conductor" tags="n.*"><select lemma="conductor"/></match>
+    <match lemma="vela" tags="n.*"><select lemma="vela"/></match>
   </rule>
-  <rule weight="0.8">
+
+  <!-- conductor > condutor, autista (br: professional) -->
+  <rule weight="0.6">
     <match lemma="conductor" tags="n.*"><select lemma="condutor"/></match>
   </rule>
   <rule weight="1.0">

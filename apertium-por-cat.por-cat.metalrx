@@ -396,6 +396,11 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- bissexto > de traspàs, bissèxtil -->
+  <rule weight="0.6">
+    <match lemma="bissexto" tags="adj.*"><select lemma="de traspàs"/></match>
+  </rule>
+
   <!-- são > sa, sant -->
   <rule weight="0.6">
     <match lemma="são" tags="adj.*"><select lemma="sa"/></match>
@@ -419,6 +424,11 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- raio > radi, llamp -->
+  <rule weight="0.6">
+    <match lemma="raio" tags="n.*"><select lemma="radi"/></match>
+  </rule>
 
   <!-- asa > ala, nansa/ansa -->
   <rule weight="0.6">
@@ -718,6 +728,14 @@
   </rule>
 
 <!-- **************** PRN **************** -->
+
+  <!-- outro > altre, altre -->
+  <rule weight="0.6">
+    <match lemma="outro" tags="prn.tn.*.sg"><select lemma="un altre"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="outro" tags="prn.tn.*.pl"><select lemma="altre"/></match>
+  </rule>
 
   <!-- que > què, quin -->
   <rule weight="0.6">
