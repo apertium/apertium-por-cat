@@ -1219,7 +1219,7 @@
 <e>       <p><l>seguinte<s n="adj"/></l>               <r>següent<s n="adj"/></r></p></e>
 <e>       <p><l>segundo<s n="adj"/></l>                <r>segon<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>seguro<s n="adj"/></l>                 <r>segur<s n="adj"/></r></p></e>
-<e>       <p><l>seleccionador<s n="adj"/></l>          <r>seleccionador<s n="adj"/></r></p></e>
+<e vl="pt_pre1990"><p><l>seleccionador<s n="adj"/></l>          <r>seleccionador<s n="adj"/></r></p></e>
 <e vl="pt_pre1990"><p><l>selectivo<s n="adj"/></l>              <r>selectiu<s n="adj"/></r></p></e>
 <e vl="pt br"><p><l>seletivo<s n="adj"/></l>               <r>selectiu<s n="adj"/></r></p></e>
 <e>       <p><l>selvagem<s n="adj"/></l>               <r>salvatge<s n="adj"/></r></p></e>
@@ -1439,7 +1439,7 @@
 <e r="LR" a="hector"><p><l>luso<s n="adj"/></l><r>portuguès<s n="adj"/></r></p></e>
 <e a="hector"><p><l>liso<s n="adj"/></l><r>llis<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>liso<s n="adj"/></l><r>llis<s n="adj"/><s n="sup"/></r></p></e>
-<e r="LR" a="hector"><p><l>hidrelétrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>hidrelétrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cirílico<s n="adj"/></l><r>ciríl·lic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>social-democrata<s n="adj"/></l><r>socialdemòcrata<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prejudicial<s n="adj"/></l><r>perjudicial<s n="adj"/></r></p></e>
@@ -1453,15 +1453,15 @@
 <e a="hector"><p><l>atmosférico<s n="adj"/></l><r>atmosfèric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>atlântico<s n="adj"/></l><r>atlàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acidental<s n="adj"/></l><r>accidental<s n="adj"/></r></p></e>
-<e a="hector"><p><l>vetorial<s n="adj"/></l><r>vectorial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sintático<s n="adj"/></l><r>sintàctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>vetorial<s n="adj"/></l><r>vectorial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>sintático<s n="adj"/></l><r>sintàctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prisioneiro<s n="adj"/></l><r>presoner<s n="adj"/></r></p></e>
 <e a="hector"><p><l>gay<s n="adj"/></l><r>gai<s n="adj"/></r></p></e>
 <e a="hector"><p><l>burguês<s n="adj"/></l><r>burgès<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bibliográfico<s n="adj"/></l><r>bibliogràfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>assimétrico<s n="adj"/></l><r>asimètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anormal<s n="adj"/></l><r>anormal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>amazônico<s n="adj"/></l><r>amazònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>amazônico<s n="adj"/></l><r>amazònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adaptativo<s n="adj"/></l><r>adaptatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>visigótico<s n="adj"/></l><r>visigòtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sociológico<s n="adj"/></l><r>sociològic<s n="adj"/></r></p></e>
@@ -1475,10 +1475,10 @@
 <e a="hector"><p><l>transnacional<s n="adj"/></l><r>transnacional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>torácico<s n="adj"/></l><r>toràcic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sul-africano<s n="adj"/></l><r>sud-africà<s n="adj"/></r></p></e>
-<e a="hector"><p><l>socioeconômico<s n="adj"/></l><r>socioeconòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>socioeconômico<s n="adj"/></l><r>socioeconòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>siderúrgico<s n="adj"/></l><r>siderúrgic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transatlântico<s n="adj"/></l><r>transatlàntic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>inativo<s n="adj"/></l><r>inactiu<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inativo<s n="adj"/></l><r>inactiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impróprio<s n="adj"/></l><r>impropi<s n="adj"/></r></p></e>
 <e a="hector"><p><l>implícito<s n="adj"/></l><r>implícit<s n="adj"/></r></p></e>
 <e a="hector"><p><l>imperativo<s n="adj"/></l><r>imperatiu<s n="adj"/></r></p></e>
@@ -1507,8 +1507,8 @@
 <e a="hector"><p><l>eufemístico<s n="adj"/></l><r>eufemístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>etílico<s n="adj"/></l><r>etílic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>doutoral<s n="adj"/></l><r>doctoral<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dialectológico<s n="adj"/></l><r>dialectològic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dialectal<s n="adj"/></l><r>dialectal<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialectológico<s n="adj"/></l><r>dialectològic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialectal<s n="adj"/></l><r>dialectal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>despótico<s n="adj"/></l><r>despòtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acíclico<s n="adj"/></l><r>acíclic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>alsaciano<s n="adj"/></l><r>alsacià<s n="adj"/></r></p></e>
@@ -2227,7 +2227,7 @@
 <e r="LR" a="hector"><p><l>cabonde<s n="adv"/></l><r>bastant<s n="adv"/></r></p></e>
 <e a="hector"><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>
 <e a="hector"><p><l>etc.<s n="adv"/></l><r>etc.<s n="adv"/></r></p></e>
-<e r="RL" a="hector"><p><l>respetivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>respetivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>repentinamente<s n="adv"/></l><r>de<b/>sobte<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>provisoriamente<s n="adv"/></l><r>provisionalment<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>prontamente<s n="adv"/></l><r>ràpidament<s n="adv"/></r></p></e>
@@ -6162,7 +6162,7 @@
 <e a="hector"><p><l>distúrbio<s n="n"/><s n="m"/></l><r>disturbi<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>banco<g><b/>de<b/>dados</g><s n="n"/><s n="m"/></l><r>banc<g><b/>de<b/>dades</g><s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>website<s n="n"/><s n="m"/></l><r>lloc<g><b/>web</g><s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>umidade<s n="n"/><s n="f"/></l><r>humitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>umidade<s n="n"/><s n="f"/></l><r>humitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>regimento<s n="n"/><s n="m"/></l><r>regiment<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>paródia<s n="n"/><s n="f"/></l><r>paròdia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>metodologia<s n="n"/><s n="f"/></l><r>metodologia<s n="n"/><s n="f"/></r></p></e>
@@ -6175,7 +6175,7 @@
 <e a="hector"><p><l>circo<s n="n"/><s n="m"/></l><r>circ<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>válvula<s n="n"/><s n="f"/></l><r>vàlvula<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sociólogo<s n="n"/></l><r>sociòleg<s n="n"/></r></p></e>
-<e a="hector"><p><l>reator<s n="n"/><s n="m"/></l><r>reactor<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reator<s n="n"/><s n="m"/></l><r>reactor<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>propulsão<s n="n"/><s n="f"/></l><r>propulsió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>pirata<s n="n"/><s n="mf"/></l><r>pirata<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>nutriente<s n="n"/><s n="m"/></l><r>nutrient<s n="n"/><s n="m"/></r></p></e>
@@ -6218,7 +6218,7 @@
 <e a="hector"><p><l>autodestruição<s n="n"/><s n="f"/></l><r>autodestrucció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>trabalhista<s n="n"/><s n="mf"/></l><r>laborista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>trabalhismo<s n="n"/><s n="m"/></l><r>laborisme<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>topônimo<s n="n"/><s n="m"/></l><r>topònim<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>topônimo<s n="n"/><s n="m"/></l><r>topònim<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>exageração<s n="n"/><s n="f"/></l><r>exageració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>difamação<s n="n"/><s n="f"/></l><r>difamació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>detecção<s n="n"/><s n="f"/></l><r>detecció<s n="n"/><s n="f"/></r></p></e>
@@ -6231,7 +6231,7 @@
 <e a="hector"><p><l>desmantelamento<s n="n"/><s n="m"/></l><r>desmantellament<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>desinvestimento<s n="n"/><s n="m"/></l><r>desinversió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desintegração<s n="n"/><s n="f"/></l><r>desintegració<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>desinfectante<s n="n"/><s n="m"/></l><r>desinfectant<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>desinfectante<s n="n"/><s n="m"/></l><r>desinfectant<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>desflorestação<s n="n"/><s n="f"/></l><r>desforestació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desfasamento<s n="n"/><s n="m"/></l><r>desfasament<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>desestabilização<s n="n"/><s n="f"/></l><r>desestabilització<s n="n"/><s n="f"/></r></p></e>
@@ -6245,6 +6245,7 @@
 
 <e a="hector"><p><l>aberração<s n="n"/><s n="f"/></l><r>aberració<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>abjecção<s n="n"/><s n="f"/></l><r>abjecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>abjeção<s n="n"/><s n="f"/></l><r>abjecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>abjuração<s n="n"/><s n="f"/></l><r>abjuració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ablação<s n="n"/><s n="f"/></l><r>ablació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ablução<s n="n"/><s n="f"/></l><r>ablució<s n="n"/><s n="f"/></r></p></e>
@@ -6263,6 +6264,7 @@
 <e a="hector"><p><l>acumulação<s n="n"/><s n="f"/></l><r>acumulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>adequação<s n="n"/><s n="f"/></l><r>adequació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>adjectivação<s n="n"/><s n="f"/></l><r>adjectivació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>adjetivação<s n="n"/><s n="f"/></l><r>adjectivació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>adjudicação<s n="n"/><s n="f"/></l><r>adjudicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>adjunção<s n="n"/><s n="f"/></l><r>adjunció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>adjuração<s n="n"/><s n="f"/></l><r>adjuració<s n="n"/><s n="f"/></r></p></e>
@@ -6276,7 +6278,9 @@
 <e a="hector"><p><l>aeração<s n="n"/><s n="f"/></l><r>aeració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>aerostação<s n="n"/><s n="f"/></l><r>aerostació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>afectação<s n="n"/><s n="f"/></l><r>afectació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetação<s n="n"/><s n="f"/></l><r>afectació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>afecção<s n="n"/><s n="f"/></l><r>afecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afeção<s n="n"/><s n="f"/></l><r>afecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>afiliação<s n="n"/><s n="f"/></l><r>afiliació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>afinação<s n="n"/><s n="f"/></l><r>afinació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>afixação<s n="n"/><s n="f"/></l><r>afixació<s n="n"/><s n="f"/></r></p></e>
@@ -6304,9 +6308,11 @@
 <e a="hector"><p><l>anunciação<s n="n"/><s n="f"/></l><r>anunciació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="hector"><p><l>aparição<s n="n"/><s n="f"/></l><r>aparició<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>apercepção<s n="n"/><s n="f"/></l><r>apercepció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>aperceção<s n="n"/><s n="f"/></l><r>apercepció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>aposição<s n="n"/><s n="f"/></l><r>aposició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>apreciação<s n="n"/><s n="f"/></l><r>apreciació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>arefacção<s n="n"/><s n="f"/></l><r>arefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>arefação<s n="n"/><s n="f"/></l><r>arefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>argumentação<s n="n"/><s n="f"/></l><r>argumentació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>arrogação<s n="n"/><s n="f"/></l><r>arrogació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>articulação<s n="n"/><s n="f"/></l><r>articulació<s n="n"/><s n="f"/></r></p></e>
@@ -6337,6 +6343,7 @@
 <e a="hector"><p><l>beatificação<s n="n"/><s n="f"/></l><r>beatificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>bifurcação<s n="n"/><s n="f"/></l><r>bifurcació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>bijecção<s n="n"/><s n="f"/></l><r>bijecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>bijeção<s n="n"/><s n="f"/></l><r>bijecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>binação<s n="n"/><s n="f"/></l><r>binació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>bipartição<s n="n"/><s n="f"/></l><r>bipartició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>bonificação<s n="n"/><s n="f"/></l><r>bonificació<s n="n"/><s n="f"/></r></p></e>
@@ -6399,6 +6406,7 @@
 <e a="hector"><p><l>condimentação<s n="n"/><s n="f"/></l><r>condimentació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>confabulação<s n="n"/><s n="f"/></l><r>confabulació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>confecção<s n="n"/><s n="f"/></l><r>confecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>confeção<s n="n"/><s n="f"/></l><r>confecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>configuração<s n="n"/><s n="f"/></l><r>configuració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>confiscação<s n="n"/><s n="f"/></l><r>confiscació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>conflagração<s n="n"/><s n="f"/></l><r>conflagració<s n="n"/><s n="f"/></r></p></e>
@@ -6427,7 +6435,9 @@
 <e a="hector"><p><l>contenção<s n="n"/><s n="f"/></l><r>contenció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contestação<s n="n"/><s n="f"/></l><r>contestació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>contracepção<s n="n"/><s n="f"/></l><r>contracepció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>contraceção<s n="n"/><s n="f"/></l><r>contracepció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>contracção<s n="n"/><s n="f"/></l><r>contracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>contração<s n="n"/><s n="f"/></l><r>contracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contradeclaração<s n="n"/><s n="f"/></l><r>contradeclaració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contrapressão<s n="n"/><s n="f"/></l><r>contrapressió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contrastação<s n="n"/><s n="f"/></l><r>contrastació<s n="n"/><s n="f"/></r></p></e>
@@ -6463,6 +6473,7 @@
 <e a="hector"><p><l>dedicação<s n="n"/><s n="f"/></l><r>dedicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>defecação<s n="n"/><s n="f"/></l><r>defecació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>defecção<s n="n"/><s n="f"/></l><r>defecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>defeção<s n="n"/><s n="f"/></l><r>defecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>defenestração<s n="n"/><s n="f"/></l><r>defenestració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>deflagração<s n="n"/><s n="f"/></l><r>deflagració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>deflação<s n="n"/><s n="f"/></l><r>deflació<s n="n"/><s n="f"/></r></p></e>
@@ -6474,6 +6485,7 @@
 <e a="hector"><p><l>deglutição<s n="n"/><s n="f"/></l><r>deglutició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>degustação<s n="n"/><s n="f"/></l><r>degustació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>dejecção<s n="n"/><s n="f"/></l><r>dejecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dejeção<s n="n"/><s n="f"/></l><r>dejecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>delação<s n="n"/><s n="f"/></l><r>delació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>deliberação<s n="n"/><s n="f"/></l><r>deliberació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>delimitação<s n="n"/><s n="f"/></l><r>delimitació<s n="n"/><s n="f"/></r></p></e>
@@ -6496,7 +6508,9 @@
 <e a="hector"><p><l>derisão<s n="n"/><s n="f"/></l><r>derisió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>derivação<s n="n"/><s n="f"/></l><r>derivació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>desactivação<s n="n"/><s n="f"/></l><r>desactivació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desativação<s n="n"/><s n="f"/></l><r>desactivació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>desafectação<s n="n"/><s n="m"/></l><r>desafectació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desafetação<s n="n"/><s n="m"/></l><r>desafectació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desagregação<s n="n"/><s n="f"/></l><r>desagregació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="hector"><p><l>desaparição<s n="n"/><s n="f"/></l><r>desaparició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desaprovação<s n="n"/><s n="f"/></l><r>desaprovació<s n="n"/><s n="f"/></r></p></e>
@@ -6519,6 +6533,7 @@
 <e a="hector"><p><l>desfiguração<s n="n"/><s n="f"/></l><r>desfiguració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desgravação<s n="n"/><s n="f"/></l><r>desgravació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>desinfecção<s n="n"/><s n="f"/></l><r>desinfecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desinfeção<s n="n"/><s n="f"/></l><r>desinfecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desinformação<s n="n"/><s n="f"/></l><r>desinformació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desintoxicação<s n="n"/><s n="f"/></l><r>desintoxicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desmembração<s n="n"/><s n="f"/></l><r>desmembració<s n="n"/><s n="f"/></r></p></e>
@@ -6531,6 +6546,7 @@
 <e a="hector"><p><l>desoxigenação<s n="n"/><s n="f"/></l><r>desoxigenació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desproporcionação<s n="n"/><s n="f"/></l><r>desproporcionació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>desprotecção<s n="n"/><s n="f"/></l><r>desprotecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desproteção<s n="n"/><s n="f"/></l><r>desprotecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desqualificação<s n="n"/><s n="f"/></l><r>desqualificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desregulação<s n="n"/><s n="f"/></l><r>desregulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>dessecação<s n="n"/><s n="f"/></l><r>dessecació<s n="n"/><s n="f"/></r></p></e>
@@ -6540,11 +6556,13 @@
 <e a="hector"><p><l>deterioração<s n="n"/><s n="f"/></l><r>deterioració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>detonação<s n="n"/><s n="f"/></l><r>detonació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>detracção<s n="n"/><s n="f"/></l><r>detracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>detração<s n="n"/><s n="f"/></l><r>detracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>devastação<s n="n"/><s n="f"/></l><r>devastació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>devoção<s n="n"/><s n="f"/></l><r>devoció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>dicção<s n="n"/><s n="f"/></l><r>dicció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>diferenciação<s n="n"/><s n="f"/></l><r>diferenciació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>difracção<s n="n"/><s n="f"/></l><r>difracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>difração<s n="n"/><s n="f"/></l><r>difracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>difusão<s n="n"/><s n="f"/></l><r>difusió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>digestão<s n="n"/><s n="f"/></l><r>digestió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>digitação<s n="n"/><s n="f"/></l><r>digitació<s n="n"/><s n="f"/></r></p></e>
@@ -6587,13 +6605,18 @@
 <e a="hector"><p><l>eclosão<s n="n"/><s n="f"/></l><r>eclosió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>edificação<s n="n"/><s n="f"/></l><r>edificació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>efectuação<s n="n"/><s n="f"/></l><r>efectuació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>efetuação<s n="n"/><s n="f"/></l><r>efectuació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>efracção<s n="n"/><s n="f"/></l><r>efracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>efração<s n="n"/><s n="f"/></l><r>efracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>efusão<s n="n"/><s n="f"/></l><r>efusió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ejaculação<s n="n"/><s n="f"/></l><r>ejaculació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>ejecção<s n="n"/><s n="f"/></l><r>ejecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>ejeção<s n="n"/><s n="f"/></l><r>ejecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elação<s n="n"/><s n="f"/></l><r>elació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>electrificação<s n="n"/><s n="f"/></l><r>electrificació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrificação<s n="n"/><s n="f"/></l><r>electrificació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>electrostricção<s n="n"/><s n="f"/></l><r>electrostricció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrostrição<s n="n"/><s n="f"/></l><r>electrostricció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elisão<s n="n"/><s n="f"/></l><r>elisió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elocução<s n="n"/><s n="f"/></l><r>elocució<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elongação<s n="n"/><s n="f"/></l><r>elongació<s n="n"/><s n="f"/></r></p></e>
@@ -6618,6 +6641,7 @@
 <e a="hector"><p><l>equitação<s n="n"/><s n="f"/></l><r>equitació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>equivocação<s n="n"/><s n="f"/></l><r>equivocació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>erecção<s n="n"/><s n="f"/></l><r>erecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>ereção<s n="n"/><s n="f"/></l><r>erecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>erosão<s n="n"/><s n="f"/></l><r>erosió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>erradicação<s n="n"/><s n="f"/></l><r>erradicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>eructação<s n="n"/><s n="f"/></l><r>eructació<s n="n"/><s n="f"/></r></p></e>
@@ -6638,6 +6662,7 @@
 <e a="hector"><p><l>estratificação<s n="n"/><s n="f"/></l><r>estratificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>estricção<s n="n"/><s n="f"/></l><r>estricció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>estupefacção<s n="n"/><s n="f"/></l><r>estupefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>estupefação<s n="n"/><s n="f"/></l><r>estupefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>eterificação<s n="n"/><s n="f"/></l><r>eterificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>evaporação<s n="n"/><s n="f"/></l><r>evaporació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>evecção<s n="n"/><s n="f"/></l><r>evecció<s n="n"/><s n="f"/></r></p></e>
@@ -6649,6 +6674,7 @@
 <e a="hector"><p><l>evocação<s n="n"/><s n="f"/></l><r>evocació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>exacerbação<s n="n"/><s n="f"/></l><r>exacerbació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>exacção<s n="n"/><s n="f"/></l><r>exacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>exação<s n="n"/><s n="f"/></l><r>exacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>exaltação<s n="n"/><s n="f"/></l><r>exaltació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>exasperação<s n="n"/><s n="f"/></l><r>exasperació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>excarceração<s n="n"/><s n="f"/></l><r>excarceració<s n="n"/><s n="f"/></r></p></e>
@@ -6666,7 +6692,9 @@
 <e a="hector"><p><l>exornação<s n="n"/><s n="f"/></l><r>exornació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>expatriação<s n="n"/><s n="f"/></l><r>expatriació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>expectação<s n="n"/><s n="f"/></l><r>expectació<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>expetação<s n="n"/><s n="f"/></l><r>expectació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>expectoração<s n="n"/><s n="f"/></l><r>expectoració<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>expetoração<s n="n"/><s n="f"/></l><r>expectoració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>experimentação<s n="n"/><s n="f"/></l><r>experimentació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>expiação<s n="n"/><s n="f"/></l><r>expiació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>expiração<s n="n"/><s n="f"/></l><r>expiració<s n="n"/><s n="f"/></r></p></e>
@@ -6766,7 +6794,9 @@
 <e a="hector"><p><l>impulsão<s n="n"/><s n="f"/></l><r>impulsió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>imputação<s n="n"/><s n="f"/></l><r>imputació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>inactivação<s n="n"/><s n="f"/></l><r>inactivació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inativação<s n="n"/><s n="f"/></l><r>inactivació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>inacção<s n="n"/><s n="f"/></l><r>inacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inação<s n="n"/><s n="f"/></l><r>inacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inadaptação<s n="n"/><s n="f"/></l><r>inadaptació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inadequação<s n="n"/><s n="f"/></l><r>inadequació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inadmissão<s n="n"/><s n="f"/></l><r>inadmissió<s n="n"/><s n="f"/></r></p></e>
@@ -6780,6 +6810,7 @@
 <e a="hector"><p><l>inclusão<s n="n"/><s n="f"/></l><r>inclusió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>incoação<s n="n"/><s n="f"/></l><r>incoació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>incorrecção<s n="n"/><s n="f"/></l><r>incorrecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>incorreção<s n="n"/><s n="f"/></l><r>incorrecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>incorrupção<s n="n"/><s n="f"/></l><r>incorrupció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>increpação<s n="n"/><s n="f"/></l><r>increpació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>incriminação<s n="n"/><s n="f"/></l><r>incriminació<s n="n"/><s n="f"/></r></p></e>
@@ -6824,6 +6855,7 @@
 <e a="hector"><p><l>intensificação<s n="n"/><s n="f"/></l><r>intensificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intercalação<s n="n"/><s n="f"/></l><r>intercalació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>intercepção<s n="n"/><s n="f"/></l><r>intercepció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>interceção<s n="n"/><s n="f"/></l><r>intercepció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intercessão<s n="n"/><s n="f"/></l><r>intercessió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intercomunicação<s n="n"/><s n="f"/></l><r>intercomunicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interlocução<s n="n"/><s n="f"/></l><r>interlocució<s n="n"/><s n="f"/></r></p></e>
@@ -6836,14 +6868,18 @@
 <e a="hector"><p><l>interposição<s n="n"/><s n="f"/></l><r>interposició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interrogação<s n="n"/><s n="f"/></l><r>interrogació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>intersecção<s n="n"/><s n="f"/></l><r>intersecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>interseção<s n="n"/><s n="f"/></l><r>intersecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intimação<s n="n"/><s n="f"/></l><r>intimació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intoxicação<s n="n"/><s n="f"/></l><r>intoxicació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>introjecção<s n="n"/><s n="f"/></l><r>introjecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>introjeção<s n="n"/><s n="f"/></l><r>introjecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intromissão<s n="n"/><s n="f"/></l><r>intromissió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>introspecção<s n="n"/><s n="f"/></l><r>introspecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>introspeção<s n="n"/><s n="f"/></l><r>introspecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>introversão<s n="n"/><s n="f"/></l><r>introversió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intrusão<s n="n"/><s n="f"/></l><r>intrusió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>intussuscepção<s n="n"/><s n="f"/></l><r>intussuscepció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>intussusceção<s n="n"/><s n="f"/></l><r>intussuscepció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>invaginação<s n="n"/><s n="f"/></l><r>invaginació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>invalidação<s n="n"/><s n="f"/></l><r>invalidació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inversão<s n="n"/><s n="f"/></l><r>inversió<s n="n"/><s n="f"/></r></p></e>
@@ -6935,7 +6971,9 @@
 <e a="hector"><p><l>obcecação<s n="n"/><s n="f"/></l><r>obcecació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obduração<s n="n"/><s n="f"/></l><r>obduració<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>objectivação<s n="n"/><s n="f"/></l><r>objectivació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>objetivação<s n="n"/><s n="f"/></l><r>objectivació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>objecção<s n="n"/><s n="f"/></l><r>objecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>objeção<s n="n"/><s n="f"/></l><r>objecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>oblação<s n="n"/><s n="f"/></l><r>oblació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obliteração<s n="n"/><s n="f"/></l><r>obliteració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obsessão<s n="n"/><s n="f"/></l><r>obsessió<s n="n"/><s n="f"/></r></p></e>
@@ -6945,6 +6983,7 @@
 <e a="hector"><p><l>ocultação<s n="n"/><s n="f"/></l><r>ocultació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ofuscação<s n="n"/><s n="f"/></l><r>ofuscació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>olfacção<s n="n"/><s n="f"/></l><r>olfacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>olfação<s n="n"/><s n="f"/></l><r>olfacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>omissão<s n="n"/><s n="f"/></l><r>omissió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ondulação<s n="n"/><s n="f"/></l><r>ondulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>opressão<s n="n"/><s n="f"/></l><r>opressió<s n="n"/><s n="f"/></r></p></e>
@@ -6970,6 +7009,7 @@
 <e a="hector"><p><l>pavimentação<s n="n"/><s n="f"/></l><r>pavimentació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>penetração<s n="n"/><s n="f"/></l><r>penetració<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>percepção<s n="n"/><s n="f"/></l><r>percepció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perceção<s n="n"/><s n="f"/></l><r>percepció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>percolação<s n="n"/><s n="f"/></l><r>percolació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>perdição<s n="n"/><s n="f"/></l><r>perdició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>perduração<s n="n"/><s n="f"/></l><r>perduració<s n="n"/><s n="f"/></r></p></e>
@@ -7005,6 +7045,7 @@
 <e a="hector"><p><l>predeterminação<s n="n"/><s n="f"/></l><r>predeterminació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>predicação<s n="n"/><s n="f"/></l><r>predicació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>predilecção<s n="n"/><s n="f"/></l><r>predilecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>predileção<s n="n"/><s n="f"/></l><r>predilecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>predisposição<s n="n"/><s n="f"/></l><r>predisposició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>preempção<s n="n"/><s n="f"/></l><r>preempció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>prefiguração<s n="n"/><s n="f"/></l><r>prefiguració<s n="n"/><s n="f"/></r></p></e>
@@ -7038,6 +7079,7 @@
 <e a="hector"><p><l>propiciação<s n="n"/><s n="f"/></l><r>propiciació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>propugnação<s n="n"/><s n="f"/></l><r>propugnació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>prospecção<s n="n"/><s n="f"/></l><r>prospecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>prospeção<s n="n"/><s n="f"/></l><r>prospecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>prossecução<s n="n"/><s n="f"/></l><r>prossecució<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>prosternação<s n="n"/><s n="f"/></l><r>prosternació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>prostração<s n="n"/><s n="f"/></l><r>prostració<s n="n"/><s n="f"/></r></p></e>
@@ -7050,6 +7092,7 @@
 <e a="hector"><p><l>purgação<s n="n"/><s n="f"/></l><r>purgació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>purificação<s n="n"/><s n="f"/></l><r>purificació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>putrefacção<s n="n"/><s n="f"/></l><r>putrefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>putrefação<s n="n"/><s n="f"/></l><r>putrefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>quadruplicação<s n="n"/><s n="f"/></l><r>quadruplicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>quantificação<s n="n"/><s n="f"/></l><r>quantificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>quimificação<s n="n"/><s n="f"/></l><r>quimificació<s n="n"/><s n="f"/></r></p></e>
@@ -7062,9 +7105,11 @@
 <e a="hector"><p><l>radiotelevisão<s n="n"/><s n="f"/></l><r>radiotelevisió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ramificação<s n="n"/><s n="f"/></l><r>ramificació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>rarefacção<s n="n"/><s n="f"/></l><r>rarefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>rarefação<s n="n"/><s n="f"/></l><r>rarefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ração<s n="n"/><s n="f"/></l><r>ració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reabsorção<s n="n"/><s n="f"/></l><r>reabsorció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>reactivação<s n="n"/><s n="f"/></l><r>reactivació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reativação<s n="n"/><s n="f"/></l><r>reactivació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>readaptação<s n="n"/><s n="f"/></l><r>readaptació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>readmissão<s n="n"/><s n="f"/></l><r>readmissió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reafirmação<s n="n"/><s n="f"/></l><r>reafirmació<s n="n"/><s n="f"/></r></p></e>
@@ -7074,6 +7119,7 @@
 <e a="hector"><p><l>recapitulação<s n="n"/><s n="f"/></l><r>recapitulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recensão<s n="n"/><s n="f"/></l><r>recensió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>receptação<s n="n"/><s n="f"/></l><r>receptació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>recetação<s n="n"/><s n="f"/></l><r>receptació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recitação<s n="n"/><s n="f"/></l><r>recitació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reclassificação<s n="n"/><s n="f"/></l><r>reclassificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recombinação<s n="n"/><s n="f"/></l><r>recombinació<s n="n"/><s n="f"/></r></p></e>
@@ -7101,6 +7147,7 @@
 <e a="hector"><p><l>reformação<s n="n"/><s n="f"/></l><r>reformació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reformulação<s n="n"/><s n="f"/></l><r>reformulació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>refracção<s n="n"/><s n="f"/></l><r>refracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>refração<s n="n"/><s n="f"/></l><r>refracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>refrigeração<s n="n"/><s n="f"/></l><r>refrigeració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>refundação<s n="n"/><s n="f"/></l><r>refundació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>refundição<s n="n"/><s n="f"/></l><r>refundició<s n="n"/><s n="f"/></r></p></e>
@@ -7115,6 +7162,7 @@
 <e a="hector"><p><l>reimpressão<s n="n"/><s n="f"/></l><r>reimpressió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reincorporação<s n="n"/><s n="f"/></l><r>reincorporació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>reinfecção<s n="n"/><s n="f"/></l><r>reinfecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reinfeção<s n="n"/><s n="f"/></l><r>reinfecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reinserção<s n="n"/><s n="f"/></l><r>reinserció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reintegração<s n="n"/><s n="f"/></l><r>reintegració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reinvenção<s n="n"/><s n="f"/></l><r>reinvenció<s n="n"/><s n="f"/></r></p></e>
@@ -7153,15 +7201,20 @@
 <e a="hector"><p><l>reticulação<s n="n"/><s n="f"/></l><r>reticulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retorsão<s n="n"/><s n="f"/></l><r>retorsió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retractação<s n="n"/><s n="f"/></l><r>retractació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retratação<s n="n"/><s n="f"/></l><r>retractació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retracção<s n="n"/><s n="f"/></l><r>retracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retração<s n="n"/><s n="f"/></l><r>retracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retransmissão<s n="n"/><s n="f"/></l><r>retransmissió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retroacção<s n="n"/><s n="f"/></l><r>retroacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retroação<s n="n"/><s n="f"/></l><r>retroacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retroalimentação<s n="n"/><s n="f"/></l><r>retroalimentació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retrocessão<s n="n"/><s n="f"/></l><r>retrocessió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retrogradação<s n="n"/><s n="f"/></l><r>retrogradació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retrogressão<s n="n"/><s n="f"/></l><r>retrogressió<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retrospecção<s n="n"/><s n="f"/></l><r>retrospecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retrospeção<s n="n"/><s n="f"/></l><r>retrospecció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retrotracção<s n="n"/><s n="f"/></l><r>retrotracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retrotração<s n="n"/><s n="f"/></l><r>retrotracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>retroversão<s n="n"/><s n="f"/></l><r>retroversió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reunificação<s n="n"/><s n="f"/></l><r>reunificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>revalidação<s n="n"/><s n="f"/></l><r>revalidació<s n="n"/><s n="f"/></r></p></e>
@@ -7173,6 +7226,7 @@
 <e a="hector"><p><l>rogação<s n="n"/><s n="f"/></l><r>rogació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>rotação<s n="n"/><s n="f"/></l><r>rotació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>rubefacção<s n="n"/><s n="f"/></l><r>rubefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>rubefação<s n="n"/><s n="f"/></l><r>rubefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>russificação<s n="n"/><s n="f"/></l><r>russificació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>salivação<s n="n"/><s n="f"/></l><r>salivació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sanação<s n="n"/><s n="f"/></l><r>sanació<s n="n"/><s n="f"/></r></p></e>
@@ -7194,6 +7248,7 @@
 <e a="hector"><p><l>sobrecompensação<s n="n"/><s n="f"/></l><r>sobrecompensació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sobredotação<s n="n"/><s n="f"/></l><r>sobredotació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>sobreexcitação<s n="n"/><s n="f"/></l><r>sobreexcitació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>sobre-excitação<s n="n"/><s n="f"/></l><r>sobreexcitació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sobreposição<s n="n"/><s n="f"/></l><r>sobreposició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sobretensão<s n="n"/><s n="f"/></l><r>sobretensió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sofisticação<s n="n"/><s n="f"/></l><r>sofisticació<s n="n"/><s n="f"/></r></p></e>
@@ -7206,6 +7261,7 @@
 <e a="hector"><p><l>subestação<s n="n"/><s n="f"/></l><r>subestació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subestimação<s n="n"/><s n="f"/></l><r>subestimació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>subjecção<s n="n"/><s n="f"/></l><r>subjecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>subjeção<s n="n"/><s n="f"/></l><r>subjecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subjugação<s n="n"/><s n="f"/></l><r>subjugació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sublevação<s n="n"/><s n="f"/></l><r>sublevació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sublimação<s n="n"/><s n="f"/></l><r>sublimació<s n="n"/><s n="f"/></r></p></e>
@@ -7216,6 +7272,7 @@
 <e a="hector"><p><l>substantivação<s n="n"/><s n="f"/></l><r>substantivació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subsunção<s n="n"/><s n="f"/></l><r>subsunció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>subtracção<s n="n"/><s n="f"/></l><r>subtracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>subtração<s n="n"/><s n="f"/></l><r>subtracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subvenção<s n="n"/><s n="f"/></l><r>subvenció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subversão<s n="n"/><s n="f"/></l><r>subversió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sucussão<s n="n"/><s n="f"/></l><r>sucussió<s n="n"/><s n="f"/></r></p></e>
@@ -7245,7 +7302,9 @@
 <e a="hector"><p><l>titulação<s n="n"/><s n="f"/></l><r>titulació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tonificação<s n="n"/><s n="f"/></l><r>tonificació<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>torrefacção<s n="n"/><s n="f"/></l><r>torrefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>torrefação<s n="n"/><s n="f"/></l><r>torrefacció<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>tracção<s n="n"/><s n="f"/></l><r>tracció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>tração<s n="n"/><s n="f"/></l><r>tracció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>transfiguração<s n="n"/><s n="f"/></l><r>transfiguració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>transfusão<s n="n"/><s n="f"/></l><r>transfusió<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>transgressão<s n="n"/><s n="f"/></l><r>transgressió<s n="n"/><s n="f"/></r></p></e>
@@ -7265,6 +7324,7 @@
 <e a="hector"><p><l>triplicação<s n="n"/><s n="f"/></l><r>triplicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>trituração<s n="n"/><s n="f"/></l><r>trituració<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>tumefacção<s n="n"/><s n="f"/></l><r>tumefacció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>tumefação<s n="n"/><s n="f"/></l><r>tumefacció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ulceração<s n="n"/><s n="f"/></l><r>ulceració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ultrafiltração<s n="n"/><s n="f"/></l><r>ultrafiltració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>univocação<s n="n"/><s n="f"/></l><r>univocació<s n="n"/><s n="f"/></r></p></e>
@@ -7313,7 +7373,7 @@
 <e a="hector"><p><l>canalização<s n="n"/><s n="f"/></l><r>canalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>canonização<s n="n"/><s n="f"/></l><r>canonització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>capitalização<s n="n"/><s n="f"/></l><r>capitalització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>caracterização<s n="n"/><s n="f"/></l><r>caracterització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>caracterização<s n="n"/><s n="f"/></l><r>caracterització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>carbonização<s n="n"/><s n="f"/></l><r>carbonització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>categorização<s n="n"/><s n="f"/></l><r>categorització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>catequização<s n="n"/><s n="f"/></l><r>catequització<s n="n"/><s n="f"/></r></p></e>
@@ -7324,12 +7384,12 @@
 <e a="hector"><p><l>climatização<s n="n"/><s n="f"/></l><r>climatització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>colonização<s n="n"/><s n="f"/></l><r>colonització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>colação<s n="n"/><s n="f"/></l><r>col·lació<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>colectivização<s n="n"/><s n="f"/></l><r>col·lectivització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>colectivização<s n="n"/><s n="f"/></l><r>col·lectivització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>coligação<s n="n"/><s n="f"/></l><r>col·ligació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>colimação<s n="n"/><s n="f"/></l><r>col·limació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>colineação<s n="n"/><s n="f"/></l><r>col·lineació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>compatibilização<s n="n"/><s n="f"/></l><r>compatibilització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>conceptualização<s n="n"/><s n="f"/></l><r>conceptualització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>conceptualização<s n="n"/><s n="f"/></l><r>conceptualització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>confraternização<s n="n"/><s n="f"/></l><r>confraternització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>constitucionalização<s n="n"/><s n="f"/></l><r>constitucionalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>constrição<s n="n"/><s n="f"/></l><r>constricció<s n="n"/><s n="f"/></r></p></e>
@@ -7375,7 +7435,7 @@
 <e a="hector"><p><l>divinização<s n="n"/><s n="f"/></l><r>divinització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>dramatização<s n="n"/><s n="f"/></l><r>dramatització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>edução<s n="n"/><s n="f"/></l><r>educció<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>electrização<s n="n"/><s n="f"/></l><r>electrització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrização<s n="n"/><s n="f"/></l><r>electrització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>entronização<s n="n"/><s n="f"/></l><r>entronització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>equalização<s n="n"/><s n="f"/></l><r>equalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>erotização<s n="n"/><s n="f"/></l><r>erotització<s n="n"/><s n="f"/></r></p></e>
@@ -7437,7 +7497,7 @@
 <e a="hector"><p><l>instilação<s n="n"/><s n="f"/></l><r>instil·lació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>institucionalização<s n="n"/><s n="f"/></l><r>institucionalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>instrumentalização<s n="n"/><s n="f"/></l><r>instrumentalització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>inteleção<s n="n"/><s n="f"/></l><r>intel·lecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inteleção<s n="n"/><s n="f"/></l><r>intel·lecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intelectualização<s n="n"/><s n="f"/></l><r>intel·lectualització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interdição<s n="n"/><s n="f"/></l><r>interdicció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interiorização<s n="n"/><s n="f"/></l><r>interiorització<s n="n"/><s n="f"/></r></p></e>
@@ -7487,7 +7547,7 @@
 <e a="hector"><p><l>normativização<s n="n"/><s n="f"/></l><r>normativització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obstrução<s n="n"/><s n="f"/></l><r>obstrucció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>oficialização<s n="n"/><s n="f"/></l><r>oficialització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>optimização<s n="n"/><s n="f"/></l><r>optimització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>optimização<s n="n"/><s n="f"/></l><r>optimització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>oscilação<s n="n"/><s n="f"/></l><r>oscil·lació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ozonização<s n="n"/><s n="f"/></l><r>ozonització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>palatalização<s n="n"/><s n="f"/></l><r>palatalització<s n="n"/><s n="f"/></r></p></e>
@@ -7521,7 +7581,7 @@
 <e a="hector"><p><l>radicalização<s n="n"/><s n="f"/></l><r>radicalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recapitalização<s n="n"/><s n="f"/></l><r>recapitalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recolonização<s n="n"/><s n="f"/></l><r>recolonització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>recoleção<s n="n"/><s n="f"/></l><r>recol·lecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>recoleção<s n="n"/><s n="f"/></l><r>recol·lecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recolocação<s n="n"/><s n="f"/></l><r>recol·locació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recondução<s n="n"/><s n="f"/></l><r>reconducció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>regionalização<s n="n"/><s n="f"/></l><r>regionalització<s n="n"/><s n="f"/></r></p></e>
@@ -7539,7 +7599,7 @@
 <e a="hector"><p><l>revitalização<s n="n"/><s n="f"/></l><r>revitalització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>romanização<s n="n"/><s n="f"/></l><r>romanització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>salinização<s n="n"/><s n="f"/></l><r>salinització<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>sectorização<s n="n"/><s n="f"/></l><r>sectorització<s n="n"/><s n="f"/></r></p></e>
+<e vl="_pt_duplicat_" a="hector"><p><l>sectorização<s n="n"/><s n="f"/></l><r>sectorització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>secularização<s n="n"/><s n="f"/></l><r>secularització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sensibilização<s n="n"/><s n="f"/></l><r>sensibilització<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>simbolização<s n="n"/><s n="f"/></l><r>simbolització<s n="n"/><s n="f"/></r></p></e>
@@ -7590,6 +7650,7 @@
 <e a="hector"><p><l>aeroelasticidade<s n="n"/><s n="f"/></l><r>aeroelasticitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>afabilidade<s n="n"/><s n="f"/></l><r>afabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>afectividade<s n="n"/><s n="f"/></l><r>afectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetividade<s n="n"/><s n="f"/></l><r>afectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>afinidade<s n="n"/><s n="f"/></l><r>afinitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>agilidade<s n="n"/><s n="f"/></l><r>agilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>agressividade<s n="n"/><s n="f"/></l><r>agressivitat<s n="n"/><s n="f"/></r></p></e>
@@ -7628,6 +7689,7 @@
 <e a="hector"><p><l>atomicidade<s n="n"/><s n="f"/></l><r>atomicitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>atonalidade<s n="n"/><s n="f"/></l><r>atonalitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>atractividade<s n="n"/><s n="f"/></l><r>atractivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>atratividade<s n="n"/><s n="f"/></l><r>atractivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>atrocidade<s n="n"/><s n="f"/></l><r>atrocitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>audibilidade<s n="n"/><s n="f"/></l><r>audibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>austeridade<s n="n"/><s n="f"/></l><r>austeritat<s n="n"/><s n="f"/></r></p></e>
@@ -7643,6 +7705,7 @@
 <e a="hector"><p><l>biodegradabilidade<s n="n"/><s n="f"/></l><r>biodegradabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>biodiversidade<s n="n"/><s n="f"/></l><r>biodiversitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>bioelectricidade<s n="n"/><s n="f"/></l><r>bioelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>bioeletricidade<s n="n"/><s n="f"/></l><r>bioelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>bipolaridade<s n="n"/><s n="f"/></l><r>bipolaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>brutalidade<s n="n"/><s n="f"/></l><r>brutalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>caducidade<s n="n"/><s n="f"/></l><r>caducitat<s n="n"/><s n="f"/></r></p></e>
@@ -7665,6 +7728,7 @@
 <e a="hector"><p><l>cognoscibilidade<s n="n"/><s n="f"/></l><r>cognoscibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>colateralidade<s n="n"/><s n="f"/></l><r>col·lateralitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>colectividade<s n="n"/><s n="f"/></l><r>col·lectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>coletividade<s n="n"/><s n="f"/></l><r>col·lectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>combatividade<s n="n"/><s n="f"/></l><r>combativitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>combustibilidade<s n="n"/><s n="f"/></l><r>combustibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>comicidade<s n="n"/><s n="f"/></l><r>comicitat<s n="n"/><s n="f"/></r></p></e>
@@ -7689,6 +7753,7 @@
 <e a="hector"><p><l>contagiosidade<s n="n"/><s n="f"/></l><r>contagiositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>continentalidade<s n="n"/><s n="f"/></l><r>continentalitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>contractilidade<s n="n"/><s n="f"/></l><r>contractilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>contratilidade<s n="n"/><s n="f"/></l><r>contractilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contrariedade<s n="n"/><s n="f"/></l><r>contrarietat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>conventualidade<s n="n"/><s n="f"/></l><r>conventualitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>convertibilidade<s n="n"/><s n="f"/></l><r>convertibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -7702,6 +7767,7 @@
 <e a="hector"><p><l>cronicidade<s n="n"/><s n="f"/></l><r>cronicitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>culpabilidade<s n="n"/><s n="f"/></l><r>culpabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>defectibilidade<s n="n"/><s n="f"/></l><r>defectibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>defetibilidade<s n="n"/><s n="f"/></l><r>defectibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>deformidade<s n="n"/><s n="f"/></l><r>deformitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desconformidade<s n="n"/><s n="f"/></l><r>desconformitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>desproporcionalidade<s n="n"/><s n="f"/></l><r>desproporcionalitat<s n="n"/><s n="f"/></r></p></e>
@@ -7724,8 +7790,10 @@
 <e a="hector"><p><l>edificabilidade<s n="n"/><s n="f"/></l><r>edificabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>edilidade<s n="n"/><s n="f"/></l><r>edilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>efectividade<s n="n"/><s n="f"/></l><r>efectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>efetividade<s n="n"/><s n="f"/></l><r>efectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elasticidade<s n="n"/><s n="f"/></l><r>elasticitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>electronegatividade<s n="n"/><s n="f"/></l><r>electronegativitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletronegatividade<s n="n"/><s n="f"/></l><r>electronegativitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elegibilidade<s n="n"/><s n="f"/></l><r>elegibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>emissividade<s n="n"/><s n="f"/></l><r>emissivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>emotividade<s n="n"/><s n="f"/></l><r>emotivitat<s n="n"/><s n="f"/></r></p></e>
@@ -7734,6 +7802,7 @@
 <e a="hector"><p><l>equidade<s n="n"/><s n="f"/></l><r>equitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>equivocidade<s n="n"/><s n="f"/></l><r>equivocitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>erectilidade<s n="n"/><s n="f"/></l><r>erectilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>eretilidade<s n="n"/><s n="f"/></l><r>erectilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>escabrosidade<s n="n"/><s n="f"/></l><r>escabrositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>escolaridade<s n="n"/><s n="f"/></l><r>escolaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>esfericidade<s n="n"/><s n="f"/></l><r>esfericitat<s n="n"/><s n="f"/></r></p></e>
@@ -7744,6 +7813,7 @@
 <e a="hector"><p><l>esterilidade<s n="n"/><s n="f"/></l><r>esterilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>eventualidade<s n="n"/><s n="f"/></l><r>eventualitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>excepcionalidade<s n="n"/><s n="f"/></l><r>excepcionalitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>excecionalidade<s n="n"/><s n="f"/></l><r>excepcionalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>excitabilidade<s n="n"/><s n="f"/></l><r>excitabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>exclusividade<s n="n"/><s n="f"/></l><r>exclusivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>exemplaridade<s n="n"/><s n="f"/></l><r>exemplaritat<s n="n"/><s n="f"/></r></p></e>
@@ -7761,6 +7831,7 @@
 <e a="hector"><p><l>feracidade<s n="n"/><s n="f"/></l><r>feracitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ferocidade<s n="n"/><s n="f"/></l><r>ferocitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>ferroelectricidade<s n="n"/><s n="f"/></l><r>ferroelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>ferroeletricidade<s n="n"/><s n="f"/></l><r>ferroelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fertilidade<s n="n"/><s n="f"/></l><r>fertilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>feudalidade<s n="n"/><s n="f"/></l><r>feudalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fiabilidade<s n="n"/><s n="f"/></l><r>fiabilitat<s n="n"/><s n="f"/></r></p></e>
@@ -7796,6 +7867,7 @@
 <e a="hector"><p><l>higroscopicidade<s n="n"/><s n="f"/></l><r>higroscopicitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>hilaridade<s n="n"/><s n="f"/></l><r>hilaritat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>hiperactividade<s n="n"/><s n="f"/></l><r>hiperactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>hiperatividade<s n="n"/><s n="f"/></l><r>hiperactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>hipersensibilidade<s n="n"/><s n="f"/></l><r>hipersensibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>histocompatibilidade<s n="n"/><s n="f"/></l><r>histocompatibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>historicidade<s n="n"/><s n="f"/></l><r>historicitat<s n="n"/><s n="f"/></r></p></e>
@@ -7812,6 +7884,7 @@
 <e a="hector"><p><l>impecabilidade<s n="n"/><s n="f"/></l><r>impecabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>impenetrabilidade<s n="n"/><s n="f"/></l><r>impenetrabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>imperceptibilidade<s n="n"/><s n="f"/></l><r>imperceptibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>impercetibilidade<s n="n"/><s n="f"/></l><r>imperceptibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>impermeabilidade<s n="n"/><s n="f"/></l><r>impermeabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>impermutabilidade<s n="n"/><s n="f"/></l><r>impermutabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>impetuosidade<s n="n"/><s n="f"/></l><r>impetuositat<s n="n"/><s n="f"/></r></p></e>
@@ -7832,6 +7905,7 @@
 <e a="hector"><p><l>imputrescibilidade<s n="n"/><s n="f"/></l><r>imputrescibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inaccessibilidade<s n="n"/><s n="f"/></l><r>inaccessibilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>inactividade<s n="n"/><s n="f"/></l><r>inactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inatividade<s n="n"/><s n="f"/></l><r>inactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inadaptabilidade<s n="n"/><s n="f"/></l><r>inadaptabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inadmissibilidade<s n="n"/><s n="f"/></l><r>inadmissibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>inalienabilidade<s n="n"/><s n="f"/></l><r>inalienabilitat<s n="n"/><s n="f"/></r></p></e>
@@ -7852,6 +7926,7 @@
 <e a="hector"><p><l>inculpabilidade<s n="n"/><s n="f"/></l><r>inculpabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>incurabilidade<s n="n"/><s n="f"/></l><r>incurabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>indefectibilidade<s n="n"/><s n="f"/></l><r>indefectibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>indefetibilidade<s n="n"/><s n="f"/></l><r>indefectibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>indemnidade<s n="n"/><s n="f"/></l><r>indemnitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>indignidade<s n="n"/><s n="f"/></l><r>indignitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>indispensabilidade<s n="n"/><s n="f"/></l><r>indispensabilitat<s n="n"/><s n="f"/></r></p></e>
@@ -7898,6 +7973,7 @@
 <e a="hector"><p><l>intemporalidade<s n="n"/><s n="f"/></l><r>intemporalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intencionalidade<s n="n"/><s n="f"/></l><r>intencionalitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>interactividade<s n="n"/><s n="f"/></l><r>interactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>interatividade<s n="n"/><s n="f"/></l><r>interactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interdisciplinaridade<s n="n"/><s n="f"/></l><r>interdisciplinaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interinidade<s n="n"/><s n="f"/></l><r>interinitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interioridade<s n="n"/><s n="f"/></l><r>interioritat<s n="n"/><s n="f"/></r></p></e>
@@ -7923,6 +7999,7 @@
 <e a="hector"><p><l>irrenunciabilidade<s n="n"/><s n="f"/></l><r>irrenunciabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>irresponsabilidade<s n="n"/><s n="f"/></l><r>irresponsabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>irretroactividade<s n="n"/><s n="f"/></l><r>irretroactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>irretroatividade<s n="n"/><s n="f"/></l><r>irretroactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>irrevocabilidade<s n="n"/><s n="f"/></l><r>irrevocabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>irritabilidade<s n="n"/><s n="f"/></l><r>irritabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>jocosidade<s n="n"/><s n="f"/></l><r>jocositat<s n="n"/><s n="f"/></r></p></e>
@@ -7996,6 +8073,7 @@
 <e a="hector"><p><l>nupcialidade<s n="n"/><s n="f"/></l><r>nupcialitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obesidade<s n="n"/><s n="f"/></l><r>obesitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>objectividade<s n="n"/><s n="f"/></l><r>objectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>objetividade<s n="n"/><s n="f"/></l><r>objectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obscenidade<s n="n"/><s n="f"/></l><r>obscenitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obscuridade<s n="n"/><s n="f"/></l><r>obscuritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>obsequiosidade<s n="n"/><s n="f"/></l><r>obsequiositat<s n="n"/><s n="f"/></r></p></e>
@@ -8018,8 +8096,10 @@
 <e a="hector"><p><l>peculiaridade<s n="n"/><s n="f"/></l><r>peculiaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>penetrabilidade<s n="n"/><s n="f"/></l><r>penetrabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>perceptibilidade<s n="n"/><s n="f"/></l><r>perceptibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>percetibilidade<s n="n"/><s n="f"/></l><r>perceptibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>perdurabilidade<s n="n"/><s n="f"/></l><r>perdurabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>perfectibilidade<s n="n"/><s n="f"/></l><r>perfectibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perfetibilidade<s n="n"/><s n="f"/></l><r>perfectibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>periodicidade<s n="n"/><s n="f"/></l><r>periodicitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>permeabilidade<s n="n"/><s n="f"/></l><r>permeabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>permissibilidade<s n="n"/><s n="f"/></l><r>permissibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -8030,8 +8110,10 @@
 <e a="hector"><p><l>perplexidade<s n="n"/><s n="f"/></l><r>perplexitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>perversidade<s n="n"/><s n="f"/></l><r>perversitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>piezoelectricidade<s n="n"/><s n="f"/></l><r>piezoelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>piezoeletricidade<s n="n"/><s n="f"/></l><r>piezoelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>pilosidade<s n="n"/><s n="f"/></l><r>pilositat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>piroelectricidade<s n="n"/><s n="f"/></l><r>piroelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>piroeletricidade<s n="n"/><s n="f"/></l><r>piroelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>plasticidade<s n="n"/><s n="f"/></l><r>plasticitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>plausibilidade<s n="n"/><s n="f"/></l><r>plausibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>pluralidade<s n="n"/><s n="f"/></l><r>pluralitat<s n="n"/><s n="f"/></r></p></e>
@@ -8067,15 +8149,20 @@
 <e a="hector"><p><l>racionalidade<s n="n"/><s n="f"/></l><r>racionalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>radicalidade<s n="n"/><s n="f"/></l><r>radicalitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>radioactividade<s n="n"/><s n="f"/></l><r>radioactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>radioatividade<s n="n"/><s n="f"/></l><r>radioactivitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>radioelectricidade<s n="n"/><s n="f"/></l><r>radioelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>radioeletricidade<s n="n"/><s n="f"/></l><r>radioelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>rapacidade<s n="n"/><s n="f"/></l><r>rapacitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>receptividade<s n="n"/><s n="f"/></l><r>receptivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>recetividade<s n="n"/><s n="f"/></l><r>receptivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>recessividade<s n="n"/><s n="f"/></l><r>recessivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reciprocidade<s n="n"/><s n="f"/></l><r>reciprocitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>reflectividade<s n="n"/><s n="f"/></l><r>reflectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>refletividade<s n="n"/><s n="f"/></l><r>reflectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reflexibilidade<s n="n"/><s n="f"/></l><r>reflexibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reflexividade<s n="n"/><s n="f"/></l><r>reflexivitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>refractividade<s n="n"/><s n="f"/></l><r>refractivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>refratividade<s n="n"/><s n="f"/></l><r>refractivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>refrangibilidade<s n="n"/><s n="f"/></l><r>refrangibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>regressividade<s n="n"/><s n="f"/></l><r>regressivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>regularidade<s n="n"/><s n="f"/></l><r>regularitat<s n="n"/><s n="f"/></r></p></e>
@@ -8087,7 +8174,9 @@
 <e a="hector"><p><l>representatividade<s n="n"/><s n="f"/></l><r>representativitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>resistividade<s n="n"/><s n="f"/></l><r>resistivitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>retractilidade<s n="n"/><s n="f"/></l><r>retractilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="br" a="hector"><p><l>retratilidade<s n="n"/><s n="f"/></l><r>retractilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>retroactividade<s n="n"/><s n="f"/></l><r>retroactivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retroatividade<s n="n"/><s n="f"/></l><r>retroactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reversibilidade<s n="n"/><s n="f"/></l><r>reversibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>rigorosidade<s n="n"/><s n="f"/></l><r>rigorositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>risibilidade<s n="n"/><s n="f"/></l><r>risibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -8103,6 +8192,7 @@
 <e a="hector"><p><l>saturabilidade<s n="n"/><s n="f"/></l><r>saturabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>secularidade<s n="n"/><s n="f"/></l><r>secularitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>selectividade<s n="n"/><s n="f"/></l><r>selectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>seletividade<s n="n"/><s n="f"/></l><r>selectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>senilidade<s n="n"/><s n="f"/></l><r>senilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sensualidade<s n="n"/><s n="f"/></l><r>sensualitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sentimentalidade<s n="n"/><s n="f"/></l><r>sentimentalitat<s n="n"/><s n="f"/></r></p></e>
@@ -8119,6 +8209,7 @@
 <e a="hector"><p><l>sociabilidade<s n="n"/><s n="f"/></l><r>sociabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sonoridade<s n="n"/><s n="f"/></l><r>sonoritat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>subjectividade<s n="n"/><s n="f"/></l><r>subjectivitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>subjetividade<s n="n"/><s n="f"/></l><r>subjectivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sublimidade<s n="n"/><s n="f"/></l><r>sublimitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>subsidiariedade<s n="n"/><s n="f"/></l><r>subsidiarietat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>substancialidade<s n="n"/><s n="f"/></l><r>substancialitat<s n="n"/><s n="f"/></r></p></e>
@@ -8128,6 +8219,7 @@
 <e a="hector"><p><l>superficialidade<s n="n"/><s n="f"/></l><r>superficialitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>superioridade<s n="n"/><s n="f"/></l><r>superioritat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>susceptibilidade<s n="n"/><s n="f"/></l><r>susceptibilitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>suscetibilidade<s n="n"/><s n="f"/></l><r>susceptibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sustentabilidade<s n="n"/><s n="f"/></l><r>sustentabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>taciturnidade<s n="n"/><s n="f"/></l><r>taciturnitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tangibilidade<s n="n"/><s n="f"/></l><r>tangibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -8138,6 +8230,7 @@
 <e a="hector"><p><l>tendenciosidade<s n="n"/><s n="f"/></l><r>tendenciositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tenebrosidade<s n="n"/><s n="f"/></l><r>tenebrositat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>termoelectricidade<s n="n"/><s n="f"/></l><r>termoelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>termoeletricidade<s n="n"/><s n="f"/></l><r>termoelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>territorialidade<s n="n"/><s n="f"/></l><r>territorialitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>textualidade<s n="n"/><s n="f"/></l><r>textualitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tipicidade<s n="n"/><s n="f"/></l><r>tipicitat<s n="n"/><s n="f"/></r></p></e>
@@ -8154,6 +8247,7 @@
 <e a="hector"><p><l>transversalidade<s n="n"/><s n="f"/></l><r>transversalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>traçabilidade<s n="n"/><s n="f"/></l><r>traçabilitat<s n="n"/><s n="f"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>triboelectricidade<s n="n"/><s n="f"/></l><r>triboelectricitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>triboeletricidade<s n="n"/><s n="f"/></l><r>triboelectricitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>trivialidade<s n="n"/><s n="f"/></l><r>trivialitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>tuberosidade<s n="n"/><s n="f"/></l><r>tuberositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>unicidade<s n="n"/><s n="f"/></l><r>unicitat<s n="n"/><s n="f"/></r></p></e>
@@ -8250,7 +8344,7 @@
 <e a="hector"><p><l>docência<s n="n"/><s n="f"/></l><r>docència<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>efervescência<s n="n"/><s n="f"/></l><r>efervescència<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>eflorescência<s n="n"/><s n="f"/></l><r>eflorescència<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>electroluminescência<s n="n"/><s n="f"/></l><r>electroluminescència<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electroluminescência<s n="n"/><s n="f"/></l><r>electroluminescència<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elegância<s n="n"/><s n="f"/></l><r>elegància<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>eminência<s n="n"/><s n="f"/></l><r>eminència<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>emitância<s n="n"/><s n="f"/></l><r>emitància<s n="n"/><s n="f"/></r></p></e>
@@ -8383,8 +8477,8 @@
 <e a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>mongeta<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="hector"><p><l>feijão<s n="n"/><s n="m"/></l><r>fesol<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>ponto<g><b/>de<b/>interrogação</g><s n="n"/><s n="m"/></l><r>interrogant<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>actuante<s n="n"/><s n="mf"/></l><r>actuant<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>adoptante<s n="n"/><s n="mf"/></l><r>adoptant<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>actuante<s n="n"/><s n="mf"/></l><r>actuant<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>adoptante<s n="n"/><s n="mf"/></l><r>adoptant<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>adquirente<s n="n"/><s n="mf"/></l><r>adquirent<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>afluente<s n="n"/><s n="f"/></l><r>afluent<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>aguante<s n="n"/><s n="m"/></l><r>aguant<s n="n"/><s n="m"/></r></p></e>
@@ -8444,7 +8538,7 @@
 <e a="hector"><p><l>excedente<s n="n"/><s n="m"/></l><r>excedent<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>excipiente<s n="n"/><s n="m"/></l><r>excipient<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>executante<s n="n"/><s n="mf"/></l><r>executant<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>expectorante<s n="n"/><s n="m"/></l><r>expectorant<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>expectorante<s n="n"/><s n="m"/></l><r>expectorant<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>exponente<s n="n"/><s n="mf"/></l><r>exponent<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>farsante<s n="n"/><s n="mf"/></l><r>farsant<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>figurante<s n="n"/><s n="mf"/></l><r>figurant<s n="n"/><s n="mf"/></r></p></e>
@@ -8520,7 +8614,7 @@
 <e a="hector"><p><l>citologista<s n="n"/></l><r>citòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>climatologista<s n="n"/></l><r>climatòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>criminologista<s n="n"/></l><r>criminòleg<s n="n"/></r></p><par n="mf_GD"/></e>
-<e a="hector"><p><l>dialectologista<s n="n"/></l><r>dialectòleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialectologista<s n="n"/></l><r>dialectòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>ecologista<s n="n"/></l><r>ecologista<s n="n"/></r></p></e>
 <e a="hector"><p><l>embriologista<s n="n"/></l><r>embriòleg<s n="n"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>endocrinologista<s n="n"/></l><r>endocrinòleg<s n="n"/></r></p><par n="mf_GD"/></e>
@@ -8608,7 +8702,7 @@
 <e a="hector"><p><l>dendrologia<s n="n"/><s n="f"/></l><r>dendrologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>deontologia<s n="n"/><s n="f"/></l><r>deontologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>dermatologia<s n="n"/><s n="f"/></l><r>dermatologia<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>dialectologia<s n="n"/><s n="f"/></l><r>dialectologia<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialectologia<s n="n"/><s n="f"/></l><r>dialectologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>ecologia<s n="n"/><s n="f"/></l><r>ecologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>edafologia<s n="n"/><s n="f"/></l><r>edafologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>elegia<s n="n"/><s n="f"/></l><r>elegia<s n="n"/><s n="f"/></r></p></e>
@@ -8774,7 +8868,7 @@
 <e a="hector"><p><l>cosmólogo<s n="n"/></l><r>cosmòleg<s n="n"/></r></p></e>
 <e r="LR" a="hector"><p><l>criminólogo<s n="n"/></l><r>criminòleg<s n="n"/></r></p></e>
 <e a="hector"><p><l>demagogo<s n="n"/></l><r>demagog<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>dialectólogo<s n="n"/></l><r>dialectòleg<s n="n"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialectólogo<s n="n"/></l><r>dialectòleg<s n="n"/></r></p></e>
 <e a="hector"><p><l>ecólogo<s n="n"/></l><r>ecòleg<s n="n"/></r></p></e>
 <e a="hector"><p><l>egiptólogo<s n="n"/></l><r>egiptòleg<s n="n"/></r></p></e>
 <e r="LR" a="hector"><p><l>embriólogo<s n="n"/></l><r>embriòleg<s n="n"/></r></p></e>
@@ -8846,8 +8940,8 @@
 <e a="hector"><p><l>gay<s n="n"/><s n="m"/></l><r>gai<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="hector"><p><l>sustentabilidade<s n="n"/><s n="f"/></l><r>sostenibilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>flutuação<s n="n"/><s n="f"/></l><r>fluctuació<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>aterrissagem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>aterragem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>aterrissagem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>aterragem<s n="n"/><s n="f"/></l><r>aterratge<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>subtipo<s n="n"/><s n="m"/></l><r>subtipus<s n="n"/><s n="m"/></r></p><par n="ND_sp"/></e>
 <e a="hector"><p><l>subsistema<s n="n"/><s n="m"/></l><r>subsistema<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>suborno<s n="n"/><s n="m"/></l><r>suborn<s n="n"/><s n="m"/></r></p></e>
@@ -8861,6 +8955,36 @@
 <e a="hector"><p><l>neonazi<s n="n"/><s n="mf"/></l><r>neonazi<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>goleador<s n="n"/></l><r>golejador<s n="n"/></r></p></e>
 <e a="hector"><p><l>goleada<s n="n"/><s n="f"/></l><r>golejada<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>selecionador<s n="adj"/></l>          <r>seleccionador<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>hidreléctrico<s n="adj"/></l><r>hidroelèctric<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>vectorial<s n="adj"/></l><r>vectorial<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>sintáctico<s n="adj"/></l><r>sintàctic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>amazónico<s n="adj"/></l><r>amazònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>socioeconómico<s n="adj"/></l><r>socioeconòmic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>inactivo<s n="adj"/></l><r>inactiu<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dialetológico<s n="adj"/></l><r>dialectològic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dialetal<s n="adj"/></l><r>dialectal<s n="adj"/></r></p></e>
+<e v="pt_pre1990" r="RL" a="hector"><p><l>respectivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>humidade<s n="n"/><s n="f"/></l><r>humitat<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reactor<s n="n"/><s n="m"/></l><r>reactor<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>topónimo<s n="n"/><s n="m"/></l><r>topònim<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desinfetante<s n="n"/><s n="m"/></l><r>desinfectant<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>caraterização<s n="n"/><s n="f"/></l><r>caracterització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>coletivização<s n="n"/><s n="f"/></l><r>col·lectivització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>concetualização<s n="n"/><s n="f"/></l><r>conceptualització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrização<s n="n"/><s n="f"/></l><r>electrització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>intelecção<s n="n"/><s n="f"/></l><r>intel·lecció<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>otimização<s n="n"/><s n="f"/></l><r>optimització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>recolecção<s n="n"/><s n="f"/></l><r>recol·lecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>setorização<s n="n"/><s n="f"/></l><r>sectorització<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletroluminescência<s n="n"/><s n="f"/></l><r>electroluminescència<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>atuante<s n="n"/><s n="mf"/></l><r>actuant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>adotante<s n="n"/><s n="mf"/></l><r>adoptant<s n="n"/><s n="mf"/></r></p></e> <!-- VERIFY -->
+<e a="hector"><p><l>expetorante<s n="n"/><s n="m"/></l><r>expectorant<s n="n"/><s n="m"/></r></p></e> <!-- VERIFY -->
+<e vl="pt br" a="hector"><p><l>dialetologista<s n="n"/></l><r>dialectòleg<s n="n"/></r></p><par n="mf_GD"/></e>
+<e vl="pt br" a="hector"><p><l>dialetologia<s n="n"/><s n="f"/></l><r>dialectologia<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dialetólogo<s n="n"/></l><r>dialectòleg<s n="n"/></r></p></e>
+<e vl="br" a="hector"><p><l>acadêmico<s n="n"/></l><r>acadèmic<s n="n"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -31024,6 +31148,7 @@
 <e r="LR" a="hector"><p><l>paraquedista<s n="n"/><s n="mf"/></l><r>paracaigudista<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR" vl="pt br" a="hector"><p><l>para-quedista<s n="n"/><s n="mf"/></l><r>paracaigudista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>pára-quedista<s n="n"/><s n="mf"/></l><r>paracaigudista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>para-quedista<s n="n"/><s n="mf"/></l><r>paracaigudista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>paraquedas<s n="n"/><s n="m"/></l><r>paracaigudes<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" vl="pt br" a="hector"><p><l>para-quedas<s n="n"/><s n="m"/></l><r>paracaigudes<s n="n"/><s n="m"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>pára-quedas<s n="n"/><s n="m"/></l><r>paracaigudes<s n="n"/><s n="m"/></r></p></e>
@@ -31393,6 +31518,7 @@
 <e a="wiktionary"><p><l>fétido<s n="adj"/></l><r>fètid<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>gelado<s n="adj"/></l><r>gelat<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="wiktionary"><p><l>homónimo<s n="adj"/></l><r>homònim<s n="adj"/></r></p></e>
+<e vl="br" a="wiktionary"><p><l>homônimo<s n="adj"/></l><r>homònim<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>honorífico<s n="adj"/></l><r>honorífic<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>ilegítimo<s n="adj"/></l><r>bastard<s n="adj"/></r></p></e>
 <e a="wiktionary"><p><l>imprecatório<s n="adj"/></l><r>imprecatori<s n="adj"/></r></p></e>
@@ -32138,7 +32264,7 @@
 <e r="RL" a="wiktionary"><p><l>tapete<s n="n"/><s n="m"/></l><r>tapís<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>tédio<s n="n"/><s n="m"/></l><r>avorriment<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="wiktionary"><p><l>touro<s n="n"/><s n="m"/></l><r>bou<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary"><p><l>académico<s n="n"/></l><r>acadèmic<s n="n"/></r></p></e>
+<e vl="pt pt_pre1990" a="wiktionary"><p><l>académico<s n="n"/></l><r>acadèmic<s n="n"/></r></p></e>
 <e a="wiktionary"><p><l>bávaro<s n="n"/></l><r>bavarès<s n="n"/></r></p></e>
 <e a="wiktionary"><p><l>bósnio<s n="n"/></l><r>bosnià<s n="n"/></r></p></e>
 <e a="wiktionary"><p><l>bretão<s n="n"/></l><r>bretó<s n="n"/></r></p></e>
