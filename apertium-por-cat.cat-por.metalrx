@@ -563,6 +563,15 @@
     </or>
   </rule>
 
+  <!-- cuina > cozinha, fogão -->
+  <rule weight="0.6">
+    <match lemma="cuina" tags="n.*"><select lemma="cozinha"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cuina" tags="n.*"><select lemma="fogão"/></match>
+    <match lemma="elèctric" tags="adj.*"/>
+  </rule>
+
   <!-- vela > vela, espelma, bugia -->
   <rule weight="0.6">
     <match lemma="vela" tags="n.*"><select lemma="vela"/></match>

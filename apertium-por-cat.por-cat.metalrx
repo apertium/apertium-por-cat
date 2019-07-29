@@ -425,6 +425,11 @@
 
 <!-- **************** N **************** -->
 
+  <!-- fogão > cuina, fogó -->
+  <rule weight="0.6">
+    <match lemma="fogão" tags="n.*"><select lemma="cuina"/></match>
+  </rule>
+
   <!-- raio > radi, llamp -->
   <rule weight="0.6">
     <match lemma="raio" tags="n.*"><select lemma="radi"/></match>
