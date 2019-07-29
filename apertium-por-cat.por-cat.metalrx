@@ -584,6 +584,15 @@
     <match lemma="freguesia" tags="n.*"><select lemma="parròquia"/></match>
   </rule>
 
+  <!-- comuna > comuna, ajuntament -->
+  <rule weight="0.6">
+    <match lemma="comuna" tags="n.*"><select lemma="comuna"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="comuna" tags="n.*"><select lemma="ajuntament"/></match>
+    <match lemma="francès" tags="adj.*"/>
+  </rule>
+
 <!-- **************** ADV **************** -->
 
   <!-- além > més enllà, a més -->

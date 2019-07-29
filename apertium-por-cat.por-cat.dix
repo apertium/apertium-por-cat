@@ -6,7 +6,7 @@
 	Sdefs: 73
 	Paradigms: 17
 
--->
+->
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
@@ -1521,6 +1521,9 @@
 <e a="hector"><p><l>basquir<s n="adj"/></l>            <r>baixkir<s n="adj"/></r></p><par n="mf_GD"/></e>
 <e r="LR" a="hector"><p><l>nazi<s n="adj"/></l>        <r>nazi<s n="adj"/></r></p></e>
 <e a="hector"><p><l>neonazi<s n="adj"/></l>            <r>neonazi<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>neonazista<s n="adj"/></l>  <r>neonazi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neonazi<s n="n"/></l>            <r>neonazi<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>neonazista<s n="n"/></l>  <r>neonazi<s n="n"/></r></p></e>
 
 <e a="hector"><p><l>absentista<s n="adj"/></l><r>absentista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>absolutista<s n="adj"/></l><r>absolutista<s n="adj"/></r></p></e>
@@ -8982,6 +8985,7 @@
 <e a="hector"><p><l>virologia<s n="n"/><s n="f"/></l>  <r>virologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>vulcanologia<s n="n"/><s n="f"/></l><r>vulcanologia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>zoologia<s n="n"/><s n="f"/></l>   <r>zoologia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>soviete<s n="n"/><s n="m"/></l>    <r>soviet<s n="n"/><s n="m"/></r></p></e>
 
 <e a="hector" vl="br"><p><l>alfandegário<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>aduaneiro<s n="adj"/></l><r>duaner<s n="adj"/></r></p></e>
@@ -9696,7 +9700,8 @@
 <e>       <p><l>Montevideo<s n="np"/></l>              <r>Montevideo<s n="np"/></r></p></e>
 <e>       <p><l>Montilla<s n="np"/></l>                <r>Montilla<s n="np"/></r></p></e>
 <e>       <p><l>Montserrat<s n="np"/></l>              <r>Montserrat<s n="np"/></r></p></e>
-<e>       <p><l>Moscú<s n="np"/><s n="top"/></l>       <r>Moscou<s n="np"/><s n="top"/></r></p></e>
+<e vl="br"><p><l>Moscou<s n="np"/><s n="top"/></l>     <r>Moscou<s n="np"/><s n="top"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>Moscovo<s n="np"/><s n="top"/></l><r>Moscou<s n="np"/><s n="top"/></r></p></e>
 <e r="LR"><p><l>Murcia<s n="np"/><s n="top"/></l>      <r>Múrcia<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Márquez<s n="np"/></l>                 <r>Márquez<s n="np"/></r></p></e>
 <e>       <p><l>México<s n="np"/></l>                  <r>Mèxic<s n="np"/></r></p></e>
@@ -16625,7 +16630,7 @@
 <e>       <p><l>Ichim<s n="np"/><s n="cog"/></l>       <r>Ichim<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Idigoras<s n="np"/><s n="cog"/></l>    <r>Idigoras<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Idrissi<s n="np"/><s n="cog"/></l>     <r>Idrissi<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Ieltsin<s n="np"/><s n="cog"/></l>     <r>Ieltsin<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Iéltsin<s n="np"/><s n="cog"/></l>     <r>Ieltsin<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ifrah<s n="np"/><s n="cog"/></l>       <r>Ifrah<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Iglesias<s n="np"/><s n="cog"/></l>    <r>Iglesias<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ignat<s n="np"/><s n="cog"/></l>       <r>Ignat<s n="np"/><s n="cog"/></r></p></e>
@@ -29705,6 +29710,10 @@
 <e>       <p><l>Úrsula<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></l><r>Úrsula<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Ștefania<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></l><r>Ștefania<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 
+      <e r="LR"><p><l>Cristo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Cristo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Isaac<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Isaac<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>Saddam<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Saddam<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+
       <e a="hector"><p><l>Abu<b/>Dhabi<s n="np"/><s n="top"/></l><r>Abu<b/>Dhabi<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Albuquerque<s n="np"/><s n="top"/></l><r>Albuquerque<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Albânia<s n="np"/><s n="top"/></l><r>Albània<s n="np"/><s n="top"/></r></p></e>
@@ -29759,7 +29768,6 @@
       <e a="hector"><p><l>Macau<s n="np"/><s n="top"/></l><r>Macau<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Manchester<s n="np"/><s n="top"/></l><r>Manchester<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Manila<s n="np"/><s n="top"/></l><r>Manila<s n="np"/><s n="top"/></r></p></e>
-      <e a="hector"><p><l>Moscou<s n="np"/><s n="top"/></l><r>Moscou<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Mossul<s n="np"/><s n="top"/></l><r>Mossul<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Myanmar<s n="np"/><s n="top"/></l><r>Myanmar<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Mônaco<s n="np"/><s n="top"/></l><r>Mònaco<s n="np"/><s n="top"/></r></p></e>
@@ -29807,6 +29815,7 @@
       <e r="RL" vl="pt pt_pre1990" a="hector"><p><l>Pirenéus<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></l><r>Pirineu<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="RL" vl="br" a="hector"><p><l>Pireneus<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></l><r>Pirineu<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
       <e a="hector"><p><l>Andes<s n="np"/><s n="top"/></l><r>Andes<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Istambul<s n="np"/><s n="top"/></l><r>Istanbul<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 

@@ -563,6 +563,19 @@
     </or>
   </rule>
 
+  <!-- relleu > relevo, destaque -->
+  <rule weight="0.6">
+    <match lemma="relleu" tags="n.*"><select lemma="relevo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="posar" tags="vblex.*"/>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="en" tags="pr"/>
+    <match lemma="relleu" tags="n.*"><select lemma="destaque"/></match>
+  </rule>
+
   <!-- cuina > cozinha, fogão -->
   <rule weight="0.6">
     <match lemma="cuina" tags="n.*"><select lemma="cozinha"/></match>
