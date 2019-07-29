@@ -1522,6 +1522,185 @@
 <e r="LR" a="hector"><p><l>nazi<s n="adj"/></l>        <r>nazi<s n="adj"/></r></p></e>
 <e a="hector"><p><l>neonazi<s n="adj"/></l>            <r>neonazi<s n="adj"/></r></p></e>
 
+<e a="hector"><p><l>absentista<s n="adj"/></l><r>absentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>absolutista<s n="adj"/></l><r>absolutista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abstencionista<s n="adj"/></l><r>abstencionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adventista<s n="adj"/></l><r>adventista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agonista<s n="adj"/></l><r>agonista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alarmista<s n="adj"/></l><r>alarmista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alienista<s n="adj"/></l><r>alienista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>altruista<s n="adj"/></l><r>altruista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anabaptista<s n="adj"/></l><r>anabaptista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>animista<s n="adj"/></l><r>animista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antibelicista<s n="adj"/></l><r>antibel·licista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anticomunista<s n="adj"/></l><r>anticomunista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antimarxista<s n="adj"/></l><r>antimarxista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antimilitarista<s n="adj"/></l><r>antimilitarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apologista<s n="adj"/></l><r>apologista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apolinarista<s n="adj"/></l><r>apol·linarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>armamentista<s n="adj"/></l><r>armamentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autonomista<s n="adj"/></l><r>autonomista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>baptista<s n="adj"/></l><r>baptista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>belicista<s n="adj"/></l><r>bel·licista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>benfiquista<s n="adj"/></l><r>benfiquista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bimetalista<s n="adj"/></l><r>bimetal·lista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bonapartista<s n="adj"/></l><r>bonapartista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calvinista<s n="adj"/></l><r>calvinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>centralista<s n="adj"/></l><r>centralista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>centrista<s n="adj"/></l><r>centrista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cesarista<s n="adj"/></l><r>cesarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colonialista<s n="adj"/></l><r>colonialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colaboracionista<s n="adj"/></l><r>col·laboracionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colectivista<s n="adj"/></l><r>col·lectivista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comunalista<s n="adj"/></l><r>comunalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conceptista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conceptualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conformista<s n="adj"/></l><r>conformista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confucianista<s n="adj"/></l><r>confucianista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>congruista<s n="adj"/></l><r>congruista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consumista<s n="adj"/></l><r>consumista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convencionalista<s n="adj"/></l><r>convencionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cooperativista<s n="adj"/></l><r>cooperativista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corporativista<s n="adj"/></l><r>corporativista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>criticista<s n="adj"/></l><r>criticista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cubista<s n="adj"/></l><r>cubista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decadentista<s n="adj"/></l><r>decadentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>derrotista<s n="adj"/></l><r>derrotista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>determinista<s n="adj"/></l><r>determinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>donatista<s n="adj"/></l><r>donatista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ecologista<s n="adj"/></l><r>ecologista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>economicista<s n="adj"/></l><r>economicista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>egocentrista<s n="adj"/></l><r>egocentrista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>egotista<s n="adj"/></l><r>egotista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>elitista<s n="adj"/></l><r>elitista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>empirista<s n="adj"/></l><r>empirista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enciclopedista<s n="adj"/></l><r>enciclopedista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espiritista<s n="adj"/></l><r>espiritista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espiritualista<s n="adj"/></l><r>espiritualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esteticista<s n="adj"/></l><r>esteticista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>excursionista<s n="adj"/></l><r>excursionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>existencialista<s n="adj"/></l><r>existencialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expansionista<s n="adj"/></l><r>expansionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extremista<s n="adj"/></l><r>extremista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>falangista<s n="adj"/></l><r>falangista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fatalista<s n="adj"/></l><r>fatalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>federalista<s n="adj"/></l><r>federalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>figurista<s n="adj"/></l><r>figurista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filatelista<s n="adj"/></l><r>filatelista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filipista<s n="adj"/></l><r>filipista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fixista<s n="adj"/></l><r>fixista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>formalista<s n="adj"/></l><r>formalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>formulista<s n="adj"/></l><r>formulista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>funcionalista<s n="adj"/></l><r>funcionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>futurista<s n="adj"/></l><r>futurista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>generalista<s n="adj"/></l><r>generalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>grecista<s n="adj"/></l><r>grecista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hedonista<s n="adj"/></l><r>hedonista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>historicista<s n="adj"/></l><r>historicista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iluminista<s n="adj"/></l><r>il·luminista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>independentista<s n="adj"/></l><r>independentista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>industrialista<s n="adj"/></l><r>industrialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inflacionista<s n="adj"/></l><r>inflacionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>integrista<s n="adj"/></l><r>integrista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intelectualista<s n="adj"/></l><r>intel·lectualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>internacionalista<s n="adj"/></l><r>internacionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intervencionista<s n="adj"/></l><r>intervencionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intimista<s n="adj"/></l><r>intimista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irrealista<s n="adj"/></l><r>irrealista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laxista<s n="adj"/></l><r>laxista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>legalista<s n="adj"/></l><r>legalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>legitimista<s n="adj"/></l><r>legitimista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leninista<s n="adj"/></l><r>leninista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maoista<s n="adj"/></l><r>maoista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maquiavelista<s n="adj"/></l><r>maquiavel·lista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>masoquista<s n="adj"/></l><r>masoquista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>materialista<s n="adj"/></l><r>materialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maximalista<s n="adj"/></l><r>maximalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mecanicista<s n="adj"/></l><r>mecanicista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>memorialista<s n="adj"/></l><r>memorialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>militarista<s n="adj"/></l><r>militarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>minimalista<s n="adj"/></l><r>minimalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>molinista<s n="adj"/></l><r>molinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monogenista<s n="adj"/></l><r>monogenista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monopolista<s n="adj"/></l><r>monopolista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>montanista<s n="adj"/></l><r>montanista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>motociclista<s n="adj"/></l><r>motociclista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mundialista<s n="adj"/></l><r>mundialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>municipalista<s n="adj"/></l><r>municipalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mutualista<s n="adj"/></l><r>mutualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>narcisista<s n="adj"/></l><r>narcisista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nativista<s n="adj"/></l><r>nativista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>naturista<s n="adj"/></l><r>naturista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neocolonialista<s n="adj"/></l><r>neocolonialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neocomunista<s n="adj"/></l><r>neocomunista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neodarwinista<s n="adj"/></l><r>neodarwinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neotomista<s n="adj"/></l><r>neotomista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neptunista<s n="adj"/></l><r>neptunista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nominalista<s n="adj"/></l><r>nominalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nudista<s n="adj"/></l><r>nudista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ocultista<s n="adj"/></l><r>ocultista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oposicionista<s n="adj"/></l><r>oposicionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orleanista<s n="adj"/></l><r>orleanista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>papista<s n="adj"/></l><r>papista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>particularista<s n="adj"/></l><r>particularista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paternalista<s n="adj"/></l><r>paternalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peronista<s n="adj"/></l><r>peronista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>personalista<s n="adj"/></l><r>personalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perspectivista<s n="adj"/></l><r>perspectivista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petista<s n="adj"/></l><r>petista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petrarquista<s n="adj"/></l><r>petrarquista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pluralista<s n="adj"/></l><r>pluralista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poligenista<s n="adj"/></l><r>poligenista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>populista<s n="adj"/></l><r>populista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>positivista<s n="adj"/></l><r>positivista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>possibilista<s n="adj"/></l><r>possibilista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pragmatista<s n="adj"/></l><r>pragmatista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>presidencialista<s n="adj"/></l><r>presidencialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>priscilianista<s n="adj"/></l><r>priscil·lianista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>probabilista<s n="adj"/></l><r>probabilista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>propagandista<s n="adj"/></l><r>propagandista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proselitista<s n="adj"/></l><r>proselitista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proteccionista<s n="adj"/></l><r>proteccionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>providencialista<s n="adj"/></l><r>providencialista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicologista<s n="adj"/></l><r>psicologista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>purista<s n="adj"/></l><r>purista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>racionalista<s n="adj"/></l><r>racionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>regionalista<s n="adj"/></l><r>regionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>relativista<s n="adj"/></l><r>relativista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>revisionista<s n="adj"/></l><r>revisionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rigorista<s n="adj"/></l><r>rigorista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ritualista<s n="adj"/></l><r>ritualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>salazarista<s n="adj"/></l><r>salazarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sandinista<s n="adj"/></l><r>sandinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>secessionista<s n="adj"/></l><r>secessionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sensacionalista<s n="adj"/></l><r>sensacionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sensualista<s n="adj"/></l><r>sensualista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sentimentalista<s n="adj"/></l><r>sentimentalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sexista<s n="adj"/></l><r>sexista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simbolista<s n="adj"/></l><r>simbolista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simplista<s n="adj"/></l><r>simplista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sociologista<s n="adj"/></l><r>sociologista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sufragista<s n="adj"/></l><r>sufragista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>taoista<s n="adj"/></l><r>taoista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teoricista<s n="adj"/></l><r>teoricista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tomista<s n="adj"/></l><r>tomista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transcendentalista<s n="adj"/></l><r>transcendentalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transformista<s n="adj"/></l><r>transformista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trotskista<s n="adj"/></l><r>trotskista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ultranacionalista<s n="adj"/></l><r>ultranacionalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unanimista<s n="adj"/></l><r>unanimista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unionista<s n="adj"/></l><r>unionista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unitarista<s n="adj"/></l><r>unitarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>universalista<s n="adj"/></l><r>universalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uranista<s n="adj"/></l><r>uranista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>utilitarista<s n="adj"/></l><r>utilitarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>verbalista<s n="adj"/></l><r>verbalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vitalista<s n="adj"/></l><r>vitalista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>voluntarista<s n="adj"/></l><r>voluntarista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vulcanista<s n="adj"/></l><r>vulcanista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zapatista<s n="adj"/></l><r>zapatista<s n="adj"/></r></p></e>
+
 <!-- xxxxx -->
 
     <!-- ******************************
@@ -8938,7 +9117,7 @@
 <e a="hector" vl="pt_pre1990"><p><l>inactivo<s n="adj"/></l><r>inactiu<s n="adj"/></r></p></e>
 <e a="hector" vl="pt br"><p><l>dialetológico<s n="adj"/></l><r>dialectològic<s n="adj"/></r></p></e>
 <e a="hector" vl="pt br"><p><l>dialetal<s n="adj"/></l><r>dialectal<s n="adj"/></r></p></e>
-<e r="RL" a="hector" v="pt_pre1990"><p><l>respectivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
+<e r="RL" a="hector" vl="pt_pre1990"><p><l>respectivamente<s n="adv"/></l><r>respecticament<s n="adv"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>humidade<s n="n"/><s n="f"/></l><r>humitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt_pre1990"><p><l>reactor<s n="n"/><s n="m"/></l><r>reactor<s n="n"/><s n="m"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>topónimo<s n="n"/><s n="m"/></l><r>topònim<s n="n"/><s n="m"/></r></p></e>
@@ -8964,6 +9143,200 @@
 <e a="hector"><p><l>fogão<s n="n"/><s n="m"/></l><r>fogó<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>fogão<g><b/>a<b/>gas</g><s n="n"/><s n="m"/></l><r>cuina<g><b/>de<b/>gas</g><s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>fogão<g><b/>de<b/>sala</g><s n="n"/><s n="m"/></l><r>llar<g><b/>de<b/>foc</g><s n="n"/><s n="f"/></r></p></e>
+
+<e a="hector"><p><l>abstencionista<s n="n"/><s n="mf"/></l><r>abstencionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>adventista<s n="n"/><s n="mf"/></l><r>adventista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>agonista<s n="n"/><s n="mf"/></l><r>agonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alarmista<s n="n"/><s n="mf"/></l><r>alarmista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>algebrista<s n="n"/><s n="mf"/></l><r>algebrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alienista<s n="n"/><s n="mf"/></l><r>alienista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alimentista<s n="n"/><s n="mf"/></l><r>alimentista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alpinista<s n="n"/><s n="mf"/></l><r>alpinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alquimista<s n="n"/><s n="mf"/></l><r>alquimista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>alegorista<s n="n"/><s n="mf"/></l><r>al·legorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>americanista<s n="n"/><s n="mf"/></l><r>americanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ametista<s n="n"/><s n="f"/></l><r>ametista<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anabaptista<s n="n"/><s n="mf"/></l><r>anabaptista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>anatomista<s n="n"/><s n="mf"/></l><r>anatomista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>anestesista<s n="n"/><s n="mf"/></l><r>anestesista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>animista<s n="n"/><s n="mf"/></l><r>animista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>anticomunista<s n="n"/><s n="mf"/></l><r>anticomunista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>antimilitarista<s n="n"/><s n="mf"/></l><r>antimilitarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>antiterrorista<s n="n"/><s n="mf"/></l><r>antiterrorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>apologista<s n="n"/><s n="mf"/></l><r>apologista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>aquarelista<s n="n"/><s n="mf"/></l><r>aquarel·lista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>armamentista<s n="n"/><s n="mf"/></l><r>armamentista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ascensorista<s n="n"/><s n="mf"/></l><r>ascensorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>atomista<s n="n"/><s n="mf"/></l><r>atomista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>automobilista<s n="n"/><s n="mf"/></l><r>automobilista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>autonomista<s n="n"/><s n="mf"/></l><r>autonomista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>autopista<s n="n"/><s n="f"/></l><r>autopista<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>avalista<s n="n"/><s n="mf"/></l><r>avalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>banhista<s n="n"/><s n="mf"/></l><r>banyista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>belicista<s n="n"/><s n="mf"/></l><r>bel·licista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>benfiquista<s n="n"/><s n="mf"/></l><r>benfiquista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>brigadista<s n="n"/><s n="mf"/></l><r>brigadista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>calvinista<s n="n"/><s n="mf"/></l><r>calvinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>canonista<s n="n"/><s n="mf"/></l><r>canonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cançonetista<s n="n"/><s n="mf"/></l><r>cançonetista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>caricaturista<s n="n"/><s n="mf"/></l><r>caricaturista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>carlista<s n="n"/><s n="mf"/></l><r>carlista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>castrista<s n="n"/><s n="mf"/></l><r>castrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>catequista<s n="n"/><s n="mf"/></l><r>catequista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>centralista<s n="n"/><s n="mf"/></l><r>centralista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>centrista<s n="n"/><s n="mf"/></l><r>centrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ceramista<s n="n"/><s n="mf"/></l><r>ceramista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cesarista<s n="n"/><s n="mf"/></l><r>cesarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cista<s n="n"/><s n="f"/></l><r>cista<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>colonialista<s n="n"/><s n="mf"/></l><r>colonialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>colorista<s n="n"/><s n="mf"/></l><r>colorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>colaboracionista<s n="n"/><s n="mf"/></l><r>col·laboracionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>coleccionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>conceptualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>concertista<s n="n"/><s n="mf"/></l><r>concertista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>conformista<s n="n"/><s n="mf"/></l><r>conformista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>congressista<s n="n"/><s n="mf"/></l><r>congressista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" a="hector"><p><l>conquista<s n="n"/><s n="f"/></l><r>conquista<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>constitucionalista<s n="n"/><s n="mf"/></l><r>constitucionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>contista<s n="n"/><s n="mf"/></l><r>contista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>contrabandista<s n="n"/><s n="mf"/></l><r>contrabandista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cooperativista<s n="n"/><s n="mf"/></l><r>cooperativista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>copista<s n="n"/><s n="mf"/></l><r>copista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>criminalista<s n="n"/><s n="mf"/></l><r>criminalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>cubista<s n="n"/><s n="mf"/></l><r>cubista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>culturista<s n="n"/><s n="mf"/></l><r>culturista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>decretalista<s n="n"/><s n="mf"/></l><r>decretalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>determinista<s n="n"/><s n="mf"/></l><r>determinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dietista<s n="n"/><s n="mf"/></l><r>dietista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>dualista<s n="n"/><s n="mf"/></l><r>dualista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>editorialista<s n="n"/><s n="mf"/></l><r>editorialista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" vl="pt_pre1990" a="hector"><p><l>electricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" vl="pt br" a="hector"><p><l>eletricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>equilibrista<s n="n"/><s n="mf"/></l><r>equilibrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>espectroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>espiritualista<s n="n"/><s n="mf"/></l><r>espiritualista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>estadista<s n="n"/><s n="mf"/></l><r>estadista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>estalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>esteticista<s n="n"/><s n="mf"/></l><r>esteticista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" a="hector"><p><l>etologista<s n="n"/><s n="mf"/></l><r>etologista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>evangelista<s n="n"/><s n="mf"/></l><r>evangelista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>exclusivista<s n="n"/><s n="mf"/></l><r>exclusivista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>excursionista<s n="n"/><s n="mf"/></l><r>excursionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>existencialista<s n="n"/><s n="mf"/></l><r>existencialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>extremista<s n="n"/><s n="mf"/></l><r>extremista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>falangista<s n="n"/><s n="mf"/></l><r>falangista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>fauvista<s n="n"/><s n="mf"/></l><r>fauvista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>federalista<s n="n"/><s n="mf"/></l><r>federalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>flautista<s n="n"/><s n="mf"/></l><r>flautista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>florista<s n="n"/><s n="mf"/></l><r>florista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>foneticista<s n="n"/><s n="mf"/></l><r>foneticista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>fonetista<s n="n"/><s n="mf"/></l><r>fonetista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>formalista<s n="n"/><s n="mf"/></l><r>formalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>franquista<s n="n"/><s n="mf"/></l><r>franquista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>funcionalista<s n="n"/><s n="mf"/></l><r>funcionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>futurista<s n="n"/><s n="mf"/></l><r>futurista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>galerista<s n="n"/><s n="mf"/></l><r>galerista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>genealogista<s n="n"/><s n="mf"/></l><r>genealogista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>generalista<s n="n"/><s n="mf"/></l><r>generalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>golfista<s n="n"/><s n="mf"/></l><r>golfista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>halterofilista<s n="n"/><s n="mf"/></l><r>halterofilista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>hedonista<s n="n"/><s n="mf"/></l><r>hedonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>helenista<s n="n"/><s n="mf"/></l><r>hel·lenista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>herborista<s n="n"/><s n="mf"/></l><r>herborista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>higienista<s n="n"/><s n="mf"/></l><r>higienista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>hispanista<s n="n"/><s n="mf"/></l><r>hispanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ilusionista<s n="n"/><s n="mf"/></l><r>il·lusionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>imperialista<s n="n"/><s n="mf"/></l><r>imperialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>inconformista<s n="n"/><s n="mf"/></l><r>inconformista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>integracionista<s n="n"/><s n="mf"/></l><r>integracionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>internista<s n="n"/><s n="mf"/></l><r>internista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>intervencionista<s n="n"/><s n="mf"/></l><r>intervencionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>intimista<s n="n"/><s n="mf"/></l><r>intimista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>inversionista<s n="n"/><s n="mf"/></l><r>inversionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>legista<s n="n"/><s n="mf"/></l><r>legista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>legitimista<s n="n"/><s n="mf"/></l><r>legitimista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>leninista<s n="n"/><s n="mf"/></l><r>leninista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>latinista<s n="n"/><s n="mf"/></l><r>llatinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>libretista<s n="n"/><s n="mf"/></l><r>llibretista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>malabarista<s n="n"/><s n="mf"/></l><r>malabarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>maquinista<s n="n"/><s n="mf"/></l><r>maquinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>masoquista<s n="n"/><s n="mf"/></l><r>masoquista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>materialista<s n="n"/><s n="mf"/></l><r>materialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>maximalista<s n="n"/><s n="mf"/></l><r>maximalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mecanicista<s n="n"/><s n="mf"/></l><r>mecanicista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>memorialista<s n="n"/><s n="mf"/></l><r>memorialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mentalista<s n="n"/><s n="mf"/></l><r>mentalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mercantilista<s n="n"/><s n="mf"/></l><r>mercantilista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>metodista<s n="n"/><s n="mf"/></l><r>metodista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>militarista<s n="n"/><s n="mf"/></l><r>militarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>miniaturista<s n="n"/><s n="mf"/></l><r>miniaturista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>minorista<s n="n"/><s n="mf"/></l><r>minorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>monologuista<s n="n"/><s n="mf"/></l><r>monologuista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>monopolista<s n="n"/><s n="mf"/></l><r>monopolista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>moralista<s n="n"/><s n="mf"/></l><r>moralista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>motociclista<s n="n"/><s n="mf"/></l><r>motociclista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>mundialista<s n="n"/><s n="mf"/></l><r>mundialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>narcisista<s n="n"/><s n="mf"/></l><r>narcisista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nativista<s n="n"/><s n="mf"/></l><r>nativista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>naturista<s n="n"/><s n="mf"/></l><r>naturista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>neoclassicista<s n="n"/><s n="mf"/></l><r>neoclassicista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>neutralista<s n="n"/><s n="mf"/></l><r>neutralista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nudista<s n="n"/><s n="mf"/></l><r>nudista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>nutricionista<s n="n"/><s n="mf"/></l><r>nutricionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oculista<s n="n"/><s n="mf"/></l><r>oculista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ocultista<s n="n"/><s n="mf"/></l><r>ocultista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>onanista<s n="n"/><s n="mf"/></l><r>onanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>oportunista<s n="n"/><s n="mf"/></l><r>oportunista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>orientalista<s n="n"/><s n="mf"/></l><r>orientalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ortopedista<s n="n"/><s n="mf"/></l><r>ortopedista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>pacifista<s n="n"/><s n="mf"/></l><r>pacifista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>pangermanista<s n="n"/><s n="mf"/></l><r>pangermanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>papista<s n="n"/><s n="mf"/></l><r>papista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>pensionista<s n="n"/><s n="mf"/></l><r>pensionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>perfeccionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>peronista<s n="n"/><s n="mf"/></l><r>peronista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>polemista<s n="n"/><s n="mf"/></l><r>polemista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>populista<s n="n"/><s n="mf"/></l><r>populista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>pragmatista<s n="n"/><s n="mf"/></l><r>pragmatista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>presidencialista<s n="n"/><s n="mf"/></l><r>presidencialista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>projeccionista<s n="n"/><s n="mf"/></l><r>projeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>propagandista<s n="n"/><s n="mf"/></l><r>propagandista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>proteccionista<s n="n"/><s n="mf"/></l><r>proteccionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>publicista<s n="n"/><s n="mf"/></l><r>publicista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>purista<s n="n"/><s n="mf"/></l><r>purista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>racionalista<s n="n"/><s n="mf"/></l><r>racionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>recepcionista<s n="n"/><s n="mf"/></l><r>recepcionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>recordista<s n="n"/><s n="mf"/></l><r>recordista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>regionalista<s n="n"/><s n="mf"/></l><r>regionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>reservista<s n="n"/><s n="mf"/></l><r>reservista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>retratista<s n="n"/><s n="mf"/></l><r>retratista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>revisionista<s n="n"/><s n="mf"/></l><r>revisionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>romanista<s n="n"/><s n="mf"/></l><r>romanista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>salazarista<s n="n"/><s n="mf"/></l><r>salazarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sandinista<s n="n"/><s n="mf"/></l><r>sandinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>secessionista<s n="n"/><s n="mf"/></l><r>secessionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>segregacionista<s n="n"/><s n="mf"/></l><r>segregacionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>seminarista<s n="n"/><s n="mf"/></l><r>seminarista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>simbolista<s n="n"/><s n="mf"/></l><r>simbolista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sionista<s n="n"/><s n="mf"/></l><r>sionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>socorrista<s n="n"/><s n="mf"/></l><r>socorrista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>submarinista<s n="n"/><s n="mf"/></l><r>submarinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sufragista<s n="n"/><s n="mf"/></l><r>sufragista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>surrealista<s n="n"/><s n="mf"/></l><r>surrealista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>teclista<s n="n"/><s n="mf"/></l><r>teclista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>telefonista<s n="n"/><s n="mf"/></l><r>telefonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>telegrafista<s n="n"/><s n="mf"/></l><r>telegrafista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" a="hector"><p><l>tenista<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>tractorista<s n="n"/><s n="mf"/></l><r>tractorista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>trombonista<s n="n"/><s n="mf"/></l><r>trombonista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>trotskista<s n="n"/><s n="mf"/></l><r>trotskista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>ultranacionalista<s n="n"/><s n="mf"/></l><r>ultranacionalista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>unionista<s n="n"/><s n="mf"/></l><r>unionista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>velocista<s n="n"/><s n="mf"/></l><r>velocista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>violista<s n="n"/><s n="mf"/></l><r>violista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>violoncelista<s n="n"/><s n="mf"/></l><r>violoncel·lista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>clarinetista<s n="n"/><s n="mf"/></l><r>clarinetista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>liga<s n="n"/><s n="f"/></l><r>lliga<s n="n"/><s n="f"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -9469,7 +9842,8 @@
 <e>       <p><l>Zaragoza<s n="np"/><s n="top"/></l>    <r>Saragossa<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>o<b/>Porto<s n="np"/></l>              <r>Porto<s n="np"/></r></p></e>
 <e>       <p><l>tv3<s n="np"/></l>                     <r>tv3<s n="np"/></r></p></e>
-<e>       <p><l>África<s n="np"/></l>                  <r>Àfrica<s n="np"/></r></p></e>
+<e>       <p><l>África<s n="np"/><s n="top"/></l>      <r>Àfrica<s n="np"/><s n="top"/></r></p></e>
+<e r="RL"><p><l>África<s n="np"/><s n="ant"/></l>      <r>África<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>África<b/>do<b/>Sul<s n="np"/></l>     <r>Sud-àfrica<s n="np"/></r></p></e>
 <e>       <p><l>Álvarez<s n="np"/></l>                 <r>Álvarez<s n="np"/></r></p></e>
 <e>       <p><l>Álvaro<s n="np"/></l>                  <r>Álvaro<s n="np"/></r></p></e>
@@ -31662,7 +32036,8 @@
 <e a="hector"><p><l>imperialista<s n="adj"/></l>       <r>imperialista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>idealista<s n="n"/><s n="mf"/></l> <r>idealista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>evolucionista<s n="n"/><s n="mf"/></l><r>evolucionista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>copista<s n="n"/><s n="mf"/></l>   <r>colpista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>golpista<s n="n"/><s n="mf"/></l>   <r>colpista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>golpista<s n="adj"/><s n="mf"/></l>   <r>colpista<s n="adj"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>violonista<s n="n"/><s n="mf"/></l><r>violinista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>tradicionalista<s n="n"/><s n="mf"/></l><r>tradicionalista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>taxista<s n="n"/><s n="mf"/></l>   <r>taxista<s n="n"/><s n="mf"/></r></p></e>
