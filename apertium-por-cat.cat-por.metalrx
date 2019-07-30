@@ -386,6 +386,18 @@
 
 <!-- **************** N **************** -->
 
+  <!-- història > história, estória -->
+  <rule weight="0.6">
+    <match lemma="història" tags="n.*"><select lemma="história"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="història" tags="n.f.pl"><select lemma="estória"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="un" tags="det.*"/>
+    <match lemma="història" tags="n.*"><select lemma="estória"/></match>
+  </rule>
+
   <!-- ala > asa, ala -->
   <rule weight="0.6">
     <match lemma="ala" tags="n.*"><select lemma="asa"/></match>

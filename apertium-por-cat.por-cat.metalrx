@@ -579,6 +579,15 @@
     <match lemma="dirección" tags="n.*"><select lemma="direcció"/></match>
   </rule>
 
+  <!-- volta > volta, tornada -->
+  <rule weight="0.6">
+    <match lemma="volta" tags="n.*"><select lemma="volta"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="volta" tags="n.*"><select lemma="tornada"/></match>
+  </rule>
+
   <!-- freguesia > parròquia, clientela -->
   <rule weight="0.6">
     <match lemma="freguesia" tags="n.*"><select lemma="parròquia"/></match>

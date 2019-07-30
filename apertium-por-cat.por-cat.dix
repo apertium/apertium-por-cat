@@ -765,6 +765,7 @@
 <e>       <p><l>individual<s n="adj"/></l>             <r>individual<s n="adj"/></r></p></e>
 <e>       <p><l>indocumentado<s n="adj"/></l>          <r>indocumentat<s n="adj"/></r></p></e>
 <e>       <p><l>indonésio<s n="adj"/></l>              <r>indonesi<s n="adj"/></r></p></e>
+<e>       <p><l>indonésio<s n="n"/></l>                <r>indonesi<s n="n"/></r></p></e>
 <e>       <p><l>industrial<s n="adj"/></l>             <r>industrial<s n="adj"/></r></p></e>
 <e>       <p><l>indígena<s n="adj"/></l>               <r>indígena<s n="adj"/></r></p></e>
 <e>       <p><l>inesgotável<s n="adj"/></l>            <r>inesgotable<s n="adj"/></r></p></e>
@@ -4329,7 +4330,7 @@
 <e>       <p><l>hipótese<s n="n"/></l>                 <r>hipòtesi<s n="n"/></r></p></e>
 <e>       <p><l>historiador<s n="n"/></l>              <r>historiador<s n="n"/></r></p></e>
 <e>       <p><l>historial<s n="n"/></l>                <r>historial<s n="n"/></r></p></e>
-<e>       <p><l>história<s n="n"/></l>                 <r>història<s n="n"/></r></p></e>
+<e>       <p><l>história<s n="n"/><s n="f"/></l>       <r>història<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>holandês<s n="n"/></l>                 <r>holandès<s n="n"/></r></p></e>
 <e>       <p><l>homem<s n="n"/></l>                    <r>home<s n="n"/></r></p></e>
 <e>       <p><l>homenagem<s n="n"/><s n="f"/></l>      <r>homenatge<s n="n"/><s n="m"/></r></p></e>
@@ -6141,8 +6142,8 @@
 <e>       <p><l>vocação<s n="n"/></l>                  <r>vocació<s n="n"/></r></p></e>
 <e>       <p><l>vogal<s n="n"/></l>                    <r>vocal<s n="n"/></r></p></e>
 <e>       <p><l>volante<s n="n"/></l>                  <r>volant<s n="n"/></r></p></e>
-<e>       <p><l>volta<s n="n"/></l>                    <r>volta<s n="n"/></r></p></e>
-<e r="RL"><p><l>volta<s n="n"/><s n="f"/></l>          <r>tornada<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>volta<s n="n"/><s n="f"/></l>          <r>volta<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>volta<s n="n"/><s n="f"/></l>          <r>tornada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>volume<s n="n"/></l>                   <r>volum<s n="n"/></r></p></e>
 <e r="RL"><p><l>volume<s n="n"/></l>                   <r>cabal<s n="n"/></r></p></e>
 <e r="RL"><p><l>vontade<s n="n"/></l>                  <r>voluntat<s n="n"/></r></p></e>
@@ -9343,6 +9344,8 @@
 <e a="hector"><p><l>violoncelista<s n="n"/><s n="mf"/></l><r>violoncel·lista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>clarinetista<s n="n"/><s n="mf"/></l><r>clarinetista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>liga<s n="n"/><s n="f"/></l><r>lliga<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>estória<s n="n"/><s n="f"/></l><r>història<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tetum<s n="n"/><s n="m"/></l><r>tetum<s n="n"/><s n="m"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -9501,8 +9504,8 @@
 <e>       <p><l>Estados<b/>Unidos<s n="np"/></l>       <r>Estats<b/>Units<s n="np"/></r></p></e>
 <e>       <p><l>Estocolmo<s n="np"/></l>               <r>Estocolm<s n="np"/></r></p></e>
 <e>       <p><l>Estrasburgo<s n="np"/></l>             <r>Estrasburg<s n="np"/></r></p></e>
-<e>       <p><l>Estónia<s n="np"/></l>                 <r>Estònia<s n="np"/></r></p></e>
-<e r="LR"><p><l>Estônia<s n="np"/></l>                 <r>Estònia<s n="np"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>Estónia<s n="np"/></l>                 <r>Estònia<s n="np"/></r></p></e>
+<e vl="br"><p><l>Estônia<s n="np"/></l>                 <r>Estònia<s n="np"/></r></p></e>
 <e>       <p><l>Etiópia<s n="np"/></l>                 <r>Etiòpia<s n="np"/></r></p></e>
 <e>       <p><l>Europa<s n="np"/></l>                  <r>Europa<s n="np"/></r></p></e>
 <e>       <p><l>Federico<s n="np"/></l>                <r>Federico<s n="np"/></r></p></e>
@@ -9742,8 +9745,8 @@
 <e>       <p><l>Pilar<s n="np"/></l>                   <r>Pilar<s n="np"/></r></p></e>
 <e>       <p><l>Pinochet<s n="np"/></l>                <r>Pinochet<s n="np"/></r></p></e>
 <e>       <p><l>Piqué<s n="np"/></l>                   <r>Piqué<s n="np"/></r></p></e>
-<e>       <p><l>Polónia<s n="np"/></l>                 <r>Polònia<s n="np"/></r></p></e>
-<e r="LR"><p><l>Polônia<s n="np"/></l>                 <r>Polònia<s n="np"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>Polónia<s n="np"/></l>     <r>Polònia<s n="np"/></r></p></e>
+<e vl="br"><p><l>Polônia<s n="np"/></l>                <r>Polònia<s n="np"/></r></p></e>
 <e>       <p><l>Portugal<s n="np"/><s n="top"/></l>    <r>Portugal<s n="np"/><s n="top"/></r></p></e>
 <e i="yes"><p><l>Portugal<s n="np"/><s n="cog"/></l>    <r>Portugal<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Prat<s n="np"/></l>                    <r>Prat<s n="np"/></r></p></e>
@@ -9829,22 +9832,21 @@
 <e>       <p><l>Viana<s n="np"/></l>                   <r>Viana<s n="np"/></r></p></e>
 <e>       <p><l>Vidal<s n="np"/></l>                   <r>Vidal<s n="np"/></r></p></e>
 <e>       <p><l>Viena<s n="np"/></l>                   <r>Viena<s n="np"/></r></p></e>
-<e>       <p><l>Vietnã<s n="np"/></l>                  <r>Vietnam<s n="np"/></r></p></e>
+<e vl="br"><p><l>Vietnã<s n="np"/></l>                 <r>Vietnam<s n="np"/></r></p></e>
+<e vl="pt pt_pre1990"><p><l>Vietname<s n="np"/></l>    <r>Vietnam<s n="np"/></r></p></e>
 <e>       <p><l>Vila<s n="np"/></l>                    <r>Vila<s n="np"/></r></p></e>
 <e>       <p><l>Vitoria<s n="np"/></l>                 <r>Vitòria<s n="np"/></r></p></e>
 <e>       <p><l>Vizcaya<s n="np"/></l>                 <r>Biscaia<s n="np"/></r></p></e>
 <e>       <p><l>Vladimir<s n="np"/></l>                <r>Vladimir<s n="np"/></r></p></e>
 <e>       <p><l>Vázquez<s n="np"/></l>                 <r>Vázquez<s n="np"/></r></p></e>
-<e>       <p><l>Vénus<s n="np"/></l>                   <r>Venus<s n="np"/></r></p></e>
+<e>       <p><l>Vénus<s n="np"/><s n="top"/></l>       <r>Venus<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Víctor<s n="np"/></l>                  <r>Víctor<s n="np"/></r></p></e>
 <e>       <p><l>Warner<s n="np"/></l>                  <r>Warner<s n="np"/></r></p></e>
 <e>       <p><l>Washington<s n="np"/></l>              <r>Washington<s n="np"/></r></p></e>
 <e>       <p><l>Xavier<s n="np"/></l>                  <r>Xavier<s n="np"/></r></p></e>
 <e>       <p><l>Yahoo<s n="np"/><s n="al"/></l>        <r>Yahoo<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Yuste<s n="np"/></l>                   <r>Yuste<s n="np"/></r></p></e>
-<e>       <p><l>Zapatero<s n="np"/><s n="ant"/></l>    <r>Zapatero<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Zaplana<s n="np"/></l>                 <r>Zaplana<s n="np"/></r></p></e>
-<e>       <p><l>Zaragoza<s n="np"/><s n="ant"/></l>    <r>Zaragoza<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Zaragoza<s n="np"/><s n="top"/></l>    <r>Saragossa<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>o<b/>Porto<s n="np"/></l>              <r>Porto<s n="np"/></r></p></e>
 <e>       <p><l>tv3<s n="np"/></l>                     <r>tv3<s n="np"/></r></p></e>
@@ -29774,7 +29776,7 @@
       <e a="hector"><p><l>Mônaco<s n="np"/><s n="top"/></l><r>Mònaco<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Occitânia<s n="np"/><s n="top"/></l><r>Occitània<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Oklahoma<s n="np"/><s n="top"/></l><r>Oklahoma<s n="np"/><s n="top"/></r></p></e>
-      <e a="hector"><p><l>Paraná<s n="np"/><s n="top"/></l><r>Paraná<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Paraná<s n="np"/><s n="top"/></l><r>Paranà<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Porto<b/>Alegre<s n="np"/><s n="top"/></l><r>Porto<b/>Alegre<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Pozuelo<b/>de<b/>Alarcón<s n="np"/><s n="top"/></l><r>Pozuelo<b/>de<b/>Alarcón<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Praga<s n="np"/><s n="top"/></l><r>Praga<s n="np"/><s n="top"/></r></p></e>
@@ -29922,6 +29924,26 @@
       <e a="hector"><p><l>Vila<b/>Real<s n="np"/><s n="top"/></l><r>Vila<b/>Real<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Viseu<s n="np"/><s n="top"/></l><r>Viseu<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Zambézia<s n="np"/><s n="top"/></l><r>Zambézia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Síria<s n="np"/><s n="top"/></l><r>Síria<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Sérvia<s n="np"/><s n="top"/></l><r>Sèrbia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Nicarágua<s n="np"/><s n="top"/></l><r>Nicaragua<s n="np"/><s n="top"/></r></p></e>
+      <e v="br" a="hector"><p><l>Letônia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
+      <e v="pt pt_pre1990" a="hector"><p><l>Letónia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Lituânia<s n="np"/><s n="top"/></l><r>Lituània<s n="np"/><s n="top"/></r></p></e>
+      <e v="br" a="hector"><p><l>Quênia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
+      <e v="pt pt_pre1990" a="hector"><p><l>Quénia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Suriname<s n="np"/><s n="top"/></l><r>Surinam<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Guiana<s n="np"/><s n="top"/></l><r>Guyana<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Guiana<b/>Francesa<s n="np"/><s n="top"/></l><r>Guaiana<b/>Francesa<s n="np"/><s n="top"/></r></p></e>
+      <e r="RL" a="hector"><p><l>Guiana<s n="np"/><s n="top"/></l><r>Guaiana<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Orinoco<s n="np"/><s n="top"/></l><r>Orinoco<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Orenoco<s n="np"/><s n="top"/></l><r>Orinoco<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Namíbia<s n="np"/><s n="top"/></l><r>Namíbia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Díli<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Panamá<s n="np"/><s n="top"/></l><r>Panamà<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Kuwait<s n="np"/><s n="top"/></l><r>Kuwait<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Arábia<s n="np"/><s n="top"/></l><r>Aràbia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Arábia<b/>Saudita<s n="np"/><s n="top"/></l><r>Aràbia<b/>Saudita<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -30116,6 +30138,7 @@
 <e r="RL"><p><l>casa<b/>de<s n="pr"/></l>              <r>can<s n="pr"/></r></p></e>
 <e>       <p><l>casa<b/>de<s n="pr"/></l>              <r>can<s n="pr"/></r></p></e>
 <e>       <p><l>cerca<b/>de<s n="pr"/></l>             <r>prop<b/>de<s n="pr"/></r></p></e>
+<e r="LR"><p><l>à<b/>volta<b/>de<s n="pr"/></l>        <r>prop<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>cerca<b/>de<s n="pr"/></l>             <r>a<b/>prop<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>com<s n="pr"/></l>                     <r>amb<s n="pr"/></r></p></e>
 <e r="RL"><p><l>com<b/>respeito<b/>a<s n="pr"/></l>    <r>respecte<b/>a<s n="pr"/></r></p></e>
