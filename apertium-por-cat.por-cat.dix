@@ -1703,6 +1703,7 @@
 <e a="hector"><p><l>voluntarista<s n="adj"/></l><r>voluntarista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>vulcanista<s n="adj"/></l><r>vulcanista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>zapatista<s n="adj"/></l><r>zapatista<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>portucalense<s n="adj"/></l><r>portuguès<s n="adj"/></r></p><par n="mf_GD"/></e>
 
 <!-- xxxxx -->
 
@@ -29816,6 +29817,111 @@
       <e r="RL" vl="br" a="hector"><p><l>Pireneus<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></l><r>Pirineu<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
       <e a="hector"><p><l>Andes<s n="np"/><s n="top"/></l><r>Andes<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Istambul<s n="np"/><s n="top"/></l><r>Istanbul<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Coimbra<s n="np"/><s n="top"/></l><r>Coïmbra<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Borgonha<s n="np"/><s n="top"/></l><r>Borgonya<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Portucale<s n="np"/><s n="top"/></l><r>Portugal<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Amazonas<s n="np"/><s n="top"/></l><r>Amazones<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Tejo<s n="np"/><s n="top"/></l><r>Tajo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Douro<s n="np"/><s n="top"/></l><r>Duero<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Prat<b/>de<b/>la<b/>Riba<s n="np"/><s n="cog"/></l><r>Prat<b/>de<b/>la<b/>Riba<s n="np"/><s n="cog"/></r></p></e>
+      <e a="hector"><p><l>Acre<s n="np"/><s n="top"/></l><r>Acre<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Alagoas<s n="np"/><s n="top"/></l><r>Alagoas<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Amadora<b/>Aveiro<s n="np"/><s n="top"/></l><r>Amadora<b/>Aveiro<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Amapá<s n="np"/><s n="top"/></l><r>Amapá<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Angra<b/>do<b/>Heroísmo<s n="np"/><s n="top"/></l><r>Angra<b/>do<b/>Heroísmo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Aracaju<s n="np"/><s n="top"/></l><r>Aracaju<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Aveiro<s n="np"/><s n="top"/></l><r>Aveiro<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Açores<s n="np"/><s n="top"/></l><r>Açores<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Belo<b/>Horizonte<s n="np"/><s n="top"/></l><r>Belo<b/>Horizonte<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Bengo<s n="np"/><s n="top"/></l><r>Bengo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Benguela<s n="np"/><s n="top"/></l><r>Benguela<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Bié<s n="np"/><s n="top"/></l><r>Bié<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Boa<b/>Vista<s n="np"/><s n="top"/></l><r>Boa<b/>Vista<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cabinda<s n="np"/><s n="top"/></l><r>Cabinda<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cabo<b/>Delgado<s n="np"/><s n="top"/></l><r>Cabo<b/>Delgado<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Campo<b/>Grande<s n="np"/><s n="top"/></l><r>Campo<b/>Grande<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cascais<s n="np"/><s n="top"/></l><r>Cascais<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Castelo<b/>Branco<s n="np"/><s n="top"/></l><r>Castelo<b/>Branco<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Ceará<s n="np"/><s n="top"/></l><r>Ceará<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Corumbá<s n="np"/><s n="top"/></l><r>Corumbá<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Covilhã<s n="np"/><s n="top"/></l><r>Covilhã<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cuando<b/>Cubango<s n="np"/><s n="top"/></l><r>Cuando<b/>Cubango<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cuanza<b/>Norte<s n="np"/><s n="top"/></l><r>Cuanza<b/>Nord<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cuanza<b/>Sul<s n="np"/><s n="top"/></l><r>Cuanza<b/>Sud<s n="np"/><s n="top"/></r></p></e>
+      <e r="RL" a="hector"><p><l>Cuanza<b/>Norte<s n="np"/><s n="top"/></l><r>Kwanza<b/>Nord<s n="np"/><s n="top"/></r></p></e>
+      <e r="RL" a="hector"><p><l>Cuanza<b/>Sul<s n="np"/><s n="top"/></l><r>Kwanza<b/>Sud<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cuiabá<s n="np"/><s n="top"/></l><r>Cuiabá<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Cunene<s n="np"/><s n="top"/></l><r>Cunene<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Curitiba<s n="np"/><s n="top"/></l><r>Curitiba<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Espírito<b/>Santo<s n="np"/><s n="top"/></l><r>Espírito<b/>Santo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Figueira<b/>da<b/>Foz<s n="np"/><s n="top"/></l><r>Figueira<b/>da<b/>Foz<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Florianópolis<s n="np"/><s n="top"/></l><r>Florianópolis<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Foz<b/>do<b/>Iguaçu<s n="np"/><s n="top"/></l><r>Foz<b/>do<b/>Iguaçu<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Goa<s n="np"/><s n="top"/></l><r>Goa<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Goiás<s n="np"/><s n="top"/></l><r>Goiás<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Goiânia<s n="np"/><s n="top"/></l><r>Goiânia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Gualeguaychú<s n="np"/><s n="top"/></l><r>Gualeguaychú<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Guarda<s n="np"/><s n="top"/><s n="m"/></l><r>Guarda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+      <e a="hector"><p><l>Huambo<s n="np"/><s n="top"/></l><r>Huambo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Huíla<s n="np"/><s n="top"/></l><r>Huíla<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Iguaçú<s n="np"/><s n="top"/></l><r>Iguaçú<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Inhambane<s n="np"/><s n="top"/></l><r>Inhambane<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>João<b/>Pessoa<s n="np"/><s n="top"/></l><r>João<b/>Pessoa<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Juazeiro<s n="np"/><s n="top"/></l><r>Juazeiro<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Kwanza-Norte<s n="np"/><s n="top"/></l><r>Kwanza<b/>Nord<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Kwanza-Sul<s n="np"/><s n="top"/></l><r>Kwanza<b/>Sud<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Lunda-Norte<s n="np"/><s n="top"/></l><r>Lunda<b/>Nord<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Lunda-Sul<s n="np"/><s n="top"/></l><r>Lunda<b/>Sud<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Lunda<b/>Norte<s n="np"/><s n="top"/></l><r>Lunda<b/>Nord<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Lunda<b/>Sul<s n="np"/><s n="top"/></l><r>Lunda<b/>Sud<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Macapá<s n="np"/><s n="top"/></l><r>Macapá<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Maceió<s n="np"/><s n="top"/></l><r>Maceió<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Malanje<s n="np"/><s n="top"/></l><r>Malanje<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaus<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Manica<s n="np"/><s n="top"/></l><r>Manica<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Maputo<s n="np"/><s n="top"/></l><r>Maputo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Maranhão<s n="np"/><s n="top"/></l><r>Maranhão<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Mato<b/>Grosso<s n="np"/><s n="top"/></l><r>Mato<b/>Grosso<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Mato<b/>Grosso<b/>do<b/>Sul<s n="np"/><s n="top"/></l><r>Mato<b/>Grosso<b/>do<b/>Sul<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Minas<b/>Gerais<s n="np"/><s n="top"/><s n="f"/></l><r>Minas<b/>Gerais<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+      <e a="hector"><p><l>Moxico<s n="np"/><s n="top"/></l><r>Moxico<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Namibe<s n="np"/><s n="top"/></l><r>Namibe<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Nampula<s n="np"/><s n="top"/></l><r>Nampula<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Natal<s n="np"/><s n="top"/></l><r>Natal<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Niassa<s n="np"/><s n="top"/></l><r>Niassa<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Palmas<s n="np"/><s n="top"/></l><r>Palmas<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Paranaiba<s n="np"/><s n="top"/></l><r>Paranaiba<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Pará<s n="np"/><s n="top"/></l><r>Pará<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Pernambuco<s n="np"/><s n="top"/></l><r>Pernambuco<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Piauí<s n="np"/><s n="top"/></l><r>Piauí<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Ponta<b/>Delgada<s n="np"/><s n="top"/></l><r>Ponta<b/>Delgada<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Portalegre<s n="np"/><s n="top"/></l><r>Portalegre<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Portimão<s n="np"/><s n="top"/></l><r>Portimão<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Porto<b/>Velho<s n="np"/><s n="top"/></l><r>Porto<b/>Velho<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Recife<s n="np"/><s n="top"/></l><r>Recife<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Rio<b/>Branco<s n="np"/><s n="top"/></l><r>Rio<b/>Branco<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Rio<b/>Grande<b/>do<b/>Norte<s n="np"/><s n="top"/></l><r>Rio<b/>Grande<b/>do<b/>Norte<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Rio<b/>Grande<b/>do<b/>Sul<s n="np"/><s n="top"/></l><r>Rio<b/>Grande<b/>do<b/>Sul<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Rondônia<s n="np"/><s n="top"/></l><r>Rondônia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Roraima<s n="np"/><s n="top"/></l><r>Roraima<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Santa<b/>Catarina<s n="np"/><s n="top"/></l><r>Santa<b/>Catarina<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Sergipe<s n="np"/><s n="top"/></l><r>Sergipe<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Setúbal<s n="np"/><s n="top"/></l><r>Setúbal<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Sofala<s n="np"/><s n="top"/></l><r>Sofala<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Solimões<s n="np"/><s n="top"/></l><r>Solimões<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>São<b/>Francisco<s n="np"/><s n="top"/></l><r>São<b/>Francisco<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>São<b/>Luís<s n="np"/><s n="top"/></l><r>São<b/>Luís<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>São<b/>Paulo<s n="np"/><s n="top"/></l><r>São<b/>Paulo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Teresina<s n="np"/><s n="top"/></l><r>Teresina<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Tete<s n="np"/><s n="top"/></l><r>Tete<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Tietê<s n="np"/><s n="top"/></l><r>Tietê<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Tocantins<s n="np"/><s n="top"/></l><r>Tocantins<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Uige<s n="np"/><s n="top"/></l><r>Uige<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Viana<b/>do<b/>Castelo<s n="np"/><s n="top"/></l><r>Viana<b/>do<b/>Castelo<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Vila<b/>Nova<b/>de<b/>Gaia<s n="np"/><s n="top"/></l><r>Vila<b/>Nova<b/>de<b/>Gaia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Vila<b/>Real<s n="np"/><s n="top"/></l><r>Vila<b/>Real<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Viseu<s n="np"/><s n="top"/></l><r>Viseu<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Zambézia<s n="np"/><s n="top"/></l><r>Zambézia<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 
