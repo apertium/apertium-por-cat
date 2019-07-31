@@ -1534,7 +1534,8 @@
 <e a="hector"><p><l>alarmista<s n="adj"/></l><r>alarmista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>alienista<s n="adj"/></l><r>alienista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>altruista<s n="adj"/></l><r>altruista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anabaptista<s n="adj"/></l><r>anabaptista<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>anabaptista<s n="adj"/></l><r>anabaptista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anabatista<s n="adj"/></l><r>anabaptista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>animista<s n="adj"/></l><r>animista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antibelicista<s n="adj"/></l><r>antibel·licista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anticomunista<s n="adj"/></l><r>anticomunista<s n="adj"/></r></p></e>
@@ -1544,7 +1545,8 @@
 <e a="hector"><p><l>apolinarista<s n="adj"/></l><r>apol·linarista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>armamentista<s n="adj"/></l><r>armamentista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>autonomista<s n="adj"/></l><r>autonomista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>baptista<s n="adj"/></l><r>baptista<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>baptista<s n="adj"/></l><r>baptista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>batista<s n="adj"/></l><r>baptista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>belicista<s n="adj"/></l><r>bel·licista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>benfiquista<s n="adj"/></l><r>benfiquista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bimetalista<s n="adj"/></l><r>bimetal·lista<s n="adj"/></r></p></e>
@@ -1555,10 +1557,13 @@
 <e a="hector"><p><l>cesarista<s n="adj"/></l><r>cesarista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>colonialista<s n="adj"/></l><r>colonialista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>colaboracionista<s n="adj"/></l><r>col·laboracionista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>colectivista<s n="adj"/></l><r>col·lectivista<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>colectivista<s n="adj"/></l><r>col·lectivista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>coletivista<s n="adj"/></l><r>col·lectivista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>comunalista<s n="adj"/></l><r>comunalista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>conceptista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>conceptualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>conceptista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>concetista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>conceptualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>concetualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conformista<s n="adj"/></l><r>conformista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>confucianista<s n="adj"/></l><r>confucianista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>congruista<s n="adj"/></l><r>congruista<s n="adj"/></r></p></e>
@@ -1582,6 +1587,7 @@
 <e a="hector"><p><l>espiritista<s n="adj"/></l><r>espiritista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espiritualista<s n="adj"/></l><r>espiritualista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
+<e a="hector"><p><l>stalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esteticista<s n="adj"/></l><r>esteticista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>excursionista<s n="adj"/></l><r>excursionista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>existencialista<s n="adj"/></l><r>existencialista<s n="adj"/></r></p></e>
@@ -1651,7 +1657,8 @@
 <e a="hector"><p><l>paternalista<s n="adj"/></l><r>paternalista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>peronista<s n="adj"/></l><r>peronista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>personalista<s n="adj"/></l><r>personalista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perspectivista<s n="adj"/></l><r>perspectivista<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perspectivista<s n="adj"/></l><r>perspectivista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perspetivista<s n="adj"/></l><r>perspectivista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>petista<s n="adj"/></l><r>petista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>petrarquista<s n="adj"/></l><r>petrarquista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pluralista<s n="adj"/></l><r>pluralista<s n="adj"/></r></p></e>
@@ -1665,7 +1672,8 @@
 <e a="hector"><p><l>probabilista<s n="adj"/></l><r>probabilista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>propagandista<s n="adj"/></l><r>propagandista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proselitista<s n="adj"/></l><r>proselitista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>proteccionista<s n="adj"/></l><r>proteccionista<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>proteccionista<s n="adj"/></l><r>proteccionista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>protecionista<s n="adj"/></l><r>proteccionista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>providencialista<s n="adj"/></l><r>providencialista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>psicologista<s n="adj"/></l><r>psicologista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>purista<s n="adj"/></l><r>purista<s n="adj"/></r></p></e>
@@ -1712,8 +1720,10 @@
 <e a="hector"><p><l>absidal<s n="adj"/></l><r>absidal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aconfessional<s n="adj"/></l><r>aconfessional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acromial<s n="adj"/></l><r>acromial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>actuarial<s n="adj"/></l><r>actuarial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>adjectival<s n="adj"/></l><r>adjectival<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>actuarial<s n="adj"/></l><r>actuarial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>atuarial<s n="adj"/></l><r>actuarial<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>adjectival<s n="adj"/></l><r>adjectival<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>adjetival<s n="adj"/></l><r>adjectival<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adnominal<s n="adj"/></l><r>adnominal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adverbial<s n="adj"/></l><r>adverbial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aeroespacial<s n="adj"/></l><r>aeroespacial<s n="adj"/></r></p></e>
@@ -1734,7 +1744,8 @@
 <e a="hector"><p><l>antebraquial<s n="adj"/></l><r>antebraquial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antenupcial<s n="adj"/></l><r>antenupcial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anticlerical<s n="adj"/></l><r>anticlerical<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anticoncepcional<s n="adj"/></l><r>anticoncepcional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>anticoncepcional<s n="adj"/></l><r>anticoncepcional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anticoncecional<s n="adj"/></l><r>anticoncepcional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anticonstitucional<s n="adj"/></l><r>anticonstitucional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antigovernamental<s n="adj"/></l><r>antigovernamental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antigramatical<s n="adj"/></l><r>antigramatical<s n="adj"/></r></p></e>
@@ -1752,13 +1763,15 @@
 <e a="hector"><p><l>arcual<s n="adj"/></l><r>arcual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>argumental<s n="adj"/></l><r>argumental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>armorial<s n="adj"/></l><r>armorial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>arquitectural<s n="adj"/></l><r>arquitectural<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>arquitectural<s n="adj"/></l><r>arquitectural<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>arquitetural<s n="adj"/></l><r>arquitectural<s n="adj"/></r></p></e>
 <e a="hector"><p><l>arsenical<s n="adj"/></l><r>arsenical<s n="adj"/></r></p></e>
 <e a="hector"><p><l>arterial<s n="adj"/></l><r>arterial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>arquiducal<s n="adj"/></l><r>arxiducal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>arquiepiscopal<s n="adj"/></l><r>arxiepiscopal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ascensional<s n="adj"/></l><r>ascensional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>aspectual<s n="adj"/></l><r>aspectual<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>aspectual<s n="adj"/></l><r>aspectual<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>aspetual<s n="adj"/></l><r>aspectual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>assistencial<s n="adj"/></l><r>assistencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>astral<s n="adj"/></l><r>astral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>atemporal<s n="adj"/></l><r>atemporal<s n="adj"/></r></p></e>
@@ -1772,7 +1785,8 @@
 <e a="hector"><p><l>bacanal<s n="adj"/></l><r>bacanal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>banal<s n="adj"/></l><r>banal<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>banal<s n="adj"/></l><r>banal<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
-<e a="hector"><p><l>baptismal<s n="adj"/></l><r>baptismal<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>baptismal<s n="adj"/></l><r>baptismal<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>batismal<s n="adj"/></l><r>baptismal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>baronial<s n="adj"/></l><r>baronial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>basal<s n="adj"/></l><r>basal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>basilical<s n="adj"/></l><r>basilical<s n="adj"/></r></p></e>
@@ -1782,7 +1796,8 @@
 <e a="hector"><p><l>biaxial<s n="adj"/></l><r>biaxial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bicipital<s n="adj"/></l><r>bicipital<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bidimensional<s n="adj"/></l><r>bidimensional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>bidireccional<s n="adj"/></l><r>bidireccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>bidireccional<s n="adj"/></l><r>bidireccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>bidirecional<s n="adj"/></l><r>bidireccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bifacial<s n="adj"/></l><r>bifacial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bifocal<s n="adj"/></l><r>bifocal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bilabial<s n="adj"/></l><r>bilabial<s n="adj"/></r></p></e>
@@ -1809,7 +1824,8 @@
 <e a="hector"><p><l>canonical<s n="adj"/></l><r>canonical<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cantonal<s n="adj"/></l><r>cantonal<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>capital<s n="adj"/></l><r>capital<s n="adj"/></r></p></e>
-<e a="hector"><p><l>caracterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>caracterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>caraterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cardial<s n="adj"/></l><r>cardial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carinal<s n="adj"/></l><r>carinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carnal<s n="adj"/></l><r>carnal<s n="adj"/></r></p></e>
@@ -1844,7 +1860,8 @@
 <e a="hector"><p><l>computacional<s n="adj"/></l><r>computacional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>comunal<s n="adj"/></l><r>comunal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>comunicacional<s n="adj"/></l><r>comunicacional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>concepcional<s n="adj"/></l><r>concepcional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>concepcional<s n="adj"/></l><r>concepcional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>concecional<s n="adj"/></l><r>concepcional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>concoidal<s n="adj"/></l><r>concoidal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>condicional<s n="adj"/></l><r>condicional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>condral<s n="adj"/></l><r>condral<s n="adj"/></r></p></e>
@@ -1854,7 +1871,8 @@
 <e a="hector"><p><l>congenial<s n="adj"/></l><r>congenial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>congregacional<s n="adj"/></l><r>congregacional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>congressual<s n="adj"/></l><r>congressual<s n="adj"/></r></p></e>
-<e a="hector"><p><l>conjectural<s n="adj"/></l><r>conjectural<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>conjectural<s n="adj"/></l><r>conjectural<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>conjetural<s n="adj"/></l><r>conjectural<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conjugal<s n="adj"/></l><r>conjugal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conjuntural<s n="adj"/></l><r>conjuntural<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conoidal<s n="adj"/></l><r>conoidal<s n="adj"/></r></p></e>
@@ -1870,7 +1888,8 @@
 <e a="hector"><p><l>corneal<s n="adj"/></l><r>corneal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>coronal<s n="adj"/></l><r>coronal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>corporal<s n="adj"/></l><r>corporal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>correccional<s n="adj"/></l><r>correccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>correccional<s n="adj"/></l><r>correccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>correcional<s n="adj"/></l><r>correccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cortical<s n="adj"/></l><r>cortical<s n="adj"/></r></p></e>
 <e a="hector"><p><l>costal<s n="adj"/></l><r>costal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>coxal<s n="adj"/></l><r>coxal<s n="adj"/></r></p></e>
@@ -1895,8 +1914,10 @@
 <e a="hector"><p><l>dialogal<s n="adj"/></l><r>dialogal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diametral<s n="adj"/></l><r>diametral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diluvial<s n="adj"/></l><r>diluvial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>direccional<s n="adj"/></l><r>direccional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>directorial<s n="adj"/></l><r>directorial<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>direccional<s n="adj"/></l><r>direccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>direcional<s n="adj"/></l><r>direccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>directorial<s n="adj"/></l><r>directorial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>diretorial<s n="adj"/></l><r>directorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>discal<s n="adj"/></l><r>discal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>disfuncional<s n="adj"/></l><r>disfuncional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dissocial<s n="adj"/></l><r>dissocial<s n="adj"/></r></p></e>
@@ -1912,7 +1933,8 @@
 <e a="hector"><p><l>duodecimal<s n="adj"/></l><r>duodecimal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>duodenal<s n="adj"/></l><r>duodenal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eclogal<s n="adj"/></l><r>eclogal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>edictal<s n="adj"/></l><r>edictal<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>edictal<s n="adj"/></l><r>edictal<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>edital<s n="adj"/></l><r>edictal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eluvial<s n="adj"/></l><r>eluvial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elipsoidal<s n="adj"/></l><r>el·lipsoidal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>embolismal<s n="adj"/></l><r>embolismal<s n="adj"/></r></p></e>
@@ -1928,7 +1950,8 @@
 <e a="hector"><p><l>escultural<s n="adj"/></l><r>escultural<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esfenoidal<s n="adj"/></l><r>esfenoidal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esferoidal<s n="adj"/></l><r>esferoidal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>espectral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espinal<s n="adj"/></l><r>espinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>essencial<s n="adj"/></l><r>essencial<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>essencial<s n="adj"/></l><r>essencial<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
@@ -1950,7 +1973,8 @@
 <e a="hector"><p><l>extramatrimonial<s n="adj"/></l><r>extramatrimonial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>extramoral<s n="adj"/></l><r>extramoral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>extraterritorial<s n="adj"/></l><r>extraterritorial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>factorial<s n="adj"/></l><r>factorial<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>factorial<s n="adj"/></l><r>factorial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>fatorial<s n="adj"/></l><r>factorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>factual<s n="adj"/></l><r>factual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fantasmal<s n="adj"/></l><r>fantasmal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>faucal<s n="adj"/></l><r>faucal<s n="adj"/></r></p></e>
@@ -2013,7 +2037,8 @@
 <e a="hector"><p><l>ileocecal<s n="adj"/></l><r>ileocecal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>iliberal<s n="adj"/></l><r>il·liberal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>imperial<s n="adj"/></l><r>imperial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>inactual<s n="adj"/></l><r>inactual<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>inactual<s n="adj"/></l><r>inactual<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inatual<s n="adj"/></l><r>inactual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>incidental<s n="adj"/></l><r>incidental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inconstitucional<s n="adj"/></l><r>inconstitucional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>incorporal<s n="adj"/></l><r>incorporal<s n="adj"/></r></p></e>
@@ -2024,7 +2049,8 @@
 <e a="hector"><p><l>inquisitorial<s n="adj"/></l><r>inquisitorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>instrumental<s n="adj"/></l><r>instrumental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>insubstancial<s n="adj"/></l><r>insubstancial<s n="adj"/></r></p></e>
-<e a="hector"><p><l>insurreccional<s n="adj"/></l><r>insurreccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>insurreccional<s n="adj"/></l><r>insurreccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>insurrecional<s n="adj"/></l><r>insurreccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intemporal<s n="adj"/></l><r>intemporal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intencional<s n="adj"/></l><r>intencional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intercontinental<s n="adj"/></l><r>intercontinental<s n="adj"/></r></p></e>
@@ -2034,12 +2060,14 @@
 <e a="hector"><p><l>interglacial<s n="adj"/></l><r>interglacial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intergovernamental<s n="adj"/></l><r>intergovernamental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interinstitucional<s n="adj"/></l><r>interinstitucional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>interjeccional<s n="adj"/></l><r>interjeccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>interjeccional<s n="adj"/></l><r>interjeccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>interjecional<s n="adj"/></l><r>interjeccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intermenstrual<s n="adj"/></l><r>intermenstrual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interministerial<s n="adj"/></l><r>interministerial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intermunicipal<s n="adj"/></l><r>intermunicipal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interparietal<s n="adj"/></l><r>interparietal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>intersectorial<s n="adj"/></l><r>intersectorial<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>intersectorial<s n="adj"/></l><r>intersectorial<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>intersetorial<s n="adj"/></l><r>intersectorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intersticial<s n="adj"/></l><r>intersticial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intertropical<s n="adj"/></l><r>intertropical<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intervertebral<s n="adj"/></l><r>intervertebral<s n="adj"/></r></p></e>
@@ -2091,7 +2119,8 @@
 <e a="hector"><p><l>monasterial<s n="adj"/></l><r>monasterial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monoparental<s n="adj"/></l><r>monoparental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monumental<s n="adj"/></l><r>monumental<s n="adj"/></r></p></e>
-<e a="hector"><p><l>multidireccional<s n="adj"/></l><r>multidireccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>multidireccional<s n="adj"/></l><r>multidireccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>multidirecional<s n="adj"/></l><r>multidireccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>multifuncional<s n="adj"/></l><r>multifuncional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>multilateral<s n="adj"/></l><r>multilateral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mundanal<s n="adj"/></l><r>mundanal<s n="adj"/></r></p></e>
@@ -2108,7 +2137,8 @@
 <e a="hector"><p><l>neurosensorial<s n="adj"/></l><r>neurosensorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>neutral<s n="adj"/></l><r>neutral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>nocional<s n="adj"/></l><r>nocional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>nocturnal<s n="adj"/></l><r>nocturnal<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>nocturnal<s n="adj"/></l><r>nocturnal<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>noturnal<s n="adj"/></l><r>nocturnal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>nodal<s n="adj"/></l><r>nodal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>nosocomial<s n="adj"/></l><r>nosocomial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>notarial<s n="adj"/></l><r>notarial<s n="adj"/></r></p></e>
@@ -2154,7 +2184,8 @@
 <e a="hector"><p><l>penitencial<s n="adj"/></l><r>penitencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pentagonal<s n="adj"/></l><r>pentagonal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>percentual<s n="adj"/></l><r>percentual<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perceptual<s n="adj"/></l><r>perceptual<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perceptual<s n="adj"/></l><r>perceptual<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>percetual<s n="adj"/></l><r>perceptual<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perianal<s n="adj"/></l><r>perianal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pericial<s n="adj"/></l><r>pericial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>peridental<s n="adj"/></l><r>peridental<s n="adj"/></r></p></e>
@@ -2181,7 +2212,8 @@
 <e a="hector"><p><l>potencial<s n="adj"/></l><r>potencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prandial<s n="adj"/></l><r>prandial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prebostal<s n="adj"/></l><r>prebostal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>preceptoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>preceptoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>precetoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>precordial<s n="adj"/></l><r>precordial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>predial<s n="adj"/></l><r>predial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>predicamental<s n="adj"/></l><r>predicamental<s n="adj"/></r></p></e>
@@ -2222,8 +2254,10 @@
 <e r="RL" a="hector"><p><l>racional<s n="adj"/></l><r>racional<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>radial<s n="adj"/></l><r>radial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recental<s n="adj"/></l><r>recental<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rectal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rectovaginal<s n="adj"/></l><r>rectovaginal<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>rectal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>retal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>rectovaginal<s n="adj"/></l><r>rectovaginal<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retovaginal<s n="adj"/></l><r>rectovaginal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>referencial<s n="adj"/></l><r>referencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>regimental<s n="adj"/></l><r>regimental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>registral<s n="adj"/></l><r>registral<s n="adj"/></r></p></e>
@@ -2243,7 +2277,8 @@
 <e a="hector"><p><l>salival<s n="adj"/></l><r>salival<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sapiencial<s n="adj"/></l><r>sapiencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>saturnal<s n="adj"/></l><r>saturnal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sectorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>sectorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>setorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>segetal<s n="adj"/></l><r>segetal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semental<s n="adj"/></l><r>semental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semestral<s n="adj"/></l><r>semestral<s n="adj"/></r></p></e>
@@ -2301,7 +2336,8 @@
 <e a="hector"><p><l>tintorial<s n="adj"/></l><r>tintorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tonal<s n="adj"/></l><r>tonal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>toroidal<s n="adj"/></l><r>toroidal<s n="adj"/></r></p></e>
-<e a="hector"><p><l>transaccional<s n="adj"/></l><r>transaccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>transaccional<s n="adj"/></l><r>transaccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>transacional<s n="adj"/></l><r>transaccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transcendental<s n="adj"/></l><r>transcendental<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>transcendental<s n="adj"/></l><r>transcendental<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>transcontinental<s n="adj"/></l><r>transcontinental<s n="adj"/></r></p></e>
@@ -2326,7 +2362,8 @@
 <e a="hector"><p><l>unguial<s n="adj"/></l><r>unguial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>uniaxial<s n="adj"/></l><r>uniaxial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>unidimensional<s n="adj"/></l><r>unidimensional<s n="adj"/></r></p></e>
-<e a="hector"><p><l>unidireccional<s n="adj"/></l><r>unidireccional<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>unidireccional<s n="adj"/></l><r>unidireccional<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>unidirecional<s n="adj"/></l><r>unidireccional<s n="adj"/></r></p></e>
 <e a="hector"><p><l>unifacial<s n="adj"/></l><r>unifacial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>uniliteral<s n="adj"/></l><r>uniliteral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>uninominal<s n="adj"/></l><r>uninominal<s n="adj"/></r></p></e>
@@ -2375,7 +2412,7 @@
 <e a="hector"><p><l>aflogístico<s n="adj"/></l><r>aflogístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aforístico<s n="adj"/></l><r>aforístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>agonístico<s n="adj"/></l><r>agonístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>agronômico<s n="adj"/></l><r>agronòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>agronômico<s n="adj"/></l><r>agronòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>albuminúrico<s n="adj"/></l><r>albuminúric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>alcaico<s n="adj"/></l><r>alcaic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>alcalimétrico<s n="adj"/></l><r>alcalimètric<s n="adj"/></r></p></e>
@@ -2390,39 +2427,42 @@
 <e a="hector"><p><l>amílico<s n="adj"/></l><r>amílic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anacolútico<s n="adj"/></l><r>anacolútic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anacreôntico<s n="adj"/></l><r>anacreòntic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anacrônico<s n="adj"/></l><r>anacrònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>anacrônico<s n="adj"/></l><r>anacrònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anacâmptico<s n="adj"/></l><r>anacàmptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anacíclico<s n="adj"/></l><r>anacíclic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>analítico<s n="adj"/></l><r>analític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anaptíctico<s n="adj"/></l><r>anaptíctic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anatômico<s n="adj"/></l><r>anatòmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anecoico<s n="adj"/></l><r>anecoic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>anaptíctico<s n="adj"/></l><r>anaptíctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anaptítico<s n="adj"/></l><r>anaptíctic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>anatômico<s n="adj"/></l><r>anatòmic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anecoico<s n="adj"/></l><r>anecoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anemométrico<s n="adj"/></l><r>anemomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anisométrico<s n="adj"/></l><r>anisomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anomalístico<s n="adj"/></l><r>anomalístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>antiacadêmico<s n="adj"/></l><r>antiacadèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>antiacadêmico<s n="adj"/></l><r>antiacadèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antiartrítico<s n="adj"/></l><r>antiartrític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anticientífico<s n="adj"/></l><r>anticientífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antidiarreico<s n="adj"/></l><r>antidiarreic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>antieconômico<s n="adj"/></l><r>antieconòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>antieconômico<s n="adj"/></l><r>antieconòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antiescorbútico<s n="adj"/></l><r>antiescorbútic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antiflogístico<s n="adj"/></l><r>antiflogístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antijurídico<s n="adj"/></l><r>antijurídic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antimefítico<s n="adj"/></l><r>antimefític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antinefrítico<s n="adj"/></l><r>antinefrític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>antinômico<s n="adj"/></l><r>antinòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>antinômico<s n="adj"/></l><r>antinòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antipolítico<s n="adj"/></l><r>antipolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antitetânico<s n="adj"/></l><r>antitetànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antracolítico<s n="adj"/></l><r>antracolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antropocêntrico<s n="adj"/></l><r>antropocèntric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antropométrico<s n="adj"/></l><r>antropomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antroponímico<s n="adj"/></l><r>antroponímic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anêmico<s n="adj"/></l><r>anèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>anêmico<s n="adj"/></l><r>anèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anímico<s n="adj"/></l><r>anímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anísico<s n="adj"/></l><r>anísic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aorístico<s n="adj"/></l><r>aorístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>apocalíptico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>apodíctico<s n="adj"/></l><r>apodíctic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>apocalíptico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>apocalítico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>apodíctico<s n="adj"/></l><r>apodíctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>apodítico<s n="adj"/></l><r>apodíctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apofântico<s n="adj"/></l><r>apofàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apolítico<s n="adj"/></l><r>apolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apriorístico<s n="adj"/></l><r>apriorístic<s n="adj"/></r></p></e>
@@ -2436,7 +2476,7 @@
 <e a="hector"><p><l>arquivístico<s n="adj"/></l><r>arxivístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>astrofísico<s n="adj"/></l><r>astrofísic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>astrométrico<s n="adj"/></l><r>astromètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>astronômico<s n="adj"/></l><r>astronòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>astronômico<s n="adj"/></l><r>astronòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ateístico<s n="adj"/></l><r>ateístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>atomístico<s n="adj"/></l><r>atomístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>atípico<s n="adj"/></l><r>atípic<s n="adj"/></r></p></e>
@@ -2445,7 +2485,7 @@
 <e a="hector"><p><l>autodinâmico<s n="adj"/></l><r>autodinàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>autolítico<s n="adj"/></l><r>autolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>axonométrico<s n="adj"/></l><r>axonomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>azoico<s n="adj"/></l><r>azoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>azoico<s n="adj"/></l><r>azoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>balcânico<s n="adj"/></l><r>balcànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>balsâmico<s n="adj"/></l><r>balsàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>balístico<s n="adj"/></l><r>balístic<s n="adj"/></r></p></e>
@@ -2453,9 +2493,9 @@
 <e a="hector"><p><l>barométrico<s n="adj"/></l><r>baromètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>batimétrico<s n="adj"/></l><r>batimètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>beatífico<s n="adj"/></l><r>beatífic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>benzoico<s n="adj"/></l><r>benzoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>benzoico<s n="adj"/></l><r>benzoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>benzílico<s n="adj"/></l><r>benzílic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>binômico<s n="adj"/></l><r>binòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>binômico<s n="adj"/></l><r>binòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>biodinâmico<s n="adj"/></l><r>biodinàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>biométrico<s n="adj"/></l><r>biomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bioquímico<s n="adj"/></l><r>bioquímic<s n="adj"/></r></p></e>
@@ -2463,7 +2503,7 @@
 <e a="hector"><p><l>bolométrico<s n="adj"/></l><r>bolomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bramânico<s n="adj"/></l><r>bramànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>bromatométrico<s n="adj"/></l><r>bromatomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>brômico<s n="adj"/></l><r>bròmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>brômico<s n="adj"/></l><r>bròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>butírico<s n="adj"/></l><r>butíric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>búdico<s n="adj"/></l><r>búdic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cabalístico<s n="adj"/></l><r>cabalístic<s n="adj"/></r></p></e>
@@ -2476,7 +2516,7 @@
 <e a="hector"><p><l>caprílico<s n="adj"/></l><r>caprílic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carboxílico<s n="adj"/></l><r>carboxílic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carbâmico<s n="adj"/></l><r>carbàmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>carbônico<s n="adj"/></l><r>carbònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>carbônico<s n="adj"/></l><r>carbònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cartomântico<s n="adj"/></l><r>cartomàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>casuístico<s n="adj"/></l><r>casuístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>catalítico<s n="adj"/></l><r>catalític<s n="adj"/></r></p></e>
@@ -2494,16 +2534,16 @@
 <e a="hector"><p><l>crematístico<s n="adj"/></l><r>crematístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>criométrico<s n="adj"/></l><r>criomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>criptogâmico<s n="adj"/></l><r>criptogàmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>criptozoico<s n="adj"/></l><r>criptozoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>criptozoico<s n="adj"/></l><r>criptozoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cronométrico<s n="adj"/></l><r>cronomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>críptico<s n="adj"/></l><r>críptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>crômico<s n="adj"/></l><r>cròmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>crômico<s n="adj"/></l><r>cròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>câmbrico<s n="adj"/></l><r>càmbric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cínico<s n="adj"/></l><r>cínic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cístico<s n="adj"/></l><r>cístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cítrico<s n="adj"/></l><r>cítric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cívico<s n="adj"/></l><r>cívic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>cômico<s n="adj"/></l><r>còmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>cômico<s n="adj"/></l><r>còmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cônico<s n="adj"/></l><r>cònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cúbico<s n="adj"/></l><r>cúbic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cúfico<s n="adj"/></l><r>cúfic<s n="adj"/></r></p></e>
@@ -2518,11 +2558,11 @@
 <e a="hector"><p><l>diacrítico<s n="adj"/></l><r>diacrític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dialogístico<s n="adj"/></l><r>dialogístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diarreico<s n="adj"/></l><r>diarreic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>diatômico<s n="adj"/></l><r>diatòmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dicotômico<s n="adj"/></l><r>dicotòmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dicroico<s n="adj"/></l><r>dicroic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>diatômico<s n="adj"/></l><r>diatòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>dicotômico<s n="adj"/></l><r>dicotòmic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dicroico<s n="adj"/></l><r>dicroic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dinamométrico<s n="adj"/></l><r>dinamomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dioico<s n="adj"/></l><r>dioic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dioico<s n="adj"/></l><r>dioic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diorâmico<s n="adj"/></l><r>dioràmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dissimétrico<s n="adj"/></l><r>dissimètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>disúrico<s n="adj"/></l><r>disúric<s n="adj"/></r></p></e>
@@ -2533,17 +2573,24 @@
 <e a="hector"><p><l>druídico<s n="adj"/></l><r>druídic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dualístico<s n="adj"/></l><r>dualístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eclâmptico<s n="adj"/></l><r>eclàmptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>eclíptico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>ecoico<s n="adj"/></l><r>ecoic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>eclíptico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eclítico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>ecoico<s n="adj"/></l><r>ecoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>econométrico<s n="adj"/></l><r>economètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>ecumênico<s n="adj"/></l><r>ecumènic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>ecumênico<s n="adj"/></l><r>ecumènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>egoístico<s n="adj"/></l><r>egoístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrogalvânico<s n="adj"/></l><r>electrogalvànic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrolítico<s n="adj"/></l><r>electrolític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrometalúrgico<s n="adj"/></l><r>electrometal·lúrgic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrométrico<s n="adj"/></l><r>electromètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electroquímico<s n="adj"/></l><r>electroquímic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrotípico<s n="adj"/></l><r>electrotípic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrogalvânico<s n="adj"/></l><r>electrogalvànic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrogalvânico<s n="adj"/></l><r>electrogalvànic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrolítico<s n="adj"/></l><r>electrolític<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrolítico<s n="adj"/></l><r>electrolític<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrometalúrgico<s n="adj"/></l><r>electrometal·lúrgic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrometalúrgico<s n="adj"/></l><r>electrometal·lúrgic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrométrico<s n="adj"/></l><r>electromètric<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrométrico<s n="adj"/></l><r>electromètric<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electroquímico<s n="adj"/></l><r>electroquímic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletroquímico<s n="adj"/></l><r>electroquímic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrotípico<s n="adj"/></l><r>electrotípic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrotípico<s n="adj"/></l><r>electrotípic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elíptico<s n="adj"/></l><r>el·líptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>empírico<s n="adj"/></l><r>empíric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>encíclico<s n="adj"/></l><r>encíclic<s n="adj"/></r></p></e>
@@ -2553,17 +2600,19 @@
 <e a="hector"><p><l>enométrico<s n="adj"/></l><r>enomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eolítico<s n="adj"/></l><r>eolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>epicrítico<s n="adj"/></l><r>epicrític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>epidêmico<s n="adj"/></l><r>epidèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>epidêmico<s n="adj"/></l><r>epidèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>epifânico<s n="adj"/></l><r>epifànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>epitalâmico<s n="adj"/></l><r>epitalàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eremítico<s n="adj"/></l><r>eremític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>ergonômico<s n="adj"/></l><r>ergonòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>ergonômico<s n="adj"/></l><r>ergonòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>escorbútico<s n="adj"/></l><r>escorbútic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espasmolítico<s n="adj"/></l><r>espasmolític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>espectrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>espectrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espondaico<s n="adj"/></l><r>espondaic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>esquizofrênico<s n="adj"/></l><r>esquizofrènic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>esquizofrênico<s n="adj"/></l><r>esquizofrènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esquizotímico<s n="adj"/></l><r>esquizotímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estalactítico<s n="adj"/></l><r>estalactític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estalagmítico<s n="adj"/></l><r>estalagmític<s n="adj"/></r></p></e>
@@ -2571,13 +2620,13 @@
 <e a="hector"><p><l>estereométrico<s n="adj"/></l><r>estereomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estereotípico<s n="adj"/></l><r>estereotípic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estilístico<s n="adj"/></l><r>estilístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>estoico<s n="adj"/></l><r>estoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>estoico<s n="adj"/></l><r>estoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>estíptico<s n="adj"/></l><r>estíptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>etanoico<s n="adj"/></l><r>etanoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>etanoico<s n="adj"/></l><r>etanoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>etnocêntrico<s n="adj"/></l><r>etnocèntric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eucarístico<s n="adj"/></l><r>eucarístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eudiométrico<s n="adj"/></l><r>eudiomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>eufêmico<s n="adj"/></l><r>eufèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>eufêmico<s n="adj"/></l><r>eufèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eurítmico<s n="adj"/></l><r>eurítmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>exogâmico<s n="adj"/></l><r>exogàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>exorreico<s n="adj"/></l><r>exorreic<s n="adj"/></r></p></e>
@@ -2585,13 +2634,13 @@
 <e a="hector"><p><l>falângico<s n="adj"/></l><r>falàngic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fanerogâmico<s n="adj"/></l><r>fanerogàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fanerítico<s n="adj"/></l><r>fanerític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>faraônico<s n="adj"/></l><r>faraònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>faraônico<s n="adj"/></l><r>faraònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>farisaico<s n="adj"/></l><r>farisaic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fatídico<s n="adj"/></l><r>fatídic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>faunístico<s n="adj"/></l><r>faunístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>felsítico<s n="adj"/></l><r>felsític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fenotípico<s n="adj"/></l><r>fenotípic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fisionômico<s n="adj"/></l><r>fisionòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>fisionômico<s n="adj"/></l><r>fisionòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fisioterapêutico<s n="adj"/></l><r>fisioterapèutic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fitoquímico<s n="adj"/></l><r>fitoquímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>flebítico<s n="adj"/></l><r>flebític<s n="adj"/></r></p></e>
@@ -2601,8 +2650,8 @@
 <e a="hector"><p><l>fluviométrico<s n="adj"/></l><r>fluviomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fluídico<s n="adj"/></l><r>fluídic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fonométrico<s n="adj"/></l><r>fonomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fonêmico<s n="adj"/></l><r>fonèmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fotoelétrico<s n="adj"/></l><r>fotoelètric<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>fonêmico<s n="adj"/></l><r>fonèmic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>fotoelétrico<s n="adj"/></l><r>fotoelètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fotogramétrico<s n="adj"/></l><r>fotogramètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fotomecânico<s n="adj"/></l><r>fotomecànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fotométrico<s n="adj"/></l><r>fotomètric<s n="adj"/></r></p></e>
@@ -2623,7 +2672,7 @@
 <e a="hector"><p><l>geobotânico<s n="adj"/></l><r>geobotànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>geocêntrico<s n="adj"/></l><r>geocèntric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>geocíclico<s n="adj"/></l><r>geocíclic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>geoeconômico<s n="adj"/></l><r>geoeconòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>geoeconômico<s n="adj"/></l><r>geoeconòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>geofísico<s n="adj"/></l><r>geofísic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>geomântico<s n="adj"/></l><r>geomàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>geométrico<s n="adj"/></l><r>geomètric<s n="adj"/></r></p></e>
@@ -2632,7 +2681,7 @@
 <e a="hector"><p><l>germânico<s n="adj"/></l><r>germànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>glagolítico<s n="adj"/></l><r>glagolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>glutâmico<s n="adj"/></l><r>glutàmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>gnômico<s n="adj"/></l><r>gnòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>gnômico<s n="adj"/></l><r>gnòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>goniométrico<s n="adj"/></l><r>goniomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>gonorreico<s n="adj"/></l><r>gonorreic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>grafométrico<s n="adj"/></l><r>grafomètric<s n="adj"/></r></p></e>
@@ -2651,9 +2700,9 @@
 <e a="hector"><p><l>helenístico<s n="adj"/></l><r>hel·lenístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hemicíclico<s n="adj"/></l><r>hemicíclic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hemolítico<s n="adj"/></l><r>hemolític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>hemoptoico<s n="adj"/></l><r>hemoptoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>hemoptoico<s n="adj"/></l><r>hemoptoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hermenêutico<s n="adj"/></l><r>hermenèutic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>heroico<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>heroico<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>heterocíclico<s n="adj"/></l><r>heterocíclic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>heterogâmico<s n="adj"/></l><r>heterogàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>heurístico<s n="adj"/></l><r>heurístic<s n="adj"/></r></p></e>
@@ -2668,7 +2717,7 @@
 <e a="hector"><p><l>higiênico<s n="adj"/></l><r>higiènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>higrométrico<s n="adj"/></l><r>higromètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hipercrítico<s n="adj"/></l><r>hipercrític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>hipersônico<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>hipersônico<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hipocorístico<s n="adj"/></l><r>hipocorístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hipsométrico<s n="adj"/></l><r>hipsomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>hipúrico<s n="adj"/></l><r>hipúric<s n="adj"/></r></p></e>
@@ -2690,7 +2739,7 @@
 <e a="hector"><p><l>inautêntico<s n="adj"/></l><r>inautèntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indostânico<s n="adj"/></l><r>indostànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inorgânico<s n="adj"/></l><r>inorgànic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>interatômico<s n="adj"/></l><r>interatòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>interatômico<s n="adj"/></l><r>interatòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interoceânico<s n="adj"/></l><r>interoceànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intratelúrico<s n="adj"/></l><r>intratel·lúric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>irânico<s n="adj"/></l><r>irànic<s n="adj"/></r></p></e>
@@ -2700,7 +2749,7 @@
 <e a="hector"><p><l>isogâmico<s n="adj"/></l><r>isogàmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>isolecítico<s n="adj"/></l><r>isolecític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>isométrico<s n="adj"/></l><r>isomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>isquêmico<s n="adj"/></l><r>isquèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>isquêmico<s n="adj"/></l><r>isquèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>israelítico<s n="adj"/></l><r>israelític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>iâmbico<s n="adj"/></l><r>iàmbic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>jazzístico<s n="adj"/></l><r>jazzístic<s n="adj"/></r></p></e>
@@ -2713,14 +2762,14 @@
 <e a="hector"><p><l>litúrgico<s n="adj"/></l><r>litúrgic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>logarítmico<s n="adj"/></l><r>logarítmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>logogrífico<s n="adj"/></l><r>logogrífic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>loxodrômico<s n="adj"/></l><r>loxodròmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>loxodrômico<s n="adj"/></l><r>loxodròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>líbico<s n="adj"/></l><r>líbic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>límbico<s n="adj"/></l><r>límbic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>límnico<s n="adj"/></l><r>límnic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lírico<s n="adj"/></l><r>líric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lítico<s n="adj"/></l><r>lític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lúbrico<s n="adj"/></l><r>lúbric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>macroeconômico<s n="adj"/></l><r>macroeconòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>macroeconômico<s n="adj"/></l><r>macroeconòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>maiêutico<s n="adj"/></l><r>maièutic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mangânico<s n="adj"/></l><r>mangànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>manométrico<s n="adj"/></l><r>manomètric<s n="adj"/></r></p></e>
@@ -2738,24 +2787,24 @@
 <e a="hector"><p><l>metafísico<s n="adj"/></l><r>metafísic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>metalomecânico<s n="adj"/></l><r>metal·lomecànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>metalúrgico<s n="adj"/></l><r>metal·lúrgic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>metazoico<s n="adj"/></l><r>metazoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>metazoico<s n="adj"/></l><r>metazoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>metonímico<s n="adj"/></l><r>metonímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>metílico<s n="adj"/></l><r>metílic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>microeconômico<s n="adj"/></l><r>microeconòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>microeconômico<s n="adj"/></l><r>microeconòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>microlítico<s n="adj"/></l><r>microlític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>micrométrico<s n="adj"/></l><r>micromètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mielínico<s n="adj"/></l><r>mielínic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>milimétrico<s n="adj"/></l><r>mil·limètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mirífico<s n="adj"/></l><r>mirífic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>monoatômico<s n="adj"/></l><r>monoatòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>monoatômico<s n="adj"/></l><r>monoatòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monocilíndrico<s n="adj"/></l><r>monocilíndric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monoclínico<s n="adj"/></l><r>monoclínic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>monoico<s n="adj"/></l><r>monoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>monoico<s n="adj"/></l><r>monoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monolítico<s n="adj"/></l><r>monolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monométrico<s n="adj"/></l><r>monomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>monotípico<s n="adj"/></l><r>monotípic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>morbífico<s n="adj"/></l><r>morbífic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>morfêmico<s n="adj"/></l><r>morfèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>morfêmico<s n="adj"/></l><r>morfèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mosaico<s n="adj"/></l><r>mosaic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>munífico<s n="adj"/></l><r>munífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>muslímico<s n="adj"/></l><r>muslímic<s n="adj"/></r></p></e>
@@ -2779,25 +2828,25 @@
 <e a="hector"><p><l>oolítico<s n="adj"/></l><r>oolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>optométrico<s n="adj"/></l><r>optomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>osteométrico<s n="adj"/></l><r>osteomètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>osteotômico<s n="adj"/></l><r>osteotòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>osteotômico<s n="adj"/></l><r>osteotòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ozonométrico<s n="adj"/></l><r>ozonomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paleolítico<s n="adj"/></l><r>paleolític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>paleozoico<s n="adj"/></l><r>paleozoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>paleozoico<s n="adj"/></l><r>paleozoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>palmítico<s n="adj"/></l><r>palmític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>palúdico<s n="adj"/></l><r>palúdic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>pandêmico<s n="adj"/></l><r>pandèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>pandêmico<s n="adj"/></l><r>pandèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pangermânico<s n="adj"/></l><r>pangermànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>panorâmico<s n="adj"/></l><r>panoràmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pantomímico<s n="adj"/></l><r>pantomímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paralítico<s n="adj"/></l><r>paralític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paramétrico<s n="adj"/></l><r>paramètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>paranoico<s n="adj"/></l><r>paranoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>paranoico<s n="adj"/></l><r>paranoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paratífico<s n="adj"/></l><r>paratífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paronímico<s n="adj"/></l><r>paronímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>paroxístico<s n="adj"/></l><r>paroxístic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>parêmico<s n="adj"/></l><r>parèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>parêmico<s n="adj"/></l><r>parèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>patafísico<s n="adj"/></l><r>patafísic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>patogênico<s n="adj"/></l><r>patogènic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>patogênico<s n="adj"/></l><r>patogènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>patronímico<s n="adj"/></l><r>patronímic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>patrístico<s n="adj"/></l><r>patrístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pedofílico<s n="adj"/></l><r>pedofílic<s n="adj"/></r></p></e>
@@ -2818,11 +2867,11 @@
 <e a="hector"><p><l>pneumatolítico<s n="adj"/></l><r>pneumatolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>polarimétrico<s n="adj"/></l><r>polarimètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>poliamídico<s n="adj"/></l><r>poliamídic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>poliatômico<s n="adj"/></l><r>poliatòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>poliatômico<s n="adj"/></l><r>poliatòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>policêntrico<s n="adj"/></l><r>policèntric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>policíclico<s n="adj"/></l><r>policíclic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>polidípsico<s n="adj"/></l><r>polidípsic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>polinômico<s n="adj"/></l><r>polinòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>polinômico<s n="adj"/></l><r>polinòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>polipeptídico<s n="adj"/></l><r>polipeptídic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>poliândrico<s n="adj"/></l><r>poliàndric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>poliúrico<s n="adj"/></l><r>poliúric<s n="adj"/></r></p></e>
@@ -2831,7 +2880,7 @@
 <e a="hector"><p><l>potenciométrico<s n="adj"/></l><r>potenciomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>probabilístico<s n="adj"/></l><r>probabilístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proclítico<s n="adj"/></l><r>proclític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>prodrômico<s n="adj"/></l><r>prodròmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>prodrômico<s n="adj"/></l><r>prodròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prolífico<s n="adj"/></l><r>prolífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prometeico<s n="adj"/></l><r>prometeic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>propagandístico<s n="adj"/></l><r>propagandístic<s n="adj"/></r></p></e>
@@ -2864,7 +2913,7 @@
 <e a="hector"><p><l>quístico<s n="adj"/></l><r>quístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>rabdomântico<s n="adj"/></l><r>rabdomàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>rabínico<s n="adj"/></l><r>rabínic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>racêmico<s n="adj"/></l><r>racèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>racêmico<s n="adj"/></l><r>racèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>radiogoniométrico<s n="adj"/></l><r>radiogoniomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>radiométrico<s n="adj"/></l><r>radiomètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>radioterapêutico<s n="adj"/></l><r>radioterapèutic<s n="adj"/></r></p></e>
@@ -2877,14 +2926,14 @@
 <e a="hector"><p><l>rômbico<s n="adj"/></l><r>ròmbic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>rúnico<s n="adj"/></l><r>rúnic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>salicílico<s n="adj"/></l><r>salicílic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>saprozoico<s n="adj"/></l><r>saprozoic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>saprozoico<s n="adj"/></l><r>saprozoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>satânico<s n="adj"/></l><r>satànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>satírico<s n="adj"/></l><r>satíric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>seborreico<s n="adj"/></l><r>seborreic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semicilíndrico<s n="adj"/></l><r>semicilíndric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semântico<s n="adj"/></l><r>semàntic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semítico<s n="adj"/></l><r>semític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>septicêmico<s n="adj"/></l><r>septicèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>septicêmico<s n="adj"/></l><r>septicèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sibarítico<s n="adj"/></l><r>sibarític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sibilítico<s n="adj"/></l><r>sibil·lític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>siderolítico<s n="adj"/></l><r>siderolític<s n="adj"/></r></p></e>
@@ -2894,9 +2943,10 @@
 <e a="hector"><p><l>silúrico<s n="adj"/></l><r>silúric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>simétrico<s n="adj"/></l><r>simètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sincrônico<s n="adj"/></l><r>sincrònic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sindrômico<s n="adj"/></l><r>sindròmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>sindrômico<s n="adj"/></l><r>sindròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sinonímico<s n="adj"/></l><r>sinonímic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>sistêmico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>sistêmico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>sistémico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sociopolítico<s n="adj"/></l><r>sociopolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sodomítico<s n="adj"/></l><r>sodomític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sofístico<s n="adj"/></l><r>sofístic<s n="adj"/></r></p></e>
@@ -2906,7 +2956,7 @@
 <e a="hector"><p><l>sudorífico<s n="adj"/></l><r>sudorífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sulfúrico<s n="adj"/></l><r>sulfúric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sultânico<s n="adj"/></l><r>sultànic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>supersônico<s n="adj"/></l><r>supersònic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>supersônico<s n="adj"/></l><r>supersònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sísmico<s n="adj"/></l><r>sísmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tabífico<s n="adj"/></l><r>tabífic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>talmúdico<s n="adj"/></l><r>talmúdic<s n="adj"/></r></p></e>
@@ -2933,18 +2983,18 @@
 <e a="hector"><p><l>titânico<s n="adj"/></l><r>titànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>toluico<s n="adj"/></l><r>toluic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>toponímico<s n="adj"/></l><r>toponímic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>totêmico<s n="adj"/></l><r>totèmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>tragicômico<s n="adj"/></l><r>tragicòmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>transgênico<s n="adj"/></l><r>transgènic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>totêmico<s n="adj"/></l><r>totèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>tragicômico<s n="adj"/></l><r>tragicòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>transgênico<s n="adj"/></l><r>transgènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transjordânico<s n="adj"/></l><r>transjordànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transoceânico<s n="adj"/></l><r>transoceànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transurânico<s n="adj"/></l><r>transurànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>traquítico<s n="adj"/></l><r>traquític<s n="adj"/></r></p></e>
-<e a="hector"><p><l>triatômico<s n="adj"/></l><r>triatòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>triatômico<s n="adj"/></l><r>triatòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>triclínico<s n="adj"/></l><r>triclínic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>tricotômico<s n="adj"/></l><r>tricotòmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>tricotômico<s n="adj"/></l><r>tricotòmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>trimétrico<s n="adj"/></l><r>trimètric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>trioico<s n="adj"/></l><r>trioic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>trioico<s n="adj"/></l><r>trioic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>trocaico<s n="adj"/></l><r>trocaic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>troglodítico<s n="adj"/></l><r>troglodític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>turânico<s n="adj"/></l><r>turànic<s n="adj"/></r></p></e>
@@ -2957,7 +3007,7 @@
 <e a="hector"><p><l>ugarítico<s n="adj"/></l><r>ugarític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>urbanístico<s n="adj"/></l><r>urbanístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>urânico<s n="adj"/></l><r>urànic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>urêmico<s n="adj"/></l><r>urèmic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>urêmico<s n="adj"/></l><r>urèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>valeriânico<s n="adj"/></l><r>valeriànic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>vampírico<s n="adj"/></l><r>vampíric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>verídico<s n="adj"/></l><r>verídic<s n="adj"/></r></p></e>
@@ -3090,7 +3140,8 @@
 <e a="hector"><p><l>fidejussório<s n="adj"/></l><r>fidejussori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fiduciário<s n="adj"/></l><r>fiduciari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fluxionário<s n="adj"/></l><r>fluxionari<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fraccionário<s n="adj"/></l><r>fraccionari<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>fraccionário<s n="adj"/></l><r>fraccionari<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>fracionário<s n="adj"/></l><r>fraccionari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fragmentário<s n="adj"/></l><r>fragmentari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>frumentário<s n="adj"/></l><r>frumentari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>frustratório<s n="adj"/></l><r>frustratori<s n="adj"/></r></p></e>
@@ -3180,7 +3231,8 @@
 <e a="hector"><p><l>pecuário<s n="adj"/></l><r>pecuari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pecuniário<s n="adj"/></l><r>pecuniari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perdulário<s n="adj"/></l><r>perdulari<s n="adj"/></r></p></e>
-<e a="hector"><p><l>peremptório<s n="adj"/></l><r>peremptori<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>peremptório<s n="adj"/></l><r>peremptori<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perentório<s n="adj"/></l><r>peremptori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perfuntório<s n="adj"/></l><r>perfuntori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>persecutório<s n="adj"/></l><r>persecutori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perspiratório<s n="adj"/></l><r>perspiratori<s n="adj"/></r></p></e>
@@ -3205,7 +3257,8 @@
 <e a="hector"><p><l>proletário<s n="adj"/></l><r>proletari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>promissório<s n="adj"/></l><r>promissori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>propiciatório<s n="adj"/></l><r>propiciatori<s n="adj"/></r></p></e>
-<e a="hector"><p><l>protectório<s n="adj"/></l><r>protectori<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>protectório<s n="adj"/></l><r>protectori<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>protetório<s n="adj"/></l><r>protectori<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>provisório<s n="adj"/></l><r>provisori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>provocatório<s n="adj"/></l><r>provocatori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>purificatório<s n="adj"/></l><r>purificatori<s n="adj"/></r></p></e>
@@ -3213,11 +3266,13 @@
 <e a="hector"><p><l>quaternário<s n="adj"/></l><r>quaternari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>quinário<s n="adj"/></l><r>quinari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>quinquagenário<s n="adj"/></l><r>quinquagenari<s n="adj"/></r></p></e>
-<e a="hector"><p><l>reaccionário<s n="adj"/></l><r>reaccionari<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reaccionário<s n="adj"/></l><r>reaccionari<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reacionário<s n="adj"/></l><r>reaccionari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recordatório<s n="adj"/></l><r>recordatori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recriminatório<s n="adj"/></l><r>recriminatori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reformatório<s n="adj"/></l><r>reformatori<s n="adj"/></r></p></e>
-<e a="hector"><p><l>refractário<s n="adj"/></l><r>refractari<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>refractário<s n="adj"/></l><r>refractari<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>refratário<s n="adj"/></l><r>refractari<s n="adj"/></r></p></e>
 <e a="hector"><p><l>refutatório<s n="adj"/></l><r>refutatori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reivindicatório<s n="adj"/></l><r>reivindicatori<s n="adj"/></r></p></e>
 <e a="hector"><p><l>remissório<s n="adj"/></l><r>remissori<s n="adj"/></r></p></e>
@@ -3568,7 +3623,8 @@
 <e a="hector"><p><l>incurioso<s n="adj"/></l><r>incuriós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indecoroso<s n="adj"/></l><r>indecorós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>industrioso<s n="adj"/></l><r>industriós<s n="adj"/></r></p></e>
-<e a="hector"><p><l>infeccioso<s n="adj"/></l><r>infecciós<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>infeccioso<s n="adj"/></l><r>infecciós<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>infecioso<s n="adj"/></l><r>infecciós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inglorioso<s n="adj"/></l><r>ingloriós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>injurioso<s n="adj"/></l><r>injuriós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inoficioso<s n="adj"/></l><r>inoficiós<s n="adj"/></r></p></e>
@@ -3855,7 +3911,8 @@
 <e a="hector"><p><l>acidificante<s n="adj"/></l><r>acidificant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acordante<s n="adj"/></l><r>acordant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acrescente<s n="adj"/></l><r>acrescent<s n="adj"/></r></p></e>
-<e a="hector"><p><l>actuante<s n="adj"/></l><r>actuant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>actuante<s n="adj"/></l><r>actuant<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>atuante<s n="adj"/></l><r>actuant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adjuvante<s n="adj"/></l><r>adjuvant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adolescente<s n="adj"/></l><r>adolescent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adquirente<s n="adj"/></l><r>adquirent<s n="adj"/></r></p></e>
@@ -3976,7 +4033,8 @@
 <e a="hector"><p><l>decapante<s n="adj"/></l><r>decapant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>decente<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>decente<s n="adj"/></l><r>decent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
-<e a="hector"><p><l>decepcionante<s n="adj"/></l><r>decepcionant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>decepcionante<s n="adj"/></l><r>decepcionant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>dececionante<s n="adj"/></l><r>decepcionant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>declarante<s n="adj"/></l><r>declarant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>declinante<s n="adj"/></l><r>declinant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>decumbente<s n="adj"/></l><r>decumbent<s n="adj"/></r></p></e>
@@ -3996,7 +4054,8 @@
 <e a="hector"><p><l>desconveniente<s n="adj"/></l><r>desconvenient<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desedificante<s n="adj"/></l><r>desedificant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desesperante<s n="adj"/></l><r>desesperant<s n="adj"/></r></p></e>
-<e a="hector"><p><l>desinfectante<s n="adj"/></l><r>desinfectant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>desinfectante<s n="adj"/></l><r>desinfectant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>desinfetante<s n="adj"/></l><r>desinfectant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desobediente<s n="adj"/></l><r>desobedient<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desodorante<s n="adj"/></l><r>desodorant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desoxidante<s n="adj"/></l><r>desoxidant<s n="adj"/></r></p></e>
@@ -4030,9 +4089,12 @@
 <e a="hector"><p><l>efervescente<s n="adj"/></l><r>efervescent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eflorescente<s n="adj"/></l><r>eflorescent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>efluente<s n="adj"/></l><r>efluent<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrizante<s n="adj"/></l><r>electritzant<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electroluminescente<s n="adj"/></l><r>electroluminescent<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrovalente<s n="adj"/></l><r>electrovalent<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrizante<s n="adj"/></l><r>electritzant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletrizante<s n="adj"/></l><r>electritzant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electroluminescente<s n="adj"/></l><r>electroluminescent<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletroluminescente<s n="adj"/></l><r>electroluminescent<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrovalente<s n="adj"/></l><r>electrovalent<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletrovalente<s n="adj"/></l><r>electrovalent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eminente<s n="adj"/></l><r>eminent<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>eminente<s n="adj"/></l><r>eminent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>emocionante<s n="adj"/></l><r>emocionant<s n="adj"/></r></p></e>
@@ -4063,8 +4125,9 @@
 <e a="hector"><p><l>exigente<s n="adj"/></l><r>exigent<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>exigente<s n="adj"/></l><r>exigent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
 <e a="hector"><p><l>exorbitante<s n="adj"/></l><r>exorbitant<s n="adj"/></r></p></e>
-<e a="hector"><p><l>expectante<s n="adj"/></l><r>expectant<s n="adj"/></r></p></e>
-<e a="hector"><p><l>expectorante<s n="adj"/></l><r>expectorant<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>expectante<s n="adj"/></l><r>expectant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>expectorante<s n="adj"/></l><r>expectorant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>expetorante<s n="adj"/></l><r>expectorant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>expediente<s n="adj"/></l><r>expedient<s n="adj"/></r></p></e>
 <e a="hector"><p><l>expelente<s n="adj"/></l><r>expel·lent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>extenuante<s n="adj"/></l><r>extenuant<s n="adj"/></r></p></e>
@@ -4099,7 +4162,7 @@
 <e a="hector"><p><l>fulgente<s n="adj"/></l><r>fulgent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fulgurante<s n="adj"/></l><r>fulgurant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fulminante<s n="adj"/></l><r>fulminant<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>fumante<s n="adj"/></l><r>fumant<s n="adj"/></r></p></e>
+<e vl="br" r="RL" a="hector"><p><l>fumante<s n="adj"/></l><r>fumant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fundente<s n="adj"/></l><r>fundent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>galante<s n="adj"/></l><r>galant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>galopante<s n="adj"/></l><r>galopant<s n="adj"/></r></p></e>
@@ -4156,7 +4219,8 @@
 <e a="hector"><p><l>inerrante<s n="adj"/></l><r>inerrant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inexistente<s n="adj"/></l><r>inexistent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>infamante<s n="adj"/></l><r>infamant<s n="adj"/></r></p></e>
-<e a="hector"><p><l>infectante<s n="adj"/></l><r>infectant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>infectante<s n="adj"/></l><r>infectant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>infetante<s n="adj"/></l><r>infectant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>influente<s n="adj"/></l><r>influent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ingente<s n="adj"/></l><r>ingent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inobediente<s n="adj"/></l><r>inobedient<s n="adj"/></r></p></e>
@@ -4292,7 +4356,8 @@
 <e a="hector"><p><l>preveniente<s n="adj"/></l><r>prevenient<s n="adj"/></r></p></e>
 <e a="hector"><p><l>principiante<s n="adj"/></l><r>principiant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proficiente<s n="adj"/></l><r>proficient<s n="adj"/></r></p></e>
-<e a="hector"><p><l>projectante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>projectante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>projetante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proliferante<s n="adj"/></l><r>proliferant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proponente<s n="adj"/></l><r>proponent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>protestante<s n="adj"/></l><r>protestant<s n="adj"/></r></p></e>
@@ -4424,6 +4489,965 @@
 <e a="hector"><p><l>votante<s n="adj"/></l><r>votant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>vulnerante<s n="adj"/></l><r>vulnerant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>zelante<s n="adj"/></l><r>zelant<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>abiótico<s n="adj"/></l><r>abiòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acetilénico<s n="adj"/></l><r>acetilènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acinético<s n="adj"/></l><r>acinètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acroamático<s n="adj"/></l><r>acroamàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acrobático<s n="adj"/></l><r>acrobàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acromático<s n="adj"/></l><r>acromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acrónico<s n="adj"/></l><r>acrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acusmático<s n="adj"/></l><r>acusmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acético<s n="adj"/></l><r>acètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adiabático<s n="adj"/></l><r>adiabàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adriático<s n="adj"/></l><r>adriàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adónico<s n="adj"/></l><r>adònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aerostático<s n="adj"/></l><r>aerostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aeróbico<s n="adj"/></l><r>aeròbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afásico<s n="adj"/></l><r>afàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afónico<s n="adj"/></l><r>afònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agenésico<s n="adj"/></l><r>agenèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agrológico<s n="adj"/></l><r>agrològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>agronómico<s n="adj"/></l><r>agronòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agógico<s n="adj"/></l><r>agògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agónico<s n="adj"/></l><r>agònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alfabético<s n="adj"/></l><r>alfabètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alfanumérico<s n="adj"/></l><r>alfanumèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alifático<s n="adj"/></l><r>alifàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alopécico<s n="adj"/></l><r>alopècic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aloético<s n="adj"/></l><r>aloètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aléxico<s n="adj"/></l><r>alèxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alógico<s n="adj"/></l><r>alògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amaurótico<s n="adj"/></l><r>amauròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amigdálico<s n="adj"/></l><r>amigdàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amniótico<s n="adj"/></l><r>amniòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amnésico<s n="adj"/></l><r>amnèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amulético<s n="adj"/></l><r>amulètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anabático<s n="adj"/></l><r>anabàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anabólico<s n="adj"/></l><r>anabòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anacorético<s n="adj"/></l><r>anacorètic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>anacrónico<s n="adj"/></l><r>anacrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anaeróbico<s n="adj"/></l><r>anaeròbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anafórico<s n="adj"/></l><r>anafòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anagramático<s n="adj"/></l><r>anagramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anagógico<s n="adj"/></l><r>anagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>analemático<s n="adj"/></l><r>analemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>analgésico<s n="adj"/></l><r>analgèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>analógico<s n="adj"/></l><r>analògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anastigmático<s n="adj"/></l><r>anastigmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anastomótico<s n="adj"/></l><r>anastomòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anastático<s n="adj"/></l><r>anastàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>anatómico<s n="adj"/></l><r>anatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anemográfico<s n="adj"/></l><r>anemogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anemológico<s n="adj"/></l><r>anemològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anestésico<s n="adj"/></l><r>anestèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>angélico<s n="adj"/></l><r>angèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anisotrópico<s n="adj"/></l><r>anisotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anoréxico<s n="adj"/></l><r>anorèxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antagónico<s n="adj"/></l><r>antagònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>antiacadémico<s n="adj"/></l><r>antiacadèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antiasmático<s n="adj"/></l><r>antiasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antibiótico<s n="adj"/></l><r>antibiòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anticatólico<s n="adj"/></l><r>anticatòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antidemocrático<s n="adj"/></l><r>antidemocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antidiabético<s n="adj"/></l><r>antidiabètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antidiftérico<s n="adj"/></l><r>antidiftèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antidogmático<s n="adj"/></l><r>antidogmàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>antieconómico<s n="adj"/></l><r>antieconòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antiemético<s n="adj"/></l><r>antiemètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antiespasmódico<s n="adj"/></l><r>antiespasmòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antiestético<s n="adj"/></l><r>antiestètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antietimológico<s n="adj"/></l><r>antietimològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antievangélico<s n="adj"/></l><r>antievangèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antigénico<s n="adj"/></l><r>antigènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antilógico<s n="adj"/></l><r>antilògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antimagnético<s n="adj"/></l><r>antimagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antimaçónico<s n="adj"/></l><r>antimaçònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antinarcótico<s n="adj"/></l><r>antinarcòtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>antinómico<s n="adj"/></l><r>antinòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipatriótico<s n="adj"/></l><r>antipatriòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipedagógico<s n="adj"/></l><r>antipedagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipirético<s n="adj"/></l><r>antipirètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipirótico<s n="adj"/></l><r>antipiròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipoético<s n="adj"/></l><r>antipoètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipsórico<s n="adj"/></l><r>antipsòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipático<s n="adj"/></l><r>antipàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antitóxico<s n="adj"/></l><r>antitòxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antológico<s n="adj"/></l><r>antològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antropológico<s n="adj"/></l><r>antropològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antroposófico<s n="adj"/></l><r>antroposòfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antrácico<s n="adj"/></l><r>antràcic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>anémico<s n="adj"/></l><r>anèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anódico<s n="adj"/></l><r>anòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aperiódico<s n="adj"/></l><r>aperiòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apirético<s n="adj"/></l><r>apirètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aplanético<s n="adj"/></l><r>aplanètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apocromático<s n="adj"/></l><r>apocromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apoflegmático<s n="adj"/></l><r>apoflegmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apologético<s n="adj"/></l><r>apologètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apológico<s n="adj"/></l><r>apològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aponeurótico<s n="adj"/></l><r>aponeuròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aporético<s n="adj"/></l><r>aporètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apostático<s n="adj"/></l><r>apostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apostólico<s n="adj"/></l><r>apostòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apoteótico<s n="adj"/></l><r>apoteòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apático<s n="adj"/></l><r>apàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aquático<s n="adj"/></l><r>aquàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arcangélico<s n="adj"/></l><r>arcangèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arcádico<s n="adj"/></l><r>arcàdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aristocrático<s n="adj"/></l><r>aristocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aristotélico<s n="adj"/></l><r>aristotèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aritmético<s n="adj"/></l><r>aritmètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aromático<s n="adj"/></l><r>aromàtic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>arquitectónico<s n="adj"/></l><r>arquitectònic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>arquitetónico<s n="adj"/></l><r>arquitectònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arrizotónico<s n="adj"/></l><r>arrizotònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arábico<s n="adj"/></l><r>aràbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ascético<s n="adj"/></l><r>ascètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asmático<s n="adj"/></l><r>asmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>astigmático<s n="adj"/></l><r>astigmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>astrobiológico<s n="adj"/></l><r>astrobiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>astrológico<s n="adj"/></l><r>astrològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>astronómico<s n="adj"/></l><r>astronòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>astático<s n="adj"/></l><r>astàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asténico<s n="adj"/></l><r>astènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atlético<s n="adj"/></l><r>atlètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atrófico<s n="adj"/></l><r>atròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atávico<s n="adj"/></l><r>atàvic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atáxico<s n="adj"/></l><r>atàxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atónico<s n="adj"/></l><r>atònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autobiográfico<s n="adj"/></l><r>autobiogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autocrático<s n="adj"/></l><r>autocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autogenético<s n="adj"/></l><r>autogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autográfico<s n="adj"/></l><r>autogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autopático<s n="adj"/></l><r>autopàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autotrófico<s n="adj"/></l><r>autotròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>axiomático<s n="adj"/></l><r>axiomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>azeotrópico<s n="adj"/></l><r>azeotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>azótico<s n="adj"/></l><r>azòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>babilónico<s n="adj"/></l><r>babilònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>babélico<s n="adj"/></l><r>babèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bacteriológico<s n="adj"/></l><r>bacteriològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bacterioscópico<s n="adj"/></l><r>bacterioscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bacteriostático<s n="adj"/></l><r>bacteriostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>barbárico<s n="adj"/></l><r>barbàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>barotrópico<s n="adj"/></l><r>barotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>batipelágico<s n="adj"/></l><r>batipelàgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>benzénico<s n="adj"/></l><r>benzènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>benéfico<s n="adj"/></l><r>benèfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>beribérico<s n="adj"/></l><r>beribèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bifónico<s n="adj"/></l><r>bifònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>binómico<s n="adj"/></l><r>binòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biobibliográfico<s n="adj"/></l><r>biobibliogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biogenético<s n="adj"/></l><r>biogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biográfico<s n="adj"/></l><r>biogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biomédico<s n="adj"/></l><r>biomèdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biótico<s n="adj"/></l><r>biòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>borbónico<s n="adj"/></l><r>borbònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>braquigráfico<s n="adj"/></l><r>braquigràfic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>brómico<s n="adj"/></l><r>bròmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bubónico<s n="adj"/></l><r>bubònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bucólico<s n="adj"/></l><r>bucòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>burocrático<s n="adj"/></l><r>burocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bárico<s n="adj"/></l><r>bàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bético<s n="adj"/></l><r>bètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bórico<s n="adj"/></l><r>bòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cacofónico<s n="adj"/></l><r>cacofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cadavérico<s n="adj"/></l><r>cadavèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calcográfico<s n="adj"/></l><r>calcogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calidoscópico<s n="adj"/></l><r>calidoscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calórico<s n="adj"/></l><r>calòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>canónico<s n="adj"/></l><r>canònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>caracterológico<s n="adj"/></l><r>caracterològic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>caraterológico<s n="adj"/></l><r>caracterològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>carbónico<s n="adj"/></l><r>carbònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cardiotónico<s n="adj"/></l><r>cardiotònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carismático<s n="adj"/></l><r>carismàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cartográfico<s n="adj"/></l><r>cartogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catabático<s n="adj"/></l><r>catabàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catabólico<s n="adj"/></l><r>catabòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catalográfico<s n="adj"/></l><r>catalogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catatónico<s n="adj"/></l><r>catatònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catedrático<s n="adj"/></l><r>catedràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>categórico<s n="adj"/></l><r>categòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catequético<s n="adj"/></l><r>catequètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catódico<s n="adj"/></l><r>catòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caótico<s n="adj"/></l><r>caòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cefálico<s n="adj"/></l><r>cefàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cetónico<s n="adj"/></l><r>cetònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cibernético<s n="adj"/></l><r>cibernètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ciclónico<s n="adj"/></l><r>ciclònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cifótico<s n="adj"/></l><r>cifòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cinegético<s n="adj"/></l><r>cinegètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cinemático<s n="adj"/></l><r>cinemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cinético<s n="adj"/></l><r>cinètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cisgangético<s n="adj"/></l><r>cisgangètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cismático<s n="adj"/></l><r>cismàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>citológico<s n="adj"/></l><r>citològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>citoplasmático<s n="adj"/></l><r>citoplasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ciático<s n="adj"/></l><r>ciàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>claustrofóbico<s n="adj"/></l><r>claustrofòbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>climatológico<s n="adj"/></l><r>climatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>climatérico<s n="adj"/></l><r>climatèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clorótico<s n="adj"/></l><r>cloròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clórico<s n="adj"/></l><r>clòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colerético<s n="adj"/></l><r>colerètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colérico<s n="adj"/></l><r>colèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conquiliológico<s n="adj"/></l><r>conquiliològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coreográfico<s n="adj"/></l><r>coreogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cosmográfico<s n="adj"/></l><r>cosmogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cosmogónico<s n="adj"/></l><r>cosmogònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cosmológico<s n="adj"/></l><r>cosmològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cosmético<s n="adj"/></l><r>cosmètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cratogénico<s n="adj"/></l><r>cratogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cretácico<s n="adj"/></l><r>cretàcic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>criminológico<s n="adj"/></l><r>criminològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>criogénico<s n="adj"/></l><r>criogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crioscópico<s n="adj"/></l><r>crioscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>criptográfico<s n="adj"/></l><r>criptogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>criptológico<s n="adj"/></l><r>criptològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crisográfico<s n="adj"/></l><r>crisogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cristológico<s n="adj"/></l><r>cristològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cromatográfico<s n="adj"/></l><r>cromatogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cromogénico<s n="adj"/></l><r>cromogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cromolitográfico<s n="adj"/></l><r>cromolitogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cromático<s n="adj"/></l><r>cromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cronográfico<s n="adj"/></l><r>cronogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cronológico<s n="adj"/></l><r>cronològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>crómico<s n="adj"/></l><r>cròmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ctónico<s n="adj"/></l><r>ctònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>célico<s n="adj"/></l><r>cèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cólico<s n="adj"/></l><r>còlic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>cómico<s n="adj"/></l><r>còmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cónico<s n="adj"/></l><r>cònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>dactilográfico<s n="adj"/></l><r>dactilogràfic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>datilográfico<s n="adj"/></l><r>dactilogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>daltónico<s n="adj"/></l><r>daltònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dedálico<s n="adj"/></l><r>dedàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demagógico<s n="adj"/></l><r>demagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demótico<s n="adj"/></l><r>demòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deontológico<s n="adj"/></l><r>deontològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dermatológico<s n="adj"/></l><r>dermatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diabético<s n="adj"/></l><r>diabètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diabólico<s n="adj"/></l><r>diabòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diacrónico<s n="adj"/></l><r>diacrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diaforético<s n="adj"/></l><r>diaforètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diafragmático<s n="adj"/></l><r>diafragmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dialógico<s n="adj"/></l><r>dialògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diamagnético<s n="adj"/></l><r>diamagnètic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>diatómico<s n="adj"/></l><r>diatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diatónico<s n="adj"/></l><r>diatònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>dicotómico<s n="adj"/></l><r>dicotòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>didascálico<s n="adj"/></l><r>didascàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dietético<s n="adj"/></l><r>dietètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diftérico<s n="adj"/></l><r>diftèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difásico<s n="adj"/></l><r>difàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>digenético<s n="adj"/></l><r>digenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dilemático<s n="adj"/></l><r>dilemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diptérico<s n="adj"/></l><r>diptèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discográfico<s n="adj"/></l><r>discogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disentérico<s n="adj"/></l><r>disentèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disfónico<s n="adj"/></l><r>disfònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disléxico<s n="adj"/></l><r>dislèxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dispermático<s n="adj"/></l><r>dispermàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>distrófico<s n="adj"/></l><r>distròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>distócico<s n="adj"/></l><r>distòcic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dogmático<s n="adj"/></l><r>dogmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dórico<s n="adj"/></l><r>dòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ecográfico<s n="adj"/></l><r>ecogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ectrótico<s n="adj"/></l><r>ectròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ectópico<s n="adj"/></l><r>ectòpic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>ecuménico<s n="adj"/></l><r>ecumènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edafológico<s n="adj"/></l><r>edafològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edáfico<s n="adj"/></l><r>edàfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edénico<s n="adj"/></l><r>edènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>egiptológico<s n="adj"/></l><r>egiptològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eidético<s n="adj"/></l><r>eidètic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrobiológico<s n="adj"/></l><r>electrobiològic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrobiológico<s n="adj"/></l><r>electrobiològic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrocardiográfico<s n="adj"/></l><r>electrocardiogràfic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrocardiográfico<s n="adj"/></l><r>electrocardiogràfic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrocinético<s n="adj"/></l><r>electrocinètic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrocinético<s n="adj"/></l><r>electrocinètic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electroencefalográfico<s n="adj"/></l><r>electroencefalogràfic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletroencefalográfico<s n="adj"/></l><r>electroencefalogràfic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrofisiológico<s n="adj"/></l><r>electrofisiològic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrofisiológico<s n="adj"/></l><r>electrofisiològic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electromagnético<s n="adj"/></l><r>electromagnètic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletromagnético<s n="adj"/></l><r>electromagnètic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electroterápico<s n="adj"/></l><r>electroteràpic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletroterápico<s n="adj"/></l><r>electroteràpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eleático<s n="adj"/></l><r>eleàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emblemático<s n="adj"/></l><r>emblemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>embriogénico<s n="adj"/></l><r>embriogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>embriológico<s n="adj"/></l><r>embriològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>empireumático<s n="adj"/></l><r>empireumàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>empático<s n="adj"/></l><r>empàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emético<s n="adj"/></l><r>emètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>encefálico<s n="adj"/></l><r>encefàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enciclopédico<s n="adj"/></l><r>enciclopèdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endocrinológico<s n="adj"/></l><r>endocrinològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endofásico<s n="adj"/></l><r>endofàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endoscópico<s n="adj"/></l><r>endoscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endosmótico<s n="adj"/></l><r>endosmòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enológico<s n="adj"/></l><r>enològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entomológico<s n="adj"/></l><r>entomològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entrópico<s n="adj"/></l><r>entròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entérico<s n="adj"/></l><r>entèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entótico<s n="adj"/></l><r>entòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enzimático<s n="adj"/></l><r>enzimàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enzoótico<s n="adj"/></l><r>enzoòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enólico<s n="adj"/></l><r>enòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eocénico<s n="adj"/></l><r>eocènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epagógico<s n="adj"/></l><r>epagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epentético<s n="adj"/></l><r>epentètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epidemiológico<s n="adj"/></l><r>epidemiològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>epidémico<s n="adj"/></l><r>epidèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epigenético<s n="adj"/></l><r>epigenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epiglótico<s n="adj"/></l><r>epiglòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epigramático<s n="adj"/></l><r>epigramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epigráfico<s n="adj"/></l><r>epigràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epigénico<s n="adj"/></l><r>epigènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epirogénico<s n="adj"/></l><r>epirogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epistemológico<s n="adj"/></l><r>epistemològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>episódico<s n="adj"/></l><r>episòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epitélico<s n="adj"/></l><r>epitèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epizoótico<s n="adj"/></l><r>epizoòtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>ergonómico<s n="adj"/></l><r>ergonòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>errático<s n="adj"/></l><r>erràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>erótico<s n="adj"/></l><r>eròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escarótico<s n="adj"/></l><r>escaròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escatológico<s n="adj"/></l><r>escatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esclerótico<s n="adj"/></l><r>escleròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escotópico<s n="adj"/></l><r>escotòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escultórico<s n="adj"/></l><r>escultòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esférico<s n="adj"/></l><r>esfèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eslavónico<s n="adj"/></l><r>eslavònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esofágico<s n="adj"/></l><r>esofàgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esotérico<s n="adj"/></l><r>esotèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espasmódico<s n="adj"/></l><r>espasmòdic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectrográfico<s n="adj"/></l><r>espectrogràfic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetrográfico<s n="adj"/></l><r>espectrogràfic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectroscópico<s n="adj"/></l><r>espectroscòpic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetroscópico<s n="adj"/></l><r>espectroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espeleológico<s n="adj"/></l><r>espeleològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espermático<s n="adj"/></l><r>espermàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esplenético<s n="adj"/></l><r>esplenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esplénico<s n="adj"/></l><r>esplènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esporádico<s n="adj"/></l><r>esporàdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esquelético<s n="adj"/></l><r>esquelètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esquemático<s n="adj"/></l><r>esquemàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>esquizofrénico<s n="adj"/></l><r>esquizofrènic<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>estadístico<s n="adj"/></l><r>estadístic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esteganográfico<s n="adj"/></l><r>esteganogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estenográfico<s n="adj"/></l><r>estenogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estereofónico<s n="adj"/></l><r>estereofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estereográfico<s n="adj"/></l><r>estereogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estereoscópico<s n="adj"/></l><r>estereoscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esteárico<s n="adj"/></l><r>esteàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estigmático<s n="adj"/></l><r>estigmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estilográfico<s n="adj"/></l><r>estilogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estomatológico<s n="adj"/></l><r>estomatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estomático<s n="adj"/></l><r>estomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estrambótico<s n="adj"/></l><r>estrambòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estratigráfico<s n="adj"/></l><r>estratigràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estrábico<s n="adj"/></l><r>estràbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estrófico<s n="adj"/></l><r>estròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estático<s n="adj"/></l><r>estàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esténico<s n="adj"/></l><r>estènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estépico<s n="adj"/></l><r>estèpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etilénico<s n="adj"/></l><r>etilènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etimológico<s n="adj"/></l><r>etimològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etiológico<s n="adj"/></l><r>etiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etiópico<s n="adj"/></l><r>etiòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etnográfico<s n="adj"/></l><r>etnogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etnogénico<s n="adj"/></l><r>etnogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etnológico<s n="adj"/></l><r>etnològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>etológico<s n="adj"/></l><r>etològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>eufémico<s n="adj"/></l><r>eufèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eufónico<s n="adj"/></l><r>eufònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eufórico<s n="adj"/></l><r>eufòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eugenésico<s n="adj"/></l><r>eugenèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eugénico<s n="adj"/></l><r>eugènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eustático<s n="adj"/></l><r>eustàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exantemático<s n="adj"/></l><r>exantemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exegético<s n="adj"/></l><r>exegètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exotérico<s n="adj"/></l><r>exotèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extático<s n="adj"/></l><r>extàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exótico<s n="adj"/></l><r>exòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fagedénico<s n="adj"/></l><r>fagedènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>famélico<s n="adj"/></l><r>famèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fantasmagórico<s n="adj"/></l><r>fantasmagòric<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>faraónico<s n="adj"/></l><r>faraònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>farmacológico<s n="adj"/></l><r>farmacològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>farmacopólico<s n="adj"/></l><r>farmacopòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>farádico<s n="adj"/></l><r>faràdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fenológico<s n="adj"/></l><r>fenològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fenomenológico<s n="adj"/></l><r>fenomenològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ferrimagnético<s n="adj"/></l><r>ferrimagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ferromagnético<s n="adj"/></l><r>ferromagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filantrópico<s n="adj"/></l><r>filantròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filatélico<s n="adj"/></l><r>filatèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filogenético<s n="adj"/></l><r>filogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filogénico<s n="adj"/></l><r>filogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filológico<s n="adj"/></l><r>filològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filomático<s n="adj"/></l><r>filomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filosófico<s n="adj"/></l><r>filosòfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filético<s n="adj"/></l><r>filètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisiocrático<s n="adj"/></l><r>fisiocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisiográfico<s n="adj"/></l><r>fisiogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisiogénico<s n="adj"/></l><r>fisiogènic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>fisionómico<s n="adj"/></l><r>fisionòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisiopatológico<s n="adj"/></l><r>fisiopatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fisioterápico<s n="adj"/></l><r>fisioteràpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fitogeográfico<s n="adj"/></l><r>fitogeogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fitográfico<s n="adj"/></l><r>fitogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fitopatológico<s n="adj"/></l><r>fitopatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flegmático<s n="adj"/></l><r>flegmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fleumático<s n="adj"/></l><r>fleumàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fonemático<s n="adj"/></l><r>fonemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fonográfico<s n="adj"/></l><r>fonogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fonológico<s n="adj"/></l><r>fonològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>fonémico<s n="adj"/></l><r>fonèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fonético<s n="adj"/></l><r>fonètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fosfórico<s n="adj"/></l><r>fosfòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotoelectrónico<s n="adj"/></l><r>fotoelectrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotográfico<s n="adj"/></l><r>fotogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotogénico<s n="adj"/></l><r>fotogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotolitográfico<s n="adj"/></l><r>fotolitogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotomagnético<s n="adj"/></l><r>fotomagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotomicrográfico<s n="adj"/></l><r>fotomicrogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fototipográfico<s n="adj"/></l><r>fototipogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fototrópico<s n="adj"/></l><r>fototròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fraseológico<s n="adj"/></l><r>fraseològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frenológico<s n="adj"/></l><r>frenològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frenopático<s n="adj"/></l><r>frenopàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frenético<s n="adj"/></l><r>frenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>freático<s n="adj"/></l><r>freàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frénico<s n="adj"/></l><r>frènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ftálico<s n="adj"/></l><r>ftàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fumárico<s n="adj"/></l><r>fumàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fénico<s n="adj"/></l><r>fènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fólico<s n="adj"/></l><r>fòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fónico<s n="adj"/></l><r>fònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galénico<s n="adj"/></l><r>galènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gangético<s n="adj"/></l><r>gangètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>genealógico<s n="adj"/></l><r>genealògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>genérico<s n="adj"/></l><r>genèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>genésico<s n="adj"/></l><r>genèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geocronológico<s n="adj"/></l><r>geocronològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geodésico<s n="adj"/></l><r>geodèsic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>geoeconómico<s n="adj"/></l><r>geoeconòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geoestratégico<s n="adj"/></l><r>geoestratègic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geogénico<s n="adj"/></l><r>geogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geomagnético<s n="adj"/></l><r>geomagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geomorfológico<s n="adj"/></l><r>geomorfològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geotectónico<s n="adj"/></l><r>geotectònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geotrópico<s n="adj"/></l><r>geotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gerontocrático<s n="adj"/></l><r>gerontocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gerontológico<s n="adj"/></l><r>gerontològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ginecológico<s n="adj"/></l><r>ginecològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>giromagnético<s n="adj"/></l><r>giromagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>giroscópico<s n="adj"/></l><r>giroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glicérico<s n="adj"/></l><r>glicèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glicónico<s n="adj"/></l><r>glicònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glótico<s n="adj"/></l><r>glòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gnomológico<s n="adj"/></l><r>gnomològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gnomónico<s n="adj"/></l><r>gnomònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>gnómico<s n="adj"/></l><r>gnòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gonocórico<s n="adj"/></l><r>gonocòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>grafológico<s n="adj"/></l><r>grafològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gramofónico<s n="adj"/></l><r>gramofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gótico<s n="adj"/></l><r>gòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hagiográfico<s n="adj"/></l><r>hagiogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hanseático<s n="adj"/></l><r>hanseàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>harmónico<s n="adj"/></l><r>harmònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hegemónico<s n="adj"/></l><r>hegemònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heliográfico<s n="adj"/></l><r>heliogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heliostático<s n="adj"/></l><r>heliostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>helvético<s n="adj"/></l><r>helvètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hematológico<s n="adj"/></l><r>hematològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hematopoético<s n="adj"/></l><r>hematopoètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemiplégico<s n="adj"/></l><r>hemiplègic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemisférico<s n="adj"/></l><r>hemisfèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemorrágico<s n="adj"/></l><r>hemorràgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemostático<s n="adj"/></l><r>hemostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hepático<s n="adj"/></l><r>hepàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hermético<s n="adj"/></l><r>hermètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>herpético<s n="adj"/></l><r>herpètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>herético<s n="adj"/></l><r>herètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heterozigótico<s n="adj"/></l><r>heterozigòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidatogénico<s n="adj"/></l><r>hidatogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrofóbico<s n="adj"/></l><r>hidrofòbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrológico<s n="adj"/></l><r>hidrològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidropneumático<s n="adj"/></l><r>hidropneumàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidroterápico<s n="adj"/></l><r>hidroteràpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrópico<s n="adj"/></l><r>hidròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hierático<s n="adj"/></l><r>hieràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>higiénico<s n="adj"/></l><r>higiènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>higroscópico<s n="adj"/></l><r>higroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hiperbólico<s n="adj"/></l><r>hiperbòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hiperestésico<s n="adj"/></l><r>hiperestèsic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>hipersónico<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipertónico<s n="adj"/></l><r>hipertònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipnagógico<s n="adj"/></l><r>hipnagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipnótico<s n="adj"/></l><r>hipnòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipofosfórico<s n="adj"/></l><r>hipofosfòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipostático<s n="adj"/></l><r>hipostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipotético<s n="adj"/></l><r>hipotètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipotónico<s n="adj"/></l><r>hipotònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipsográfico<s n="adj"/></l><r>hipsogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>histológico<s n="adj"/></l><r>histològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>histopatológico<s n="adj"/></l><r>histopatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>historiográfico<s n="adj"/></l><r>historiogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>histriónico<s n="adj"/></l><r>histriònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>holográfico<s n="adj"/></l><r>hologràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homalográfico<s n="adj"/></l><r>homalogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homeopático<s n="adj"/></l><r>homeopàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homofónico<s n="adj"/></l><r>homofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homográfico<s n="adj"/></l><r>homogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homológico<s n="adj"/></l><r>homològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homotético<s n="adj"/></l><r>homotètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homozigótico<s n="adj"/></l><r>homozigòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homérico<s n="adj"/></l><r>homèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iconográfico<s n="adj"/></l><r>iconogràfic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>ictérico<s n="adj"/></l><r>ictèric<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>itérico<s n="adj"/></l><r>ictèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>icónico<s n="adj"/></l><r>icònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ideográfico<s n="adj"/></l><r>ideogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ideogénico<s n="adj"/></l><r>ideogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>idiocromático<s n="adj"/></l><r>idiocromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>idiomático<s n="adj"/></l><r>idiomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>idiopático<s n="adj"/></l><r>idiopàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inestético<s n="adj"/></l><r>inestètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>infográfico<s n="adj"/></l><r>infogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iniciático<s n="adj"/></l><r>iniciàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>interatómico<s n="adj"/></l><r>interatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intervocálico<s n="adj"/></l><r>intervocàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intratorácico<s n="adj"/></l><r>intratoràcic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isagógico<s n="adj"/></l><r>isagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isentrópico<s n="adj"/></l><r>isentròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isobárico<s n="adj"/></l><r>isobàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isocromático<s n="adj"/></l><r>isocromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isogónico<s n="adj"/></l><r>isogònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isostático<s n="adj"/></l><r>isostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isotrópico<s n="adj"/></l><r>isotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isotónico<s n="adj"/></l><r>isotònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isotópico<s n="adj"/></l><r>isotòpic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>isquémico<s n="adj"/></l><r>isquèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isópico<s n="adj"/></l><r>isòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>itálico<s n="adj"/></l><r>itàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iódico<s n="adj"/></l><r>iòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iónico<s n="adj"/></l><r>iònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jafético<s n="adj"/></l><r>jafètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jónico<s n="adj"/></l><r>jònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lacónico<s n="adj"/></l><r>lacònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leucocrático<s n="adj"/></l><r>leucocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leucopoético<s n="adj"/></l><r>leucopoètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lexicográfico<s n="adj"/></l><r>lexicogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lexicológico<s n="adj"/></l><r>lexicològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lipogramático<s n="adj"/></l><r>lipogramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>litográfico<s n="adj"/></l><r>litogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liásico<s n="adj"/></l><r>liàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>logaédico<s n="adj"/></l><r>logaèdic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>loxodrómico<s n="adj"/></l><r>loxodròmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>luético<s n="adj"/></l><r>luètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>léxico<s n="adj"/></l><r>lèxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macarrónico<s n="adj"/></l><r>macarrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macedónico<s n="adj"/></l><r>macedònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macrobiótico<s n="adj"/></l><r>macrobiòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macrocefálico<s n="adj"/></l><r>macrocefàlic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>macroeconómico<s n="adj"/></l><r>macroeconòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macroscópico<s n="adj"/></l><r>macroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>madrepórico<s n="adj"/></l><r>madrepòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magmático<s n="adj"/></l><r>magmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnetocalórico<s n="adj"/></l><r>magnetocalòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnetográfico<s n="adj"/></l><r>magnetogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnésico<s n="adj"/></l><r>magnèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>majestático<s n="adj"/></l><r>majestàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malabárico<s n="adj"/></l><r>malabàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malacológico<s n="adj"/></l><r>malacològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maléfico<s n="adj"/></l><r>malèfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malónico<s n="adj"/></l><r>malònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marasmático<s n="adj"/></l><r>marasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>margárico<s n="adj"/></l><r>margàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mariológico<s n="adj"/></l><r>mariològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maçónico<s n="adj"/></l><r>maçònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mecanográfico<s n="adj"/></l><r>mecanogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mefistofélico<s n="adj"/></l><r>mefistofèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>melodramático<s n="adj"/></l><r>melodramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>melódico<s n="adj"/></l><r>melòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>menorrágico<s n="adj"/></l><r>menorràgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mesentérico<s n="adj"/></l><r>mesentèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mesocrático<s n="adj"/></l><r>mesocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metabólico<s n="adj"/></l><r>metabòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metacromático<s n="adj"/></l><r>metacromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metafónico<s n="adj"/></l><r>metafònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metafórico<s n="adj"/></l><r>metafòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metamérico<s n="adj"/></l><r>metamèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metastático<s n="adj"/></l><r>metastàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>meteorográfico<s n="adj"/></l><r>meteorogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>meteórico<s n="adj"/></l><r>meteòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metodológico<s n="adj"/></l><r>metodològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metrológico<s n="adj"/></l><r>metrològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metódico<s n="adj"/></l><r>metòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miasmático<s n="adj"/></l><r>miasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microbiológico<s n="adj"/></l><r>microbiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microclimático<s n="adj"/></l><r>microclimàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>microeconómico<s n="adj"/></l><r>microeconòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microfónico<s n="adj"/></l><r>microfònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>micrográfico<s n="adj"/></l><r>microgràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microscópico<s n="adj"/></l><r>microscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>micótico<s n="adj"/></l><r>micòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mimético<s n="adj"/></l><r>mimètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mineralógico<s n="adj"/></l><r>mineralògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miocénico<s n="adj"/></l><r>miocènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>misantrópico<s n="adj"/></l><r>misantròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mistagógico<s n="adj"/></l><r>mistagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mitográfico<s n="adj"/></l><r>mitogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mitológico<s n="adj"/></l><r>mitològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mitótico<s n="adj"/></l><r>mitòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miótico<s n="adj"/></l><r>miòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mnemónico<s n="adj"/></l><r>mnemònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mongólico<s n="adj"/></l><r>mongòlic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>monoatómico<s n="adj"/></l><r>monoatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monocromático<s n="adj"/></l><r>monocromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monofilético<s n="adj"/></l><r>monofilètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monofásico<s n="adj"/></l><r>monofàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monogenético<s n="adj"/></l><r>monogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monogramático<s n="adj"/></l><r>monogramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monográfico<s n="adj"/></l><r>monogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monogénico<s n="adj"/></l><r>monogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monomérico<s n="adj"/></l><r>monomèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monopódico<s n="adj"/></l><r>monopòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monotrópico<s n="adj"/></l><r>monotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monozigótico<s n="adj"/></l><r>monozigòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>morfogénico<s n="adj"/></l><r>morfogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>morfológico<s n="adj"/></l><r>morfològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>morfémico<s n="adj"/></l><r>morfèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>muriático<s n="adj"/></l><r>muriàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>museográfico<s n="adj"/></l><r>museogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>museológico<s n="adj"/></l><r>museològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>musicológico<s n="adj"/></l><r>musicològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>máfico<s n="adj"/></l><r>màfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>málico<s n="adj"/></l><r>màlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mélico<s n="adj"/></l><r>mèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>módico<s n="adj"/></l><r>mòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nafténico<s n="adj"/></l><r>naftènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>napoleónico<s n="adj"/></l><r>napoleònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>narcótico<s n="adj"/></l><r>narcòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>necrológico<s n="adj"/></l><r>necrològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>necroscópico<s n="adj"/></l><r>necroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>necrótico<s n="adj"/></l><r>necròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nemático<s n="adj"/></l><r>nemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neocatólico<s n="adj"/></l><r>neocatòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neogénico<s n="adj"/></l><r>neogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neogótico<s n="adj"/></l><r>neogòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neológico<s n="adj"/></l><r>neològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neoplatónico<s n="adj"/></l><r>neoplatònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neoplásico<s n="adj"/></l><r>neoplàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neumático<s n="adj"/></l><r>neumàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neurasténico<s n="adj"/></l><r>neurastènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neurológico<s n="adj"/></l><r>neurològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neuropático<s n="adj"/></l><r>neuropàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neurotóxico<s n="adj"/></l><r>neurotòxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neurótico<s n="adj"/></l><r>neuròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neutrónico<s n="adj"/></l><r>neutrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nilótico<s n="adj"/></l><r>nilòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noemático<s n="adj"/></l><r>noemàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nomográfico<s n="adj"/></l><r>nomogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noológico<s n="adj"/></l><r>noològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nosogénico<s n="adj"/></l><r>nosogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nosológico<s n="adj"/></l><r>nosològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noético<s n="adj"/></l><r>noètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nucleónico<s n="adj"/></l><r>nucleònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>numismático<s n="adj"/></l><r>numismàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>numérico<s n="adj"/></l><r>numèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oceanográfico<s n="adj"/></l><r>oceanogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oclocrático<s n="adj"/></l><r>oclocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>odontológico<s n="adj"/></l><r>odontològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oftalmológico<s n="adj"/></l><r>oftalmològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oleográfico<s n="adj"/></l><r>oleogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oligocénico<s n="adj"/></l><r>oligocènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oligofrénico<s n="adj"/></l><r>oligofrènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oncológico<s n="adj"/></l><r>oncològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ontogénico<s n="adj"/></l><r>ontogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ontológico<s n="adj"/></l><r>ontològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opistocélico<s n="adj"/></l><r>opistocèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opoterápico<s n="adj"/></l><r>opoteràpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orfeónico<s n="adj"/></l><r>orfeònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>organogenético<s n="adj"/></l><r>organogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>organográfico<s n="adj"/></l><r>organogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ornitológico<s n="adj"/></l><r>ornitològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orográfico<s n="adj"/></l><r>orogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orogénico<s n="adj"/></l><r>orogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortocromático<s n="adj"/></l><r>ortocromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortofónico<s n="adj"/></l><r>ortofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortogenético<s n="adj"/></l><r>ortogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortopédico<s n="adj"/></l><r>ortopèdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortoscópico<s n="adj"/></l><r>ortoscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortoépico<s n="adj"/></l><r>ortoèpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>osmótico<s n="adj"/></l><r>osmòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>osteográfico<s n="adj"/></l><r>osteogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>osteogénico<s n="adj"/></l><r>osteogènic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>osteotómico<s n="adj"/></l><r>osteotòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>otológico<s n="adj"/></l><r>otològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ovárico<s n="adj"/></l><r>ovàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oxiacetilénico<s n="adj"/></l><r>oxiacetilènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oxálico<s n="adj"/></l><r>oxàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paleográfico<s n="adj"/></l><r>paleogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paleogénico<s n="adj"/></l><r>paleogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palinológico<s n="adj"/></l><r>palinològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pancreático<s n="adj"/></l><r>pancreàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pancromático<s n="adj"/></l><r>pancromàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>pandémico<s n="adj"/></l><r>pandèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pansófico<s n="adj"/></l><r>pansòfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pantagruélico<s n="adj"/></l><r>pantagruèlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parabólico<s n="adj"/></l><r>parabòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paradigmático<s n="adj"/></l><r>paradigmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paragógico<s n="adj"/></l><r>paragògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paramagnético<s n="adj"/></l><r>paramagnètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paraplasmático<s n="adj"/></l><r>paraplasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paraplégico<s n="adj"/></l><r>paraplègic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parapsicológico<s n="adj"/></l><r>parapsicològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parasitológico<s n="adj"/></l><r>parasitològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paregórico<s n="adj"/></l><r>paregòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paremiológico<s n="adj"/></l><r>paremiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parenquimático<s n="adj"/></l><r>parenquimàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parentético<s n="adj"/></l><r>parentètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parenético<s n="adj"/></l><r>parenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parálico<s n="adj"/></l><r>paràlic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>parémico<s n="adj"/></l><r>parèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>patognomónico<s n="adj"/></l><r>patognomònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>patogénico<s n="adj"/></l><r>patogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>patológico<s n="adj"/></l><r>patològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>patriótico<s n="adj"/></l><r>patriòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedagógico<s n="adj"/></l><r>pedagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedogenético<s n="adj"/></l><r>pedogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedológico<s n="adj"/></l><r>pedològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pelágico<s n="adj"/></l><r>pelàgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perclórico<s n="adj"/></l><r>perclòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>periférico<s n="adj"/></l><r>perifèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peripatético<s n="adj"/></l><r>peripatètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>periscópico<s n="adj"/></l><r>periscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petrogenético<s n="adj"/></l><r>petrogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petrográfico<s n="adj"/></l><r>petrogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petrológico<s n="adj"/></l><r>petrològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pictográfico<s n="adj"/></l><r>pictogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pictórico<s n="adj"/></l><r>pictòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pindárico<s n="adj"/></l><r>pindàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>piogénico<s n="adj"/></l><r>piogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirofosfórico<s n="adj"/></l><r>pirofosfòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirofórico<s n="adj"/></l><r>pirofòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirogenético<s n="adj"/></l><r>pirogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirogénico<s n="adj"/></l><r>pirogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>piroxénico<s n="adj"/></l><r>piroxènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirrónico<s n="adj"/></l><r>pirrònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirético<s n="adj"/></l><r>pirètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pirótico<s n="adj"/></l><r>piròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pitagórico<s n="adj"/></l><r>pitagòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>planctónico<s n="adj"/></l><r>planctònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plasmático<s n="adj"/></l><r>plasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>platónico<s n="adj"/></l><r>platònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pletórico<s n="adj"/></l><r>pletòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pliocénico<s n="adj"/></l><r>pliocènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pliotrópico<s n="adj"/></l><r>pliotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plistocénico<s n="adj"/></l><r>plistocènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plutocrático<s n="adj"/></l><r>plutocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plutónico<s n="adj"/></l><r>plutònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pneumológico<s n="adj"/></l><r>pneumològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pneumónico<s n="adj"/></l><r>pneumònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>podológico<s n="adj"/></l><r>podològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>poliatómico<s n="adj"/></l><r>poliatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polibásico<s n="adj"/></l><r>polibàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>policromático<s n="adj"/></l><r>policromàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polifásico<s n="adj"/></l><r>polifàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polifónico<s n="adj"/></l><r>polifònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poligráfico<s n="adj"/></l><r>poligràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poligénico<s n="adj"/></l><r>poligènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polimático<s n="adj"/></l><r>polimàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polimérico<s n="adj"/></l><r>polimèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polinésico<s n="adj"/></l><r>polinèsic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>polinómico<s n="adj"/></l><r>polinòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pomológico<s n="adj"/></l><r>pomològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pornográfico<s n="adj"/></l><r>pornogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>posológico<s n="adj"/></l><r>posològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pragmático<s n="adj"/></l><r>pragmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>praxeológico<s n="adj"/></l><r>praxeològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pretónico<s n="adj"/></l><r>pretònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prismático<s n="adj"/></l><r>prismàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>problemático<s n="adj"/></l><r>problemàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>prodrómico<s n="adj"/></l><r>prodròmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>profético<s n="adj"/></l><r>profètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>programático<s n="adj"/></l><r>programàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prosopográfico<s n="adj"/></l><r>prosopogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prostático<s n="adj"/></l><r>prostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prostético<s n="adj"/></l><r>prostètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prosódico<s n="adj"/></l><r>prosòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protocanónico<s n="adj"/></l><r>protocanònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protoplasmático<s n="adj"/></l><r>protoplasmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prototrófico<s n="adj"/></l><r>prototròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protático<s n="adj"/></l><r>protàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protético<s n="adj"/></l><r>protètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protónico<s n="adj"/></l><r>protònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>práxico<s n="adj"/></l><r>pràxic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicodramático<s n="adj"/></l><r>psicodramàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicofarmacológico<s n="adj"/></l><r>psicofarmacològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicofisiológico<s n="adj"/></l><r>psicofisiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicogenético<s n="adj"/></l><r>psicogenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicográfico<s n="adj"/></l><r>psicogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psiconeurótico<s n="adj"/></l><r>psiconeuròtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicopatológico<s n="adj"/></l><r>psicopatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicopedagógico<s n="adj"/></l><r>psicopedagògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicopático<s n="adj"/></l><r>psicopàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicotrópico<s n="adj"/></l><r>psicotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicótico<s n="adj"/></l><r>psicòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psórico<s n="adj"/></l><r>psòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quadrático<s n="adj"/></l><r>quadràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quimérico<s n="adj"/></l><r>quimèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quirográfico<s n="adj"/></l><r>quirogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quirológico<s n="adj"/></l><r>quirològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>racémico<s n="adj"/></l><r>racèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiofónico<s n="adj"/></l><r>radiofònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiográfico<s n="adj"/></l><r>radiogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiogénico<s n="adj"/></l><r>radiogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiológico<s n="adj"/></l><r>radiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radioscópico<s n="adj"/></l><r>radioscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiotelefónico<s n="adj"/></l><r>radiotelefònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiotelegráfico<s n="adj"/></l><r>radiotelegràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rapsódico<s n="adj"/></l><r>rapsòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reostático<s n="adj"/></l><r>reostàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reumatológico<s n="adj"/></l><r>reumatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reumático<s n="adj"/></l><r>reumàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rizotónico<s n="adj"/></l><r>rizotònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>robótico<s n="adj"/></l><r>robòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rábico<s n="adj"/></l><r>ràbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rético<s n="adj"/></l><r>rètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ródico<s n="adj"/></l><r>ròdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sabático<s n="adj"/></l><r>sabàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sacrociático<s n="adj"/></l><r>sacrociàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>salomónico<s n="adj"/></l><r>salomònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saprogénico<s n="adj"/></l><r>saprogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sarcótico<s n="adj"/></l><r>sarcòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sardónico<s n="adj"/></l><r>sardònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sarmático<s n="adj"/></l><r>sarmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sebácico<s n="adj"/></l><r>sebàcic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>selvático<s n="adj"/></l><r>selvàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>selénico<s n="adj"/></l><r>selènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semafórico<s n="adj"/></l><r>semafòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semasiológico<s n="adj"/></l><r>semasiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semiautomático<s n="adj"/></l><r>semiautomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semiesférico<s n="adj"/></l><r>semiesfèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semiológico<s n="adj"/></l><r>semiològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semitónico<s n="adj"/></l><r>semitònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semiótico<s n="adj"/></l><r>semiòtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>septicémico<s n="adj"/></l><r>septicèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>serológico<s n="adj"/></l><r>serològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>seroterápico<s n="adj"/></l><r>seroteràpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>seráfico<s n="adj"/></l><r>seràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sigmático<s n="adj"/></l><r>sigmàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simbiótico<s n="adj"/></l><r>simbiòtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simpático<s n="adj"/></l><r>simpàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simpódico<s n="adj"/></l><r>simpòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sincrético<s n="adj"/></l><r>sincrètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sincrónico<s n="adj"/></l><r>sincrònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>sindrómico<s n="adj"/></l><r>sindròmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>singenésico<s n="adj"/></l><r>singenèsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>singenético<s n="adj"/></l><r>singenètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sintético<s n="adj"/></l><r>sintètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sintónico<s n="adj"/></l><r>sintònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sinódico<s n="adj"/></l><r>sinòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sismográfico<s n="adj"/></l><r>sismogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sismológico<s n="adj"/></l><r>sismològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sistólico<s n="adj"/></l><r>sistòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>socrático<s n="adj"/></l><r>socràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>somatológico<s n="adj"/></l><r>somatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>somático<s n="adj"/></l><r>somàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subaquático<s n="adj"/></l><r>subaquàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subsónico<s n="adj"/></l><r>subsònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subérico<s n="adj"/></l><r>subèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sulfónico<s n="adj"/></l><r>sulfònic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>supersónico<s n="adj"/></l><r>supersònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sádico<s n="adj"/></l><r>sàdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sáfico<s n="adj"/></l><r>sàfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sérico<s n="adj"/></l><r>sèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sódico<s n="adj"/></l><r>sòdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sónico<s n="adj"/></l><r>sònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tabético<s n="adj"/></l><r>tabètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tantálico<s n="adj"/></l><r>tantàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>taquigráfico<s n="adj"/></l><r>taquigràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tartárico<s n="adj"/></l><r>tartàric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tautológico<s n="adj"/></l><r>tautològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tecnocrático<s n="adj"/></l><r>tecnocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tectónico<s n="adj"/></l><r>tectònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>telegráfico<s n="adj"/></l><r>telegràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>telegénico<s n="adj"/></l><r>telegènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teleológico<s n="adj"/></l><r>teleològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>telepático<s n="adj"/></l><r>telepàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>telescópico<s n="adj"/></l><r>telescòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teogónico<s n="adj"/></l><r>teogònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teológico<s n="adj"/></l><r>teològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teorético<s n="adj"/></l><r>teorètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teosófico<s n="adj"/></l><r>teosòfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teratogénico<s n="adj"/></l><r>teratogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teratológico<s n="adj"/></l><r>teratològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>terminológico<s n="adj"/></l><r>terminològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>termológico<s n="adj"/></l><r>termològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tessálico<s n="adj"/></l><r>tessàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tetraplégico<s n="adj"/></l><r>tetraplègic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teutónico<s n="adj"/></l><r>teutònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>timocrático<s n="adj"/></l><r>timocràtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tipográfico<s n="adj"/></l><r>tipogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tipológico<s n="adj"/></l><r>tipològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>titónico<s n="adj"/></l><r>titònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tiónico<s n="adj"/></l><r>tiònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tocológico<s n="adj"/></l><r>tocològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>topográfico<s n="adj"/></l><r>topogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>topológico<s n="adj"/></l><r>topològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>totémico<s n="adj"/></l><r>totèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>toxicológico<s n="adj"/></l><r>toxicològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>tragicómico<s n="adj"/></l><r>tragicòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transcaucásico<s n="adj"/></l><r>transcaucàsic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>transgénico<s n="adj"/></l><r>transgènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>traumatológico<s n="adj"/></l><r>traumatològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>traumático<s n="adj"/></l><r>traumàtic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>triatómico<s n="adj"/></l><r>triatòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tribásico<s n="adj"/></l><r>tribàsic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>tricotómico<s n="adj"/></l><r>tricotòmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trifásico<s n="adj"/></l><r>trifàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>triásico<s n="adj"/></l><r>triàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tropológico<s n="adj"/></l><r>tropològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trófico<s n="adj"/></l><r>tròfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trópico<s n="adj"/></l><r>tròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tábico<s n="adj"/></l><r>tàbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tético<s n="adj"/></l><r>tètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tónico<s n="adj"/></l><r>tònic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tópico<s n="adj"/></l><r>tòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ultrabásico<s n="adj"/></l><r>ultrabàsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ultramicroscópico<s n="adj"/></l><r>ultramicroscòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ultraperiférico<s n="adj"/></l><r>ultraperifèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uranográfico<s n="adj"/></l><r>uranogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urológico<s n="adj"/></l><r>urològic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>urémico<s n="adj"/></l><r>urèmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urético<s n="adj"/></l><r>urètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>utópico<s n="adj"/></l><r>utòpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>valérico<s n="adj"/></l><r>valèric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vandálico<s n="adj"/></l><r>vandàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vanádico<s n="adj"/></l><r>vanàdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>videográfico<s n="adj"/></l><r>videogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>virológico<s n="adj"/></l><r>virològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vocálico<s n="adj"/></l><r>vocàlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>védico<s n="adj"/></l><r>vèdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>xantogénico<s n="adj"/></l><r>xantogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>xerográfico<s n="adj"/></l><r>xerogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zetético<s n="adj"/></l><r>zetètic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zigomático<s n="adj"/></l><r>zigomàtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zimogénico<s n="adj"/></l><r>zimogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zoográfico<s n="adj"/></l><r>zoogràfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zoogénico<s n="adj"/></l><r>zoogènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zoológico<s n="adj"/></l><r>zoològic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ático<s n="adj"/></l><r>àtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>épico<s n="adj"/></l><r>èpic<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -9570,7 +10594,7 @@
 <e a="hector"><p><l>exornação<s n="n"/><s n="f"/></l>  <r>exornació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>expatriação<s n="n"/><s n="f"/></l><r>expatriació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>expectação<s n="n"/><s n="f"/></l><r>expectació<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>expetação<s n="n"/><s n="f"/></l><r>expectació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>expetação<s n="n"/><s n="f"/></l><r>expectació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt_pre1990"><p><l>expectoração<s n="n"/><s n="f"/></l><r>expectoració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt br"><p><l>expetoração<s n="n"/><s n="f"/></l><r>expectoració<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>experimentação<s n="n"/><s n="f"/></l><r>experimentació<s n="n"/><s n="f"/></r></p></e>
@@ -9746,7 +10770,7 @@
 <e a="hector"><p><l>interposição<s n="n"/><s n="f"/></l><r>interposició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>interrogação<s n="n"/><s n="f"/></l><r>interrogació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>intersecção<s n="n"/><s n="f"/></l><r>intersecció<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>interseção<s n="n"/><s n="f"/></l><r>intersecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>interseção<s n="n"/><s n="f"/></l><r>intersecció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intimação<s n="n"/><s n="f"/></l>  <r>intimació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>intoxicação<s n="n"/><s n="f"/></l><r>intoxicació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt_pre1990"><p><l>introjecção<s n="n"/><s n="f"/></l><r>introjecció<s n="n"/><s n="f"/></r></p></e>
@@ -10631,7 +11655,7 @@
 <e a="hector"><p><l>contagiosidade<s n="n"/><s n="f"/></l><r>contagiositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>continentalidade<s n="n"/><s n="f"/></l><r>continentalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>contractilidade<s n="n"/><s n="f"/></l><r>contractilitat<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>contratilidade<s n="n"/><s n="f"/></l><r>contractilitat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>contratilidade<s n="n"/><s n="f"/></l><r>contractilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contrariedade<s n="n"/><s n="f"/></l><r>contrarietat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>conventualidade<s n="n"/><s n="f"/></l><r>conventualitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>convertibilidade<s n="n"/><s n="f"/></l><r>convertibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -10680,7 +11704,7 @@
 <e a="hector"><p><l>equidade<s n="n"/><s n="f"/></l>   <r>equitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>equivocidade<s n="n"/><s n="f"/></l><r>equivocitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>erectilidade<s n="n"/><s n="f"/></l><r>erectilitat<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>eretilidade<s n="n"/><s n="f"/></l><r>erectilitat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>eretilidade<s n="n"/><s n="f"/></l><r>erectilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>escabrosidade<s n="n"/><s n="f"/></l><r>escabrositat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>escolaridade<s n="n"/><s n="f"/></l><r>escolaritat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>esfericidade<s n="n"/><s n="f"/></l><r>esfericitat<s n="n"/><s n="f"/></r></p></e>
@@ -11052,7 +12076,7 @@
 <e a="hector"><p><l>representatividade<s n="n"/><s n="f"/></l><r>representativitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>resistividade<s n="n"/><s n="f"/></l><r>resistivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>retractilidade<s n="n"/><s n="f"/></l><r>retractilitat<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>retratilidade<s n="n"/><s n="f"/></l><r>retractilitat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>retratilidade<s n="n"/><s n="f"/></l><r>retractilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt_pre1990"><p><l>retroactividade<s n="n"/><s n="f"/></l><r>retroactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt br"><p><l>retroatividade<s n="n"/><s n="f"/></l><r>retroactivitat<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reversibilidade<s n="n"/><s n="f"/></l><r>reversibilitat<s n="n"/><s n="f"/></r></p></e>
@@ -11882,7 +12906,8 @@
 <e a="hector"><p><l>alegorista<s n="n"/><s n="mf"/></l><r>al·legorista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>americanista<s n="n"/><s n="mf"/></l><r>americanista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>ametista<s n="n"/><s n="f"/></l><r>ametista<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>anabaptista<s n="n"/><s n="mf"/></l><r>anabaptista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>anabaptista<s n="n"/><s n="mf"/></l><r>anabaptista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anabatista<s n="n"/><s n="mf"/></l><r>anabaptista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>anatomista<s n="n"/><s n="mf"/></l><r>anatomista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>anestesista<s n="n"/><s n="mf"/></l><r>anestesista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>animista<s n="n"/><s n="mf"/></l><r>animista<s n="n"/><s n="mf"/></r></p></e>
@@ -11917,8 +12942,10 @@
 <e a="hector"><p><l>colonialista<s n="n"/><s n="mf"/></l><r>colonialista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>colorista<s n="n"/><s n="mf"/></l><r>colorista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>colaboracionista<s n="n"/><s n="mf"/></l><r>col·laboracionista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>coleccionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>conceptualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>coleccionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>colecionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>conceptualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>concetualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>concertista<s n="n"/><s n="mf"/></l><r>concertista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>conformista<s n="n"/><s n="mf"/></l><r>conformista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>congressista<s n="n"/><s n="mf"/></l><r>congressista<s n="n"/><s n="mf"/></r></p></e>
@@ -11939,10 +12966,12 @@
 <e r="RL" vl="pt_pre1990" a="hector"><p><l>electricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL" vl="pt br" a="hector"><p><l>eletricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>equilibrista<s n="n"/><s n="mf"/></l><r>equilibrista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>espectroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>espectroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>espetroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>espiritualista<s n="n"/><s n="mf"/></l><r>espiritualista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>estadista<s n="n"/><s n="mf"/></l><r>estadista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>estalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>stalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>esteticista<s n="n"/><s n="mf"/></l><r>esteticista<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL" a="hector"><p><l>etologista<s n="n"/><s n="mf"/></l><r>etologista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>evangelista<s n="n"/><s n="mf"/></l><r>evangelista<s n="n"/><s n="mf"/></r></p></e>
@@ -12019,19 +13048,23 @@
 <e a="hector"><p><l>pangermanista<s n="n"/><s n="mf"/></l><r>pangermanista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>papista<s n="n"/><s n="mf"/></l><r>papista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>pensionista<s n="n"/><s n="mf"/></l><r>pensionista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>perfeccionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>perfeccionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>perfecionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>peronista<s n="n"/><s n="mf"/></l><r>peronista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>polemista<s n="n"/><s n="mf"/></l><r>polemista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>populista<s n="n"/><s n="mf"/></l><r>populista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>pragmatista<s n="n"/><s n="mf"/></l><r>pragmatista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>presidencialista<s n="n"/><s n="mf"/></l><r>presidencialista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>projeccionista<s n="n"/><s n="mf"/></l><r>projeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>projeccionista<s n="n"/><s n="mf"/></l><r>projeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>projecionista<s n="n"/><s n="mf"/></l><r>projeccionista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>propagandista<s n="n"/><s n="mf"/></l><r>propagandista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>proteccionista<s n="n"/><s n="mf"/></l><r>proteccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>proteccionista<s n="n"/><s n="mf"/></l><r>proteccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>protecionista<s n="n"/><s n="mf"/></l><r>proteccionista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>publicista<s n="n"/><s n="mf"/></l><r>publicista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>purista<s n="n"/><s n="mf"/></l><r>purista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>racionalista<s n="n"/><s n="mf"/></l><r>racionalista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>recepcionista<s n="n"/><s n="mf"/></l><r>recepcionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>recepcionista<s n="n"/><s n="mf"/></l><r>recepcionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>rececionista<s n="n"/><s n="mf"/></l><r>recepcionista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>recordista<s n="n"/><s n="mf"/></l><r>recordista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>regionalista<s n="n"/><s n="mf"/></l><r>regionalista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>reservista<s n="n"/><s n="mf"/></l><r>reservista<s n="n"/><s n="mf"/></r></p></e>
@@ -12053,7 +13086,8 @@
 <e a="hector"><p><l>telefonista<s n="n"/><s n="mf"/></l><r>telefonista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>telegrafista<s n="n"/><s n="mf"/></l><r>telegrafista<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL" a="hector"><p><l>tenista<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>tractorista<s n="n"/><s n="mf"/></l><r>tractorista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>tractorista<s n="n"/><s n="mf"/></l><r>tractorista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>tratorista<s n="n"/><s n="mf"/></l><r>tractorista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>trombonista<s n="n"/><s n="mf"/></l><r>trombonista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>trotskista<s n="n"/><s n="mf"/></l><r>trotskista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>ultranacionalista<s n="n"/><s n="mf"/></l><r>ultranacionalista<s n="n"/><s n="mf"/></r></p></e>
@@ -32715,11 +33749,11 @@
       <e a="hector"><p><l>Síria<s n="np"/><s n="top"/></l><r>Síria<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Sérvia<s n="np"/><s n="top"/></l><r>Sèrbia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Nicarágua<s n="np"/><s n="top"/></l><r>Nicaragua<s n="np"/><s n="top"/></r></p></e>
-      <e v="br" a="hector"><p><l>Letônia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
-      <e v="pt pt_pre1990" a="hector"><p><l>Letónia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
+      <e vl="br" a="hector"><p><l>Letônia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
+      <e vl="pt pt_pre1990" a="hector"><p><l>Letónia<s n="np"/><s n="top"/></l><r>Letònia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Lituânia<s n="np"/><s n="top"/></l><r>Lituània<s n="np"/><s n="top"/></r></p></e>
-      <e v="br" a="hector"><p><l>Quênia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
-      <e v="pt pt_pre1990" a="hector"><p><l>Quénia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
+      <e vl="br" a="hector"><p><l>Quênia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
+      <e vl="pt pt_pre1990" a="hector"><p><l>Quénia<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Suriname<s n="np"/><s n="top"/></l><r>Surinam<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Guiana<s n="np"/><s n="top"/></l><r>Guyana<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Guiana<b/>Francesa<s n="np"/><s n="top"/></l><r>Guaiana<b/>Francesa<s n="np"/><s n="top"/></r></p></e>
@@ -34901,6 +35935,7 @@
 <e a="hector"><p><l>subordinado<s n="adj"/></l>        <r>subordinat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sódio<s n="n"/><s n="m"/></l>      <r>sodi<s n="n"/><s n="m"/></r></p></e>
 <e a="hector" vl="br"><p><l>sinônimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
+<e a="hector" vl="pt"><p><l>sinónimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>semifinal<s n="n"/><s n="f"/></l>  <r>semifinal<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sedimentar<s n="vblex"/></l>       <r>sedimentar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>revolta<s n="n"/><s n="f"/></l>    <r>revolta<s n="n"/><s n="f"/></r></p></e>
@@ -34938,6 +35973,7 @@
 <e a="hector"><p><l>testificar<s n="vblex"/></l>       <r>testificar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>status<s n="n"/><s n="m"/><s n="sp"/></l><r>estatus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e a="hector"><p><l>simplificado<s n="adj"/></l>       <r>simplificat<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>simplificado<s n="adj"/></l>       <r>simplificar<s n="vblex"/><s n="pp"/></r></p></e>
 <e a="hector"><p><l>segmento<s n="n"/><s n="m"/></l>   <r>segment<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>repertório<s n="n"/><s n="m"/></l> <r>repertoru<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>reeleger<s n="vblex"/></l>         <r>reelegir<s n="vblex"/></r></p></e>
@@ -35159,6 +36195,7 @@
 <e a="hector"><p><l>canalizar<s n="vblex"/></l>        <r>canalitzar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>automatizar<s n="vblex"/></l>      <r>automatitzar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>stalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>positivismo<s n="n"/><s n="m"/></l><r>positivisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>misticismo<s n="n"/><s n="m"/></l> <r>misticisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>impressionismo<s n="n"/><s n="m"/></l><r>impressionisme<s n="n"/><s n="m"/></r></p></e>
