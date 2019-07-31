@@ -4162,7 +4162,6 @@
 <e a="hector"><p><l>fulgente<s n="adj"/></l><r>fulgent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fulgurante<s n="adj"/></l><r>fulgurant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fulminante<s n="adj"/></l><r>fulminant<s n="adj"/></r></p></e>
-<e vl="br" r="RL" a="hector"><p><l>fumante<s n="adj"/></l><r>fumant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fundente<s n="adj"/></l><r>fundent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>galante<s n="adj"/></l><r>galant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>galopante<s n="adj"/></l><r>galopant<s n="adj"/></r></p></e>
@@ -5448,6 +5447,1413 @@
 <e a="hector"><p><l>zoológico<s n="adj"/></l><r>zoològic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ático<s n="adj"/></l><r>àtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>épico<s n="adj"/></l><r>èpic<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>arteiro<s n="adj"/></l><r>arter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bananeiro<s n="adj"/></l><r>bananer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>barateiro<s n="adj"/></l><r>barater<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bombardeiro<s n="adj"/></l><r>bombarder<s n="adj"/></r></p></e>
+<e a="hector"><p><l>braceiro<s n="adj"/></l><r>bracer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cafeteiro<s n="adj"/></l><r>cafeter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>camiseiro<s n="adj"/></l><r>camiser<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caravaneiro<s n="adj"/></l><r>caravaner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carneiro<s n="adj"/></l><r>carner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carreteiro<s n="adj"/></l><r>carreter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cimeiro<s n="adj"/></l><r>cimer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conserveiro<s n="adj"/></l><r>conserver<s n="adj"/></r></p></e>
+<e a="hector"><p><l>costaneiro<s n="adj"/></l><r>costaner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>costeiro<s n="adj"/></l><r>coster<s n="adj"/></r></p></e>
+<e a="hector"><p><l>forasteiro<s n="adj"/></l><r>foraster<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fronteiro<s n="adj"/></l><r>fronter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galhofeiro<s n="adj"/></l><r>gallofer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gateiro<s n="adj"/></l><r>gater<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>grosseiro<s n="adj"/></l><r>grosser<s n="adj"/></r></p></e>
+<e a="hector"><p><l>grueiro<s n="adj"/></l><r>gruer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>guerrilheiro<s n="adj"/></l><r>guerriller<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hospitaleiro<s n="adj"/></l><r>hospitaler<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hoteleiro<s n="adj"/></l><r>hoteler<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hulheiro<s n="adj"/></l><r>huller<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lebreiro<s n="adj"/></l><r>llebrer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maneiro<s n="adj"/></l><r>maner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>manufactureiro<s n="adj"/></l><r>manufacturer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mareiro<s n="adj"/></l><r>marer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marisqueiro<s n="adj"/></l><r>marisquer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mateiro<s n="adj"/></l><r>mater<s n="adj"/></r></p></e>
+<e a="hector"><p><l>misseiro<s n="adj"/></l><r>misser<s n="adj"/></r></p></e>
+<e a="hector"><p><l>negreiro<s n="adj"/></l><r>negrer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>noveleiro<s n="adj"/></l><r>novel·ler<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ostreiro<s n="adj"/></l><r>ostrer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parceiro<s n="adj"/></l><r>parcer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>patrioteiro<s n="adj"/></l><r>patrioter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perdigueiro<s n="adj"/></l><r>perdiguer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peteiro<s n="adj"/></l><r>peter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pioneiro<s n="adj"/></l><r>pioner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>raseiro<s n="adj"/></l><r>raser<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rateiro<s n="adj"/></l><r>rater<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resineiro<s n="adj"/></l><r>resiner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rodeiro<s n="adj"/></l><r>roder<s n="adj"/></r></p></e>
+<e a="hector"><p><l>romeiro<s n="adj"/></l><r>romer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>roqueiro<s n="adj"/></l><r>roquer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>salineiro<s n="adj"/></l><r>saliner<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sobranceiro<s n="adj"/></l><r>sobrancer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>solteiro<s n="adj"/></l><r>solter<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sopeiro<s n="adj"/></l><r>soper<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tabaqueiro<s n="adj"/></l><r>tabaquer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>veleiro<s n="adj"/></l><r>veler<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>acadiano<s n="adj"/></l><r>acadià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afroamericano<s n="adj"/></l><r>afroamericà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alentejano<s n="adj"/></l><r>alentejà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>algonquiano<s n="adj"/></l><r>algonquià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alano<s n="adj"/></l><r>alà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ambrosiano<s n="adj"/></l><r>ambrosià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>andorrano<s n="adj"/></l><r>andorrà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anglicano<s n="adj"/></l><r>anglicà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antemeridiano<s n="adj"/></l><r>antemeridià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antinomiano<s n="adj"/></l><r>antinomià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antoniano<s n="adj"/></l><r>antonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arcano<s n="adj"/></l><r>arcà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ariano<s n="adj"/></l><r>arià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>artesiano<s n="adj"/></l><r>artesià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arquidiocesano<s n="adj"/></l><r>arxidiocesà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asturiano<s n="adj"/></l><r>asturià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bacteriano<s n="adj"/></l><r>bacterià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bolivariano<s n="adj"/></l><r>bolivarià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>booleano<s n="adj"/></l><r>booleà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>browniano<s n="adj"/></l><r>brownià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>burdigaliano<s n="adj"/></l><r>burdigalià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>burundiano<s n="adj"/></l><r>burundià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calabriano<s n="adj"/></l><r>calabrià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>californiano<s n="adj"/></l><r>californià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caloviano<s n="adj"/></l><r>cal·lovià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cambriano<s n="adj"/></l><r>cambrià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>camiliano<s n="adj"/></l><r>camil·lià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>campaniano<s n="adj"/></l><r>campanià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caradociano<s n="adj"/></l><r>caradocià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>careliano<s n="adj"/></l><r>carelià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carmelitano<s n="adj"/></l><r>carmelità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carpiano<s n="adj"/></l><r>carpià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cartesiano<s n="adj"/></l><r>cartesià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>catiano<s n="adj"/></l><r>catià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caucasiano<s n="adj"/></l><r>caucasià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cenomaniano<s n="adj"/></l><r>cenomanià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cesariano<s n="adj"/></l><r>cesarià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ciceroniano<s n="adj"/></l><r>ciceronià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circassiano<s n="adj"/></l><r>circassià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cispadano<s n="adj"/></l><r>cispadà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coblenciano<s n="adj"/></l><r>coblencià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compostelano<s n="adj"/></l><r>compostel·là<s n="adj"/></r></p></e>
+<e a="hector"><p><l>constantiniano<s n="adj"/></l><r>constantinià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>constantinopolitano<s n="adj"/></l><r>constantinopolità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>craniano<s n="adj"/></l><r>cranià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cuisiano<s n="adj"/></l><r>cuisià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>culterano<s n="adj"/></l><r>culterà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cumano<s n="adj"/></l><r>cumà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>danubiano<s n="adj"/></l><r>danubià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>devoniano<s n="adj"/></l><r>devonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diluviano<s n="adj"/></l><r>diluvià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diocesano<s n="adj"/></l><r>diocesà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dominicano<s n="adj"/></l><r>dominicà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>draconiano<s n="adj"/></l><r>draconià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>egipciano<s n="adj"/></l><r>egipcià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>einsteiniano<s n="adj"/></l><r>einsteinià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>elzeviriano<s n="adj"/></l><r>elzevirià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emsiano<s n="adj"/></l><r>emsià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>episcopaliano<s n="adj"/></l><r>episcopalià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>erasmiano<s n="adj"/></l><r>erasmià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espartano<s n="adj"/></l><r>espartà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estefaniano<s n="adj"/></l><r>estefanià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estoniano<s n="adj"/></l><r>estonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estromboliano<s n="adj"/></l><r>estrombolià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>euclidiano<s n="adj"/></l><r>euclidià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>falansteriano<s n="adj"/></l><r>falansterià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filoniano<s n="adj"/></l><r>filonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>forano<s n="adj"/></l><r>forà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>franciscano<s n="adj"/></l><r>franciscà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frasniano<s n="adj"/></l><r>frasnià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>freudiano<s n="adj"/></l><r>freudià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gaditano<s n="adj"/></l><r>gadità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galicano<s n="adj"/></l><r>gal·licà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>georgiano<s n="adj"/></l><r>georgià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>givetiano<s n="adj"/></l><r>givetià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>goethiano<s n="adj"/></l><r>goethià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gordiano<s n="adj"/></l><r>gordià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gotlandiano<s n="adj"/></l><r>gotlandià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gregoriano<s n="adj"/></l><r>gregorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>guipuscoano<s n="adj"/></l><r>guipuscoà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>haitiano<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>havano<s n="adj"/></l><r>havà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hegeliano<s n="adj"/></l><r>hegelià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>herculano<s n="adj"/></l><r>herculà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>herodiano<s n="adj"/></l><r>herodià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indiano<s n="adj"/></l><r>indi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indiano<s n="n"/></l><r>indi<s n="n"/></r></p></e>
+<e a="hector"><p><l>insano<s n="adj"/></l><r>insà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interamericano<s n="adj"/></l><r>interamericà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interurbano<s n="adj"/></l><r>interurbà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inurbano<s n="adj"/></l><r>inurbà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jamaicano<s n="adj"/></l><r>jamaicà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jerosolimitano<s n="adj"/></l><r>jerosolimità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jordano<s n="adj"/></l><r>jordà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>juliano<s n="adj"/></l><r>julià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>kafkiano<s n="adj"/></l><r>kafkià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>kantiano<s n="adj"/></l><r>kantià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lacaniano<s n="adj"/></l><r>lacanià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lesbiano<s n="adj"/></l><r>lesbià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liberiano<s n="adj"/></l><r>liberià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lituano<s n="adj"/></l><r>lituà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>livoniano<s n="adj"/></l><r>livonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lucano<s n="adj"/></l><r>lucà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lusitano<s n="adj"/></l><r>lusità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>luterano<s n="adj"/></l><r>luterà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnesiano<s n="adj"/></l><r>magnesià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malthusiano<s n="adj"/></l><r>malthusià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mantuano<s n="adj"/></l><r>mantuà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marciano<s n="adj"/></l><r>marcià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mariano<s n="adj"/></l><r>marià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marrano<s n="adj"/></l><r>marrà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mauritano<s n="adj"/></l><r>maurità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mediano<s n="adj"/></l><r>medià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mendeliano<s n="adj"/></l><r>mendelià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>meridiano<s n="adj"/></l><r>meridià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metacarpiano<s n="adj"/></l><r>metacarpià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microbiano<s n="adj"/></l><r>microbià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miliciano<s n="adj"/></l><r>milicià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>montano<s n="adj"/></l><r>montà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mozartiano<s n="adj"/></l><r>mozartià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mundano<s n="adj"/></l><r>mundà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>murciano<s n="adj"/></l><r>murcià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>namibiano<s n="adj"/></l><r>namibià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>napolitano<s n="adj"/></l><r>napolità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neomalthusiano<s n="adj"/></l><r>neomalthusià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neperiano<s n="adj"/></l><r>neperià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neptuniano<s n="adj"/></l><r>neptunià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nestoriano<s n="adj"/></l><r>nestorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>newtoniano<s n="adj"/></l><r>newtonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nubiano<s n="adj"/></l><r>nubià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>occitano<s n="adj"/></l><r>occità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>octaviano<s n="adj"/></l><r>octavià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oratoriano<s n="adj"/></l><r>oratorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>otomano<s n="adj"/></l><r>otomà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ovidiano<s n="adj"/></l><r>ovidià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paduano<s n="adj"/></l><r>paduà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>panamericano<s n="adj"/></l><r>panamericà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peleano<s n="adj"/></l><r>peleà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pompeiano<s n="adj"/></l><r>pompeià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pretoriano<s n="adj"/></l><r>pretorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>profano<s n="adj"/></l><r>profà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>provinciano<s n="adj"/></l><r>provincià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prussiano<s n="adj"/></l><r>prussià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>puritano<s n="adj"/></l><r>purità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>renano<s n="adj"/></l><r>renà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reptiliano<s n="adj"/></l><r>reptilià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reuchliniano<s n="adj"/></l><r>reuchlinià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ruano<s n="adj"/></l><r>ruà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>salesiano<s n="adj"/></l><r>salesià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>samaritano<s n="adj"/></l><r>samarità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saturniano<s n="adj"/></l><r>saturnià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>serrano<s n="adj"/></l><r>serrà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sevilhano<s n="adj"/></l><r>sevillà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>shakespeariano<s n="adj"/></l><r>shakespearià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>shakesperiano<s n="adj"/></l><r>shakesperià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siberiano<s n="adj"/></l><r>siberià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siciliano<s n="adj"/></l><r>sicilià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>silesiano<s n="adj"/></l><r>silesià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siluriano<s n="adj"/></l><r>silurià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siracusano<s n="adj"/></l><r>siracusà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>soriano<s n="adj"/></l><r>sorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>suburbano<s n="adj"/></l><r>suburbà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supramundano<s n="adj"/></l><r>supramundà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tarsiano<s n="adj"/></l><r>tarsià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tebano<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>teluriano<s n="adj"/></l><r>tel·lurià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tingitano<s n="adj"/></l><r>tingità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>toarciano<s n="adj"/></l><r>toarcià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>toledano<s n="adj"/></l><r>toledà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tolosano<s n="adj"/></l><r>tolosà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>toscano<s n="adj"/></l><r>toscà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transpadano<s n="adj"/></l><r>transpadà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>triduano<s n="adj"/></l><r>triduà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tripolitano<s n="adj"/></l><r>tripolità<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tritoniano<s n="adj"/></l><r>tritonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>troiano<s n="adj"/></l><r>troià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tuliano<s n="adj"/></l><r>tul·lià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>turdetano<s n="adj"/></l><r>turdetà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tusculano<s n="adj"/></l><r>tusculà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ufano<s n="adj"/></l><r>ufà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uraliano<s n="adj"/></l><r>uralià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uruguaiano<s n="adj"/></l><r>uruguaià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>varsoviano<s n="adj"/></l><r>varsovià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vaticano<s n="adj"/></l><r>vaticà<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vegetariano<s n="adj"/></l><r>vegetarià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>venusiano<s n="adj"/></l><r>venusià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>verdiano<s n="adj"/></l><r>verdià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vesuviano<s n="adj"/></l><r>vesuvià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vindoboniano<s n="adj"/></l><r>vindobonià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vitoriano<s n="adj"/></l><r>vitorià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>voltairiano<s n="adj"/></l><r>voltairià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vulcaniano<s n="adj"/></l><r>vulcanià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>wagneriano<s n="adj"/></l><r>wagnerià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>weberiano<s n="adj"/></l><r>weberià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>wronskiano<s n="adj"/></l><r>wronskià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zambiano<s n="adj"/></l><r>zambià<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zoroastriano<s n="adj"/></l><r>zoroastrià<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>absorciométrico<s n="adj"/></l><r>absorciomètric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acataléctico<s n="adj"/></l><r>acatalèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acataléptico<s n="adj"/></l><r>acatalèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acróstico<s n="adj"/></l><r>acròstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aerotécnico<s n="adj"/></l><r>aerotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aerotérmico<s n="adj"/></l><r>aerotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agnóstico<s n="adj"/></l><r>agnòstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>algébrico<s n="adj"/></l><r>algèbric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alegórico<s n="adj"/></l><r>al·legòric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alogénico<s n="adj"/></l><r>al·logènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alomórfico<s n="adj"/></l><r>al·lomòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alotrópico<s n="adj"/></l><r>al·lotròpic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alérgico<s n="adj"/></l><r>al·lèrgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>analéptico<s n="adj"/></l><r>analèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anamnéstico<s n="adj"/></l><r>anamnèstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anamórfico<s n="adj"/></l><r>anamòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anapéstico<s n="adj"/></l><r>anapèstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>angiospérmico<s n="adj"/></l><r>angiospèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anoréctico<s n="adj"/></l><r>anorèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antiapopléctico<s n="adj"/></l><r>antiapoplèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antitérmico<s n="adj"/></l><r>antitèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antropomórfico<s n="adj"/></l><r>antropomòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ascórbico<s n="adj"/></l><r>ascòrbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atérmico<s n="adj"/></l><r>atèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>automórfico<s n="adj"/></l><r>automòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autóptico<s n="adj"/></l><r>autòptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>avéstico<s n="adj"/></l><r>avèstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aórtico<s n="adj"/></l><r>aòrtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>béquico<s n="adj"/></l><r>bèquic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caquéctico<s n="adj"/></l><r>caquèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cataléctico<s n="adj"/></l><r>catalèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cataléptico<s n="adj"/></l><r>catalèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>celulósico<s n="adj"/></l><r>cel·lulòsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clorofórmico<s n="adj"/></l><r>clorofòrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>céltico<s n="adj"/></l><r>cèltic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cósmico<s n="adj"/></l><r>còsmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decaédrico<s n="adj"/></l><r>decaèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desértico<s n="adj"/></l><r>desèrtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dialéctico<s n="adj"/></l><r>dialèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diatérmico<s n="adj"/></l><r>diatèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dispéptico<s n="adj"/></l><r>dispèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diédrico<s n="adj"/></l><r>dièdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>délfico<s n="adj"/></l><r>dèlfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dérmico<s n="adj"/></l><r>dèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electrodoméstico<s n="adj"/></l><r>electrodomèstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electrotécnico<s n="adj"/></l><r>electrotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electrotérmico<s n="adj"/></l><r>electrotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endodérmico<s n="adj"/></l><r>endodèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>endotérmico<s n="adj"/></l><r>endotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entóptico<s n="adj"/></l><r>entòptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epidérmico<s n="adj"/></l><r>epidèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epiléptico<s n="adj"/></l><r>epilèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esméctico<s n="adj"/></l><r>esmèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eupéptico<s n="adj"/></l><r>eupèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exotérmico<s n="adj"/></l><r>exotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filotécnico<s n="adj"/></l><r>filotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>férrico<s n="adj"/></l><r>fèrric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fórmico<s n="adj"/></l><r>fòrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geotérmico<s n="adj"/></l><r>geotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geórgico<s n="adj"/></l><r>geòrgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gimnospérmico<s n="adj"/></l><r>gimnospèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ginandromórfico<s n="adj"/></l><r>ginandromòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glóssico<s n="adj"/></l><r>glòssic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gnóstico<s n="adj"/></l><r>gnòstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>helénico<s n="adj"/></l><r>hel·lènic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemimórfico<s n="adj"/></l><r>hemimòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hemiédrico<s n="adj"/></l><r>hemièdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heptaédrico<s n="adj"/></l><r>heptaèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hexaédrico<s n="adj"/></l><r>hexaèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrotécnico<s n="adj"/></l><r>hidrotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidrotérmico<s n="adj"/></l><r>hidrotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipodérmico<s n="adj"/></l><r>hipodèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>holomórfico<s n="adj"/></l><r>holomòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>holoédrico<s n="adj"/></l><r>holoèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>héctico<s n="adj"/></l><r>hèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hérnico<s n="adj"/></l><r>hèrnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ilógico<s n="adj"/></l><r>il·lògic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interétnico<s n="adj"/></l><r>interètnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intradérmico<s n="adj"/></l><r>intradèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isalotérmico<s n="adj"/></l><r>isal·lotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isotérmico<s n="adj"/></l><r>isotèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>isoédrico<s n="adj"/></l><r>isoèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liótrico<s n="adj"/></l><r>liòtric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lésbico<s n="adj"/></l><r>lèsbic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>macrocósmico<s n="adj"/></l><r>macrocòsmic<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>melancólico<s n="adj"/></l><r>melancòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>meroédrico<s n="adj"/></l><r>meroèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metaléptico<s n="adj"/></l><r>metalèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>metamórfico<s n="adj"/></l><r>metamòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>microcósmico<s n="adj"/></l><r>microcòsmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mnemotécnico<s n="adj"/></l><r>mnemotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monóstico<s n="adj"/></l><r>monòstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multiétnico<s n="adj"/></l><r>multiètnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mórfico<s n="adj"/></l><r>mòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neuroléptico<s n="adj"/></l><r>neurolèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nórdico<s n="adj"/></l><r>nòrdic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>octaédrico<s n="adj"/></l><r>octaèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>organoléptico<s n="adj"/></l><r>organolèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortomórfico<s n="adj"/></l><r>ortomòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortoédrico<s n="adj"/></l><r>ortoèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perispérmico<s n="adj"/></l><r>perispèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plagiédrico<s n="adj"/></l><r>plagièdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polimórfico<s n="adj"/></l><r>polimòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polispérmico<s n="adj"/></l><r>polispèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>politécnico<s n="adj"/></l><r>politècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poliédrico<s n="adj"/></l><r>polièdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proléptico<s n="adj"/></l><r>prolèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pronóstico<s n="adj"/></l><r>pronòstic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protréptico<s n="adj"/></l><r>protrèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicoléptico<s n="adj"/></l><r>psicolèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>psicotécnico<s n="adj"/></l><r>psicotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>péctico<s n="adj"/></l><r>pèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pélvico<s n="adj"/></l><r>pèlvic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>péptico<s n="adj"/></l><r>pèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pérsico<s n="adj"/></l><r>pèrsic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiotécnico<s n="adj"/></l><r>radiotècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>romboédrico<s n="adj"/></l><r>romboèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semidesértico<s n="adj"/></l><r>semidesèrtic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>siléptico<s n="adj"/></l><r>sil·lèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simpléctico<s n="adj"/></l><r>simplèctic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sinérgico<s n="adj"/></l><r>sinèrgic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sinóptico<s n="adj"/></l><r>sinòptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>séptico<s n="adj"/></l><r>sèptic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>taxidérmico<s n="adj"/></l><r>taxidèrmic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tetartoédrico<s n="adj"/></l><r>tetartoèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tetraédrico<s n="adj"/></l><r>tetraèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trapezoédrico<s n="adj"/></l><r>trapezoèdric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ulótrico<s n="adj"/></l><r>ulòtric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zoomórfico<s n="adj"/></l><r>zoomòrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zootécnico<s n="adj"/></l><r>zootècnic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>órfico<s n="adj"/></l><r>òrfic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ósmico<s n="adj"/></l><r>òsmic<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>acutangular<s n="adj"/></l><r>acutangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adminicular<s n="adj"/></l><r>adminicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alar<s n="adj"/></l><r>alar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alveolar<s n="adj"/></l><r>alveolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>angular<s n="adj"/></l><r>angular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antinuclear<s n="adj"/></l><r>antinuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antipopular<s n="adj"/></l><r>antipopular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apendicular<s n="adj"/></l><r>apendicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>armilar<s n="adj"/></l><r>armil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>articular<s n="adj"/></l><r>articular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>auricular<s n="adj"/></l><r>auricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>auxiliar<s n="adj"/></l><r>auxiliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>avuncular<s n="adj"/></l><r>avuncular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>axilar<s n="adj"/></l><r>axil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bacilar<s n="adj"/></l><r>bacil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>basilar<s n="adj"/></l><r>basilar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biangular<s n="adj"/></l><r>biangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biauricular<s n="adj"/></l><r>biauricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bicelular<s n="adj"/></l><r>bicel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biliar<s n="adj"/></l><r>biliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bilocular<s n="adj"/></l><r>bilocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>binocular<s n="adj"/></l><r>binocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>binuclear<s n="adj"/></l><r>binuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bipolar<s n="adj"/></l><r>bipolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bracteolar<s n="adj"/></l><r>bracteolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>canalicular<s n="adj"/></l><r>canalicular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>canicular<s n="adj"/></l><r>canicular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>capilar<s n="adj"/></l><r>capil·lar<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>capitular<s n="adj"/></l><r>capitular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>capsular<s n="adj"/></l><r>capsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cardiopulmonar<s n="adj"/></l><r>cardiopulmonar<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>cardiovascular<s n="adj"/></l><r>cardiovascular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carpelar<s n="adj"/></l><r>carpel·lar<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>caulinar<s n="adj"/></l><r>caulinar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cautelar<s n="adj"/></l><r>cautelar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cerebrovascular<s n="adj"/></l><r>cerebrovascular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>ciliar<s n="adj"/></l><r>ciliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circular<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circumpolar<s n="adj"/></l><r>circumpolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clavicular<s n="adj"/></l><r>clavicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coclear<s n="adj"/></l><r>coclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>codicilar<s n="adj"/></l><r>codicil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conciliar<s n="adj"/></l><r>conciliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consular<s n="adj"/></l><r>consular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coplanar<s n="adj"/></l><r>coplanar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cotiledonar<s n="adj"/></l><r>cotiledonar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crepuscular<s n="adj"/></l><r>crepuscular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>curricular<s n="adj"/></l><r>curricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cuticular<s n="adj"/></l><r>cuticular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dipolar<s n="adj"/></l><r>dipolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>epistolar<s n="adj"/></l><r>epistolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equimolecular<s n="adj"/></l><r>equimolecular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escapular<s n="adj"/></l><r>escapular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estelar<s n="adj"/></l><r>estel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exemplar<s n="adj"/></l><r>exemplar<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>exemplar<s n="adj"/></l><r>exemplar<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>extracurricular<s n="adj"/></l><r>extracurricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fascicular<s n="adj"/></l><r>fascicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fibrilar<s n="adj"/></l><r>fibril·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fibrovascular<s n="adj"/></l><r>fibrovascular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>foliar<s n="adj"/></l><r>foliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>folicular<s n="adj"/></l><r>fol·licular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotonuclear<s n="adj"/></l><r>fotonuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>funicular<s n="adj"/></l><r>funicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ganglionar<s n="adj"/></l><r>ganglionar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gastrovascular<s n="adj"/></l><r>gastrovascular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gemelar<s n="adj"/></l><r>gemel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>genicular<s n="adj"/></l><r>genicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glandular<s n="adj"/></l><r>glandular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>globular<s n="adj"/></l><r>globular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glomerular<s n="adj"/></l><r>glomerular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>granular<s n="adj"/></l><r>granular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heteronuclear<s n="adj"/></l><r>heteronuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>heteropolar<s n="adj"/></l><r>heteropolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hilar<s n="adj"/></l><r>hilar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homonuclear<s n="adj"/></l><r>homonuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>homopolar<s n="adj"/></l><r>homopolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impopular<s n="adj"/></l><r>impopular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insular<s n="adj"/></l><r>insular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interarticular<s n="adj"/></l><r>interarticular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intercalar<s n="adj"/></l><r>intercalar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intercelular<s n="adj"/></l><r>intercel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interescolar<s n="adj"/></l><r>interescolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interestelar<s n="adj"/></l><r>interestel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interinsular<s n="adj"/></l><r>interinsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intermolecular<s n="adj"/></l><r>intermolecular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intermuscular<s n="adj"/></l><r>intermuscular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interocular<s n="adj"/></l><r>interocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interventricular<s n="adj"/></l><r>interventricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intracelular<s n="adj"/></l><r>intracel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intramuscular<s n="adj"/></l><r>intramuscular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intravascular<s n="adj"/></l><r>intravascular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jubilar<s n="adj"/></l><r>jubilar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jugular<s n="adj"/></l><r>jugular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>labiovelar<s n="adj"/></l><r>labiovelar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lacunar<s n="adj"/></l><r>lacunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lamelar<s n="adj"/></l><r>lamel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laminar<s n="adj"/></l><r>laminar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lenticular<s n="adj"/></l><r>lenticular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liminar<s n="adj"/></l><r>liminar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>linear<s n="adj"/></l><r>linear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lobular<s n="adj"/></l><r>lobular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>locular<s n="adj"/></l><r>locular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lunar<s n="adj"/></l><r>lunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magiar<s n="adj"/></l><r>magiar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malabar<s n="adj"/></l><r>malabar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malar<s n="adj"/></l><r>malar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maleolar<s n="adj"/></l><r>mal·leolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mamilar<s n="adj"/></l><r>mamil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mandibular<s n="adj"/></l><r>mandibular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maxilar<s n="adj"/></l><r>maxil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>medular<s n="adj"/></l><r>medul·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miliar<s n="adj"/></l><r>miliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>miliar<s n="adj"/></l><r>mil·liar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>modular<s n="adj"/></l><r>modular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>molar<s n="adj"/></l><r>molar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>molecular<s n="adj"/></l><r>molecular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monocarpelar<s n="adj"/></l><r>monocarpel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monocelular<s n="adj"/></l><r>monocel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monocular<s n="adj"/></l><r>monocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multiangular<s n="adj"/></l><r>multiangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multicapsular<s n="adj"/></l><r>multicapsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multicarpelar<s n="adj"/></l><r>multicarpel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multicelular<s n="adj"/></l><r>multicel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multilocular<s n="adj"/></l><r>multilocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multipolar<s n="adj"/></l><r>multipolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>multitubular<s n="adj"/></l><r>multitubular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>muscular<s n="adj"/></l><r>muscular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>navicular<s n="adj"/></l><r>navicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neuromuscular<s n="adj"/></l><r>neuromuscular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nodular<s n="adj"/></l><r>nodular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nucular<s n="adj"/></l><r>nucular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ocular<s n="adj"/></l><r>ocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oracular<s n="adj"/></l><r>oracular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orbicular<s n="adj"/></l><r>orbicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ossicular<s n="adj"/></l><r>ossicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palmar<s n="adj"/></l><r>palmar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>panicular<s n="adj"/></l><r>panicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>papilar<s n="adj"/></l><r>papil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>papular<s n="adj"/></l><r>papular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paramilitar<s n="adj"/></l><r>paramilitar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>patelar<s n="adj"/></l><r>patel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peciolar<s n="adj"/></l><r>peciolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peculiar<s n="adj"/></l><r>peculiar<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>peculiar<s n="adj"/></l><r>peculiar<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>pedicular<s n="adj"/></l><r>pedicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peduncular<s n="adj"/></l><r>peduncular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pelicular<s n="adj"/></l><r>pel·licular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pendular<s n="adj"/></l><r>pendular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peninsular<s n="adj"/></l><r>peninsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pilular<s n="adj"/></l><r>pil·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pistilar<s n="adj"/></l><r>pistil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plenilunar<s n="adj"/></l><r>plenilunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pluricarpelar<s n="adj"/></l><r>pluricarpel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pluricelular<s n="adj"/></l><r>pluricel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plurilocular<s n="adj"/></l><r>plurilocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poliarticular<s n="adj"/></l><r>poliarticular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>policarpelar<s n="adj"/></l><r>policarpel·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proconsular<s n="adj"/></l><r>proconsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pulmonar<s n="adj"/></l><r>pulmonar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pupilar<s n="adj"/></l><r>pupil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quadrangular<s n="adj"/></l><r>quadrangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radicular<s n="adj"/></l><r>radicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>receptacular<s n="adj"/></l><r>receptacular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reticular<s n="adj"/></l><r>reticular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sacular<s n="adj"/></l><r>sacular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>secular<s n="adj"/></l><r>secular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>semianular<s n="adj"/></l><r>semianular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semicircular<s n="adj"/></l><r>semicircular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semilunar<s n="adj"/></l><r>semilunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sigilar<s n="adj"/></l><r>sigil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subalar<s n="adj"/></l><r>subalar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subaxilar<s n="adj"/></l><r>subaxil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subliminar<s n="adj"/></l><r>subliminar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sublunar<s n="adj"/></l><r>sublunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>submaxilar<s n="adj"/></l><r>submaxil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subpolar<s n="adj"/></l><r>subpolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>superaxilar<s n="adj"/></l><r>superaxil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supraciliar<s n="adj"/></l><r>supraciliar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supralunar<s n="adj"/></l><r>supralunar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tabular<s n="adj"/></l><r>tabular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>talar<s n="adj"/></l><r>talar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tentacular<s n="adj"/></l><r>tentacular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>termonuclear<s n="adj"/></l><r>termonuclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>testicular<s n="adj"/></l><r>testicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>triangular<s n="adj"/></l><r>triangular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tricapsular<s n="adj"/></l><r>tricapsular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trilocular<s n="adj"/></l><r>trilocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>troclear<s n="adj"/></l><r>troclear<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tubercular<s n="adj"/></l><r>tubercular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tubular<s n="adj"/></l><r>tubular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tutelar<s n="adj"/></l><r>tutelar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ulnar<s n="adj"/></l><r>ulnar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uniangular<s n="adj"/></l><r>uniangular<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>unicelular<s n="adj"/></l><r>unicel·lular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unifilar<s n="adj"/></l><r>unifilar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unilocular<s n="adj"/></l><r>unilocular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uniovular<s n="adj"/></l><r>uniovular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unipolar<s n="adj"/></l><r>unipolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>utricular<s n="adj"/></l><r>utricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uvular<s n="adj"/></l><r>uvular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vacuolar<s n="adj"/></l><r>vacuolar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>valvar<s n="adj"/></l><r>valvar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>valvular<s n="adj"/></l><r>valvular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vascular<s n="adj"/></l><r>vascular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ventricular<s n="adj"/></l><r>ventricular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vermicular<s n="adj"/></l><r>vermicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vernacular<s n="adj"/></l><r>vernacular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vesicular<s n="adj"/></l><r>vesicular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vestibular<s n="adj"/></l><r>vestibular<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vexilar<s n="adj"/></l><r>vexil·lar<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vulgar<s n="adj"/></l><r>vulgar<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>vulgar<s n="adj"/></l><r>vulgar<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>vulvar<s n="adj"/></l><r>vulvar<s n="adj"/></r></p></e>
+
+<e a="hector"><p><l>abarrotado<s n="adj"/></l><r>abarrotat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>abarrotado<s n="adj"/></l><r>abarrotat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>abnegado<s n="adj"/></l><r>abnegat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abrandado<s n="adj"/></l><r>abrandat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>abrandado<s n="adj"/></l><r>abrandat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>acalorado<s n="adj"/></l><r>acalorat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>acalorado<s n="adj"/></l><r>acalorat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>acelomado<s n="adj"/></l><r>acelomat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acerado<s n="adj"/></l><r>acerat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aciculado<s n="adj"/></l><r>aciculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acomodado<s n="adj"/></l><r>acomodat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acordado<s n="adj"/></l><r>acordat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>acordado<s n="adj"/></l><r>acordat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>acostumado<s n="adj"/></l><r>acostumat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>acostumado<s n="adj"/></l><r>acostumat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>acuminado<s n="adj"/></l><r>acuminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acusado<s n="adj"/></l><r>acusat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>acusado<s n="adj"/></l><r>acusat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>adequado<s n="adj"/></l><r>adequat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>adequado<s n="adj"/></l><r>adequat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>adiamantado<s n="adj"/></l><r>adiamantat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adossado<s n="adj"/></l><r>adossat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>adossado<s n="adj"/></l><r>adossat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>afamado<s n="adj"/></l><r>afamat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>afelpado<s n="adj"/></l><r>afelpat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>aficionado<s n="adj"/></l><r>aficionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>aficionado<s n="adj"/></l><r>aficionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>afinado<s n="adj"/></l><r>afinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>afinado<s n="adj"/></l><r>afinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>aflautado<s n="adj"/></l><r>aflautat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>africado<s n="adj"/></l><r>africat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afustado<s n="adj"/></l><r>afustat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aglomerado<s n="adj"/></l><r>aglomerat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ajustado<s n="adj"/></l><r>ajustat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ajustado<s n="adj"/></l><r>ajustat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>alado<s n="adj"/></l><r>alat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aliado<s n="adj"/></l><r>aliat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>aliado<s n="adj"/></l><r>aliat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>alienado<s n="adj"/></l><r>alienat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alterado<s n="adj"/></l><r>alterat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>alterado<s n="adj"/></l><r>alterat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>alveolado<s n="adj"/></l><r>alveolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alucinado<s n="adj"/></l><r>al·lucinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amanhado<s n="adj"/></l><r>amanyat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amargado<s n="adj"/></l><r>amargat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>angulado<s n="adj"/></l><r>angulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>animado<s n="adj"/></l><r>animat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>animado<s n="adj"/></l><r>animat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>antenado<s n="adj"/></l><r>antenat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anulado<s n="adj"/></l><r>anul·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apagado<s n="adj"/></l><r>apagat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aparrado<s n="adj"/></l><r>aparrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apendiculado<s n="adj"/></l><r>apendiculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apiculado<s n="adj"/></l><r>apiculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apinhado<s n="adj"/></l><r>apinyat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aplanado<s n="adj"/></l><r>aplanat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aplicado<s n="adj"/></l><r>aplicat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>aplicado<s n="adj"/></l><r>aplicat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>apreciado<s n="adj"/></l><r>apreciat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>apreciado<s n="adj"/></l><r>apreciat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>aprimorado<s n="adj"/></l><r>aprimorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aproximado<s n="adj"/></l><r>aproximat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arborizado<s n="adj"/></l><r>arboritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>areolado<s n="adj"/></l><r>areolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arilado<s n="adj"/></l><r>aril·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aristado<s n="adj"/></l><r>aristat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>armado<s n="adj"/></l><r>armat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>armoriado<s n="adj"/></l><r>armoriat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arquegoniado<s n="adj"/></l><r>arquegoniat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arquitravado<s n="adj"/></l><r>arquitravat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arriscado<s n="adj"/></l><r>arriscat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>arriscado<s n="adj"/></l><r>arriscat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>arrufado<s n="adj"/></l><r>arrufat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>articulado<s n="adj"/></l><r>articulat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>articulado<s n="adj"/></l><r>articulat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>asilado<s n="adj"/></l><r>asilat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assalariado<s n="adj"/></l><r>assalariat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assolado<s n="adj"/></l><r>assolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assossegado<s n="adj"/></l><r>assossegat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atarantado<s n="adj"/></l><r>atarantat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atrofiado<s n="adj"/></l><r>atrofiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>auriculado<s n="adj"/></l><r>auriculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>automatizado<s n="adj"/></l><r>automatitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autoproclamado<s n="adj"/></l><r>autoproclamat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autorizado<s n="adj"/></l><r>autoritzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>autorizado<s n="adj"/></l><r>autoritzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>avançado<s n="adj"/></l><r>avançat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aventurado<s n="adj"/></l><r>aventurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>avinagrado<s n="adj"/></l><r>avinagrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>azotado<s n="adj"/></l><r>azotat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bandado<s n="adj"/></l><r>bandat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>barrado<s n="adj"/></l><r>barrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biarticulado<s n="adj"/></l><r>biarticulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biconjugado<s n="adj"/></l><r>biconjugat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bidentado<s n="adj"/></l><r>bidentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bifoliado<s n="adj"/></l><r>bifoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bigeminado<s n="adj"/></l><r>bigeminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bilabiado<s n="adj"/></l><r>bilabiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bilobado<s n="adj"/></l><r>bilobat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>binucleado<s n="adj"/></l><r>binucleat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>biquadrado<s n="adj"/></l><r>biquadrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>blindado<s n="adj"/></l><r>blindat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>blindado<s n="adj"/></l><r>blindat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>boratado<s n="adj"/></l><r>boratat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bracteado<s n="adj"/></l><r>bracteat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bracteolado<s n="adj"/></l><r>bracteolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bragado<s n="adj"/></l><r>bragat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>branquiado<s n="adj"/></l><r>branquiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>braquiado<s n="adj"/></l><r>braquiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>brocado<s n="adj"/></l><r>brocat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bromado<s n="adj"/></l><r>bromat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>burelado<s n="adj"/></l><r>burelat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>buscado<s n="adj"/></l><r>buscat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>buscado<s n="adj"/></l><r>buscat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>caducado<s n="adj"/></l><r>caducat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calcado<s n="adj"/></l><r>calcat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calculado<s n="adj"/></l><r>calculat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>calculado<s n="adj"/></l><r>calculat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>caliculado<s n="adj"/></l><r>caliculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calhado<s n="adj"/></l><r>callat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>calhado<s n="adj"/></l><r>callat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>campanulado<s n="adj"/></l><r>campanulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cancelado<s n="adj"/></l><r>cancel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cansado<s n="adj"/></l><r>cansat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>cansado<s n="adj"/></l><r>cansat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="LR" a="hector"><p><l>cantonado<s n="adj"/></l><r>cantonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caramelizado<s n="adj"/></l><r>caramel·litzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carbonatado<s n="adj"/></l><r>carbonatat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>carbonatado<s n="adj"/></l><r>carbonatat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>cariado<s n="adj"/></l><r>cariat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carminado<s n="adj"/></l><r>carminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carregado<s n="adj"/></l><r>carregat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>carregado<s n="adj"/></l><r>carregat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>casado<s n="adj"/></l><r>casat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cefalado<s n="adj"/></l><r>cefalat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>celebrado<s n="adj"/></l><r>celebrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>celebrado<s n="adj"/></l><r>celebrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>celomado<s n="adj"/></l><r>celomat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>centuplicado<s n="adj"/></l><r>centuplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ciliado<s n="adj"/></l><r>ciliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circinado<s n="adj"/></l><r>circinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>claviculado<s n="adj"/></l><r>claviculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>climatizado<s n="adj"/></l><r>climatitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clitelado<s n="adj"/></l><r>clitel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clorado<s n="adj"/></l><r>clorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coagulado<s n="adj"/></l><r>coagulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cognado<s n="adj"/></l><r>cognat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comparado<s n="adj"/></l><r>comparat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compensado<s n="adj"/></l><r>compensat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>compensado<s n="adj"/></l><r>compensat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>complicado<s n="adj"/></l><r>complicat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>complicado<s n="adj"/></l><r>complicat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>concentrado<s n="adj"/></l><r>concentrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>concentrado<s n="adj"/></l><r>concentrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>concertado<s n="adj"/></l><r>concertat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concrecionado<s n="adj"/></l><r>concrecionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>condensado<s n="adj"/></l><r>condensat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>condicionado<s n="adj"/></l><r>condicionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confiado<s n="adj"/></l><r>confiat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>confiado<s n="adj"/></l><r>confiat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>confinado<s n="adj"/></l><r>confinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>congestionado<s n="adj"/></l><r>congestionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>congestionado<s n="adj"/></l><r>congestionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>consternado<s n="adj"/></l><r>consternat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>controlado<s n="adj"/></l><r>controlat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>controlado<s n="adj"/></l><r>controlat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>corcovado<s n="adj"/></l><r>corcovat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cordado<s n="adj"/></l><r>cordat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corniculado<s n="adj"/></l><r>corniculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coronado<s n="adj"/></l><r>coronat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cotizado<s n="adj"/></l><r>cotitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>cotizado<s n="adj"/></l><r>cotitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>craniado<s n="adj"/></l><r>craniat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crenado<s n="adj"/></l><r>crenat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crispado<s n="adj"/></l><r>crispat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cromado<s n="adj"/></l><r>cromat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cupulado<s n="adj"/></l><r>cupulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cuspidado<s n="adj"/></l><r>cuspidat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dactilado<s n="adj"/></l><r>dactilat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decussado<s n="adj"/></l><r>decussat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dedicado<s n="adj"/></l><r>dedicat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>dedicado<s n="adj"/></l><r>dedicat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>degradado<s n="adj"/></l><r>degradat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deixado<s n="adj"/></l><r>deixat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deliberado<s n="adj"/></l><r>deliberat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>deliberado<s n="adj"/></l><r>deliberat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>demorado<s n="adj"/></l><r>demorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dentado<s n="adj"/></l><r>dentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>dentado<s n="adj"/></l><r>dentat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>denticulado<s n="adj"/></l><r>denticulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>depravado<s n="adj"/></l><r>depravat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>derivado<s n="adj"/></l><r>derivat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desacomodado<s n="adj"/></l><r>desacomodat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desacompanhado<s n="adj"/></l><r>desacompanyat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desacordado<s n="adj"/></l><r>desacordat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desacostumado<s n="adj"/></l><r>desacostumat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desacostumado<s n="adj"/></l><r>desacostumat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desactualizado<s n="adj"/></l><r>desactualitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desadaptado<s n="adj"/></l><r>desadaptat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desafortunado<s n="adj"/></l><r>desafortunat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desafortunado<s n="adj"/></l><r>desafortunat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desanimado<s n="adj"/></l><r>desanimat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desaparelhado<s n="adj"/></l><r>desaparellat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desapegado<s n="adj"/></l><r>desapegat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desarmado<s n="adj"/></l><r>desarmat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desastrado<s n="adj"/></l><r>desastrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desbocado<s n="adj"/></l><r>desbocat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desbocado<s n="adj"/></l><r>desbocat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desbragado<s n="adj"/></l><r>desbragat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desbulhado<s n="adj"/></l><r>desbullat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descalçado<s n="adj"/></l><r>descalçat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descarado<s n="adj"/></l><r>descarat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>descarado<s n="adj"/></l><r>descarat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>descentralizado<s n="adj"/></l><r>descentralitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descentrado<s n="adj"/></l><r>descentrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descompassado<s n="adj"/></l><r>descompassat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desconcertado<s n="adj"/></l><r>desconcertat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desconcertado<s n="adj"/></l><r>desconcertat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desconfiado<s n="adj"/></l><r>desconfiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descongelado<s n="adj"/></l><r>descongelat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descongestionado<s n="adj"/></l><r>descongestionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desconsiderado<s n="adj"/></l><r>desconsiderat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desconsiderado<s n="adj"/></l><r>desconsiderat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desconsolado<s n="adj"/></l><r>desconsolat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desconsolado<s n="adj"/></l><r>desconsolat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>descontaminado<s n="adj"/></l><r>descontaminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descontrolado<s n="adj"/></l><r>descontrolat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>descontrolado<s n="adj"/></l><r>descontrolat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>descurado<s n="adj"/></l><r>descurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desdentado<s n="adj"/></l><r>desdentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desemparelhado<s n="adj"/></l><r>desemparellat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desencantado<s n="adj"/></l><r>desencantat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desencantado<s n="adj"/></l><r>desencantat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desenfadado<s n="adj"/></l><r>desenfadat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desenfadado<s n="adj"/></l><r>desenfadat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desequilibrado<s n="adj"/></l><r>desequilibrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desequilibrado<s n="adj"/></l><r>desequilibrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desesperançado<s n="adj"/></l><r>desesperançat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desesperado<s n="adj"/></l><r>desesperat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desgalgado<s n="adj"/></l><r>desgalgat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desgelado<s n="adj"/></l><r>desgelat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desinformado<s n="adj"/></l><r>desinformat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desintegrado<s n="adj"/></l><r>desintegrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desinteressado<s n="adj"/></l><r>desinteressat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desinteressado<s n="adj"/></l><r>desinteressat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desmesurado<s n="adj"/></l><r>desmesurat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desmesurado<s n="adj"/></l><r>desmesurat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desmilitarizado<s n="adj"/></l><r>desmilitaritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desmineralizado<s n="adj"/></l><r>desmineralitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desmodado<s n="adj"/></l><r>desmodat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desmoderado<s n="adj"/></l><r>desmoderat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desmoralizado<s n="adj"/></l><r>desmoralitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desnacionalizado<s n="adj"/></l><r>desnacionalitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desnarigado<s n="adj"/></l><r>desnarigat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desnatado<s n="adj"/></l><r>desnatat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desocupado<s n="adj"/></l><r>desocupat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desolado<s n="adj"/></l><r>desolat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desolado<s n="adj"/></l><r>desolat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desordenado<s n="adj"/></l><r>desordenat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desordenado<s n="adj"/></l><r>desordenat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desorganizado<s n="adj"/></l><r>desorganitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desorganizado<s n="adj"/></l><r>desorganitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desorientado<s n="adj"/></l><r>desorientat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>despistado<s n="adj"/></l><r>despistat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>despistado<s n="adj"/></l><r>despistat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>despreocupado<s n="adj"/></l><r>despreocupat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desproporcionado<s n="adj"/></l><r>desproporcionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desproporcionado<s n="adj"/></l><r>desproporcionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>dessubstanciado<s n="adj"/></l><r>dessubstanciat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>destacado<s n="adj"/></l><r>destacat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>destacado<s n="adj"/></l><r>destacat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>destapado<s n="adj"/></l><r>destapat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>destemperado<s n="adj"/></l><r>destemperat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>destilado<s n="adj"/></l><r>destil·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>destinado<s n="adj"/></l><r>destinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desusado<s n="adj"/></l><r>desusat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desventurado<s n="adj"/></l><r>desventurat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>desventurado<s n="adj"/></l><r>desventurat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>desviado<s n="adj"/></l><r>desviat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>detalhado<s n="adj"/></l><r>detallat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>detalhado<s n="adj"/></l><r>detallat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>deteriorado<s n="adj"/></l><r>deteriorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>determinado<s n="adj"/></l><r>determinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>determinado<s n="adj"/></l><r>determinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>detestado<s n="adj"/></l><r>detestat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diademado<s n="adj"/></l><r>diademat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dilatado<s n="adj"/></l><r>dilatat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>dilatado<s n="adj"/></l><r>dilatat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>dimensionado<s n="adj"/></l><r>dimensionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diplomado<s n="adj"/></l><r>diplomat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disciplinado<s n="adj"/></l><r>disciplinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discriminado<s n="adj"/></l><r>discriminat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>discriminado<s n="adj"/></l><r>discriminat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>dispersado<s n="adj"/></l><r>dispersat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disputado<s n="adj"/></l><r>disputat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>disputado<s n="adj"/></l><r>disputat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>dissimulado<s n="adj"/></l><r>dissimulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissociado<s n="adj"/></l><r>dissociat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>divorciado<s n="adj"/></l><r>divorciat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>divulgado<s n="adj"/></l><r>divulgat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>divulgado<s n="adj"/></l><r>divulgat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>documentado<s n="adj"/></l><r>documentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>documentado<s n="adj"/></l><r>documentat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>domesticado<s n="adj"/></l><r>domesticat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>domiciliado<s n="adj"/></l><r>domiciliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dotado<s n="adj"/></l><r>dotat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dragonado<s n="adj"/></l><r>dragonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>duplicado<s n="adj"/></l><r>duplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>educado<s n="adj"/></l><r>educat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>educado<s n="adj"/></l><r>educat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>efeminado<s n="adj"/></l><r>efeminat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>efeminado<s n="adj"/></l><r>efeminat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>elaborado<s n="adj"/></l><r>elaborat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>elaborado<s n="adj"/></l><r>elaborat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>electrificado<s n="adj"/></l><r>electrificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emancipado<s n="adj"/></l><r>emancipat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>embrionado<s n="adj"/></l><r>embrionat<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>emocionado<s n="adj"/></l><r>emocionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>emocionado<s n="adj"/></l><r>emocionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>empatado<s n="adj"/></l><r>empatat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>empinado<s n="adj"/></l><r>empinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>empinado<s n="adj"/></l><r>empinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>emprenhado<s n="adj"/></l><r>emprenyat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>emprenhado<s n="adj"/></l><r>emprenyat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>enamorado<s n="adj"/></l><r>enamorat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>enamorado<s n="adj"/></l><r>enamorat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>encalhado<s n="adj"/></l><r>encallat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>encanado<s n="adj"/></l><r>encanat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>encantado<s n="adj"/></l><r>encantat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>encantado<s n="adj"/></l><r>encantat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>encarregado<s n="adj"/></l><r>encarregat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>encarregado<s n="adj"/></l><r>encarregat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>enfadado<s n="adj"/></l><r>enfadat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>engalanado<s n="adj"/></l><r>engalanat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enroscado<s n="adj"/></l><r>enroscat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entranhado<s n="adj"/></l><r>entranyat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entretalhado<s n="adj"/></l><r>entretallat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entronizado<s n="adj"/></l><r>entronitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entufado<s n="adj"/></l><r>entufat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>entusiasmado<s n="adj"/></l><r>entusiasmat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>envasado<s n="adj"/></l><r>envasat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equilibrado<s n="adj"/></l><r>equilibrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>equilibrado<s n="adj"/></l><r>equilibrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>equipado<s n="adj"/></l><r>equipat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equivocado<s n="adj"/></l><r>equivocat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escacado<s n="adj"/></l><r>escacat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escalonado<s n="adj"/></l><r>escalonat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>escalonado<s n="adj"/></l><r>escalonat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>escampado<s n="adj"/></l><r>escampat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escarolado<s n="adj"/></l><r>escarolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>escarpado<s n="adj"/></l><r>escarpat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esclerosado<s n="adj"/></l><r>esclerosat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esfumado<s n="adj"/></l><r>esfumat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>esfumado<s n="adj"/></l><r>esfumat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>espantado<s n="adj"/></l><r>espantat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>espantado<s n="adj"/></l><r>espantat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>espatulado<s n="adj"/></l><r>espatulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>especializado<s n="adj"/></l><r>especialitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>especializado<s n="adj"/></l><r>especialitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>espiralado<s n="adj"/></l><r>espiralat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estafado<s n="adj"/></l><r>estafat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estampado<s n="adj"/></l><r>estampat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estereotipado<s n="adj"/></l><r>estereotipat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estimado<s n="adj"/></l><r>estimat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>estimado<s n="adj"/></l><r>estimat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>estirado<s n="adj"/></l><r>estirat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>estirado<s n="adj"/></l><r>estirat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>estrelado<s n="adj"/></l><r>estrelat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estriado<s n="adj"/></l><r>estriat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>estriado<s n="adj"/></l><r>estriat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>estripado<s n="adj"/></l><r>estripat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>estripado<s n="adj"/></l><r>estripat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>exacerbado<s n="adj"/></l><r>exacerbat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exagerado<s n="adj"/></l><r>exagerat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>exagerado<s n="adj"/></l><r>exagerat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>exaltado<s n="adj"/></l><r>exaltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exasperado<s n="adj"/></l><r>exasperat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expatriado<s n="adj"/></l><r>expatriat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>experimentado<s n="adj"/></l><r>experimentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>experimentado<s n="adj"/></l><r>experimentat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>extenuado<s n="adj"/></l><r>extenuat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extremado<s n="adj"/></l><r>extremat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>extremado<s n="adj"/></l><r>extremat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>familiarizado<s n="adj"/></l><r>familiaritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fasciculado<s n="adj"/></l><r>fasciculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fascinado<s n="adj"/></l><r>fascinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fascinado<s n="adj"/></l><r>fascinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>fastigiado<s n="adj"/></l><r>fastigiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fatigado<s n="adj"/></l><r>fatigat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fatigado<s n="adj"/></l><r>fatigat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>fecundado<s n="adj"/></l><r>fecundat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fenestrado<s n="adj"/></l><r>fenestrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fenicado<s n="adj"/></l><r>fenicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>feriado<s n="adj"/></l><r>festiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fermentado<s n="adj"/></l><r>fermentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fermentado<s n="adj"/></l><r>fermentat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>figurado<s n="adj"/></l><r>figurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>filado<s n="adj"/></l><r>filat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fimbriado<s n="adj"/></l><r>fimbriat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>finado<s n="adj"/></l><r>finat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fissurado<s n="adj"/></l><r>fissurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flabelado<s n="adj"/></l><r>flabel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flabelifoliado<s n="adj"/></l><r>flabel·lifoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flagelado<s n="adj"/></l><r>flagel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flautado<s n="adj"/></l><r>flautat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flocado<s n="adj"/></l><r>flocat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fluorado<s n="adj"/></l><r>fluorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>folgado<s n="adj"/></l><r>folgat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>folgado<s n="adj"/></l><r>folgat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>foliado<s n="adj"/></l><r>foliat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>foliado<s n="adj"/></l><r>foliat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>foliolado<s n="adj"/></l><r>foliolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fosforado<s n="adj"/></l><r>fosforat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fragmentado<s n="adj"/></l><r>fragmentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fragmentado<s n="adj"/></l><r>fragmentat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="hector"><p><l>frustrado<s n="adj"/></l><r>frustrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fugado<s n="adj"/></l><r>fugat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fulminado<s n="adj"/></l><r>fulminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fumado<s n="adj"/></l><r>fumat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fumado<s n="adj"/></l><r>fumat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>fundado<s n="adj"/></l><r>fundat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galvanizado<s n="adj"/></l><r>galvanitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gemado<s n="adj"/></l><r>gemat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>geniculado<s n="adj"/></l><r>geniculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gomado<s n="adj"/></l><r>gomat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>granulado<s n="adj"/></l><r>granulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>grado<s n="adj"/></l><r>grat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>grado<s n="adj"/></l><r>grat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>habituado<s n="adj"/></l><r>habituat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>halogenado<s n="adj"/></l><r>halogenat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hastado<s n="adj"/></l><r>hastat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>honrado<s n="adj"/></l><r>honrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>honrado<s n="adj"/></l><r>honrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>igualado<s n="adj"/></l><r>igualat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>igualado<s n="adj"/></l><r>igualat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>iluminado<s n="adj"/></l><r>il·luminat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>iluminado<s n="adj"/></l><r>il·luminat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>ilustrado<s n="adj"/></l><r>il·lustrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impensado<s n="adj"/></l><r>impensat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imperturbado<s n="adj"/></l><r>imperturbat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imponderado<s n="adj"/></l><r>imponderat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impressionado<s n="adj"/></l><r>impressionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>improporcionado<s n="adj"/></l><r>improporcionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>improvisado<s n="adj"/></l><r>improvisat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>improvisado<s n="adj"/></l><r>improvisat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inacabado<s n="adj"/></l><r>inacabat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>inacabado<s n="adj"/></l><r>inacabat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inacostumado<s n="adj"/></l><r>inacostumat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inactivado<s n="adj"/></l><r>inactivat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inadaptado<s n="adj"/></l><r>inadaptat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inadequado<s n="adj"/></l><r>inadequat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>inadequado<s n="adj"/></l><r>inadequat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inalterado<s n="adj"/></l><r>inalterat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inanimado<s n="adj"/></l><r>inanimat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inaplicado<s n="adj"/></l><r>inaplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inarticulado<s n="adj"/></l><r>inarticulat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>inarticulado<s n="adj"/></l><r>inarticulat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>incivilizado<s n="adj"/></l><r>incivilitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inclinado<s n="adj"/></l><r>inclinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>inclinado<s n="adj"/></l><r>inclinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>incondicionado<s n="adj"/></l><r>incondicionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>incondicionado<s n="adj"/></l><r>incondicionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inconsiderado<s n="adj"/></l><r>inconsiderat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incontaminado<s n="adj"/></l><r>incontaminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incontestado<s n="adj"/></l><r>incontestat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>incontestado<s n="adj"/></l><r>incontestat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>incontrolado<s n="adj"/></l><r>incontrolat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>incontrolado<s n="adj"/></l><r>incontrolat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inculpado<s n="adj"/></l><r>inculpat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incultivado<s n="adj"/></l><r>incultivat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indeliberado<s n="adj"/></l><r>indeliberat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indelicado<s n="adj"/></l><r>indelicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indeterminado<s n="adj"/></l><r>indeterminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indiferenciado<s n="adj"/></l><r>indiferenciat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indignado<s n="adj"/></l><r>indignat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>indignado<s n="adj"/></l><r>indignat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>indisciplinado<s n="adj"/></l><r>indisciplinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>indisciplinado<s n="adj"/></l><r>indisciplinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>individualizado<s n="adj"/></l><r>individualitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>individualizado<s n="adj"/></l><r>individualitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>indomesticado<s n="adj"/></l><r>indomesticat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>induplicado<s n="adj"/></l><r>induplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>industrializado<s n="adj"/></l><r>industrialitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>industrializado<s n="adj"/></l><r>industrialitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>induviado<s n="adj"/></l><r>induviat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inestimado<s n="adj"/></l><r>inestimat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inexpiado<s n="adj"/></l><r>inexpiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inexplicado<s n="adj"/></l><r>inexplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inexplorado<s n="adj"/></l><r>inexplorat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>infiltrado<s n="adj"/></l><r>infiltrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inflado<s n="adj"/></l><r>inflat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>inflado<s n="adj"/></l><r>inflat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>infortunado<s n="adj"/></l><r>infortunat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>infortunado<s n="adj"/></l><r>infortunat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>infundado<s n="adj"/></l><r>infundat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>infundado<s n="adj"/></l><r>infundat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inigualado<s n="adj"/></l><r>inigualat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>injuriado<s n="adj"/></l><r>injuriat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>injuriado<s n="adj"/></l><r>injuriat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>injustificado<s n="adj"/></l><r>injustificat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>injustificado<s n="adj"/></l><r>injustificat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>inocupado<s n="adj"/></l><r>inocupat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inopinado<s n="adj"/></l><r>inopinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insaciado<s n="adj"/></l><r>insaciat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insaturado<s n="adj"/></l><r>insaturat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>instaurado<s n="adj"/></l><r>instaurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>institucionalizado<s n="adj"/></l><r>institucionalitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insultado<s n="adj"/></l><r>insultat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insuperado<s n="adj"/></l><r>insuperat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>integrado<s n="adj"/></l><r>integrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intemperado<s n="adj"/></l><r>intemperat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intencionado<s n="adj"/></l><r>intencionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>intencionado<s n="adj"/></l><r>intencionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>interaliado<s n="adj"/></l><r>interaliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intercalado<s n="adj"/></l><r>intercalat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>intercalado<s n="adj"/></l><r>intercalat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>interessado<s n="adj"/></l><r>interessat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>interessado<s n="adj"/></l><r>interessat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>interiorizado<s n="adj"/></l><r>interioritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interpolado<s n="adj"/></l><r>interpolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intitulado<s n="adj"/></l><r>intitulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intricado<s n="adj"/></l><r>intricat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>intricado<s n="adj"/></l><r>intricat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>intrigado<s n="adj"/></l><r>intrigat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>intrigado<s n="adj"/></l><r>intrigat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>intrincado<s n="adj"/></l><r>intrincat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>intrincado<s n="adj"/></l><r>intrincat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>invertebrado<s n="adj"/></l><r>invertebrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inveterado<s n="adj"/></l><r>inveterat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inviolado<s n="adj"/></l><r>inviolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>invulnerado<s n="adj"/></l><r>invulnerat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irado<s n="adj"/></l><r>irat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>irado<s n="adj"/></l><r>irat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>irremunerado<s n="adj"/></l><r>irremunerat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jubilado<s n="adj"/></l><r>jubilat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>justificado<s n="adj"/></l><r>justificat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>justificado<s n="adj"/></l><r>justificat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>labiado<s n="adj"/></l><r>labiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lacado<s n="adj"/></l><r>lacat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laciniado<s n="adj"/></l><r>laciniat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lamelado<s n="adj"/></l><r>lamel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laminado<s n="adj"/></l><r>laminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lampassado<s n="adj"/></l><r>lampassat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lanceolado<s n="adj"/></l><r>lanceolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>larvado<s n="adj"/></l><r>larvat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>legalizado<s n="adj"/></l><r>legalitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lesionado<s n="adj"/></l><r>lesionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ligulado<s n="adj"/></l><r>ligulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>liofilizado<s n="adj"/></l><r>liofilitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leonado<s n="adj"/></l><r>lleonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>leopardado<s n="adj"/></l><r>lleopardat<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>letrado<s n="adj"/></l><r>lletrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>licenciado<s n="adj"/></l><r>llicenciat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ligado<s n="adj"/></l><r>lligat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ligado<s n="adj"/></l><r>lligat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>lunado<s n="adj"/></l><r>llunat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lobulado<s n="adj"/></l><r>lobulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maclado<s n="adj"/></l><r>maclat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malcriado<s n="adj"/></l><r>malcriat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malfadado<s n="adj"/></l><r>malfadat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malparado<s n="adj"/></l><r>malparat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mancomunado<s n="adj"/></l><r>mancomunat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marcado<s n="adj"/></l><r>marcat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>marcado<s n="adj"/></l><r>marcat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>marejado<s n="adj"/></l><r>marejat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>marejado<s n="adj"/></l><r>marejat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>marginado<s n="adj"/></l><r>marginat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>marginado<s n="adj"/></l><r>marginat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>martirizado<s n="adj"/></l><r>martiritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mediado<s n="adj"/></l><r>mediat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>melado<s n="adj"/></l><r>melat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mentolado<s n="adj"/></l><r>mentolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>minorado<s n="adj"/></l><r>minorat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>minorado<s n="adj"/></l><r>minorat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>mitrado<s n="adj"/></l><r>mitrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>moderado<s n="adj"/></l><r>moderat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>moderado<s n="adj"/></l><r>moderat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>morado<s n="adj"/></l><r>morat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>morado<s n="adj"/></l><r>morat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>morigerado<s n="adj"/></l><r>morigerat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mortificado<s n="adj"/></l><r>mortificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>moscado<s n="adj"/></l><r>moscat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mossado<s n="adj"/></l><r>mossat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mucronado<s n="adj"/></l><r>mucronat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mudado<s n="adj"/></l><r>mudat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>mudado<s n="adj"/></l><r>mudat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>multiplicado<s n="adj"/></l><r>multiplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>musculado<s n="adj"/></l><r>musculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mutilado<s n="adj"/></l><r>mutilat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nado<s n="adj"/></l><r>nat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nervado<s n="adj"/></l><r>nervat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nevado<s n="adj"/></l><r>nevat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>nevado<s n="adj"/></l><r>nevat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>normalizado<s n="adj"/></l><r>normalitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>normalizado<s n="adj"/></l><r>normalitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>obcecado<s n="adj"/></l><r>obcecat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>obcecado<s n="adj"/></l><r>obcecat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>obcordado<s n="adj"/></l><r>obcordat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obstinado<s n="adj"/></l><r>obstinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>obstinado<s n="adj"/></l><r>obstinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>obturado<s n="adj"/></l><r>obturat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ocelado<s n="adj"/></l><r>ocel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ocupado<s n="adj"/></l><r>ocupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ocupado<s n="adj"/></l><r>ocupat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>operculado<s n="adj"/></l><r>operculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opiado<s n="adj"/></l><r>opiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ordenado<s n="adj"/></l><r>ordenat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ordenado<s n="adj"/></l><r>ordenat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>organizado<s n="adj"/></l><r>organitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>organizado<s n="adj"/></l><r>organitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>ornamentado<s n="adj"/></l><r>ornamentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ornado<s n="adj"/></l><r>ornat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ornado<s n="adj"/></l><r>ornat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>ostentado<s n="adj"/></l><r>ostentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ostomizado<s n="adj"/></l><r>ostomitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ovalado<s n="adj"/></l><r>ovalat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>ovalado<s n="adj"/></l><r>ovalat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>ovado<s n="adj"/></l><r>ovat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oxidado<s n="adj"/></l><r>oxidat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>oxidado<s n="adj"/></l><r>oxidat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>oxigenado<s n="adj"/></l><r>oxigenat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palmado<s n="adj"/></l><r>palmat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palmatilobado<s n="adj"/></l><r>palmatilobat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palpebrado<s n="adj"/></l><r>palpebrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>parado<s n="adj"/></l><r>parat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pasteurizado<s n="adj"/></l><r>pasteuritzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pausado<s n="adj"/></l><r>pausat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pautado<s n="adj"/></l><r>pautat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>pautado<s n="adj"/></l><r>pautat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>pavimentado<s n="adj"/></l><r>pavimentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peciolado<s n="adj"/></l><r>peciolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedicelado<s n="adj"/></l><r>pedicel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pediculado<s n="adj"/></l><r>pediculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedunculado<s n="adj"/></l><r>pedunculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pelado<s n="adj"/></l><r>pelat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peltado<s n="adj"/></l><r>peltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>peraltado<s n="adj"/></l><r>peraltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perfilado<s n="adj"/></l><r>perfilat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>perfilado<s n="adj"/></l><r>perfilat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>perfumado<s n="adj"/></l><r>perfumat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>perfumado<s n="adj"/></l><r>perfumat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>pesado<s n="adj"/></l><r>pesat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>pesado<s n="adj"/></l><r>pesat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>petalado<s n="adj"/></l><r>petalat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petrificado<s n="adj"/></l><r>petrificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>picado<s n="adj"/></l><r>picat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>picado<s n="adj"/></l><r>picat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>planificado<s n="adj"/></l><r>planificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>platinado<s n="adj"/></l><r>platinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plurilobulado<s n="adj"/></l><r>plurilobulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>policromado<s n="adj"/></l><r>policromat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ponderado<s n="adj"/></l><r>ponderat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>posicionado<s n="adj"/></l><r>posicionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>posicionado<s n="adj"/></l><r>posicionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>predestinado<s n="adj"/></l><r>predestinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predeterminado<s n="adj"/></l><r>predeterminat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>predeterminado<s n="adj"/></l><r>predeterminat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>preocupado<s n="adj"/></l><r>preocupat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>preocupado<s n="adj"/></l><r>preocupat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>preparado<s n="adj"/></l><r>preparat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>preparado<s n="adj"/></l><r>preparat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>pressurizado<s n="adj"/></l><r>pressuritzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>prestigiado<s n="adj"/></l><r>prestigiat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>prestigiado<s n="adj"/></l><r>prestigiat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>privatizado<s n="adj"/></l><r>privatitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>privatizado<s n="adj"/></l><r>privatitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>privilegiado<s n="adj"/></l><r>privilegiat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>privilegiado<s n="adj"/></l><r>privilegiat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>proclamado<s n="adj"/></l><r>proclamat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pronunciado<s n="adj"/></l><r>pronunciat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>pronunciado<s n="adj"/></l><r>pronunciat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>proporcionado<s n="adj"/></l><r>proporcionat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pulmonado<s n="adj"/></l><r>pulmonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>purificado<s n="adj"/></l><r>purificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quadrifoliado<s n="adj"/></l><r>quadrifoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quadruplicado<s n="adj"/></l><r>quadruplicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>qualificado<s n="adj"/></l><r>qualificat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>qualificado<s n="adj"/></l><r>qualificat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>quaternado<s n="adj"/></l><r>quaternat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quinado<s n="adj"/></l><r>quinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quinquefoliado<s n="adj"/></l><r>quinquefoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiotelevisado<s n="adj"/></l><r>radiotelevisat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rapado<s n="adj"/></l><r>rapat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>rapado<s n="adj"/></l><r>rapat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>rebaixado<s n="adj"/></l><r>rebaixat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>rebaixado<s n="adj"/></l><r>rebaixat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>rebuscado<s n="adj"/></l><r>rebuscat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>rebuscado<s n="adj"/></l><r>rebuscat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>recurvado<s n="adj"/></l><r>recurvat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refinado<s n="adj"/></l><r>refinat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>refinado<s n="adj"/></l><r>refinat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>refractado<s n="adj"/></l><r>refractat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refugiado<s n="adj"/></l><r>refugiat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>refugiado<s n="adj"/></l><r>refugiat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>reiterado<s n="adj"/></l><r>reiterat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>reiterado<s n="adj"/></l><r>reiterat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>relaxado<s n="adj"/></l><r>relaxat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>remunerado<s n="adj"/></l><r>remunerat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>remunerado<s n="adj"/></l><r>remunerat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>renegado<s n="adj"/></l><r>renegat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>renovado<s n="adj"/></l><r>renovat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repatriado<s n="adj"/></l><r>repatriat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reputado<s n="adj"/></l><r>reputat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reservado<s n="adj"/></l><r>reservat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>reservado<s n="adj"/></l><r>reservat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>resignado<s n="adj"/></l><r>resignat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retardado<s n="adj"/></l><r>retardat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>retardado<s n="adj"/></l><r>retardat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>reticulado<s n="adj"/></l><r>reticulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retirado<s n="adj"/></l><r>retirat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>revoltado<s n="adj"/></l><r>revoltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rosado<s n="adj"/></l><r>rosat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>roscado<s n="adj"/></l><r>roscat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>roscado<s n="adj"/></l><r>roscat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>rostrado<s n="adj"/></l><r>rostrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>salmonado<s n="adj"/></l><r>salmonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saltado<s n="adj"/></l><r>saltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>santificado<s n="adj"/></l><r>santificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saturado<s n="adj"/></l><r>saturat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>saturado<s n="adj"/></l><r>saturat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>segregado<s n="adj"/></l><r>segregat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semiacabado<s n="adj"/></l><r>semiacabat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semicivilizado<s n="adj"/></l><r>semicivilitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semidesnatado<s n="adj"/></l><r>semidesnatat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semienterrado<s n="adj"/></l><r>semienterrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>separado<s n="adj"/></l><r>separat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>separado<s n="adj"/></l><r>separat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>septado<s n="adj"/></l><r>septat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sexuado<s n="adj"/></l><r>sexuat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sifonado<s n="adj"/></l><r>sifonat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sincopado<s n="adj"/></l><r>sincopat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sinistrado<s n="adj"/></l><r>sinistrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sobrecarregado<s n="adj"/></l><r>sobrecarregat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sobredimensionado<s n="adj"/></l><r>sobredimensionat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>sobredimensionado<s n="adj"/></l><r>sobredimensionat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>sofisticado<s n="adj"/></l><r>sofisticat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>sofisticado<s n="adj"/></l><r>sofisticat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>solado<s n="adj"/></l><r>solat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>somado<s n="adj"/></l><r>somat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>soterrado<s n="adj"/></l><r>soterrat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>soterrado<s n="adj"/></l><r>soterrat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>suado<s n="adj"/></l><r>suat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>suado<s n="adj"/></l><r>suat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>subulado<s n="adj"/></l><r>subulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sulfatado<s n="adj"/></l><r>sulfatat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>superdotado<s n="adj"/></l><r>superdotat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>superdotado<s n="adj"/></l><r>superdotat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>suportado<s n="adj"/></l><r>suportat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>suportado<s n="adj"/></l><r>suportat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>tarado<s n="adj"/></l><r>tarat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>temperado<s n="adj"/></l><r>temperat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>temperado<s n="adj"/></l><r>temperat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>tentaculado<s n="adj"/></l><r>tentaculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ternado<s n="adj"/></l><r>ternat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tipificado<s n="adj"/></l><r>tipificat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>titulado<s n="adj"/></l><r>titulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tocado<s n="adj"/></l><r>tocat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>togado<s n="adj"/></l><r>togat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tonsurado<s n="adj"/></l><r>tonsurat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tridentado<s n="adj"/></l><r>tridentat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trifoliado<s n="adj"/></l><r>trifoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trifoliolado<s n="adj"/></l><r>trifoliolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trigeminado<s n="adj"/></l><r>trigeminat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trilobado<s n="adj"/></l><r>trilobat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trinervado<s n="adj"/></l><r>trinervat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tripulado<s n="adj"/></l><r>tripulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tubulado<s n="adj"/></l><r>tubulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tunicado<s n="adj"/></l><r>tunicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>umbelado<s n="adj"/></l><r>umbel·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>umbilicado<s n="adj"/></l><r>umbilicat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uncinado<s n="adj"/></l><r>uncinat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unguiculado<s n="adj"/></l><r>unguiculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ungulado<s n="adj"/></l><r>ungulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unifoliado<s n="adj"/></l><r>unifoliat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unilabiado<s n="adj"/></l><r>unilabiat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unilobulado<s n="adj"/></l><r>unilobulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>uninervado<s n="adj"/></l><r>uninervat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urceolado<s n="adj"/></l><r>urceolat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>usado<s n="adj"/></l><r>usat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>utilizado<s n="adj"/></l><r>utilitzat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>utilizado<s n="adj"/></l><r>utilitzat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>vaginulado<s n="adj"/></l><r>vaginulat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>variado<s n="adj"/></l><r>variat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>variado<s n="adj"/></l><r>variat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>variegado<s n="adj"/></l><r>variegat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>venerado<s n="adj"/></l><r>venerat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>venerado<s n="adj"/></l><r>venerat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>vergado<s n="adj"/></l><r>vergat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vermiculado<s n="adj"/></l><r>vermiculat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>versado<s n="adj"/></l><r>versat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vertebrado<s n="adj"/></l><r>vertebrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>verticilado<s n="adj"/></l><r>verticil·lat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vexado<s n="adj"/></l><r>vexat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>viciado<s n="adj"/></l><r>viciat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>viciado<s n="adj"/></l><r>viciat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>vidrado<s n="adj"/></l><r>vidrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>violentado<s n="adj"/></l><r>violentat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>violentado<s n="adj"/></l><r>violentat<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>voltado<s n="adj"/></l><r>voltat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>volvado<s n="adj"/></l><r>volvat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vulcanizado<s n="adj"/></l><r>vulcanitzat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zebrado<s n="adj"/></l><r>zebrat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zincado<s n="adj"/></l><r>zincat<s n="adj"/></r></p></e>
+<e a="hector"><p><l>motriz<s n="adj"/></l><r>motriu<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -7241,7 +8647,7 @@
 <e r="RL"><p><l>costas<s n="n"/><s n="f"/><s n="pl"/></l><r>esquena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>costume<s n="n"/><s n="m"/></l>        <r>costum<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>costura<s n="n"/></l>                  <r>costura<s n="n"/></r></p></e>
-<e>       <p><l>costureiro<s n="n"/></l>               <r>modista<s n="n"/></r></p><par n="GD_mf"/></e>
+<e>       <p><l>modista<s n="n"/><s n="f"/></l>        <r>modista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>cota<s n="n"/></l>                     <r>cota<s n="n"/></r></p></e>
 <e>       <p><l>cotação<s n="n"/></l>                  <r>cotització<s n="n"/></r></p></e>
 <e>       <p><l>couro<s n="n"/></l>                    <r>cuir<s n="n"/></r></p></e>
@@ -8063,8 +9469,8 @@
 <e>       <p><l>hemisfério<s n="n"/></l>               <r>hemisferi<s n="n"/></r></p></e>
 <e>       <p><l>herança<s n="n"/></l>                  <r>herència<s n="n"/></r></p></e>
 <e>       <p><l>herdeiro<s n="n"/></l>                 <r>hereu<s n="n"/></r></p></e>
-<e>       <p><l>herida<s n="n"/></l>                   <r>herida<s n="n"/></r></p></e>
-<e>       <p><l>herói<s n="n"/></l>                    <r>heroi<s n="n"/></r></p></e>
+<e>       <p><l>herói<s n="n"/><s n="m"/></l>          <r>heroi<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>heroína<s n="n"/><s n="f"/></l>        <r>heroi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hierarquia<s n="n"/></l>               <r>jerarquia<s n="n"/></r></p></e>
 <e>       <p><l>hierro<s n="n"/></l>                   <r>hierro<s n="n"/></r></p></e>
 <e>       <p><l>hino<s n="n"/></l>                     <r>himne<s n="n"/></r></p></e>
@@ -8353,6 +9759,7 @@
 <e>       <p><l>licença<s n="n"/></l>                  <r>llicència<s n="n"/></r></p></e>
 <e r="LR"><p><l>lida<s n="n"/><s n="f"/></l>           <r>feina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>liderança<s n="n"/><s n="f"/></l>      <r>lideratge<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>liderança<s n="n"/><s n="f"/></l>      <r>liderat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>liga<s n="n"/></l>                     <r>colla<s n="n"/></r></p></e>
 <e r="LR"><p><l>ligação<s n="n"/></l>                  <r>connexió<s n="n"/></r></p></e>
 <e r="LR"><p><l>limiar<s n="n"/></l>                   <r>llindar<s n="n"/></r></p></e>
@@ -8869,7 +10276,8 @@
 <e>       <p><l>pedaço<s n="n"/></l>                   <r>tros<s n="n"/></r></p></e>
 <e r="LR"><p><l>pedinte<s n="n"/><s n="f"/></l>        <r>captaire<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>pedinte<s n="n"/><s n="m"/></l>        <r>captaire<s n="n"/><s n="mf"/></r></p></e>
-<e>       <p><l>pedreiro<s n="n"/></l>                 <r>paleta<s n="n"/></r></p></e>
+<e>       <p><l>pedreiro<s n="n"/><s n="m"/></l>       <r>paleta<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>trolha<s n="n"/><s n="m"/></l>       <r>paleta<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>peito<s n="n"/></l>                    <r>pit<s n="n"/></r></p></e>
 <e>       <p><l>peixe<s n="n"/></l>                    <r>peix<s n="n"/></r></p></e>
 <e r="LR"><p><l>pejo<s n="n"/></l>                     <r>pudor<s n="n"/></r></p></e>
@@ -10333,6 +11741,7 @@
 <e a="hector"><p><l>consumação<s n="n"/><s n="f"/></l> <r>consumació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>consumição<s n="n"/><s n="f"/></l> <r>consumició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>consumpção<s n="n"/><s n="f"/></l><r>consumpció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="br"><p><l>consunção<s n="n"/><s n="f"/></l><r>consumpció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contemplação<s n="n"/><s n="f"/></l><r>contemplació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contenção<s n="n"/><s n="f"/></l>  <r>contenció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contestação<s n="n"/><s n="f"/></l><r>contestació<s n="n"/><s n="f"/></r></p></e>
@@ -13166,6 +14575,225 @@
 <e a="hector"><p><l>suspensório<s n="n"/><s n="f"/><s n="pl"/></l><r>tirant<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e a="hector"><p><l>carnaval<s n="n"/><s n="m"/></l><r>carnaval<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="hector"><p><l>carnaval<s n="n"/><s n="m"/><s n="sg"/></l><r>carnestoltes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e a="hector"><p><l>castanheiro<s n="n"/><s n="m"/></l><r>castanyer<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>castanheiro<s n="n"/><s n="f"/></l><r>castanyer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>lebreiro<s n="n"/><s n="m"/></l><r>llebrer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>alabardeiro<s n="n"/><s n="m"/></l><r>alabarder<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>albergueiro<s n="n"/></l><r>alberguer<s n="n"/></r></p></e>
+<e a="hector"><p><l>arqueiro<s n="n"/></l><r>arquer<s n="n"/></r></p></e>
+<e a="hector"><p><l>arrieiro<s n="n"/><s n="m"/></l><r>arrier<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>artilheiro<s n="n"/></l><r>artiller<s n="n"/></r></p></e>
+<e a="hector"><p><l>bananeiro<s n="n"/><s n="m"/></l><r>bananer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bandoleiro<s n="n"/></l><r>bandoler<s n="n"/></r></p></e>
+<e a="hector"><p><l>barbeiro<s n="n"/><s n="m"/></l><r>barber<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>barqueiro<s n="n"/></l><r>barquer<s n="n"/></r></p></e>
+<e a="hector"><p><l>barreteiro<s n="n"/><s n="m"/></l><r>barreter<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bodegueiro<s n="n"/></l><r>bodeguer<s n="n"/></r></p></e>
+<e a="hector"><p><l>bombardeiro<s n="n"/><s n="m"/></l><r>bombarder<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>bragueiro<s n="n"/><s n="m"/></l><r>braguer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cabreiro<s n="n"/></l><r>cabrer<s n="n"/></r></p></e>
+<e a="hector"><p><l>campaneiro<s n="n"/></l><r>campaner<s n="n"/></r></p></e>
+<e a="hector"><p><l>cancioneiro<s n="n"/><s n="m"/></l><r>cancioner<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>carabineiro<s n="n"/><s n="m"/></l><r>carabiner<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>carreteiro<s n="n"/><s n="m"/></l><r>carreter<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cavalheiro<s n="n"/><s n="m"/></l><r>cavaller<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>conserveiro<s n="n"/></l><r>conserver<s n="n"/></r></p></e>
+<e a="hector"><p><l>copeiro<s n="n"/></l><r>coper<s n="n"/></r></p></e>
+<e a="hector"><p><l>costureiro<s n="n"/></l><r>costurer<s n="n"/></r></p></e>
+<e a="hector"><p><l>cueiro<s n="n"/><s n="m"/></l><r>cuer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>escudeiro<s n="n"/><s n="m"/></l><r>escuder<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>especieiro<s n="n"/><s n="m"/></l><r>especier<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>falheiro<s n="n"/><s n="m"/></l><r>faller<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>feneiro<s n="n"/><s n="m"/></l><r>fener<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>festeiro<s n="n"/></l><r>fester<s n="n"/></r></p></e>
+<e a="hector"><p><l>financeiro<s n="n"/></l><r>financer<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>floreiro<s n="n"/></l><r>florista<s n="n"/></r></p><par n="GD_mf"/></e>
+<e a="hector"><p><l>forasteiro<s n="n"/></l><r>foraster<s n="n"/></r></p></e>
+<e a="hector"><p><l>formigueiro<s n="n"/><s n="m"/></l><r>formiguer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>forneiro<s n="n"/></l><r>forner<s n="n"/></r></p></e>
+<e a="hector"><p><l>gaiteiro<s n="n"/></l><r>gaiter<s n="n"/></r></p></e>
+<e a="hector"><p><l>gondoleiro<s n="n"/></l><r>gondoler<s n="n"/></r></p></e>
+<e a="hector"><p><l>gorreiro<s n="n"/><s n="m"/></l><r>gorrer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>granadeiro<s n="n"/><s n="m"/></l><r>granader<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>hoteleiro<s n="n"/></l><r>hoteler<s n="n"/></r></p></e>
+<e a="hector"><p><l>jornaleiro<s n="n"/></l><r>jornaler<s n="n"/></r></p></e>
+<e a="hector"><p><l>lanceiro<s n="n"/><s n="m"/></l><r>llancer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>maceiro<s n="n"/><s n="m"/></l><r>macer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>marisqueiro<s n="n"/></l><r>marisquer<s n="n"/></r></p></e>
+<e a="hector"><p><l>medalheiro<s n="n"/><s n="m"/></l><r>medaller<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mentideiro<s n="n"/><s n="m"/></l><r>mentider<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>mosqueteiro<s n="n"/><s n="m"/></l><r>mosqueter<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>negreiro<s n="n"/></l><r>negrer<s n="n"/></r></p></e>
+<e a="hector"><p><l>palafreneiro<s n="n"/><s n="m"/></l><r>palafrener<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>parceiro<s n="n"/></l><r>parcer<s n="n"/></r></p></e>
+<e a="hector"><p><l>passamaneiro<s n="n"/></l><r>passamaner<s n="n"/></r></p></e>
+<e a="hector"><p><l>pereiro<s n="n"/><s n="m"/></l><r>perer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pistoleiro<s n="n"/></l><r>pistoler<s n="n"/></r></p></e>
+<e a="hector"><p><l>porqueiro<s n="n"/></l><r>porquer<s n="n"/></r></p></e>
+<e a="hector"><p><l>remeiro<s n="n"/></l><r>remer<s n="n"/></r></p></e>
+<e a="hector"><p><l>rockeiro<s n="n"/></l><r>rocker<s n="n"/></r></p></e>
+<e a="hector"><p><l>romanceiro<s n="n"/><s n="m"/></l><r>romancer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>saleiro<s n="n"/><s n="m"/></l><r>saler<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>serralheiro<s n="n"/></l><r>serraller<s n="n"/></r></p></e>
+<e a="hector"><p><l>solteiro<s n="n"/></l><r>solter<s n="n"/></r></p></e>
+<e a="hector"><p><l>tabaqueiro<s n="n"/><s n="m"/></l><r>tabaquer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>taverneiro<s n="n"/></l><r>taverner<s n="n"/></r></p></e>
+<e a="hector"><p><l>termiteiro<s n="n"/><s n="m"/></l><r>termiter<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>terreiro<s n="n"/><s n="m"/></l><r>terrer<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>timoneiro<s n="n"/></l><r>timoner<s n="n"/></r></p></e>
+<e a="hector"><p><l>veleiro<s n="n"/><s n="m"/></l><r>veler<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vespeiro<s n="n"/><s n="m"/></l><r>vesper<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vinhateiro<s n="n"/></l><r>vinyater<s n="n"/></r></p></e>
+<e a="hector"><p><l>viveiro<s n="n"/><s n="m"/></l><r>viver<s n="n"/><s n="m"/></r></p></e>
+
+<e a="hector"><p><l>metano<s n="n"/><s n="m"/><s n="sg"/></l><r>metà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>acadiano<s n="n"/></l><r>acadià<s n="n"/></r></p></e>
+<e a="hector"><p><l>aeroplano<s n="n"/><s n="m"/></l><r>aeroplà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>afroamericano<s n="n"/></l><r>afroamericà<s n="n"/></r></p></e>
+<e a="hector"><p><l>alcano<s n="n"/><s n="m"/></l><r>alcà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>altiplano<s n="n"/><s n="m"/></l><r>altiplà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>andorrano<s n="n"/></l><r>andorrà<s n="n"/></r></p></e>
+<e a="hector"><p><l>anglicano<s n="n"/></l><r>anglicà<s n="n"/></r></p></e>
+<e a="hector"><p><l>arminiano<s n="n"/></l><r>arminià<s n="n"/></r></p></e>
+<e a="hector"><p><l>asturiano<s n="n"/></l><r>asturià<s n="n"/></r></p></e>
+<e a="hector"><p><l>biplano<s n="n"/><s n="m"/></l><r>biplà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>butano<s n="n"/><s n="m"/></l><r>butà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>californiano<s n="n"/></l><r>californià<s n="n"/></r></p></e>
+<e a="hector"><p><l>circassiano<s n="n"/></l><r>circassià<s n="n"/></r></p></e>
+<e a="hector"><p><l>cubano<s n="n"/></l><r>cubà<s n="n"/></r></p></e>
+<e a="hector"><p><l>dominicano<s n="n"/></l><r>dominicà<s n="n"/></r></p></e>
+<e a="hector"><p><l>entrepano<s n="n"/><s n="m"/></l><r>entrepà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>espartano<s n="n"/></l><r>espartà<s n="n"/></r></p></e>
+<e a="hector"><p><l>estoniano<s n="n"/></l><r>estonià<s n="n"/></r></p></e>
+<e a="hector"><p><l>etano<s n="n"/><s n="m"/></l><r>età<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>franciscano<s n="n"/></l><r>franciscà<s n="n"/></r></p></e>
+<e a="hector"><p><l>gaditano<s n="n"/></l><r>gadità<s n="n"/></r></p></e>
+<e a="hector"><p><l>gambiano<s n="n"/></l><r>gambià<s n="n"/></r></p></e>
+<e a="hector"><p><l>georgiano<s n="n"/></l><r>georgià<s n="n"/></r></p></e>
+<e a="hector"><p><l>haitiano<s n="n"/></l><r>haitià<s n="n"/></r></p></e>
+<e a="hector"><p><l>humano<s n="n"/></l><r>humà<s n="n"/></r></p></e>
+<e a="hector"><p><l>jordano<s n="n"/></l><r>jordà<s n="n"/></r></p></e>
+<e a="hector"><p><l>laosiano<s n="n"/></l><r>laosià<s n="n"/></r></p></e>
+<e a="hector"><p><l>liberiano<s n="n"/></l><r>liberià<s n="n"/></r></p></e>
+<e a="hector"><p><l>lituano<s n="n"/></l><r>lituà<s n="n"/></r></p></e>
+<e a="hector"><p><l>lusitano<s n="n"/></l><r>lusità<s n="n"/></r></p></e>
+<e a="hector"><p><l>luterano<s n="n"/></l><r>luterà<s n="n"/></r></p></e>
+<e a="hector"><p><l>marciano<s n="n"/></l><r>marcià<s n="n"/></r></p></e>
+<e a="hector"><p><l>marrano<s n="n"/></l><r>marrà<s n="n"/></r></p></e>
+<e a="hector"><p><l>mauritano<s n="n"/></l><r>maurità<s n="n"/></r></p></e>
+<e a="hector"><p><l>mexicano<s n="n"/></l><r>mexicà<s n="n"/></r></p></e>
+<e a="hector"><p><l>miliciano<s n="n"/></l><r>milicià<s n="n"/></r></p></e>
+<e a="hector"><p><l>milano<s n="n"/><s n="m"/></l><r>milà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>monoplano<s n="n"/><s n="m"/></l><r>monoplà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>namibiano<s n="n"/></l><r>namibià<s n="n"/></r></p></e>
+<e a="hector"><p><l>napolitano<s n="n"/></l><r>napolità<s n="n"/></r></p></e>
+<e a="hector"><p><l>nestoriano<s n="n"/></l><r>nestorià<s n="n"/></r></p></e>
+<e a="hector"><p><l>octano<s n="n"/><s n="m"/></l><r>octà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>otomano<s n="n"/></l><r>otomà<s n="n"/></r></p></e>
+<e a="hector"><p><l>paisano<s n="n"/></l><r>paisà<s n="n"/></r></p></e>
+<e a="hector"><p><l>pelicano<s n="n"/><s n="m"/></l><r>pelicà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pentano<s n="n"/><s n="m"/></l><r>pentà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>presbiteriano<s n="n"/></l><r>presbiterià<s n="n"/></r></p></e>
+<e a="hector"><p><l>pretoriano<s n="n"/><s n="m"/></l><r>pretorià<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>propano<s n="n"/><s n="m"/></l><r>propà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>prussiano<s n="n"/></l><r>prussià<s n="n"/></r></p></e>
+<e a="hector"><p><l>publicano<s n="n"/><s n="m"/></l><r>publicà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>puritano<s n="n"/></l><r>purità<s n="n"/></r></p></e>
+<e a="hector"><p><l>romano<s n="n"/></l><r>romà<s n="n"/></r></p></e>
+<e a="hector"><p><l>semiplano<s n="n"/><s n="m"/></l><r>semiplà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sevilhano<s n="n"/></l><r>sevillà<s n="n"/></r></p></e>
+<e a="hector"><p><l>siciliano<s n="n"/></l><r>sicilià<s n="n"/></r></p></e>
+<e a="hector"><p><l>silesiano<s n="n"/></l><r>silesià<s n="n"/></r></p></e>
+<e a="hector"><p><l>texano<s n="n"/></l><r>texà<s n="n"/></r></p></e>
+<e a="hector"><p><l>toscano<s n="n"/></l><r>toscà<s n="n"/></r></p></e>
+<e a="hector"><p><l>troiano<s n="n"/></l><r>troià<s n="n"/></r></p></e>
+<e a="hector"><p><l>tucano<s n="n"/><s n="m"/></l><r>tucà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>valenciano<s n="n"/></l><r>valencià<s n="n"/></r></p></e>
+<e a="hector"><p><l>vegetariano<s n="n"/></l><r>vegetarià<s n="n"/></r></p></e>
+<e a="hector"><p><l>zambiano<s n="n"/></l><r>zambià<s n="n"/></r></p></e>
+<e a="hector"><p><l>sultão<s n="n"/><s n="m"/></l><r>sultà<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>sultão<s n="n"/><s n="m"/></l><r>soldà<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sultana<s n="n"/><s n="f"/></l><r>sultà<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>sultanato<s n="n"/><s n="m"/></l><r>sultanat<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>sultanado<s n="n"/><s n="m"/></l><r>sultanat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>acusado<s n="n"/></l><r>acusat<s n="n"/></r></p></e>
+<e a="hector"><p><l>alienado<s n="n"/></l><r>alienat<s n="n"/></r></p></e>
+<e a="hector"><p><l>altercado<s n="n"/><s n="m"/></l><r>altercat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>alçado<s n="n"/><s n="m"/></l><r>alçat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>apostolado<s n="n"/><s n="m"/></l><r>apostolat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arquiducado<s n="n"/><s n="m"/></l><r>arxiducat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arquiepiscopado<s n="n"/><s n="m"/></l><r>arxiepiscopat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>assalariado<s n="n"/></l><r>assalariat<s n="n"/></r></p></e>
+<e a="hector"><p><l>associado<s n="n"/></l><r>associat<s n="n"/></r></p></e>
+<e a="hector"><p><l>brocado<s n="n"/><s n="m"/></l><r>brocat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>calado<s n="n"/><s n="m"/></l><r>calat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>califado<s n="n"/><s n="m"/></l><r>califat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>celenterado<s n="n"/><s n="m"/></l><r>celenterat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>clausulado<s n="n"/><s n="m"/></l><r>clausulat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>combinado<s n="n"/><s n="m"/></l><r>combinat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>comissariado<s n="n"/><s n="m"/></l><r>comissariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>concentrado<s n="n"/><s n="m"/></l><r>concentrat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>condensado<s n="n"/><s n="m"/></l><r>condensat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>congelado<s n="n"/><s n="m"/></l><r>congelat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>conglomerado<s n="n"/><s n="m"/></l><r>conglomerat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>conjurado<s n="n"/></l><r>conjurat<s n="n"/></r></p></e>
+<e a="hector"><p><l>contraplacado<s n="n"/><s n="m"/></l><r>contraplacat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>convidado<s n="n"/></l><r>convidat<s n="n"/></r></p></e>
+<e a="hector"><p><l>cromado<s n="n"/><s n="m"/></l><r>cromat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>curado<s n="n"/><s n="m"/></l><r>curat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>demandado<s n="n"/></l><r>demandat<s n="n"/></r></p></e>
+<e a="hector"><p><l>descampado<s n="n"/><s n="m"/></l><r>descampat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>diaconado<s n="n"/><s n="m"/></l><r>diaconat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>diplomado<s n="n"/></l><r>diplomat<s n="n"/></r></p></e>
+<e a="hector"><p><l>duplicado<s n="n"/><s n="m"/></l><r>duplicat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>emigrado<s n="n"/></l><r>emigrat<s n="n"/></r></p></e>
+<e a="hector"><p><l>emirado<s n="n"/><s n="m"/></l><r>emirat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>empedrado<s n="n"/><s n="m"/></l><r>empedrat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>empresariado<s n="n"/><s n="m"/></l><r>empresariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>enunciado<s n="n"/><s n="m"/></l><r>enunciat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>enviado<s n="n"/></l><r>enviat<s n="n"/></r></p></e>
+<e a="hector"><p><l>episcopado<s n="n"/><s n="m"/></l><r>episcopat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estampado<s n="n"/><s n="m"/></l><r>estampat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estimado<s n="n"/></l><r>estimat<s n="n"/></r></p></e>
+<e a="hector"><p><l>graduado<s n="n"/></l><r>graduat<s n="n"/></r></p></e>
+<e a="hector"><p><l>granulado<s n="n"/><s n="m"/></l><r>granulat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>guisado<s n="n"/><s n="m"/></l><r>guisat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>hipermercado<s n="n"/><s n="m"/></l><r>hipermercat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>interessado<s n="n"/></l><r>interessat<s n="n"/></r></p></e>
+<e a="hector"><p><l>jubilado<s n="n"/></l><r>jubilat<s n="n"/></r></p></e>
+<e a="hector"><p><l>letrado<s n="n"/></l><r>lletrat<s n="n"/></r></p></e>
+<e a="hector"><p><l>licenciado<s n="n"/></l><r>llicenciat<s n="n"/></r></p></e>
+<e a="hector"><p><l>macerado<s n="n"/><s n="m"/></l><r>macerat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>matriarcado<s n="n"/><s n="m"/></l><r>matriarcat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>notariado<s n="n"/><s n="m"/></l><r>notariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>noviciado<s n="n"/><s n="m"/></l><r>noviciat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>papado<s n="n"/><s n="m"/></l><r>papat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>partenariado<s n="n"/><s n="m"/></l><r>partenariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>patriarcado<s n="n"/><s n="m"/></l><r>patriarcat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>patronado<s n="n"/><s n="m"/></l><r>patronat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pegado<s n="n"/><s n="m"/></l><r>pegat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>pontificado<s n="n"/><s n="m"/></l><r>pontificat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>postulado<s n="n"/><s n="m"/></l><r>postulat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>predicado<s n="n"/><s n="m"/></l><r>predicat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>prelado<s n="n"/><s n="m"/></l><r>prelat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>preparado<s n="n"/><s n="m"/></l><r>preparat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>primado<s n="n"/><s n="m"/></l><r>primat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>professorado<s n="n"/><s n="m"/></l><r>professorat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>proletariado<s n="n"/><s n="m"/></l><r>proletariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>protectorado<s n="n"/><s n="m"/></l><r>protectorat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>refugiado<s n="n"/></l><r>refugiat<s n="n"/></r></p></e>
+<e a="hector"><p><l>renegado<s n="n"/></l><r>renegat<s n="n"/></r></p></e>
+<e a="hector"><p><l>reticulado<s n="n"/><s n="m"/></l><r>reticulat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>significado<s n="n"/><s n="m"/></l><r>significat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>subdelegado<s n="n"/></l><r>subdelegat<s n="n"/></r></p></e>
+<e a="hector"><p><l>terrado<s n="n"/><s n="m"/></l><r>terrat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>tramado<s n="n"/><s n="m"/></l><r>tramat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>traçado<s n="n"/><s n="m"/></l><r>traçat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>trinado<s n="n"/><s n="m"/></l><r>trinat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vertebrado<s n="n"/><s n="m"/></l><r>vertebrat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>voluntariado<s n="n"/><s n="m"/></l><r>voluntariat<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>feriado<s n="n"/><s n="m"/></l><r>dia<b/>festiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>lençol<b/>freático<s n="n"/><s n="m"/><s n="f"/></l><r>capa<b/>freática<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -33633,7 +35261,8 @@
       <e vl="pt pt_pre1990" a="hector"><p><l>Eslovénia<s n="np"/><s n="top"/></l><r>Eslovènia<s n="np"/><s n="top"/></r></p></e>
       <e vl="br" a="hector"><p><l>Eslovênia<s n="np"/><s n="top"/></l><r>Eslovènia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Honduras<s n="np"/><s n="top"/></l><r>Hondures<s n="np"/><s n="top"/></r></p></e>
-      <e a="hector"><p><l>Arménia<s n="np"/><s n="top"/></l><r>Armènia<s n="np"/><s n="top"/></r></p></e>
+      <e vl="pt pt_pre1990" a="hector"><p><l>Arménia<s n="np"/><s n="top"/></l><r>Armènia<s n="np"/><s n="top"/></r></p></e>
+      <e vl="br" a="hector"><p><l>Armênia<s n="np"/><s n="top"/></l><r>Armènia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Alpes<s n="np"/><s n="top"/></l><r>Alps<s n="np"/><s n="top"/></r></p></e>
       <e vl="pt pt_pre1990" a="hector"><p><l>Pirenéus<s n="np"/><s n="top"/></l><r>Pirineus<s n="np"/><s n="top"/></r></p></e>
       <e vl="br" a="hector"><p><l>Pireneus<s n="np"/><s n="top"/></l><r>Pirineus<s n="np"/><s n="top"/></r></p></e>
@@ -33767,6 +35396,9 @@
       <e a="hector"><p><l>Arábia<s n="np"/><s n="top"/></l><r>Aràbia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Arábia<b/>Saudita<s n="np"/><s n="top"/></l><r>Aràbia<b/>Saudita<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Camboja<s n="np"/><s n="top"/></l><r>Cambodja<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Geórgia<s n="np"/><s n="top"/></l><r>Geòrgia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Azerbaijão<s n="np"/><s n="top"/></l><r>Azerbaidjan<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Groenlândia<s n="np"/><s n="top"/></l><r>Groenlàndia<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -35833,6 +37465,7 @@
 
 <e a="hector"><p><l>província<s n="n"/><s n="f"/></l>  <r>província<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>era<s n="n"/><s n="f"/></l>        <r>era<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>era<g><b/>de<b/>Cristo</g><s n="n"/><s n="f"/><s n="sg"/></l><r>era<b/>cristiana<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e a="hector"><p><l>filmar<s n="vblex"/></l>           <r>filmar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>haver<s n="vblex"/></l>            <r>haver<s n="vblex"/></r></p></e>
 <e a="hector" vl="pt br"><p><l>asteroide<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
@@ -36079,7 +37712,6 @@
 <e a="hector"><p><l>vanguardista<s n="adj"/></l>       <r>vanguardista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>trompetista<s n="n"/><s n="mf"/></l><r>trompetista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>sofista<s n="n"/><s n="mf"/></l>   <r>sofista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>sofista<s n="adj"/></l>            <r>sofista<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>reconquista<s n="n"/><s n="f"/></l><r>reconquista<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>reconquista<s n="n"/><s n="f"/></l><r>reconquesta<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>racista<s n="n"/><s n="mf"/></l>   <r>racista<s n="n"/><s n="mf"/></r></p></e>
@@ -36772,7 +38404,7 @@
 <e a="wiktionary"><p><l>cachecol<s n="n"/><s n="m"/></l><r>bufanda<s n="n"/><s n="f"/></r></p></e>
 <e a="wiktionary"><p><l>cádmio<s n="n"/><s n="m"/></l> <r>cadmi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>cálcio<s n="n"/><s n="m"/></l> <r>calci<s n="n"/><s n="m"/></r></p></e>
-<e a="wiktionary" vl="br"><p><l>calda<s n="n"/><s n="f"/></l><r>almívar<s n="n"/><s n="m"/></r></p></e>
+<e a="wiktionary"><p><l>calda<s n="n"/><s n="f"/></l><r>almívar<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>cálice<s n="n"/><s n="m"/></l> <r>calze<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>califórnio<s n="n"/><s n="m"/></l><r>californi<s n="n"/><s n="m"/></r></p></e>
 <e a="wiktionary"><p><l>calo<s n="n"/><s n="m"/></l>   <r>call<s n="n"/><s n="m"/></r></p></e>

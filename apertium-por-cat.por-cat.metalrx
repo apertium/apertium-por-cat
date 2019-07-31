@@ -396,7 +396,12 @@
 
 <!-- **************** ADJ **************** -->
 
-  <!-- bissexto > de traspàs, bissèxtil -->
+  <!-- coadjuvante > coadjuvant, secundari -->
+  <rule weight="0.6">
+    <match lemma="coadjuvante" tags="adj.*"><select lemma="secundari"/></match>
+  </rule>
+
+  <!-- bissexto > de traspàs, bissextil -->
   <rule weight="0.6">
     <match lemma="bissexto" tags="adj.*"><select lemma="de traspàs"/></match>
   </rule>
@@ -424,6 +429,16 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- liderança > liderat, lideratge -->
+  <rule weight="0.6">
+    <match lemma="liderança" tags="n.*"><select lemma="liderat"/></match>
+  </rule>
+
+  <!-- levante > llevant, rebel·líó -->
+  <rule weight="0.6">
+    <match lemma="levante" tags="n.*"><select lemma="llevant"/></match>
+  </rule>
 
   <!-- fogão > cuina, fogó -->
   <rule weight="0.6">
@@ -787,6 +802,7 @@
   <macro name="noms_propis" p1="Jaime" p2="Jaume" />
   <macro name="noms_propis" p1="João" p2="Joan" />
   <macro name="noms_propis" p1="Hugo" p2="Hug" />
+  <macro name="noms_propis" p1="Jorge" p2="Jordi" />
   <macro name="noms_propis" p1="Luís" p2="Lluís" />
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Paulo" p2="Pau" />

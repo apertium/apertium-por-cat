@@ -360,6 +360,23 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- indi > indiano, índio -->
+  <rule weight="0.6">
+    <match lemma="indi" tags="adj.*"><select lemma="indiano"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="tribu" tags="n.*"/>
+      <match lemma="poble" tags="n.*"/>
+    </or>
+    <match lemma="indi" tags="adj.*"><select lemma="índio"/></match>
+  </rule>
+
+  <!-- secundari > secundário, coadjuvante -->
+  <rule weight="0.6">
+    <match lemma="secundari" tags="adj.*"><select lemma="secundário"/></match>
+  </rule>
+
   <!-- cardinal > cardeal, cardinal -->
   <rule weight="0.6">
     <match lemma="cardinal" tags="adj.*"><select lemma="cardeal"/></match>
@@ -385,6 +402,20 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- indi > indiano, índio -->
+  <rule weight="0.6">
+    <match lemma="indi" tags="n.*"><select lemma="indiano"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="indi" tags="n.*"><select lemma="índio"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="Amèrica" tags="np.top.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="indi" tags="n.*"><select lemma="índio"/></match>
+    <match lemma="americà" tags="adj.*"/>
+  </rule>
 
   <!-- història > história, estória -->
   <rule weight="0.6">
@@ -839,6 +870,7 @@
   <macro name="noms_propis" p1="Francesc" p2="Francisco" />
   <macro name="noms_propis" p1="Frederic" p2="Frederico" />
   <macro name="noms_propis" p1="Hug" p2="Hugo" />
+  <macro name="noms_propis" p1="Jordi" p2="Jorge" />
   <macro name="noms_propis" p1="Lluís" p2="Luís" />
   <macro name="noms_propis" p1="Martí" p2="Martim" />
   <macro name="noms_propis" p1="Pau" p2="Paulo" />
