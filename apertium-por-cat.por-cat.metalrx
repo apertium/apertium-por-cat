@@ -396,6 +396,15 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- conjuntivo > subjuntiu, conjuntiu (Por) -->
+  <rule weight="0.6">
+    <match lemma="conjuntivo" tags="adj.*"><select lemma="subjuntiu"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="tecido" tags="n.*"/>
+    <match lemma="conjuntivo" tags="adj.*"><select lemma="conjuntiu"/></match>
+  </rule>
+
   <!-- coadjuvante > coadjuvant, secundari -->
   <rule weight="0.6">
     <match lemma="coadjuvante" tags="adj.*"><select lemma="secundari"/></match>

@@ -6854,6 +6854,404 @@
 <e a="hector"><p><l>zebrado<s n="adj"/></l><r>zebrat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>zincado<s n="adj"/></l><r>zincat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>motriz<s n="adj"/></l><r>motriu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ablativo<s n="adj"/></l><r>ablatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abortivo<s n="adj"/></l><r>abortiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abrasivo<s n="adj"/></l><r>abrasiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abreviativo<s n="adj"/></l><r>abreviatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>absortivo<s n="adj"/></l><r>absortiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abstersivo<s n="adj"/></l><r>abstersiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abstractivo<s n="adj"/></l><r>abstractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abusivo<s n="adj"/></l><r>abusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acumulativo<s n="adj"/></l><r>acumulatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acusativo<s n="adj"/></l><r>acusatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>admirativo<s n="adj"/></l><r>admiratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adustivo<s n="adj"/></l><r>adustiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adversativo<s n="adj"/></l><r>adversatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afectivo<s n="adj"/></l><r>afectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afirmativo<s n="adj"/></l><r>afirmatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aglutinativo<s n="adj"/></l><r>aglutinatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agregativo<s n="adj"/></l><r>agregatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>altivo<s n="adj"/></l><r>altiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alusivo<s n="adj"/></l><r>al·lusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amativo<s n="adj"/></l><r>amatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ampliativo<s n="adj"/></l><r>ampliatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>amplificativo<s n="adj"/></l><r>amplificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anticorrosivo<s n="adj"/></l><r>anticorrosiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antidepressivo<s n="adj"/></l><r>antidepressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anulativo<s n="adj"/></l><r>anul·latiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apelativo<s n="adj"/></l><r>apel·latiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aperceptivo<s n="adj"/></l><r>aperceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aperitivo<s n="adj"/></l><r>aperitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apetitivo<s n="adj"/></l><r>apetitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aplicativo<s n="adj"/></l><r>aplicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apositivo<s n="adj"/></l><r>apositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apreciativo<s n="adj"/></l><r>apreciatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aprovativo<s n="adj"/></l><r>aprovatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aproximativo<s n="adj"/></l><r>aproximatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arbitrativo<s n="adj"/></l><r>arbitratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arbustivo<s n="adj"/></l><r>arbustiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>argivo<s n="adj"/></l><r>argiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>argumentativo<s n="adj"/></l><r>argumentatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assertivo<s n="adj"/></l><r>assertiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asseverativo<s n="adj"/></l><r>asseveratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assimilativo<s n="adj"/></l><r>assimilatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>associativo<s n="adj"/></l><r>associatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atributivo<s n="adj"/></l><r>atributiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>auditivo<s n="adj"/></l><r>auditiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>avulsivo<s n="adj"/></l><r>avulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caritativo<s n="adj"/></l><r>caritatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carminativo<s n="adj"/></l><r>carminatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>causativo<s n="adj"/></l><r>causatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coactivo<s n="adj"/></l><r>coactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coercitivo<s n="adj"/></l><r>coercitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cogitativo<s n="adj"/></l><r>cogitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cognoscitivo<s n="adj"/></l><r>cognoscitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colaborativo<s n="adj"/></l><r>col·laboratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colativo<s n="adj"/></l><r>col·latiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coligativo<s n="adj"/></l><r>col·ligatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>combativo<s n="adj"/></l><r>combatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comitativo<s n="adj"/></l><r>comitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comparativo<s n="adj"/></l><r>comparatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compassivo<s n="adj"/></l><r>compassiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>complectivo<s n="adj"/></l><r>complectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>completivo<s n="adj"/></l><r>completiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compositivo<s n="adj"/></l><r>compositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compressivo<s n="adj"/></l><r>compressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>compulsivo<s n="adj"/></l><r>compulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comunicativo<s n="adj"/></l><r>comunicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conceptivo<s n="adj"/></l><r>conceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concessivo<s n="adj"/></l><r>concessiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concitativo<s n="adj"/></l><r>concitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conclusivo<s n="adj"/></l><r>conclusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confederativo<s n="adj"/></l><r>confederatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confirmativo<s n="adj"/></l><r>confirmatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confortativo<s n="adj"/></l><r>confortatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>congestivo<s n="adj"/></l><r>congestiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conjuntivo<s n="adj"/></l><r>conjuntiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conservativo<s n="adj"/></l><r>conservatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consolativo<s n="adj"/></l><r>consolatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consolidativo<s n="adj"/></l><r>consolidatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conspirativo<s n="adj"/></l><r>conspiratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>constitutivo<s n="adj"/></l><r>constitutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consultivo<s n="adj"/></l><r>consultiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contemplativo<s n="adj"/></l><r>contemplatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contentivo<s n="adj"/></l><r>contentiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>continuativo<s n="adj"/></l><r>continuatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contraceptivo<s n="adj"/></l><r>contraceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contractivo<s n="adj"/></l><r>contractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contributivo<s n="adj"/></l><r>contributiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convectivo<s n="adj"/></l><r>convectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conversivo<s n="adj"/></l><r>conversiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convulsivo<s n="adj"/></l><r>convulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cooperativo<s n="adj"/></l><r>cooperatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>copulativo<s n="adj"/></l><r>copulatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corporativo<s n="adj"/></l><r>corporatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>correctivo<s n="adj"/></l><r>correctiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>correlativo<s n="adj"/></l><r>correlatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corroborativo<s n="adj"/></l><r>corroboratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corrosivo<s n="adj"/></l><r>corrosiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corruptivo<s n="adj"/></l><r>corruptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cumulativo<s n="adj"/></l><r>cumulatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>curativo<s n="adj"/></l><r>curatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cursivo<s n="adj"/></l><r>cursiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>curvativo<s n="adj"/></l><r>curvatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dativo<s n="adj"/></l><r>datiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deceptivo<s n="adj"/></l><r>deceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>declarativo<s n="adj"/></l><r>declaratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decorativo<s n="adj"/></l><r>decoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decursivo<s n="adj"/></l><r>decursiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>defectivo<s n="adj"/></l><r>defectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>degenerativo<s n="adj"/></l><r>degeneratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deliberativo<s n="adj"/></l><r>deliberatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>delimitativo<s n="adj"/></l><r>delimitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demarcativo<s n="adj"/></l><r>demarcatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demostrativo<s n="adj"/></l><r>demostratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>denominativo<s n="adj"/></l><r>denominatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>depletivo<s n="adj"/></l><r>depletiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deprecativo<s n="adj"/></l><r>deprecatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>depreciativo<s n="adj"/></l><r>depreciatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>depressivo<s n="adj"/></l><r>depressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>depurativo<s n="adj"/></l><r>depuratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>derivativo<s n="adj"/></l><r>derivatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descongestivo<s n="adj"/></l><r>descongestiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desiderativo<s n="adj"/></l><r>desideratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>designativo<s n="adj"/></l><r>designatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desopilativo<s n="adj"/></l><r>desopilatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dessecativo<s n="adj"/></l><r>dessecatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>determinativo<s n="adj"/></l><r>determinatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>detersivo<s n="adj"/></l><r>detersiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>devolutivo<s n="adj"/></l><r>devolutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difractivo<s n="adj"/></l><r>difractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difusivo<s n="adj"/></l><r>difusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>digestivo<s n="adj"/></l><r>digestiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diminutivo<s n="adj"/></l><r>diminutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>directivo<s n="adj"/></l><r>directiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discursivo<s n="adj"/></l><r>discursiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disjuntivo<s n="adj"/></l><r>disjuntiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dispersivo<s n="adj"/></l><r>dispersiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dispositivo<s n="adj"/></l><r>dispositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissociativo<s n="adj"/></l><r>dissociatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissolutivo<s n="adj"/></l><r>dissolutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissuasivo<s n="adj"/></l><r>dissuasiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>distintivo<s n="adj"/></l><r>distintiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diversivo<s n="adj"/></l><r>diversiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dormitivo<s n="adj"/></l><r>dormitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dubitativo<s n="adj"/></l><r>dubitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>durativo<s n="adj"/></l><r>duratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edificativo<s n="adj"/></l><r>edificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>efusivo<s n="adj"/></l><r>efusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electivo<s n="adj"/></l><r>electiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electronegativo<s n="adj"/></l><r>electronegatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electropositivo<s n="adj"/></l><r>electropositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>elocutivo<s n="adj"/></l><r>elocutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emissivo<s n="adj"/></l><r>emissiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emotivo<s n="adj"/></l><r>emotiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emulsivo<s n="adj"/></l><r>emulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enumerativo<s n="adj"/></l><r>enumeratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enunciativo<s n="adj"/></l><r>enunciatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equitativo<s n="adj"/></l><r>equitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>erosivo<s n="adj"/></l><r>erosiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>erradicativo<s n="adj"/></l><r>erradicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eruptivo<s n="adj"/></l><r>eruptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>especificativo<s n="adj"/></l><r>especificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esquivo<s n="adj"/></l><r>esquiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estimativo<s n="adj"/></l><r>estimatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evacuativo<s n="adj"/></l><r>evacuatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evaporativo<s n="adj"/></l><r>evaporatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evasivo<s n="adj"/></l><r>evasiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evocativo<s n="adj"/></l><r>evocatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evolutivo<s n="adj"/></l><r>evolutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evulsivo<s n="adj"/></l><r>evulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exagerativo<s n="adj"/></l><r>exageratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>excitativo<s n="adj"/></l><r>excitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exclamativo<s n="adj"/></l><r>exclamatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exemplificativo<s n="adj"/></l><r>exemplificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expansivo<s n="adj"/></l><r>expansiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expeditivo<s n="adj"/></l><r>expeditiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expletivo<s n="adj"/></l><r>expletiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>explicativo<s n="adj"/></l><r>explicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expositivo<s n="adj"/></l><r>expositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expressivo<s n="adj"/></l><r>expressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expulsivo<s n="adj"/></l><r>expulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exteroceptivo<s n="adj"/></l><r>exteroceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extintivo<s n="adj"/></l><r>extintiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extractivo<s n="adj"/></l><r>extractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extrusivo<s n="adj"/></l><r>extrusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>factitivo<s n="adj"/></l><r>factitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>facultativo<s n="adj"/></l><r>facultatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>federativo<s n="adj"/></l><r>federatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fermentativo<s n="adj"/></l><r>fermentatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>figurativo<s n="adj"/></l><r>figuratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fixativo<s n="adj"/></l><r>fixatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flexivo<s n="adj"/></l><r>flexiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>formativo<s n="adj"/></l><r>formatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fricativo<s n="adj"/></l><r>fricatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fugitivo<s n="adj"/></l><r>fugitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>furtivo<s n="adj"/></l><r>furtiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>generativo<s n="adj"/></l><r>generatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>genitivo<s n="adj"/></l><r>genitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>germinativo<s n="adj"/></l><r>germinatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>governativo<s n="adj"/></l><r>governatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gravativo<s n="adj"/></l><r>gravatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gustativo<s n="adj"/></l><r>gustatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hipertensivo<s n="adj"/></l><r>hipertensiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ilativo<s n="adj"/></l><r>il·latiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iluminativo<s n="adj"/></l><r>il·luminatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ilustrativo<s n="adj"/></l><r>il·lustratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imaginativo<s n="adj"/></l><r>imaginatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imitativo<s n="adj"/></l><r>imitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impeditivo<s n="adj"/></l><r>impeditiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>implorativo<s n="adj"/></l><r>imploratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impositivo<s n="adj"/></l><r>impositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imprecativo<s n="adj"/></l><r>imprecatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impugnativo<s n="adj"/></l><r>impugnatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impulsivo<s n="adj"/></l><r>impulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incisivo<s n="adj"/></l><r>incisiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incitativo<s n="adj"/></l><r>incitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inclusivo<s n="adj"/></l><r>inclusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incoativo<s n="adj"/></l><r>incoatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inconclusivo<s n="adj"/></l><r>inconclusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indicativo<s n="adj"/></l><r>indicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inexpressivo<s n="adj"/></l><r>inexpressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iniciativo<s n="adj"/></l><r>iniciatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inofensivo<s n="adj"/></l><r>inofensiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inquisitivo<s n="adj"/></l><r>inquisitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insinuativo<s n="adj"/></l><r>insinuatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inspirativo<s n="adj"/></l><r>inspiratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>instintivo<s n="adj"/></l><r>instintiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intelectivo<s n="adj"/></l><r>intel·lectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intempestivo<s n="adj"/></l><r>intempestiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interjectivo<s n="adj"/></l><r>interjectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interoceptivo<s n="adj"/></l><r>interoceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interpretativo<s n="adj"/></l><r>interpretatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interrogativo<s n="adj"/></l><r>interrogatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intransitivo<s n="adj"/></l><r>intransitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>introspectivo<s n="adj"/></l><r>introspectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>invasivo<s n="adj"/></l><r>invasiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inventivo<s n="adj"/></l><r>inventiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>invocativo<s n="adj"/></l><r>invocatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irreflexivo<s n="adj"/></l><r>irreflexiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irritativo<s n="adj"/></l><r>irritatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irruptivo<s n="adj"/></l><r>irruptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iterativo<s n="adj"/></l><r>iteratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>judicativo<s n="adj"/></l><r>judicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jussivo<s n="adj"/></l><r>jussiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>justificativo<s n="adj"/></l><r>justificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lascivo<s n="adj"/></l><r>lasciu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laxativo<s n="adj"/></l><r>laxatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lectivo<s n="adj"/></l><r>lectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lenitivo<s n="adj"/></l><r>lenitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lesivo<s n="adj"/></l><r>lesiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>limitativo<s n="adj"/></l><r>limitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>locativo<s n="adj"/></l><r>locatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>locomotivo<s n="adj"/></l><r>locomotiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lucrativo<s n="adj"/></l><r>lucratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>meditativo<s n="adj"/></l><r>meditatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>memorativo<s n="adj"/></l><r>memoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>minorativo<s n="adj"/></l><r>minoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>missivo<s n="adj"/></l><r>missiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>moderativo<s n="adj"/></l><r>moderatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>modificativo<s n="adj"/></l><r>modificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>molificativo<s n="adj"/></l><r>mol·lificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mundificativo<s n="adj"/></l><r>mundificatiu<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>nativo<s n="adj"/></l><r>natiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>neurovegetativo<s n="adj"/></l><r>neurovegetatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nominativo<s n="adj"/></l><r>nominatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>notificativo<s n="adj"/></l><r>notificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nuncupativo<s n="adj"/></l><r>nuncupatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nutritivo<s n="adj"/></l><r>nutritiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oblativo<s n="adj"/></l><r>oblatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obsessivo<s n="adj"/></l><r>obsessiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obstativo<s n="adj"/></l><r>obstatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oclusivo<s n="adj"/></l><r>oclusiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>olfactivo<s n="adj"/></l><r>olfactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opilativo<s n="adj"/></l><r>opilatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opositivo<s n="adj"/></l><r>opositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opressivo<s n="adj"/></l><r>opressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>optativo<s n="adj"/></l><r>optatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>organizativo<s n="adj"/></l><r>organitzatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>orientativo<s n="adj"/></l><r>orientatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ortivo<s n="adj"/></l><r>ortiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ostensivo<s n="adj"/></l><r>ostensiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ostentativo<s n="adj"/></l><r>ostentatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paliativo<s n="adj"/></l><r>pal·liatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>participativo<s n="adj"/></l><r>participatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>partitivo<s n="adj"/></l><r>partitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pejorativo<s n="adj"/></l><r>pejoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>penetrativo<s n="adj"/></l><r>penetratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pensativo<s n="adj"/></l><r>pensatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perceptivo<s n="adj"/></l><r>perceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perfectivo<s n="adj"/></l><r>perfectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>performativo<s n="adj"/></l><r>performatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>permissivo<s n="adj"/></l><r>permissiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perspectivo<s n="adj"/></l><r>perspectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>persuasivo<s n="adj"/></l><r>persuasiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ponderativo<s n="adj"/></l><r>ponderatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pospositivo<s n="adj"/></l><r>pospositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>possessivo<s n="adj"/></l><r>possessiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preceptivo<s n="adj"/></l><r>preceptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predicativo<s n="adj"/></l><r>predicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prelativo<s n="adj"/></l><r>prelatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prepositivo<s n="adj"/></l><r>prepositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preservativo<s n="adj"/></l><r>preservatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>privativo<s n="adj"/></l><r>privatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proactivo<s n="adj"/></l><r>proactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>projectivo<s n="adj"/></l><r>projectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>propagativo<s n="adj"/></l><r>propagatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>propulsivo<s n="adj"/></l><r>propulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prospectivo<s n="adj"/></l><r>prospectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protestativo<s n="adj"/></l><r>protestatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>provocativo<s n="adj"/></l><r>provocatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pulsativo<s n="adj"/></l><r>pulsatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>punitivo<s n="adj"/></l><r>punitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>purgativo<s n="adj"/></l><r>purgatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>putativo<s n="adj"/></l><r>putatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>putrefactivo<s n="adj"/></l><r>putrefactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>qualificativo<s n="adj"/></l><r>qualificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>qualitativo<s n="adj"/></l><r>qualitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quantitativo<s n="adj"/></l><r>quantitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiativo<s n="adj"/></l><r>radiatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radioactivo<s n="adj"/></l><r>radioactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rarefactivo<s n="adj"/></l><r>rarefactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reactivo<s n="adj"/></l><r>reactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>receptivo<s n="adj"/></l><r>receptiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recessivo<s n="adj"/></l><r>recessiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recitativo<s n="adj"/></l><r>recitatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recognitivo<s n="adj"/></l><r>recognitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recordativo<s n="adj"/></l><r>recordatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recreativo<s n="adj"/></l><r>recreatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rectificativo<s n="adj"/></l><r>rectificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recuperativo<s n="adj"/></l><r>recuperatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>redistributivo<s n="adj"/></l><r>redistributiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>redivivo<s n="adj"/></l><r>rediviu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reduplicativo<s n="adj"/></l><r>reduplicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reflectivo<s n="adj"/></l><r>reflectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reflexivo<s n="adj"/></l><r>reflexiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refractivo<s n="adj"/></l><r>refractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refrigerativo<s n="adj"/></l><r>refrigeratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>regenerativo<s n="adj"/></l><r>regeneratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>regressivo<s n="adj"/></l><r>regressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reiterativo<s n="adj"/></l><r>reiteratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reivindicativo<s n="adj"/></l><r>reivindicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rememorativo<s n="adj"/></l><r>rememoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>remissivo<s n="adj"/></l><r>remissiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>remunerativo<s n="adj"/></l><r>remuneratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repercussivo<s n="adj"/></l><r>repercussiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repetitivo<s n="adj"/></l><r>repetitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repressivo<s n="adj"/></l><r>repressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repulsivo<s n="adj"/></l><r>repulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resolutivo<s n="adj"/></l><r>resolutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>responsivo<s n="adj"/></l><r>responsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>restaurativo<s n="adj"/></l><r>restauratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retentivo<s n="adj"/></l><r>retentiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retributivo<s n="adj"/></l><r>retributiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retroactivo<s n="adj"/></l><r>retroactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retrospectivo<s n="adj"/></l><r>retrospectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>revulsivo<s n="adj"/></l><r>revulsiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>roborativo<s n="adj"/></l><r>roboratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rogativo<s n="adj"/></l><r>rogatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sanativo<s n="adj"/></l><r>sanatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sedativo<s n="adj"/></l><r>sedatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>segregativo<s n="adj"/></l><r>segregatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sensitivo<s n="adj"/></l><r>sensitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>separativo<s n="adj"/></l><r>separatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>seronegativo<s n="adj"/></l><r>seronegatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>seropositivo<s n="adj"/></l><r>seropositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simplificativo<s n="adj"/></l><r>simplificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>solutivo<s n="adj"/></l><r>solutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subarbustivo<s n="adj"/></l><r>subarbustiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subjectivo<s n="adj"/></l><r>subjectiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>substantivo<s n="adj"/></l><r>substantiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>substitutivo<s n="adj"/></l><r>substitutiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subtractivo<s n="adj"/></l><r>subtractiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subversivo<s n="adj"/></l><r>subversiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>superlativo<s n="adj"/></l><r>superlatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supletivo<s n="adj"/></l><r>supletiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supositivo<s n="adj"/></l><r>supositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supressivo<s n="adj"/></l><r>supressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supurativo<s n="adj"/></l><r>supuratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>suspensivo<s n="adj"/></l><r>suspensiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>taxativo<s n="adj"/></l><r>taxatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tempestivo<s n="adj"/></l><r>tempestiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tensioactivo<s n="adj"/></l><r>tensioactiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tensivo<s n="adj"/></l><r>tensiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>terminativo<s n="adj"/></l><r>terminatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transformativo<s n="adj"/></l><r>transformatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transgressivo<s n="adj"/></l><r>transgressiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transitivo<s n="adj"/></l><r>transitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>translativo<s n="adj"/></l><r>translatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transmutativo<s n="adj"/></l><r>transmutatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transpositivo<s n="adj"/></l><r>transpositiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ulcerativo<s n="adj"/></l><r>ulceratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>unitivo<s n="adj"/></l><r>unitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>valorativo<s n="adj"/></l><r>valoratiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vegetativo<s n="adj"/></l><r>vegetatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>verificativo<s n="adj"/></l><r>verificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vindicativo<s n="adj"/></l><r>vindicatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vivificativo<s n="adj"/></l><r>vivificatiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>volitivo<s n="adj"/></l><r>volitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vomitivo<s n="adj"/></l><r>vomitiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>votivo<s n="adj"/></l><r>votiu<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -9782,7 +10180,7 @@
 <e r="LR"><p><l>lixo<s n="n"/><s n="m"/><s n="pl"/></l><r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>lição<s n="n"/></l>                    <r>lliçó<s n="n"/></r></p></e>
 <e>       <p><l>lobo<s n="n"/></l>                     <r>llop<s n="n"/></r></p></e>
-<e>       <p><l>local<s n="n"/></l>                    <r>local<s n="n"/></r></p></e>
+<e>       <p><l>local<s n="n"/></l>                    <r>lloc<s n="n"/></r></p></e>
 <e>       <p><l>localidade<s n="n"/></l>               <r>localitat<s n="n"/></r></p></e>
 <e>       <p><l>localização<s n="n"/></l>              <r>localització<s n="n"/></r></p></e>
 <e r="RL"><p><l>localização<s n="n"/></l>              <r>ubicació<s n="n"/></r></p></e>
@@ -14794,6 +15192,42 @@
 <e a="hector"><p><l>voluntariado<s n="n"/><s n="m"/></l><r>voluntariat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>feriado<s n="n"/><s n="m"/></l><r>dia<b/>festiu<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>lençol<b/>freático<s n="n"/><s n="m"/><s n="f"/></l><r>capa<b/>freática<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>acusativo<s n="n"/><s n="m"/></l><r>acusatiu<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>dinheiro<s n="n"/><s n="m"/></l><r>efectiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>abortivo<s n="n"/><s n="m"/></l><r>abortiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>abrasivo<s n="n"/><s n="m"/></l><r>abrasiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>activo<s n="n"/><s n="m"/></l><r>actiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>antidepressivo<s n="n"/><s n="m"/></l><r>antidepressiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aplicativo<s n="n"/><s n="m"/></l><r>aplicatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>contraceptivo<s n="n"/><s n="m"/></l><r>contraceptiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>correctivo<s n="n"/><s n="m"/></l><r>correctiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>dativo<s n="n"/><s n="m"/></l><r>datiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desincentivo<s n="n"/><s n="m"/></l><r>desincentiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>diminutivo<s n="n"/><s n="m"/></l><r>diminutiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>distintivo<s n="n"/><s n="m"/></l><r>distintiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>donativo<s n="n"/><s n="m"/></l><r>donatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fugitivo<s n="n"/></l><r>fugitiu<s n="n"/></r></p></e>
+<e a="hector"><p><l>genitivo<s n="n"/><s n="m"/></l><r>genitiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>imperativo<s n="n"/><s n="m"/></l><r>imperatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>indicativo<s n="n"/><s n="m"/></l><r>indicatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>infinitivo<s n="n"/><s n="m"/></l><r>infinitiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>locativo<s n="n"/><s n="m"/></l><r>locatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>negativo<s n="n"/><s n="m"/></l><r>negatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>nominativo<s n="n"/><s n="m"/></l><r>nominatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>paliativo<s n="n"/><s n="m"/></l><r>pal·liatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>partitivo<s n="n"/><s n="m"/></l><r>partitiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>passivo<s n="n"/><s n="m"/></l><r>passiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>poliesportivo<s n="n"/><s n="m"/></l><r>poliesportiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>positivo<s n="n"/><s n="m"/></l><r>positiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>preservativo<s n="n"/><s n="m"/></l><r>preservatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>qualificativo<s n="n"/><s n="m"/></l><r>qualificatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>reactivo<s n="n"/><s n="m"/></l><r>reactiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>revulsivo<s n="n"/><s n="m"/></l><r>revulsiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>sedativo<s n="n"/><s n="m"/></l><r>sedatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>seropositivo<s n="n"/></l><r>seropositiu<s n="n"/></r></p></e>
+<e a="hector"><p><l>substantivo<s n="n"/><s n="m"/></l><r>substantiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>superlativo<s n="n"/><s n="m"/></l><r>superlatiu<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vocativo<s n="n"/><s n="m"/></l><r>vocatiu<s n="n"/><s n="m"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -35399,6 +35833,8 @@
       <e a="hector"><p><l>Geórgia<s n="np"/><s n="top"/></l><r>Geòrgia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Azerbaijão<s n="np"/><s n="top"/></l><r>Azerbaidjan<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Groenlândia<s n="np"/><s n="top"/></l><r>Groenlàndia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Islândia<s n="np"/><s n="top"/></l><r>Islàndia<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Omã<s n="np"/><s n="top"/></l><r>Oman<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -35623,6 +36059,7 @@
 <e>       <p><l>em<b/>termos<b/>de<s n="pr"/></l>      <r>en<b/>termes<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>torno<b/>de<s n="pr"/></l>       <r>entorn<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>troca<b/>de<s n="pr"/></l>       <r>en<b/>paga<b/>de<s n="pr"/></r></p></e>
+<e>       <p><l>em<b/>lugar<b/>de<s n="pr"/></l>       <r>en<b/>lloc<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>vez<b/>de<s n="pr"/></l>         <r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>em<b/>via<b/>de<s n="pr"/></l>         <r>en<b/>vies<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>embaixo<b/>de<s n="pr"/></l>           <r>sota<s n="pr"/></r></p></e>
