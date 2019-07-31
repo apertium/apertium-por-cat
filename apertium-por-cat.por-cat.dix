@@ -1216,7 +1216,7 @@
 <e>       <p><l>saudável<s n="adj"/></l>               <r>saludable<s n="adj"/></r></p></e>
 <e>       <p><l>seco<s n="adj"/></l>                   <r>sec<s n="adj"/></r></p></e>
 <e>       <p><l>secreto<s n="adj"/></l>                <r>secret<s n="adj"/></r></p></e>
-<e>       <p><l>secundário<s n="adj"/></l>             <r>secundari<s n="adj"/></r></p></e>
+<e>       <p><l>secundário<s n="adj"/></l>             <r>secundari<s n="adj"/></r></p><par n="mf_mf"/></e>
 <e>       <p><l>seguinte<s n="adj"/></l>               <r>següent<s n="adj"/></r></p></e>
 <e>       <p><l>segundo<s n="adj"/></l>                <r>segon<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>seguro<s n="adj"/></l>                 <r>segur<s n="adj"/></r></p></e>
@@ -3839,8 +3839,591 @@
 <e a="hector"><p><l>vultuoso<s n="adj"/></l><r>vultuós<s n="adj"/></r></p></e>
 <e a="hector"><p><l>xaroposo<s n="adj"/></l><r>xaropós<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>zeloso<s n="adj"/></l><r>zelós<s n="adj"/></r></p></e>
-<e a="hector"><p><l>disciplinar<s n="adj"/></l><r>disciplinari<s n="adj"/></r></p></e>
-<e a="hector"><p><l>interdisciplinar<s n="adj"/></l><r>interdisciplinari<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disciplinar<s n="adj"/></l><r>disciplinari<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>interdisciplinar<s n="adj"/></l><r>interdisciplinari<s n="adj"/></r></p><par n="mf_GD"/></e>
+
+<e a="hector"><p><l>abducente<s n="adj"/></l><r>abducent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aberrante<s n="adj"/></l><r>aberrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abirritante<s n="adj"/></l><r>abirritant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abluente<s n="adj"/></l><r>abluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abracadabrante<s n="adj"/></l><r>abracadabrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abrasante<s n="adj"/></l><r>abrasant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abstergente<s n="adj"/></l><r>abstergent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>abstinente<s n="adj"/></l><r>abstinent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acaulescente<s n="adj"/></l><r>acaulescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acescente<s n="adj"/></l><r>acescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acidificante<s n="adj"/></l><r>acidificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acordante<s n="adj"/></l><r>acordant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>acrescente<s n="adj"/></l><r>acrescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>actuante<s n="adj"/></l><r>actuant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adjuvante<s n="adj"/></l><r>adjuvant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adolescente<s n="adj"/></l><r>adolescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adquirente<s n="adj"/></l><r>adquirent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>adurente<s n="adj"/></l><r>adurent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aferente<s n="adj"/></l><r>aferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>afluente<s n="adj"/></l><r>afluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aglutinante<s n="adj"/></l><r>aglutinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>agonizante<s n="adj"/></l><r>agonitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ajudante<s n="adj"/></l><r>ajudant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alarmante<s n="adj"/></l><r>alarmant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alcalescente<s n="adj"/></l><r>alcalescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alcalinizante<s n="adj"/></l><r>alcalinitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alienante<s n="adj"/></l><r>alienant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alternante<s n="adj"/></l><r>alternant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>altitonante<s n="adj"/></l><r>altitonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alucinante<s n="adj"/></l><r>al·lucinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ambivalente<s n="adj"/></l><r>ambivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ambulante<s n="adj"/></l><r>ambulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anarquizante<s n="adj"/></l><r>anarquitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antecedente<s n="adj"/></l><r>antecedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anticoagulante<s n="adj"/></l><r>anticoagulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>antioxidante<s n="adj"/></l><r>antioxidant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>anuente<s n="adj"/></l><r>anuent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apelante<s n="adj"/></l><r>apel·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>apetente<s n="adj"/></l><r>apetent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aquiescente<s n="adj"/></l><r>aquiescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arborescente<s n="adj"/></l><r>arborescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>armipotente<s n="adj"/></l><r>armipotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aromatizante<s n="adj"/></l><r>aromatitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>arrogante<s n="adj"/></l><r>arrogant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ascendente<s n="adj"/></l><r>ascendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asfixiante<s n="adj"/></l><r>asfixiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>aspirante<s n="adj"/></l><r>aspirant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assistente<s n="adj"/></l><r>assistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>assonante<s n="adj"/></l><r>assonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>atenuante<s n="adj"/></l><r>atenuant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>autosuficiente<s n="adj"/></l><r>autosuficient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>balbuciente<s n="adj"/></l><r>balbucient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>basculante<s n="adj"/></l><r>basculant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>batalhante<s n="adj"/></l><r>batallant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>batente<s n="adj"/></l><r>batent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>beligerante<s n="adj"/></l><r>bel·ligerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>belipotente<s n="adj"/></l><r>bel·lipotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>benevolente<s n="adj"/></l><r>benevolent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>bivalente<s n="adj"/></l><r>bivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>boiante<s n="adj"/></l><r>boiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>brigante<s n="adj"/></l><r>brigant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>calmante<s n="adj"/></l><r>calmant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>candente<s n="adj"/></l><r>candent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cantante<s n="adj"/></l><r>cantant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>capitulante<s n="adj"/></l><r>capitulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carburante<s n="adj"/></l><r>carburant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>caulescente<s n="adj"/></l><r>caulescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>causante<s n="adj"/></l><r>causant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cessante<s n="adj"/></l><r>cessant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cicatrizante<s n="adj"/></l><r>cicatritzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ciente<s n="adj"/></l><r>cient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>circulante<s n="adj"/></l><r>circulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clamante<s n="adj"/></l><r>clamant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clarividente<s n="adj"/></l><r>clarivident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>classicizante<s n="adj"/></l><r>classicitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>claudicante<s n="adj"/></l><r>claudicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>clemente<s n="adj"/></l><r>clement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coadjuvante<s n="adj"/></l><r>coadjuvant<s n="adj"/></r></p><par n="mf_mf"/></e>
+<e a="hector"><p><l>coadjuvante<s n="adj"/></l><r>secundari<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>coagulante<s n="adj"/></l><r>coagulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coalescente<s n="adj"/></l><r>coalescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coexistente<s n="adj"/></l><r>coexistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>coincidente<s n="adj"/></l><r>coincident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>colorante<s n="adj"/></l><r>colorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comburente<s n="adj"/></l><r>comburent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comerciante<s n="adj"/></l><r>comerciant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>competente<s n="adj"/></l><r>competent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>componente<s n="adj"/></l><r>component<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comprovante<s n="adj"/></l><r>comprovant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>comunicante<s n="adj"/></l><r>comunicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concedente<s n="adj"/></l><r>concedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concernente<s n="adj"/></l><r>concernent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concertante<s n="adj"/></l><r>concertant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concomitante<s n="adj"/></l><r>concomitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concordante<s n="adj"/></l><r>concordant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concupiscente<s n="adj"/></l><r>concupiscent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>concurrente<s n="adj"/></l><r>concurrent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>condescendente<s n="adj"/></l><r>condescendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>condicionante<s n="adj"/></l><r>condicionant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confidente<s n="adj"/></l><r>confident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confirmante<s n="adj"/></l><r>confirmant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confluente<s n="adj"/></l><r>confluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confortante<s n="adj"/></l><r>confortant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>confrontante<s n="adj"/></l><r>confrontant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>conglutinante<s n="adj"/></l><r>conglutinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>congruente<s n="adj"/></l><r>congruent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consagrante<s n="adj"/></l><r>consagrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consciente<s n="adj"/></l><r>conscient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consistente<s n="adj"/></l><r>consistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consolidante<s n="adj"/></l><r>consolidant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consonante<s n="adj"/></l><r>consonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>constringente<s n="adj"/></l><r>constringent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>consultante<s n="adj"/></l><r>consultant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contaminante<s n="adj"/></l><r>contaminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contendente<s n="adj"/></l><r>contendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>continente<s n="adj"/></l><r>continent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contingente<s n="adj"/></l><r>contingent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contraente<s n="adj"/></l><r>contraent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contrastante<s n="adj"/></l><r>contrastant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>contundente<s n="adj"/></l><r>contundent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convalescente<s n="adj"/></l><r>convalescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convergente<s n="adj"/></l><r>convergent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>convincente<s n="adj"/></l><r>convincent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cooperante<s n="adj"/></l><r>cooperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>corroborante<s n="adj"/></l><r>corroborant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>crepitante<s n="adj"/></l><r>crepitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>culminante<s n="adj"/></l><r>culminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>debilitante<s n="adj"/></l><r>debilitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>debutante<s n="adj"/></l><r>debutant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decadente<s n="adj"/></l><r>decadent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decalvante<s n="adj"/></l><r>decalvant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decapante<s n="adj"/></l><r>decapant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decente<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>decente<s n="adj"/></l><r>decent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>decepcionante<s n="adj"/></l><r>decepcionant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>declarante<s n="adj"/></l><r>declarant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>declinante<s n="adj"/></l><r>declinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>decumbente<s n="adj"/></l><r>decumbent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deferente<s n="adj"/></l><r>deferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>degenerescente<s n="adj"/></l><r>degenerescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deliberante<s n="adj"/></l><r>deliberant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>delirante<s n="adj"/></l><r>delirant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demandante<s n="adj"/></l><r>demandant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>demente<s n="adj"/></l><r>dement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>deprimente<s n="adj"/></l><r>depriment<s n="adj"/></r></p></e>
+<e a="hector"><p><l>derivante<s n="adj"/></l><r>derivant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desafiante<s n="adj"/></l><r>desafiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desbordante<s n="adj"/></l><r>desbordant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descolorante<s n="adj"/></l><r>descolorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desconcertante<s n="adj"/></l><r>desconcertant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>descontente<s n="adj"/></l><r>descontent<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>desconveniente<s n="adj"/></l><r>desconvenient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desedificante<s n="adj"/></l><r>desedificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desesperante<s n="adj"/></l><r>desesperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desinfectante<s n="adj"/></l><r>desinfectant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desobediente<s n="adj"/></l><r>desobedient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desodorante<s n="adj"/></l><r>desodorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>desoxidante<s n="adj"/></l><r>desoxidant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>detergente<s n="adj"/></l><r>detergent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>detonante<s n="adj"/></l><r>detonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>detumescente<s n="adj"/></l><r>detumescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>devorante<s n="adj"/></l><r>devorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dialogante<s n="adj"/></l><r>dialogant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difamante<s n="adj"/></l><r>difamant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difluente<s n="adj"/></l><r>difluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>difringente<s n="adj"/></l><r>difringent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diletante<s n="adj"/></l><r>diletant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>diligente<s n="adj"/></l><r>diligent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>diligente<s n="adj"/></l><r>diligent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>dimanante<s n="adj"/></l><r>dimanant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dirimente<s n="adj"/></l><r>diriment<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discente<s n="adj"/></l><r>discent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discordante<s n="adj"/></l><r>discordant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discrepante<s n="adj"/></l><r>discrepant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>discriminante<s n="adj"/></l><r>discriminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>displicente<s n="adj"/></l><r>displicent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissidente<s n="adj"/></l><r>dissident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissolvente<s n="adj"/></l><r>dissolvent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dissonante<s n="adj"/></l><r>dissonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>divagante<s n="adj"/></l><r>divagant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>divergente<s n="adj"/></l><r>divergent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>dormente<s n="adj"/></l><r>dorment<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edificante<s n="adj"/></l><r>edificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>edulcorante<s n="adj"/></l><r>edulcorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eferente<s n="adj"/></l><r>eferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>efervescente<s n="adj"/></l><r>efervescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eflorescente<s n="adj"/></l><r>eflorescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>efluente<s n="adj"/></l><r>efluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electrizante<s n="adj"/></l><r>electritzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electroluminescente<s n="adj"/></l><r>electroluminescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>electrovalente<s n="adj"/></l><r>electrovalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>eminente<s n="adj"/></l><r>eminent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>eminente<s n="adj"/></l><r>eminent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>emocionante<s n="adj"/></l><r>emocionant<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>emocionante<s n="adj"/></l><r>emocionant<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>emoliente<s n="adj"/></l><r>emol·lient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>emulgente<s n="adj"/></l><r>emulgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>enervante<s n="adj"/></l><r>enervant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equidistante<s n="adj"/></l><r>equidistant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equipolente<s n="adj"/></l><r>equipolent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equipolente<s n="adj"/></l><r>equipol·lent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>equiponderante<s n="adj"/></l><r>equiponderant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>errante<s n="adj"/></l><r>errant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espinescente<s n="adj"/></l><r>espinescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espirante<s n="adj"/></l><r>espirant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>esplendente<s n="adj"/></l><r>esplendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>espumejante<s n="adj"/></l><r>espumejant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estagnante<s n="adj"/></l><r>estagnant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estimulante<s n="adj"/></l><r>estimulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>estipulante<s n="adj"/></l><r>estipulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evacuante<s n="adj"/></l><r>evacuant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>evanescente<s n="adj"/></l><r>evanescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exaltante<s n="adj"/></l><r>exaltant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exasperante<s n="adj"/></l><r>exasperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>excedente<s n="adj"/></l><r>excedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>excitante<s n="adj"/></l><r>excitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>executante<s n="adj"/></l><r>executant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exercitante<s n="adj"/></l><r>exercitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exigente<s n="adj"/></l><r>exigent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>exigente<s n="adj"/></l><r>exigent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>exorbitante<s n="adj"/></l><r>exorbitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expectante<s n="adj"/></l><r>expectant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expectorante<s n="adj"/></l><r>expectorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expediente<s n="adj"/></l><r>expedient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>expelente<s n="adj"/></l><r>expel·lent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extenuante<s n="adj"/></l><r>extenuant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>extravagante<s n="adj"/></l><r>extravagant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exuberante<s n="adj"/></l><r>exuberant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>exultante<s n="adj"/></l><r>exultant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>farsante<s n="adj"/></l><r>farsant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fascinante<s n="adj"/></l><r>fascinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fatigante<s n="adj"/></l><r>fatigant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>febricitante<s n="adj"/></l><r>febricitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fecundante<s n="adj"/></l><r>fecundant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fertilizante<s n="adj"/></l><r>fertilitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fervente<s n="adj"/></l><r>fervent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fervente<s n="adj"/></l><r>fervent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>filtrante<s n="adj"/></l><r>filtrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flagelante<s n="adj"/></l><r>flagel·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flagrante<s n="adj"/></l><r>flagrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flamante<s n="adj"/></l><r>flamant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flamejante<s n="adj"/></l><r>flamejant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>flavescente<s n="adj"/></l><r>flavescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>florente<s n="adj"/></l><r>florent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>florescente<s n="adj"/></l><r>florescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fluente<s n="adj"/></l><r>fluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fluorescente<s n="adj"/></l><r>fluorescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>formicante<s n="adj"/></l><r>formicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fortificante<s n="adj"/></l><r>fortificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fosforescente<s n="adj"/></l><r>fosforescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fotoluminescente<s n="adj"/></l><r>fotoluminescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fremente<s n="adj"/></l><r>frement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frustrante<s n="adj"/></l><r>frustrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>frutescente<s n="adj"/></l><r>frutescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fulgente<s n="adj"/></l><r>fulgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fulgurante<s n="adj"/></l><r>fulgurant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fulminante<s n="adj"/></l><r>fulminant<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>fumante<s n="adj"/></l><r>fumant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>fundente<s n="adj"/></l><r>fundent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galante<s n="adj"/></l><r>galant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>galopante<s n="adj"/></l><r>galopant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gemente<s n="adj"/></l><r>gement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gestante<s n="adj"/></l><r>gestant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>glabrescente<s n="adj"/></l><r>glabrescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>globalizante<s n="adj"/></l><r>globalitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gratificante<s n="adj"/></l><r>gratificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>gravitante<s n="adj"/></l><r>gravitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>habilitante<s n="adj"/></l><r>habilitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hesitante<s n="adj"/></l><r>hesitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>hidratante<s n="adj"/></l><r>hidratant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>horripilante<s n="adj"/></l><r>horripilant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>humectante<s n="adj"/></l><r>humectant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>humiliante<s n="adj"/></l><r>humiliant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ignipotente<s n="adj"/></l><r>ignipotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ignorante<s n="adj"/></l><r>ignorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imaginante<s n="adj"/></l><r>imaginant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impaciente<s n="adj"/></l><r>impacient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impactante<s n="adj"/></l><r>impactant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impediente<s n="adj"/></l><r>impedient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impelente<s n="adj"/></l><r>impel·lent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impenitente<s n="adj"/></l><r>impenitent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imperante<s n="adj"/></l><r>imperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impertinente<s n="adj"/></l><r>impertinent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impetrante<s n="adj"/></l><r>impetrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imponente<s n="adj"/></l><r>imponent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>improcedente<s n="adj"/></l><r>improcedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>imprudente<s n="adj"/></l><r>imprudent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impudente<s n="adj"/></l><r>impudent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incandescente<s n="adj"/></l><r>incandescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incessante<s n="adj"/></l><r>incessant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incidente<s n="adj"/></l><r>incident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incipiente<s n="adj"/></l><r>incipient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incitante<s n="adj"/></l><r>incitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inclemente<s n="adj"/></l><r>inclement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incompetente<s n="adj"/></l><r>incompetent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incongruente<s n="adj"/></l><r>incongruent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inconsciente<s n="adj"/></l><r>inconscient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inconsistente<s n="adj"/></l><r>inconsistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inconstante<s n="adj"/></l><r>inconstant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incontinente<s n="adj"/></l><r>incontinent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inconveniente<s n="adj"/></l><r>inconvenient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>incumbente<s n="adj"/></l><r>incumbent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indecente<s n="adj"/></l><r>indecent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indeficiente<s n="adj"/></l><r>indeficient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indigente<s n="adj"/></l><r>indigent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indignante<s n="adj"/></l><r>indignant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indiligente<s n="adj"/></l><r>indiligent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indolente<s n="adj"/></l><r>indolent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indulgente<s n="adj"/></l><r>indulgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ineficiente<s n="adj"/></l><r>ineficient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inelegante<s n="adj"/></l><r>inelegant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inerrante<s n="adj"/></l><r>inerrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inexistente<s n="adj"/></l><r>inexistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>infamante<s n="adj"/></l><r>infamant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>infectante<s n="adj"/></l><r>infectant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>influente<s n="adj"/></l><r>influent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ingente<s n="adj"/></l><r>ingent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inobediente<s n="adj"/></l><r>inobedient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inobservante<s n="adj"/></l><r>inobservant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inoperante<s n="adj"/></l><r>inoperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inquietante<s n="adj"/></l><r>inquietant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insinuante<s n="adj"/></l><r>insinuant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insipiente<s n="adj"/></l><r>insipient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insistente<s n="adj"/></l><r>insistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insolente<s n="adj"/></l><r>insolent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>instante<s n="adj"/></l><r>instant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insubsistente<s n="adj"/></l><r>insubsistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insultante<s n="adj"/></l><r>insultant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>insurgente<s n="adj"/></l><r>insurgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>integrante<s n="adj"/></l><r>integrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intemperante<s n="adj"/></l><r>intemperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intercadente<s n="adj"/></l><r>intercadent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interdependente<s n="adj"/></l><r>interdependent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interferente<s n="adj"/></l><r>interferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interjacente<s n="adj"/></l><r>interjacent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intermitente<s n="adj"/></l><r>intermitent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interpelante<s n="adj"/></l><r>interpel·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>interrogante<s n="adj"/></l><r>interrogant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intolerante<s n="adj"/></l><r>intolerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intransigente<s n="adj"/></l><r>intransigent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intrigante<s n="adj"/></l><r>intrigant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>intumescente<s n="adj"/></l><r>intumescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>invariante<s n="adj"/></l><r>invariant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ionizante<s n="adj"/></l><r>ionitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>iridescente<s n="adj"/></l><r>iridescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irradiante<s n="adj"/></l><r>irradiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irreverente<s n="adj"/></l><r>irreverent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>irritante<s n="adj"/></l><r>irritant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>itinerante<s n="adj"/></l><r>itinerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>jacente<s n="adj"/></l><r>jacent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>justificante<s n="adj"/></l><r>justificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lacerante<s n="adj"/></l><r>lacerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lactante<s n="adj"/></l><r>lactant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lactescente<s n="adj"/></l><r>lactescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lancinante<s n="adj"/></l><r>lancinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>latente<s n="adj"/></l><r>latent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>latescente<s n="adj"/></l><r>latescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>laxante<s n="adj"/></l><r>laxant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>litigante<s n="adj"/></l><r>litigant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>latinizante<s n="adj"/></l><r>llatinitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>lubrificante<s n="adj"/></l><r>lubrificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>luminescente<s n="adj"/></l><r>luminescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>luxuriante<s n="adj"/></l><r>luxuriant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnetizante<s n="adj"/></l><r>magnetitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>magnificente<s n="adj"/></l><r>magnificent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>magnificente<s n="adj"/></l><r>magnificent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>malcontente<s n="adj"/></l><r>malcontent<s n="adj"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>malignante<s n="adj"/></l><r>malignant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>malsonante<s n="adj"/></l><r>malsonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>marcescente<s n="adj"/></l><r>marcescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mendicante<s n="adj"/></l><r>mendicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mercante<s n="adj"/></l><r>mercant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>migrante<s n="adj"/></l><r>migrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>militante<s n="adj"/></l><r>militant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>monovalente<s n="adj"/></l><r>monovalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>moralizante<s n="adj"/></l><r>moralitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mordicante<s n="adj"/></l><r>mordicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mortificante<s n="adj"/></l><r>mortificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>movente<s n="adj"/></l><r>movent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mundificante<s n="adj"/></l><r>mundificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>munificente<s n="adj"/></l><r>munificent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>mutante<s n="adj"/></l><r>mutant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nadante<s n="adj"/></l><r>nadant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>negligente<s n="adj"/></l><r>negligent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nictitante<s n="adj"/></l><r>nictitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nitrificante<s n="adj"/></l><r>nitrificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nutante<s n="adj"/></l><r>nutant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>nutriente<s n="adj"/></l><r>nutrient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obediente<s n="adj"/></l><r>obedient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obliterante<s n="adj"/></l><r>obliterant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>observante<s n="adj"/></l><r>observant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obsessionante<s n="adj"/></l><r>obsessionant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obstruente<s n="adj"/></l><r>obstruent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>obtundente<s n="adj"/></l><r>obtundent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ocupante<s n="adj"/></l><r>ocupant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>odorante<s n="adj"/></l><r>odorant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oferente<s n="adj"/></l><r>oferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ofertante<s n="adj"/></l><r>ofertant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oficiante<s n="adj"/></l><r>oficiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>omnipotente<s n="adj"/></l><r>omnipotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>omnipresente<s n="adj"/></l><r>omnipresent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>omnisciente<s n="adj"/></l><r>omniscient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ondejante<s n="adj"/></l><r>ondejant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ondulante<s n="adj"/></l><r>ondulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opalescente<s n="adj"/></l><r>opalescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>operante<s n="adj"/></l><r>operant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>opinante<s n="adj"/></l><r>opinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oponente<s n="adj"/></l><r>oponent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oprimente<s n="adj"/></l><r>opriment<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oscilante<s n="adj"/></l><r>oscil·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oscitante<s n="adj"/></l><r>oscitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>oxidante<s n="adj"/></l><r>oxidant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>palpitante<s n="adj"/></l><r>palpitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>participante<s n="adj"/></l><r>participant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>passante<s n="adj"/></l><r>passant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pedante<s n="adj"/></l><r>pedant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>penetrante<s n="adj"/></l><r>penetrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>penitente<s n="adj"/></l><r>penitent<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>penitente<s n="adj"/></l><r>penitent<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>pensante<s n="adj"/></l><r>pensant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pentavalente<s n="adj"/></l><r>pentavalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>percuciente<s n="adj"/></l><r>percucient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>perseverante<s n="adj"/></l><r>perseverant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>persistente<s n="adj"/></l><r>persistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pertinente<s n="adj"/></l><r>pertinent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>petulante<s n="adj"/></l><r>petulant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>picante<s n="adj"/></l><r>picant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plastificante<s n="adj"/></l><r>plastificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>plurivalente<s n="adj"/></l><r>plurivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>polivalente<s n="adj"/></l><r>polivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poluente<s n="adj"/></l><r>pol·luent<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>ponente<s n="adj"/></l><r>ponent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>poente<s n="adj"/></l><r>ponent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>portante<s n="adj"/></l><r>portant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>postulante<s n="adj"/></l><r>postulant<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>precedente<s n="adj"/></l><r>precedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>precipitante<s n="adj"/></l><r>precipitant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predeterminante<s n="adj"/></l><r>predeterminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predicante<s n="adj"/></l><r>predicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>predominante<s n="adj"/></l><r>predominant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preeminente<s n="adj"/></l><r>preeminent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preexcelente<s n="adj"/></l><r>preexcel·lent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preexistente<s n="adj"/></l><r>preexistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preferente<s n="adj"/></l><r>preferent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preponderante<s n="adj"/></l><r>preponderant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>prepotente<s n="adj"/></l><r>prepotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>presciente<s n="adj"/></l><r>prescient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>preveniente<s n="adj"/></l><r>prevenient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>principiante<s n="adj"/></l><r>principiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proficiente<s n="adj"/></l><r>proficient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>projectante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proliferante<s n="adj"/></l><r>proliferant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>proponente<s n="adj"/></l><r>proponent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protestante<s n="adj"/></l><r>protestant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>protuberante<s n="adj"/></l><r>protuberant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>providente<s n="adj"/></l><r>provident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>provocante<s n="adj"/></l><r>provocant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pubescente<s n="adj"/></l><r>pubescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pudente<s n="adj"/></l><r>pudent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pungente<s n="adj"/></l><r>pungent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>purgante<s n="adj"/></l><r>purgant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quadrivalente<s n="adj"/></l><r>quadrivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>quiescente<s n="adj"/></l><r>quiescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radiante<s n="adj"/></l><r>radiant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>radicante<s n="adj"/></l><r>radicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rampante<s n="adj"/></l><r>rampant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rasante<s n="adj"/></l><r>rasant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recalcitrante<s n="adj"/></l><r>recalcitrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reclamante<s n="adj"/></l><r>reclamant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reconfortante<s n="adj"/></l><r>reconfortant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recrudescente<s n="adj"/></l><r>recrudescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recusante<s n="adj"/></l><r>recusant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>redundante<s n="adj"/></l><r>redundant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reflorescente<s n="adj"/></l><r>reflorescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refluente<s n="adj"/></l><r>refluent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refrescante<s n="adj"/></l><r>refrescant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refrigerante<s n="adj"/></l><r>refrigerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>refulgente<s n="adj"/></l><r>refulgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>regente<s n="adj"/></l><r>regent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reincidente<s n="adj"/></l><r>reincident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>relaxante<s n="adj"/></l><r>relaxant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reminiscente<s n="adj"/></l><r>reminiscent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>remitente<s n="adj"/></l><r>remitent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>renitente<s n="adj"/></l><r>renitent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>renuente<s n="adj"/></l><r>renuent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repelente<s n="adj"/></l><r>repel·lent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>representante<s n="adj"/></l><r>representant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reptante<s n="adj"/></l><r>reptant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>repugnante<s n="adj"/></l><r>repugnant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>residente<s n="adj"/></l><r>resident<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resignante<s n="adj"/></l><r>resignant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resiliente<s n="adj"/></l><r>resilient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resolvente<s n="adj"/></l><r>resolvent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>resplendente<s n="adj"/></l><r>resplendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ressonante<s n="adj"/></l><r>ressonant<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>restante<s n="adj"/></l><r>restant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>restringente<s n="adj"/></l><r>restringent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reticente<s n="adj"/></l><r>reticent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reverberante<s n="adj"/></l><r>reverberant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>reverente<s n="adj"/></l><r>reverent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>revoltante<s n="adj"/></l><r>revoltant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>roborante<s n="adj"/></l><r>roborant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rodante<s n="adj"/></l><r>rodant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rubescente<s n="adj"/></l><r>rubescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ruminante<s n="adj"/></l><r>ruminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>rutilante<s n="adj"/></l><r>rutilant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>santificante<s n="adj"/></l><r>santificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sapiente<s n="adj"/></l><r>sapient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>saturante<s n="adj"/></l><r>saturant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>secante<s n="adj"/></l><r>secant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sedante<s n="adj"/></l><r>sedant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sedente<s n="adj"/></l><r>sedent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semitransparente<s n="adj"/></l><r>semitransparent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>semovente<s n="adj"/></l><r>semovent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>senescente<s n="adj"/></l><r>senescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sibilante<s n="adj"/></l><r>sibilant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>significante<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>silente<s n="adj"/></l><r>silent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>simpatizante<s n="adj"/></l><r>simpatitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sobrante<s n="adj"/></l><r>sobrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sobrevivente<s n="adj"/></l><r>sobrevivent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>socializante<s n="adj"/></l><r>socialitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>solubilizante<s n="adj"/></l><r>solubilitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>solvente<s n="adj"/></l><r>solvent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sonante<s n="adj"/></l><r>sonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subjacente<s n="adj"/></l><r>subjacent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subordinante<s n="adj"/></l><r>subordinant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subsistente<s n="adj"/></l><r>subsistent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sufocante<s n="adj"/></l><r>sufocant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supereminente<s n="adj"/></l><r>supereminent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>superveniente<s n="adj"/></l><r>supervenient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>supervivente<s n="adj"/></l><r>supervivent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>suplente<s n="adj"/></l><r>suplent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>suplicante<s n="adj"/></l><r>suplicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>suprajacente<s n="adj"/></l><r>suprajacent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tabescente<s n="adj"/></l><r>tabescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>talhante<s n="adj"/></l><r>tallant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tangente<s n="adj"/></l><r>tangent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>temente<s n="adj"/></l><r>tement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>temperante<s n="adj"/></l><r>temperant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tendente<s n="adj"/></l><r>tendent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>terebrante<s n="adj"/></l><r>terebrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>terminante<s n="adj"/></l><r>terminant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tetravalente<s n="adj"/></l><r>tetravalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>titilante<s n="adj"/></l><r>titil·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tocante<s n="adj"/></l><r>tocant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tolerante<s n="adj"/></l><r>tolerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tonante<s n="adj"/></l><r>tonant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tonificante<s n="adj"/></l><r>tonificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>totipotente<s n="adj"/></l><r>totipotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tranquilizante<s n="adj"/></l><r>tranquil·litzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transiente<s n="adj"/></l><r>transient<s n="adj"/></r></p></e>
+<e a="hector"><p><l>transigente<s n="adj"/></l><r>transigent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>traumatizante<s n="adj"/></l><r>traumatitzant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tremente<s n="adj"/></l><r>trement<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trepidante<s n="adj"/></l><r>trepidant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>trivalente<s n="adj"/></l><r>trivalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>tumescente<s n="adj"/></l><r>tumescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>turgente<s n="adj"/></l><r>turgent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>turgescente<s n="adj"/></l><r>turgescent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>univalente<s n="adj"/></l><r>univalent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urente<s n="adj"/></l><r>urent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>urticante<s n="adj"/></l><r>urticant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vacilante<s n="adj"/></l><r>vacil·lant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vagante<s n="adj"/></l><r>vagant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>variante<s n="adj"/></l><r>variant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vegetante<s n="adj"/></l><r>vegetant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>verdejante<s n="adj"/></l><r>verdejant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vesicante<s n="adj"/></l><r>vesicant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vexante<s n="adj"/></l><r>vexant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vibrante<s n="adj"/></l><r>vibrant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vicariante<s n="adj"/></l><r>vicariant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vigilante<s n="adj"/></l><r>vigilant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vinculante<s n="adj"/></l><r>vinculant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>viripotente<s n="adj"/></l><r>viripotent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vivente<s n="adj"/></l><r>vivent<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vivificante<s n="adj"/></l><r>vivificant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vociferante<s n="adj"/></l><r>vociferant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vogante<s n="adj"/></l><r>vogant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>votante<s n="adj"/></l><r>votant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>vulnerante<s n="adj"/></l><r>vulnerant<s n="adj"/></r></p></e>
+<e a="hector"><p><l>zelante<s n="adj"/></l><r>zelant<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -7202,7 +7785,7 @@
 <e>       <p><l>palco<s n="n"/></l>                    <r>escenari<s n="n"/></r></p></e>
 <e vl="pt pt_pre1990"><p><l>palestiniano<s n="n"/></l> <r>palestí<s n="n"/></r></p></e>
 <e vl="br"><p><l>palestino<s n="n"/></l>               <r>palestí<s n="n"/></r></p></e>
-<e>       <p><l>palestrante<s n="n"/></l>              <r>ponent<s n="n"/></r></p></e>
+<e>       <p><l>poente<s n="n"/></l>                   <r>ponent<s n="n"/></r></p></e>
 <e>       <p><l>palha<s n="n"/></l>                    <r>palla<s n="n"/></r></p></e>
 <e>       <p><l>palmo<s n="n"/></l>                    <r>pam<s n="n"/></r></p></e>
 <e>       <p><l>palácio<s n="n"/></l>                  <r>palau<s n="n"/></r></p></e>
@@ -11532,6 +12115,24 @@
 <e a="hector"><p><l>leproso<s n="n"/></l><r>leprós<s n="n"/></r></p></e>
 <e a="hector"><p><l>religioso<s n="n"/></l><r>religiós<s n="n"/></r></p></e>
 
+<e a="hector"><p><l>pavês<s n="n"/><s n="m"/></l><r>pavès<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>samba<s n="n"/><s n="f"/></l><r>samba<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>aliciente<s n="n"/><s n="m"/></l><r>seducció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>apelante<s n="n"/><s n="mf"/></l><r>apel·lant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>atenuante<s n="n"/><s n="m"/></l><r>atenuant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>brilhante<s n="n"/><s n="m"/></l><r>brillant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fertilizante<s n="n"/><s n="m"/></l><r>fertilitzant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>interpelante<s n="n"/><s n="mf"/></l><r>interpel·lant<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL" a="hector"><p><l>justificativa<s n="n"/><s n="f"/></l><r>justificant<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>comprovativo<s n="n"/><s n="m"/></l><r>justificant<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>levante<s n="n"/><s n="m"/></l><r>llevant<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>levante<s n="n"/><s n="m"/></l><r>rebel·lió<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>oficiante<s n="n"/><s n="mf"/></l><r>oficiant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>sprint<s n="n"/><s n="m"/></l><r>sprint<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>suspensório<s n="n"/><s n="f"/><s n="pl"/></l><r>tirant<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e a="hector"><p><l>carnaval<s n="n"/><s n="m"/></l><r>carnaval<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" a="hector"><p><l>carnaval<s n="n"/><s n="m"/><s n="sg"/></l><r>carnestoltes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+
 <!-- xxxxx -->
 
     <!-- ******************************
@@ -11616,6 +12217,7 @@
 <e>       <p><l>Bush<s n="np"/></l>                    <r>Bush<s n="np"/></r></p></e>
 <e>       <p><l>Bélgica<s n="np"/></l>                 <r>Bèlgica<s n="np"/></r></p></e>
 <e>       <p><l>Bósnia<s n="np"/></l>                  <r>Bòsnia<s n="np"/></r></p></e>
+<e>       <p><l>Bósnia<b/>e<b/>Herzegovina<s n="np"/></l><r>Bòsnia<b/>i<b/>Hercegovina<s n="np"/></r></p></e>
 <e>       <p><l>Califórnia<s n="np"/></l>              <r>Califòrnia<s n="np"/></r></p></e>
 <e>       <p><l>Campbell<s n="np"/></l>                <r>Campbell<s n="np"/></r></p></e>
 <e>       <p><l>Canadá<s n="np"/></l>                  <r>Canadà<s n="np"/></r></p></e>
@@ -11805,6 +12407,7 @@
 <e>       <p><l>Jon<s n="np"/></l>                     <r>Jon<s n="np"/></r></p></e>
 <e>       <p><l>Jones<s n="np"/></l>                   <r>Jones<s n="np"/></r></p></e>
 <e>       <p><l>Jordi<s n="np"/></l>                   <r>Jordi<s n="np"/></r></p></e>
+<e>       <p><l>Jorge<s n="np"/></l>                   <r>Jordi<s n="np"/></r></p></e>
 <e>       <p><l>Jordânia<s n="np"/></l>                <r>Jordània<s n="np"/></r></p></e>
 <e>       <p><l>Jorge<s n="np"/></l>                   <r>Jorge<s n="np"/></r></p></e>
 <e>       <p><l>Josep<s n="np"/></l>                   <r>Josep<s n="np"/></r></p></e>
@@ -32129,6 +32732,7 @@
       <e a="hector"><p><l>Kuwait<s n="np"/><s n="top"/></l><r>Kuwait<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Arábia<s n="np"/><s n="top"/></l><r>Aràbia<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Arábia<b/>Saudita<s n="np"/><s n="top"/></l><r>Aràbia<b/>Saudita<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Camboja<s n="np"/><s n="top"/></l><r>Cambodja<s n="np"/><s n="top"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -33994,6 +34598,7 @@
 <e>       <p><l>supor<s n="vblex"/></l>                <r>suposar<s n="vblex"/></r></p></e>
 <e>       <p><l>suprimir<s n="vblex"/></l>             <r>suprimir<s n="vblex"/></r></p></e>
 <e>       <p><l>surgir<s n="vblex"/></l>               <r>sorgir<s n="vblex"/></r></p></e>
+<e>       <p><l>ressurgir<s n="vblex"/></l>            <r>ressorgir<s n="vblex"/></r></p></e>
 <e>       <p><l>surpreender<s n="vblex"/></l>          <r>sorprendre<s n="vblex"/></r></p></e>
 <e>       <p><l>suscitar<s n="vblex"/></l>             <r>suscitar<s n="vblex"/></r></p></e>
 <e>       <p><l>suspeitar<s n="vblex"/></l>            <r>sospitar<s n="vblex"/></r></p></e>
