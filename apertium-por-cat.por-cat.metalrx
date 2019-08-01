@@ -321,6 +321,8 @@
         <or>
           <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p3}}"/></match>
           <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p3}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p3}}"/></match>
         </or>
       </rule>
       <rule weight="1.0">
@@ -646,6 +648,9 @@
     </repeat>
     <match lemma="de" tags="pr"/>
   </rule>
+
+  <!-- sentar > asseure, seure -->
+  <macro name="verb_nopron_pron" p1="sentar" p2="asseure" p3="seure"/>
 
   <!-- tornar > tornar, fer -->
   <rule weight="0.6">

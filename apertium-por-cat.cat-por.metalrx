@@ -403,6 +403,58 @@
 
 <!-- **************** N **************** -->
 
+  <!-- saque > saqueig, sacada (Bra) -->
+  <rule weight="0.6">
+    <match lemma="saque" tags="n.*"><select lemma="saqueig"/></match>
+  </rule>
+
+  <!-- serviço > servei/servici, sacada (Por) -->
+  <rule weight="0.6">
+    <match lemma="serviço" tags="n.*"><select lemma="servei"/></match>
+  </rule>
+
+  <!-- gana > fome, vontade -->
+  <rule weight="0.6">
+    <match lemma="gana" tags="n.*"><select lemma="vontade"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="gana" tags="n.f.sg"><select lemma="fome"/></match>
+  </rule>
+
+  <!-- llatí > latino, latim -->
+  <rule weight="0.6">
+    <match lemma="llatí" tags="n.*"><select lemma="latino"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="llatí" tags="n.m.sg"><select lemma="latim"/></match>
+  </rule>
+
+  <!-- plana > planície, página -->
+  <rule weight="0.6">
+    <match lemma="plana" tags="n.*"><select lemma="planície"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="adj.ord.*"/>
+    <match lemma="plana" tags="n.*"><select lemma="página"/></match>
+  </rule>
+
+  <!-- golf > golfo, golfe -->
+  <rule weight="0.6">
+     <match lemma="golf" tags="n.*"><select lemma="golfo"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="de" tags="pr"/>
+     <match lemma="golf" tags="n.*"><select lemma="golfe"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="jugar" tags="vblex"/>
+     <match lemma="a" tags="pr"/>
+     <repeat from="0" upto="1">
+       <match tags="det.*"/>
+     </repeat>
+     <match lemma="golf" tags="n.*"><select lemma="golfe"/></match>
+  </rule>
+
   <!-- indi > indiano, índio -->
   <rule weight="0.6">
     <match lemma="indi" tags="n.*"><select lemma="indiano"/></match>
