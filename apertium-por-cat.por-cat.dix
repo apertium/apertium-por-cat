@@ -1562,9 +1562,9 @@
 <e vl="pt br" a="hector"><p><l>coletivista<s n="adj"/></l><r>col·lectivista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>comunalista<s n="adj"/></l><r>comunalista<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>conceptista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>concetista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>concetista<s n="adj"/></l><r>conceptista<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>conceptualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>concetualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>concetualista<s n="adj"/></l><r>conceptualista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conformista<s n="adj"/></l><r>conformista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>confucianista<s n="adj"/></l><r>confucianista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>congruista<s n="adj"/></l><r>congruista<s n="adj"/></r></p></e>
@@ -1587,8 +1587,8 @@
 <e a="hector"><p><l>enciclopedista<s n="adj"/></l><r>enciclopedista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espiritista<s n="adj"/></l><r>espiritista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espiritualista<s n="adj"/></l><r>espiritualista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>estalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
-<e a="hector"><p><l>stalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>estalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>stalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esteticista<s n="adj"/></l><r>esteticista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>excursionista<s n="adj"/></l><r>excursionista<s n="adj"/></r></p></e>
 <e a="hector"><p><l>existencialista<s n="adj"/></l><r>existencialista<s n="adj"/></r></p></e>
@@ -1826,7 +1826,7 @@
 <e a="hector"><p><l>cantonal<s n="adj"/></l><r>cantonal<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>capital<s n="adj"/></l><r>capital<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>caracterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>caraterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>caraterial<s n="adj"/></l><r>caracterial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cardial<s n="adj"/></l><r>cardial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carinal<s n="adj"/></l><r>carinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carnal<s n="adj"/></l><r>carnal<s n="adj"/></r></p></e>
@@ -1952,7 +1952,7 @@
 <e a="hector"><p><l>esfenoidal<s n="adj"/></l><r>esfenoidal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esferoidal<s n="adj"/></l><r>esferoidal<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetral<s n="adj"/></l><r>espectral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espinal<s n="adj"/></l><r>espinal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>essencial<s n="adj"/></l><r>essencial<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>essencial<s n="adj"/></l><r>essencial<s n="adj"/><s n="sup"/></r></p><par n="mf_GD"/></e>
@@ -2214,7 +2214,7 @@
 <e a="hector"><p><l>prandial<s n="adj"/></l><r>prandial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prebostal<s n="adj"/></l><r>prebostal<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>preceptoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>precetoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>precetoral<s n="adj"/></l><r>preceptoral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>precordial<s n="adj"/></l><r>precordial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>predial<s n="adj"/></l><r>predial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>predicamental<s n="adj"/></l><r>predicamental<s n="adj"/></r></p></e>
@@ -2256,7 +2256,7 @@
 <e a="hector"><p><l>radial<s n="adj"/></l><r>radial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recental<s n="adj"/></l><r>recental<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>rectal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>retal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retal<s n="adj"/></l><r>rectal<s n="adj"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>rectovaginal<s n="adj"/></l><r>rectovaginal<s n="adj"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>retovaginal<s n="adj"/></l><r>rectovaginal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>referencial<s n="adj"/></l><r>referencial<s n="adj"/></r></p></e>
@@ -2279,7 +2279,7 @@
 <e a="hector"><p><l>sapiencial<s n="adj"/></l><r>sapiencial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>saturnal<s n="adj"/></l><r>saturnal<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>sectorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>setorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>setorial<s n="adj"/></l><r>sectorial<s n="adj"/></r></p></e>
 <e a="hector"><p><l>segetal<s n="adj"/></l><r>segetal<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semental<s n="adj"/></l><r>semental<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semestral<s n="adj"/></l><r>semestral<s n="adj"/></r></p></e>
@@ -2461,7 +2461,7 @@
 <e a="hector"><p><l>anísico<s n="adj"/></l><r>anísic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aorístico<s n="adj"/></l><r>aorístic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>apocalíptico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>apocalítico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>apocalítico<s n="adj"/></l><r>apocalíptic<s n="adj"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>apodíctico<s n="adj"/></l><r>apodíctic<s n="adj"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>apodítico<s n="adj"/></l><r>apodíctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apofântico<s n="adj"/></l><r>apofàntic<s n="adj"/></r></p></e>
@@ -2575,7 +2575,7 @@
 <e a="hector"><p><l>dualístico<s n="adj"/></l><r>dualístic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eclâmptico<s n="adj"/></l><r>eclàmptic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>eclíptico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>eclítico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eclítico<s n="adj"/></l><r>eclíptic<s n="adj"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>ecoico<s n="adj"/></l><r>ecoic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>econométrico<s n="adj"/></l><r>economètric<s n="adj"/></r></p></e>
 <e vl="br" a="hector"><p><l>ecumênico<s n="adj"/></l><r>ecumènic<s n="adj"/></r></p></e>
@@ -2609,9 +2609,9 @@
 <e a="hector"><p><l>escorbútico<s n="adj"/></l><r>escorbútic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espasmolítico<s n="adj"/></l><r>espasmolític<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetrofotométrico<s n="adj"/></l><r>espectrofotomètric<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetrométrico<s n="adj"/></l><r>espectromètric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espondaico<s n="adj"/></l><r>espondaic<s n="adj"/></r></p></e>
 <e vl="br" a="hector"><p><l>esquizofrênico<s n="adj"/></l><r>esquizofrènic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esquizotímico<s n="adj"/></l><r>esquizotímic<s n="adj"/></r></p></e>
@@ -2947,7 +2947,7 @@
 <e vl="br" a="hector"><p><l>sindrômico<s n="adj"/></l><r>sindròmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sinonímico<s n="adj"/></l><r>sinonímic<s n="adj"/></r></p></e>
 <e vl="br" a="hector"><p><l>sistêmico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
-<e vl="pt" a="hector"><p><l>sistémico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>sistémico<s n="adj"/></l><r>sistèmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sociopolítico<s n="adj"/></l><r>sociopolític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sodomítico<s n="adj"/></l><r>sodomític<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sofístico<s n="adj"/></l><r>sofístic<s n="adj"/></r></p></e>
@@ -4357,7 +4357,7 @@
 <e a="hector"><p><l>principiante<s n="adj"/></l><r>principiant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proficiente<s n="adj"/></l><r>proficient<s n="adj"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>projectante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
-<e vl="pt" a="hector"><p><l>projetante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>projetante<s n="adj"/></l><r>projectant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proliferante<s n="adj"/></l><r>proliferant<s n="adj"/></r></p></e>
 <e a="hector"><p><l>proponente<s n="adj"/></l><r>proponent<s n="adj"/></r></p></e>
 <e a="hector"><p><l>protestante<s n="adj"/></l><r>protestant<s n="adj"/></r></p></e>
@@ -4659,7 +4659,7 @@
 <e a="hector"><p><l>calórico<s n="adj"/></l><r>calòric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>canónico<s n="adj"/></l><r>canònic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>caracterológico<s n="adj"/></l><r>caracterològic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>caraterológico<s n="adj"/></l><r>caracterològic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>caraterológico<s n="adj"/></l><r>caracterològic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>carbónico<s n="adj"/></l><r>carbònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cardiotónico<s n="adj"/></l><r>cardiotònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carismático<s n="adj"/></l><r>carismàtic<s n="adj"/></r></p></e>
@@ -4721,7 +4721,7 @@
 <e vl="pt pt_pre1990" a="hector"><p><l>cómico<s n="adj"/></l><r>còmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cónico<s n="adj"/></l><r>cònic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>dactilográfico<s n="adj"/></l><r>dactilogràfic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>datilográfico<s n="adj"/></l><r>dactilogràfic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>datilográfico<s n="adj"/></l><r>dactilogràfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>daltónico<s n="adj"/></l><r>daltònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dedálico<s n="adj"/></l><r>dedàlic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>demagógico<s n="adj"/></l><r>demagògic<s n="adj"/></r></p></e>
@@ -4827,9 +4827,9 @@
 <e a="hector"><p><l>esotérico<s n="adj"/></l><r>esotèric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espasmódico<s n="adj"/></l><r>espasmòdic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectrográfico<s n="adj"/></l><r>espectrogràfic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetrográfico<s n="adj"/></l><r>espectrogràfic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetrográfico<s n="adj"/></l><r>espectrogràfic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectroscópico<s n="adj"/></l><r>espectroscòpic<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetroscópico<s n="adj"/></l><r>espectroscòpic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetroscópico<s n="adj"/></l><r>espectroscòpic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espeleológico<s n="adj"/></l><r>espeleològic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>espermático<s n="adj"/></l><r>espermàtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>esplenético<s n="adj"/></l><r>esplenètic<s n="adj"/></r></p></e>
@@ -5012,7 +5012,7 @@
 <e a="hector"><p><l>homérico<s n="adj"/></l><r>homèric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>iconográfico<s n="adj"/></l><r>iconogràfic<s n="adj"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>ictérico<s n="adj"/></l><r>ictèric<s n="adj"/></r></p></e>
-<e vl="br" a="hector"><p><l>itérico<s n="adj"/></l><r>ictèric<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>itérico<s n="adj"/></l><r>ictèric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>icónico<s n="adj"/></l><r>icònic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ideográfico<s n="adj"/></l><r>ideogràfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ideogénico<s n="adj"/></l><r>ideogènic<s n="adj"/></r></p></e>
@@ -5475,7 +5475,8 @@
 <e a="hector"><p><l>hulheiro<s n="adj"/></l><r>huller<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lebreiro<s n="adj"/></l><r>llebrer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>maneiro<s n="adj"/></l><r>maner<s n="adj"/></r></p></e>
-<e a="hector"><p><l>manufactureiro<s n="adj"/></l><r>manufacturer<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>manufactureiro<s n="adj"/></l><r>manufacturer<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>manufatureiro<s n="adj"/></l><r>manufacturer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mareiro<s n="adj"/></l><r>marer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>marisqueiro<s n="adj"/></l><r>marisquer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mateiro<s n="adj"/></l><r>mater<s n="adj"/></r></p></e>
@@ -5717,8 +5718,10 @@
 <e a="hector"><p><l>anamórfico<s n="adj"/></l><r>anamòrfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anapéstico<s n="adj"/></l><r>anapèstic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>angiospérmico<s n="adj"/></l><r>angiospèrmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>anoréctico<s n="adj"/></l><r>anorèctic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>antiapopléctico<s n="adj"/></l><r>antiapoplèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>anoréctico<s n="adj"/></l><r>anorèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>anorético<s n="adj"/></l><r>anorèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>antiapopléctico<s n="adj"/></l><r>antiapoplèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>antiapoplético<s n="adj"/></l><r>antiapoplèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antitérmico<s n="adj"/></l><r>antitèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>antropomórfico<s n="adj"/></l><r>antropomòrfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ascórbico<s n="adj"/></l><r>ascòrbic<s n="adj"/></r></p></e>
@@ -5728,8 +5731,10 @@
 <e a="hector"><p><l>avéstico<s n="adj"/></l><r>avèstic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aórtico<s n="adj"/></l><r>aòrtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>béquico<s n="adj"/></l><r>bèquic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>caquéctico<s n="adj"/></l><r>caquèctic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>cataléctico<s n="adj"/></l><r>catalèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>caquéctico<s n="adj"/></l><r>caquèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>caquético<s n="adj"/></l><r>caquèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>cataléctico<s n="adj"/></l><r>catalèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>catalético<s n="adj"/></l><r>catalèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cataléptico<s n="adj"/></l><r>catalèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>celulósico<s n="adj"/></l><r>cel·lulòsic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>clorofórmico<s n="adj"/></l><r>clorofòrmic<s n="adj"/></r></p></e>
@@ -5737,21 +5742,26 @@
 <e a="hector"><p><l>cósmico<s n="adj"/></l><r>còsmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>decaédrico<s n="adj"/></l><r>decaèdric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desértico<s n="adj"/></l><r>desèrtic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>dialéctico<s n="adj"/></l><r>dialèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialéctico<s n="adj"/></l><r>dialèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diatérmico<s n="adj"/></l><r>diatèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dispéptico<s n="adj"/></l><r>dispèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diédrico<s n="adj"/></l><r>dièdric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>délfico<s n="adj"/></l><r>dèlfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dérmico<s n="adj"/></l><r>dèrmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrodoméstico<s n="adj"/></l><r>electrodomèstic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrotécnico<s n="adj"/></l><r>electrotècnic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrotérmico<s n="adj"/></l><r>electrotèrmic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrodoméstico<s n="adj"/></l><r>electrodomèstic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrodoméstico<s n="adj"/></l><r>electrodomèstic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrotécnico<s n="adj"/></l><r>electrotècnic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrotécnico<s n="adj"/></l><r>electrotècnic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrotérmico<s n="adj"/></l><r>electrotèrmic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrotérmico<s n="adj"/></l><r>electrotèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>endodérmico<s n="adj"/></l><r>endodèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>endotérmico<s n="adj"/></l><r>endotèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>entóptico<s n="adj"/></l><r>entòptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>epidérmico<s n="adj"/></l><r>epidèrmic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>epiléptico<s n="adj"/></l><r>epilèptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>esméctico<s n="adj"/></l><r>esmèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>epiléptico<s n="adj"/></l><r>epilèptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>epilético<s n="adj"/></l><r>epilèptic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>esméctico<s n="adj"/></l><r>esmèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>esmético<s n="adj"/></l><r>esmèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eupéptico<s n="adj"/></l><r>eupèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>exotérmico<s n="adj"/></l><r>exotèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>filotécnico<s n="adj"/></l><r>filotècnic<s n="adj"/></r></p></e>
@@ -5786,7 +5796,8 @@
 <e a="hector"><p><l>macrocósmico<s n="adj"/></l><r>macrocòsmic<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>melancólico<s n="adj"/></l><r>melancòlic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>meroédrico<s n="adj"/></l><r>meroèdric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>metaléptico<s n="adj"/></l><r>metalèptic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>metaléptico<s n="adj"/></l><r>metalèptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>metalético<s n="adj"/></l><r>metalèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>metamórfico<s n="adj"/></l><r>metamòrfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>microcósmico<s n="adj"/></l><r>microcòsmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>mnemotécnico<s n="adj"/></l><r>mnemotècnic<s n="adj"/></r></p></e>
@@ -5796,7 +5807,8 @@
 <e a="hector"><p><l>neuroléptico<s n="adj"/></l><r>neurolèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>nórdico<s n="adj"/></l><r>nòrdic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>octaédrico<s n="adj"/></l><r>octaèdric<s n="adj"/></r></p></e>
-<e a="hector"><p><l>organoléptico<s n="adj"/></l><r>organolèptic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>organoléptico<s n="adj"/></l><r>organolèptic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>organolético<s n="adj"/></l><r>organolèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ortomórfico<s n="adj"/></l><r>ortomòrfic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ortoédrico<s n="adj"/></l><r>ortoèdric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perispérmico<s n="adj"/></l><r>perispèrmic<s n="adj"/></r></p></e>
@@ -5818,10 +5830,12 @@
 <e a="hector"><p><l>romboédrico<s n="adj"/></l><r>romboèdric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>semidesértico<s n="adj"/></l><r>semidesèrtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>siléptico<s n="adj"/></l><r>sil·lèptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>simpléctico<s n="adj"/></l><r>simplèctic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>simpléctico<s n="adj"/></l><r>simplèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>simplético<s n="adj"/></l><r>simplèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sinérgico<s n="adj"/></l><r>sinèrgic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sinóptico<s n="adj"/></l><r>sinòptic<s n="adj"/></r></p></e>
-<e a="hector"><p><l>séptico<s n="adj"/></l><r>sèptic<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>séptico<s n="adj"/></l><r>sèptic<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>sético<s n="adj"/></l><r>sèptic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>taxidérmico<s n="adj"/></l><r>taxidèrmic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tetartoédrico<s n="adj"/></l><r>tetartoèdric<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tetraédrico<s n="adj"/></l><r>tetraèdric<s n="adj"/></r></p></e>
@@ -5995,7 +6009,8 @@
 <e a="hector"><p><l>pupilar<s n="adj"/></l><r>pupil·lar<s n="adj"/></r></p></e>
 <e a="hector"><p><l>quadrangular<s n="adj"/></l><r>quadrangular<s n="adj"/></r></p></e>
 <e a="hector"><p><l>radicular<s n="adj"/></l><r>radicular<s n="adj"/></r></p></e>
-<e a="hector"><p><l>receptacular<s n="adj"/></l><r>receptacular<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>receptacular<s n="adj"/></l><r>receptacular<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>recetacular<s n="adj"/></l><r>receptacular<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reticular<s n="adj"/></l><r>reticular<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sacular<s n="adj"/></l><r>sacular<s n="adj"/></r></p></e>
 <e a="hector"><p><l>secular<s n="adj"/></l><r>secular<s n="adj"/></r></p><par n="GD_mf"/></e>
@@ -6071,8 +6086,12 @@
 <e a="hector"><p><l>adossado<s n="adj"/></l><r>adossat<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>adossado<s n="adj"/></l><r>adossat<s n="adj"/><s n="sup"/></r></p></e>
 <e a="hector"><p><l>afamado<s n="adj"/></l><r>afamat<s n="adj"/></r></p></e>
-<e a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetado<s n="adj"/></l><r>afectat<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetado<s n="adj"/></l><r>afectat<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" r="RL" a="hector"><p><l>afectado<s n="adj"/></l><r>afectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>afetado<s n="adj"/></l><r>afectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>afetado<s n="adj"/></l><r>afectat<s n="adj"/><s n="sup"/></r></p></e>
 <e a="hector"><p><l>afelpado<s n="adj"/></l><r>afelpat<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>aficionado<s n="adj"/></l><r>aficionat<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>aficionado<s n="adj"/></l><r>aficionat<s n="adj"/><s n="sup"/></r></p></e>
@@ -6246,10 +6265,15 @@
 <e a="hector"><p><l>desacordado<s n="adj"/></l><r>desacordat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desacostumado<s n="adj"/></l><r>desacostumat<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>desacostumado<s n="adj"/></l><r>desacostumat<s n="adj"/><s n="sup"/></r></p></e>
-<e a="hector"><p><l>desactualizado<s n="adj"/></l><r>desactualitzat<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>desactualizado<s n="adj"/></l><r>desactualitzat<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desatualizado<s n="adj"/></l><r>desactualitzat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desadaptado<s n="adj"/></l><r>desadaptat<s n="adj"/></r></p></e>
-<e a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/></r></p></e>
-<e r="RL" a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desafetado<s n="adj"/></l><r>desafectat<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>desafetado<s n="adj"/></l><r>desafectat<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" r="RL" a="hector"><p><l>desafectado<s n="adj"/></l><r>desafectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>desafetado<s n="adj"/></l><r>desafectat<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>desafetado<s n="adj"/></l><r>desafectat<s n="adj"/><s n="sup"/></r></p></e>
 <e a="hector"><p><l>desafortunado<s n="adj"/></l><r>desafortunat<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>desafortunado<s n="adj"/></l><r>desafortunat<s n="adj"/><s n="sup"/></r></p></e>
 <e a="hector"><p><l>desanimado<s n="adj"/></l><r>desanimat<s n="adj"/></r></p></e>
@@ -6861,14 +6885,16 @@
 <e a="hector"><p><l>abreviativo<s n="adj"/></l><r>abreviatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>absortivo<s n="adj"/></l><r>absortiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>abstersivo<s n="adj"/></l><r>abstersiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>abstractivo<s n="adj"/></l><r>abstractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>abstractivo<s n="adj"/></l><r>abstractiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>abstrativo<s n="adj"/></l><r>abstractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>abusivo<s n="adj"/></l><r>abusiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acumulativo<s n="adj"/></l><r>acumulatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acusativo<s n="adj"/></l><r>acusatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>admirativo<s n="adj"/></l><r>admiratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adustivo<s n="adj"/></l><r>adustiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adversativo<s n="adj"/></l><r>adversatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>afectivo<s n="adj"/></l><r>afectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>afectivo<s n="adj"/></l><r>afectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>afetivo<s n="adj"/></l><r>afectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>afirmativo<s n="adj"/></l><r>afirmatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aglutinativo<s n="adj"/></l><r>aglutinatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>agregativo<s n="adj"/></l><r>agregatiu<s n="adj"/></r></p></e>
@@ -6881,7 +6907,8 @@
 <e a="hector"><p><l>antidepressivo<s n="adj"/></l><r>antidepressiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>anulativo<s n="adj"/></l><r>anul·latiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apelativo<s n="adj"/></l><r>apel·latiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>aperceptivo<s n="adj"/></l><r>aperceptiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>aperceptivo<s n="adj"/></l><r>aperceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>apercetivo<s n="adj"/></l><r>aperceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aperitivo<s n="adj"/></l><r>aperitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>apetitivo<s n="adj"/></l><r>apetitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>aplicativo<s n="adj"/></l><r>aplicatiu<s n="adj"/></r></p></e>
@@ -6903,7 +6930,8 @@
 <e a="hector"><p><l>caritativo<s n="adj"/></l><r>caritatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>carminativo<s n="adj"/></l><r>carminatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>causativo<s n="adj"/></l><r>causatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>coactivo<s n="adj"/></l><r>coactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>coactivo<s n="adj"/></l><r>coactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>coativo<s n="adj"/></l><r>coactiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>coercitivo<s n="adj"/></l><r>coercitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cogitativo<s n="adj"/></l><r>cogitatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cognoscitivo<s n="adj"/></l><r>cognoscitiu<s n="adj"/></r></p></e>
@@ -6920,7 +6948,8 @@
 <e a="hector"><p><l>compressivo<s n="adj"/></l><r>compressiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>compulsivo<s n="adj"/></l><r>compulsiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>comunicativo<s n="adj"/></l><r>comunicatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>conceptivo<s n="adj"/></l><r>conceptiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>conceptivo<s n="adj"/></l><r>conceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>concetivo<s n="adj"/></l><r>conceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>concessivo<s n="adj"/></l><r>concessiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>concitativo<s n="adj"/></l><r>concitatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conclusivo<s n="adj"/></l><r>conclusiu<s n="adj"/></r></p></e>
@@ -6938,8 +6967,9 @@
 <e a="hector"><p><l>contemplativo<s n="adj"/></l><r>contemplatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>contentivo<s n="adj"/></l><r>contentiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>continuativo<s n="adj"/></l><r>continuatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>contraceptivo<s n="adj"/></l><r>contraceptiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>contractivo<s n="adj"/></l><r>contractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>contraceptivo<s n="adj"/></l><r>contraceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>contracetivo<s n="adj"/></l><r>contraceptiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>contractivo<s n="adj"/></l><r>contractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>contributivo<s n="adj"/></l><r>contributiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>convectivo<s n="adj"/></l><r>convectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conversivo<s n="adj"/></l><r>conversiu<s n="adj"/></r></p></e>
@@ -6947,7 +6977,8 @@
 <e a="hector"><p><l>cooperativo<s n="adj"/></l><r>cooperatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>copulativo<s n="adj"/></l><r>copulatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>corporativo<s n="adj"/></l><r>corporatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>correctivo<s n="adj"/></l><r>correctiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>correctivo<s n="adj"/></l><r>correctiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>corretivo<s n="adj"/></l><r>correctiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>correlativo<s n="adj"/></l><r>correlatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>corroborativo<s n="adj"/></l><r>corroboratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>corrosivo<s n="adj"/></l><r>corrosiu<s n="adj"/></r></p></e>
@@ -6957,11 +6988,13 @@
 <e a="hector"><p><l>cursivo<s n="adj"/></l><r>cursiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>curvativo<s n="adj"/></l><r>curvatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dativo<s n="adj"/></l><r>datiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>deceptivo<s n="adj"/></l><r>deceptiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>deceptivo<s n="adj"/></l><r>deceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>decetivo<s n="adj"/></l><r>deceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>declarativo<s n="adj"/></l><r>declaratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>decorativo<s n="adj"/></l><r>decoratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>decursivo<s n="adj"/></l><r>decursiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>defectivo<s n="adj"/></l><r>defectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>defectivo<s n="adj"/></l><r>defectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>defetivo<s n="adj"/></l><r>defectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>degenerativo<s n="adj"/></l><r>degeneratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>deliberativo<s n="adj"/></l><r>deliberatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>delimitativo<s n="adj"/></l><r>delimitatiu<s n="adj"/></r></p></e>
@@ -6982,11 +7015,13 @@
 <e a="hector"><p><l>determinativo<s n="adj"/></l><r>determinatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>detersivo<s n="adj"/></l><r>detersiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>devolutivo<s n="adj"/></l><r>devolutiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>difractivo<s n="adj"/></l><r>difractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>difractivo<s n="adj"/></l><r>difractiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>difrativo<s n="adj"/></l><r>difractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>difusivo<s n="adj"/></l><r>difusiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>digestivo<s n="adj"/></l><r>digestiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diminutivo<s n="adj"/></l><r>diminutiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>directivo<s n="adj"/></l><r>directiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>directivo<s n="adj"/></l><r>directiu<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>diretivo<s n="adj"/></l><r>directiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>discursivo<s n="adj"/></l><r>discursiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>disjuntivo<s n="adj"/></l><r>disjuntiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>dispersivo<s n="adj"/></l><r>dispersiu<s n="adj"/></r></p></e>
@@ -7001,9 +7036,12 @@
 <e a="hector"><p><l>durativo<s n="adj"/></l><r>duratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>edificativo<s n="adj"/></l><r>edificatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>efusivo<s n="adj"/></l><r>efusiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electivo<s n="adj"/></l><r>electiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electronegativo<s n="adj"/></l><r>electronegatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electropositivo<s n="adj"/></l><r>electropositiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electivo<s n="adj"/></l><r>electiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletivo<s n="adj"/></l><r>electiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electronegativo<s n="adj"/></l><r>electronegatiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletronegativo<s n="adj"/></l><r>electronegatiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electropositivo<s n="adj"/></l><r>electropositiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>eletropositivo<s n="adj"/></l><r>electropositiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elocutivo<s n="adj"/></l><r>elocutiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>emissivo<s n="adj"/></l><r>emissiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>emotivo<s n="adj"/></l><r>emotiu<s n="adj"/></r></p></e>
@@ -7034,9 +7072,11 @@
 <e a="hector"><p><l>expositivo<s n="adj"/></l><r>expositiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>expressivo<s n="adj"/></l><r>expressiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>expulsivo<s n="adj"/></l><r>expulsiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>exteroceptivo<s n="adj"/></l><r>exteroceptiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>exteroceptivo<s n="adj"/></l><r>exteroceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>exterocetivo<s n="adj"/></l><r>exteroceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>extintivo<s n="adj"/></l><r>extintiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>extractivo<s n="adj"/></l><r>extractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>extractivo<s n="adj"/></l><r>extractiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>extrativo<s n="adj"/></l><r>extractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>extrusivo<s n="adj"/></l><r>extrusiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>factitivo<s n="adj"/></l><r>factitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>facultativo<s n="adj"/></l><r>facultatiu<s n="adj"/></r></p></e>
@@ -7082,12 +7122,14 @@
 <e a="hector"><p><l>instintivo<s n="adj"/></l><r>instintiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intelectivo<s n="adj"/></l><r>intel·lectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intempestivo<s n="adj"/></l><r>intempestiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>interjectivo<s n="adj"/></l><r>interjectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>interjectivo<s n="adj"/></l><r>interjectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>interjetivo<s n="adj"/></l><r>interjectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interoceptivo<s n="adj"/></l><r>interoceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interpretativo<s n="adj"/></l><r>interpretatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interrogativo<s n="adj"/></l><r>interrogatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intransitivo<s n="adj"/></l><r>intransitiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>introspectivo<s n="adj"/></l><r>introspectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>introspectivo<s n="adj"/></l><r>introspectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>introspetivo<s n="adj"/></l><r>introspectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>invasivo<s n="adj"/></l><r>invasiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inventivo<s n="adj"/></l><r>inventiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>invocativo<s n="adj"/></l><r>invocatiu<s n="adj"/></r></p></e>
@@ -7100,7 +7142,8 @@
 <e a="hector"><p><l>justificativo<s n="adj"/></l><r>justificatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lascivo<s n="adj"/></l><r>lasciu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>laxativo<s n="adj"/></l><r>laxatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>lectivo<s n="adj"/></l><r>lectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>lectivo<s n="adj"/></l><r>lectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>letivo<s n="adj"/></l><r>lectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lenitivo<s n="adj"/></l><r>lenitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>lesivo<s n="adj"/></l><r>lesiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>limitativo<s n="adj"/></l><r>limitatiu<s n="adj"/></r></p></e>
@@ -7125,7 +7168,8 @@
 <e a="hector"><p><l>obsessivo<s n="adj"/></l><r>obsessiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>obstativo<s n="adj"/></l><r>obstatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>oclusivo<s n="adj"/></l><r>oclusiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>olfactivo<s n="adj"/></l><r>olfactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>olfactivo<s n="adj"/></l><r>olfactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>olfativo<s n="adj"/></l><r>olfactiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>opilativo<s n="adj"/></l><r>opilatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>opositivo<s n="adj"/></l><r>opositiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>opressivo<s n="adj"/></l><r>opressiu<s n="adj"/></r></p></e>
@@ -7141,54 +7185,65 @@
 <e a="hector"><p><l>pejorativo<s n="adj"/></l><r>pejoratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>penetrativo<s n="adj"/></l><r>penetratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pensativo<s n="adj"/></l><r>pensatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perceptivo<s n="adj"/></l><r>perceptiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perfectivo<s n="adj"/></l><r>perfectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perceptivo<s n="adj"/></l><r>perceptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>percetivo<s n="adj"/></l><r>perceptiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>perfectivo<s n="adj"/></l><r>perfectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>performativo<s n="adj"/></l><r>performatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>permissivo<s n="adj"/></l><r>permissiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perspectivo<s n="adj"/></l><r>perspectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perspectivo<s n="adj"/></l><r>perspectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>perspetivo<s n="adj"/></l><r>perspectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>persuasivo<s n="adj"/></l><r>persuasiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ponderativo<s n="adj"/></l><r>ponderatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pospositivo<s n="adj"/></l><r>pospositiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>possessivo<s n="adj"/></l><r>possessiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>preceptivo<s n="adj"/></l><r>preceptiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>preceptivo<s n="adj"/></l><r>preceptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>predicativo<s n="adj"/></l><r>predicatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prelativo<s n="adj"/></l><r>prelatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>prepositivo<s n="adj"/></l><r>prepositiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>preservativo<s n="adj"/></l><r>preservatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>privativo<s n="adj"/></l><r>privatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>proactivo<s n="adj"/></l><r>proactiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>projectivo<s n="adj"/></l><r>projectiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>proactivo<s n="adj"/></l><r>proactiu<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>proativo<s n="adj"/></l><r>proactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>projectivo<s n="adj"/></l><r>projectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>projetivo<s n="adj"/></l><r>projectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>propagativo<s n="adj"/></l><r>propagatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>propulsivo<s n="adj"/></l><r>propulsiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>prospectivo<s n="adj"/></l><r>prospectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>prospectivo<s n="adj"/></l><r>prospectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>prospetivo<s n="adj"/></l><r>prospectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>protestativo<s n="adj"/></l><r>protestatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>provocativo<s n="adj"/></l><r>provocatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pulsativo<s n="adj"/></l><r>pulsatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>punitivo<s n="adj"/></l><r>punitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>purgativo<s n="adj"/></l><r>purgatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>putativo<s n="adj"/></l><r>putatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>putrefactivo<s n="adj"/></l><r>putrefactiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>putrefactivo<s n="adj"/></l><r>putrefactiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>qualificativo<s n="adj"/></l><r>qualificatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>qualitativo<s n="adj"/></l><r>qualitatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>quantitativo<s n="adj"/></l><r>quantitatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>radiativo<s n="adj"/></l><r>radiatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>radioactivo<s n="adj"/></l><r>radioactiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rarefactivo<s n="adj"/></l><r>rarefactiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>reactivo<s n="adj"/></l><r>reactiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>receptivo<s n="adj"/></l><r>receptiu<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>radiativo<s n="adj"/></l><r>radiatiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>radioactivo<s n="adj"/></l><r>radioactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>radioativo<s n="adj"/></l><r>radioactiu<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>rarefactivo<s n="adj"/></l><r>rarefactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reactivo<s n="adj"/></l><r>reactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>reativo<s n="adj"/></l><r>reactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>receptivo<s n="adj"/></l><r>receptiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>recetivo<s n="adj"/></l><r>receptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recessivo<s n="adj"/></l><r>recessiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recitativo<s n="adj"/></l><r>recitatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recognitivo<s n="adj"/></l><r>recognitiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recordativo<s n="adj"/></l><r>recordatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recreativo<s n="adj"/></l><r>recreatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rectificativo<s n="adj"/></l><r>rectificatiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>rectificativo<s n="adj"/></l><r>rectificatiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>retificativo<s n="adj"/></l><r>rectificatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recuperativo<s n="adj"/></l><r>recuperatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>redistributivo<s n="adj"/></l><r>redistributiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>redivivo<s n="adj"/></l><r>rediviu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reduplicativo<s n="adj"/></l><r>reduplicatiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>reflectivo<s n="adj"/></l><r>reflectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reflectivo<s n="adj"/></l><r>reflectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>refletivo<s n="adj"/></l><r>reflectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reflexivo<s n="adj"/></l><r>reflexiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>refractivo<s n="adj"/></l><r>refractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>refractivo<s n="adj"/></l><r>refractiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>refrativo<s n="adj"/></l><r>refractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>refrigerativo<s n="adj"/></l><r>refrigeratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>regenerativo<s n="adj"/></l><r>regeneratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>regressivo<s n="adj"/></l><r>regressiu<s n="adj"/></r></p></e>
@@ -7206,8 +7261,10 @@
 <e a="hector"><p><l>restaurativo<s n="adj"/></l><r>restauratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>retentivo<s n="adj"/></l><r>retentiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>retributivo<s n="adj"/></l><r>retributiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>retroactivo<s n="adj"/></l><r>retroactiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>retrospectivo<s n="adj"/></l><r>retrospectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>retroactivo<s n="adj"/></l><r>retroactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>retroativo<s n="adj"/></l><r>retroactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>retrospectivo<s n="adj"/></l><r>retrospectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>retrospetivo<s n="adj"/></l><r>retrospectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>revulsivo<s n="adj"/></l><r>revulsiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>roborativo<s n="adj"/></l><r>roboratiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>rogativo<s n="adj"/></l><r>rogatiu<s n="adj"/></r></p></e>
@@ -7221,10 +7278,12 @@
 <e a="hector"><p><l>simplificativo<s n="adj"/></l><r>simplificatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>solutivo<s n="adj"/></l><r>solutiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>subarbustivo<s n="adj"/></l><r>subarbustiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>subjectivo<s n="adj"/></l><r>subjectiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>subjectivo<s n="adj"/></l><r>subjectiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>subjetivo<s n="adj"/></l><r>subjectiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>substantivo<s n="adj"/></l><r>substantiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>substitutivo<s n="adj"/></l><r>substitutiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>subtractivo<s n="adj"/></l><r>subtractiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>subtractivo<s n="adj"/></l><r>subtractiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>subtrativo<s n="adj"/></l><r>subtractiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>subversivo<s n="adj"/></l><r>subversiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>superlativo<s n="adj"/></l><r>superlatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>supletivo<s n="adj"/></l><r>supletiu<s n="adj"/></r></p></e>
@@ -7234,7 +7293,8 @@
 <e a="hector"><p><l>suspensivo<s n="adj"/></l><r>suspensiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>taxativo<s n="adj"/></l><r>taxatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tempestivo<s n="adj"/></l><r>tempestiu<s n="adj"/></r></p></e>
-<e a="hector"><p><l>tensioactivo<s n="adj"/></l><r>tensioactiu<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>tensioactivo<s n="adj"/></l><r>tensioactiu<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>tensioativo<s n="adj"/></l><r>tensioactiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>tensivo<s n="adj"/></l><r>tensiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>terminativo<s n="adj"/></l><r>terminatiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>transformativo<s n="adj"/></l><r>transformatiu<s n="adj"/></r></p></e>
@@ -7272,7 +7332,7 @@
 <e a="hector"><p><l>instantâneo<s n="adj"/></l><r>instantani<s n="adj"/></r></p></e>
 <e a="hector"><p><l>incorreto<s n="adj"/></l><r>incorrecte<s n="adj"/></r></p><par n="outro_altre"/></e>
 <e r="RL" a="hector"><p><l>incorreto<s n="adj"/></l><r>incorrecte<s n="adj"/><s n="sup"/></r></p></e>
-<e r="LR" a="hector"><p><l>dialético<s n="adj"/></l><r>dialèctic<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dialético<s n="adj"/></l><r>dialèctic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>descritivo<s n="adj"/></l><r>descriptiu<s n="adj"/></r></p></e>
 <e a="hector"><p><l>autodidata<s n="adj"/></l><r>autodidacte<s n="adj"/></r></p><par n="pobre_pobre"/></e>
 <e a="hector"><p><l>sucinto<s n="adj"/></l><r>succint<s n="adj"/></r></p></e>
@@ -7282,8 +7342,8 @@
 <e a="hector"><p><l>avícola<s n="adj"/></l><r>avícola<s n="adj"/></r></p></e>
 <e a="hector"><p><l>assintomático<s n="adj"/></l><r>asimptomàtic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>salvadorenho<s n="adj"/></l><r>salvadoreny<s n="adj"/></r></p></e>
-<e a="hector"><p><l>incorrecto<s n="adj"/></l><r>incorrecte<s n="adj"/></r></p><par n="outro_altre"/></e>
-<e r="RL" a="hector"><p><l>incorrecto<s n="adj"/></l><r>incorrecte<s n="adj"/><s n="sup"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>incorrecto<s n="adj"/></l><r>incorrecte<s n="adj"/></r></p><par n="outro_altre"/></e>
+<e vl="pt_pre1990" r="RL" a="hector"><p><l>incorrecto<s n="adj"/></l><r>incorrecte<s n="adj"/><s n="sup"/></r></p></e>
 <e a="hector"><p><l>fértil<s n="adj"/></l><r>fèrtil<s n="adj"/></r></p></e>
 <e a="hector"><p><l>infértil<s n="adj"/></l><r>infèrtil<s n="adj"/></r></p></e>
 <e a="hector"><p><l>burro<s n="adj"/></l><r>burro<s n="adj"/></r></p></e>
@@ -7303,12 +7363,15 @@
 <e a="hector"><p><l>abordável<s n="adj"/></l><r>abordable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>abreviável<s n="adj"/></l><r>abreviable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acariciável<s n="adj"/></l><r>acariciable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>accionável<s n="adj"/></l><r>accionable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>accionável<s n="adj"/></l><r>accionable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>acionável<s n="adj"/></l><r>accionable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acidificável<s n="adj"/></l><r>acidificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acomodável<s n="adj"/></l><r>acomodable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acreditável<s n="adj"/></l><r>acreditable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>activável<s n="adj"/></l><r>activable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>actualizável<s n="adj"/></l><r>actualitzable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>activável<s n="adj"/></l><r>activable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>ativável<s n="adj"/></l><r>activable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>actualizável<s n="adj"/></l><r>actualitzable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>atualizável<s n="adj"/></l><r>actualitzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acumulável<s n="adj"/></l><r>acumulable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>acusável<s n="adj"/></l><r>acusable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adaptável<s n="adj"/></l><r>adaptable<s n="adj"/></r></p></e>
@@ -7319,7 +7382,8 @@
 <e a="hector"><p><l>adquirível<s n="adj"/></l><r>adquirible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>adulterável<s n="adj"/></l><r>adulterable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>afável<s n="adj"/></l><r>afable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>afectável<s n="adj"/></l><r>afectable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>afectável<s n="adj"/></l><r>afectable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetável<s n="adj"/></l><r>afectable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>afinável<s n="adj"/></l><r>afinable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>afixável<s n="adj"/></l><r>afixable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>agermanável<s n="adj"/></l><r>agermanable<s n="adj"/></r></p></e>
@@ -7360,7 +7424,8 @@
 <e a="hector"><p><l>canonizável<s n="adj"/></l><r>canonitzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cantável<s n="adj"/></l><r>cantable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>capitalizável<s n="adj"/></l><r>capitalitzable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>caracterizável<s n="adj"/></l><r>caracteritzable<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>caracterizável<s n="adj"/></l><r>caracteritzable<s n="adj"/></r></p></e>
+<e vl="br" a="hector"><p><l>caraterizável<s n="adj"/></l><r>caracteritzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>catalogável<s n="adj"/></l><r>catalogable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cedível<s n="adj"/></l><r>cedible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>censurável<s n="adj"/></l><r>censurable<s n="adj"/></r></p></e>
@@ -7371,7 +7436,8 @@
 <e a="hector"><p><l>cobrável<s n="adj"/></l><r>cobrable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cognoscível<s n="adj"/></l><r>cognoscible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>colonizável<s n="adj"/></l><r>colonitzable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>coleccionável<s n="adj"/></l><r>col·leccionable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>coleccionável<s n="adj"/></l><r>col·leccionable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>colecionável<s n="adj"/></l><r>col·leccionable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>combatível<s n="adj"/></l><r>combatible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>combinável<s n="adj"/></l><r>combinable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>combustível<s n="adj"/></l><r>combustible<s n="adj"/></r></p></e>
@@ -7402,7 +7468,8 @@
 <e a="hector"><p><l>confrontável<s n="adj"/></l><r>confrontable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>confutável<s n="adj"/></l><r>confutable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>congelável<s n="adj"/></l><r>congelable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>conjecturável<s n="adj"/></l><r>conjecturable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>conjecturável<s n="adj"/></l><r>conjecturable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>conjeturável<s n="adj"/></l><r>conjecturable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conjugável<s n="adj"/></l><r>conjugable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conquistável<s n="adj"/></l><r>conquistable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conservável<s n="adj"/></l><r>conservable<s n="adj"/></r></p></e>
@@ -7433,7 +7500,8 @@
 <e a="hector"><p><l>cultivável<s n="adj"/></l><r>cultivable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>curável<s n="adj"/></l><r>curable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>declinável<s n="adj"/></l><r>declinable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>defectível<s n="adj"/></l><r>defectible<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>defectível<s n="adj"/></l><r>defectible<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>defetível<s n="adj"/></l><r>defectible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>defensável<s n="adj"/></l><r>defensable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>definível<s n="adj"/></l><r>definible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>deformável<s n="adj"/></l><r>deformable<s n="adj"/></r></p></e>
@@ -7462,7 +7530,8 @@
 <e a="hector"><p><l>destacável<s n="adj"/></l><r>destacable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>destilável<s n="adj"/></l><r>destil·lable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>desviável<s n="adj"/></l><r>desviable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>detectável<s n="adj"/></l><r>detectable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>detectável<s n="adj"/></l><r>detectable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>detetável<s n="adj"/></l><r>detectable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>determinável<s n="adj"/></l><r>determinable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>detestável<s n="adj"/></l><r>detestable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>diferenciável<s n="adj"/></l><r>diferenciable<s n="adj"/></r></p></e>
@@ -7491,9 +7560,11 @@
 <e a="hector"><p><l>durável<s n="adj"/></l><r>durable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>editável<s n="adj"/></l><r>editable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>educável<s n="adj"/></l><r>educable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>efectuável<s n="adj"/></l><r>efectuable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>efectuável<s n="adj"/></l><r>efectuable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>efetuável<s n="adj"/></l><r>efectuable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elaborável<s n="adj"/></l><r>elaborable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>electrizável<s n="adj"/></l><r>electritzable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrizável<s n="adj"/></l><r>electritzable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>eletrizável<s n="adj"/></l><r>electritzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elegível<s n="adj"/></l><r>elegible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>elidível<s n="adj"/></l><r>elidible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>eliminável<s n="adj"/></l><r>eliminable<s n="adj"/></r></p></e>
@@ -7550,7 +7621,8 @@
 <e a="hector"><p><l>formulável<s n="adj"/></l><r>formulable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fortificável<s n="adj"/></l><r>fortificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fotocopiável<s n="adj"/></l><r>fotocopiable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fraccionável<s n="adj"/></l><r>fraccionable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>fraccionável<s n="adj"/></l><r>fraccionable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>fracionável<s n="adj"/></l><r>fraccionable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>frangível<s n="adj"/></l><r>frangible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>friável<s n="adj"/></l><r>friable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>fumável<s n="adj"/></l><r>fumable<s n="adj"/></r></p></e>
@@ -7589,9 +7661,10 @@
 <e a="hector"><p><l>impedível<s n="adj"/></l><r>impedible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impenetrável<s n="adj"/></l><r>impenetrable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impensável<s n="adj"/></l><r>impensable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>imperceptível<s n="adj"/></l><r>imperceptible<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>imperceptível<s n="adj"/></l><r>imperceptible<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>impercetível<s n="adj"/></l><r>imperceptible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>imperdível<s n="adj"/></l><r>imperdible<s n="adj"/></r></p></e>
-<e a="hector"><p><l>imperfectível<s n="adj"/></l><r>imperfectible<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>imperfectível<s n="adj"/></l><r>imperfectible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impermeável<s n="adj"/></l><r>impermeable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impermutável<s n="adj"/></l><r>impermutable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>impetrável<s n="adj"/></l><r>impetrable<s n="adj"/></r></p></e>
@@ -7691,14 +7764,16 @@
 <e a="hector"><p><l>incurável<s n="adj"/></l><r>incurable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indeclarável<s n="adj"/></l><r>indeclarable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indeclinável<s n="adj"/></l><r>indeclinable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>indefectível<s n="adj"/></l><r>indefectible<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>indefectível<s n="adj"/></l><r>indefectible<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>indefetível<s n="adj"/></l><r>indefectible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indefensável<s n="adj"/></l><r>indefensable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indefinível<s n="adj"/></l><r>indefinible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indeformável<s n="adj"/></l><r>indeformable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indelegável<s n="adj"/></l><r>indelegable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indemnizável<s n="adj"/></l><r>indemnitzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indesignável<s n="adj"/></l><r>indesignable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>indetectável<s n="adj"/></l><r>indetectable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>indetectável<s n="adj"/></l><r>indetectable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>indetetável<s n="adj"/></l><r>indetectable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indeterminável<s n="adj"/></l><r>indeterminable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indigerível<s n="adj"/></l><r>indigerible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>indigestível<s n="adj"/></l><r>indigestible<s n="adj"/></r></p></e>
@@ -7758,7 +7833,8 @@
 <e a="hector"><p><l>inimitável<s n="adj"/></l><r>inimitable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inimputável<s n="adj"/></l><r>inimputable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ininteligível<s n="adj"/></l><r>inintel·ligible<s n="adj"/></r></p></e>
-<e a="hector"><p><l>injectável<s n="adj"/></l><r>injectable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>injectável<s n="adj"/></l><r>injectable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>injetável<s n="adj"/></l><r>injectable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>injustificável<s n="adj"/></l><r>injustificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inobservável<s n="adj"/></l><r>inobservable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inoculável<s n="adj"/></l><r>inoculable<s n="adj"/></r></p></e>
@@ -7790,7 +7866,8 @@
 <e a="hector"><p><l>inteligível<s n="adj"/></l><r>intel·ligible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intensificável<s n="adj"/></l><r>intensificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intercalável<s n="adj"/></l><r>intercalable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>interceptável<s n="adj"/></l><r>interceptable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>interceptável<s n="adj"/></l><r>interceptable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>intercetável<s n="adj"/></l><r>interceptable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interpolável<s n="adj"/></l><r>interpolable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>interpretável<s n="adj"/></l><r>interpretable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>intimidável<s n="adj"/></l><r>intimidable<s n="adj"/></r></p></e>
@@ -7895,8 +7972,10 @@
 <e a="hector"><p><l>noticiável<s n="adj"/></l><r>noticiable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>notificável<s n="adj"/></l><r>notificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>numerável<s n="adj"/></l><r>numerable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>objectável<s n="adj"/></l><r>objectable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>objectivável<s n="adj"/></l><r>objectivable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>objectável<s n="adj"/></l><r>objectable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>objetável<s n="adj"/></l><r>objectable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>objectivável<s n="adj"/></l><r>objectivable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>objetivável<s n="adj"/></l><r>objectivable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>observável<s n="adj"/></l><r>observable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>obtenível<s n="adj"/></l><r>obtenible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>obviável<s n="adj"/></l><r>obviable<s n="adj"/></r></p></e>
@@ -7926,10 +8005,11 @@
 <e a="hector"><p><l>penetrável<s n="adj"/></l><r>penetrable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>penível<s n="adj"/></l><r>penible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>pensável<s n="adj"/></l><r>pensable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perceptível<s n="adj"/></l><r>perceptible<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perceptível<s n="adj"/></l><r>perceptible<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>percetível<s n="adj"/></l><r>perceptible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perdível<s n="adj"/></l><r>perdible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>perdurável<s n="adj"/></l><r>perdurable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>perfectível<s n="adj"/></l><r>perfectible<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>perfectível<s n="adj"/></l><r>perfectible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>permeável<s n="adj"/></l><r>permeable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>permissível<s n="adj"/></l><r>permissible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>permutável<s n="adj"/></l><r>permutable<s n="adj"/></r></p></e>
@@ -7964,7 +8044,7 @@
 <e a="hector"><p><l>qualificável<s n="adj"/></l><r>qualificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>quantificável<s n="adj"/></l><r>quantificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>racionalizável<s n="adj"/></l><r>racionalitzable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rarefactível<s n="adj"/></l><r>rarefactible<s n="adj"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>rarefactível<s n="adj"/></l><r>rarefactible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ratificável<s n="adj"/></l><r>ratificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>realizável<s n="adj"/></l><r>realitzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>realçável<s n="adj"/></l><r>realçable<s n="adj"/></r></p></e>
@@ -7972,7 +8052,8 @@
 <e a="hector"><p><l>rebatível<s n="adj"/></l><r>rebatible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recalcável<s n="adj"/></l><r>recalcable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recarregável<s n="adj"/></l><r>recarregable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>receptível<s n="adj"/></l><r>receptible<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>receptível<s n="adj"/></l><r>receptible<s n="adj"/></r></p></e>
+<e vl="pt" a="hector"><p><l>recetível<s n="adj"/></l><r>receptible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reciclável<s n="adj"/></l><r>reciclable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reclamável<s n="adj"/></l><r>reclamable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recobrável<s n="adj"/></l><r>recobrable<s n="adj"/></r></p></e>
@@ -7983,7 +8064,8 @@
 <e a="hector"><p><l>recordável<s n="adj"/></l><r>recordable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recorrível<s n="adj"/></l><r>recorrible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recriminável<s n="adj"/></l><r>recriminable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>rectificável<s n="adj"/></l><r>rectificable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>rectificável<s n="adj"/></l><r>rectificable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retificável<s n="adj"/></l><r>rectificable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recuperável<s n="adj"/></l><r>recuperable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recusável<s n="adj"/></l><r>recusable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>redimensionável<s n="adj"/></l><r>redimensionable<s n="adj"/></r></p></e>
@@ -8022,8 +8104,9 @@
 <e a="hector"><p><l>restringível<s n="adj"/></l><r>restringible<s n="adj"/></r></p></e>
 <e a="hector"><p><l>retalhável<s n="adj"/></l><r>retallable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>retornável<s n="adj"/></l><r>retornable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>retractável<s n="adj"/></l><r>retractable<s n="adj"/></r></p></e>
-<e a="hector"><p><l>retratável<s n="adj"/></l><r>retratable<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>retractável<s n="adj"/></l><r>retractable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retratável<s n="adj"/></l><r>retractable<s n="adj"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retratável<s n="adj"/></l><r>retratable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reutilizável<s n="adj"/></l><r>reutilitzable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>revelável<s n="adj"/></l><r>revelable<s n="adj"/></r></p></e>
 <e a="hector"><p><l>reversível<s n="adj"/></l><r>reversible<s n="adj"/></r></p></e>
@@ -8290,7 +8373,7 @@
 <e r="RL" a="hector"><p><l>cuidadoso<s n="adj"/></l><r>acurat<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL" a="hector"><p><l>ímpar<s n="adj"/></l><r>imparell<s n="adj"/></r></p></e>
 <e a="hector"><p><l>ímpar<s n="adj"/></l><r>senar<s n="adj"/></r></p><par n="GD_mf"/></e>
-<e r="LR" a="hector"><p><l>heróico<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>heróico<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
 <e a="hector"><p><l>maia<s n="adj"/></l><r>maia<s n="adj"/></r></p></e>
 <e a="hector"><p><l>recíproco<s n="adj"/></l><r>recíproc<s n="adj"/></r></p></e>
 <e a="hector"><p><l>subsequente<s n="adj"/></l><r>subsegüent<s n="adj"/></r></p></e>
@@ -9023,7 +9106,7 @@
 <e a="hector"><p><l>instantaneamente<s n="adv"/></l><r>instantàniament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inevitavelmente<s n="adv"/></l><r>inevitablement<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>presumivelmente<s n="adv"/></l><r>presumiblement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>incorretamente<s n="adv"/></l><r>incorrectament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>incorretamente<s n="adv"/></l><r>incorrectament<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>subseqüentemente<s n="adv"/></l><r>subsegüentment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>subsequentemente<s n="adv"/></l><r>subsegüentment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>invariavelmente<s n="adv"/></l><r>invariablement<s n="adv"/></r></p></e>
@@ -9041,7 +9124,7 @@
 <e a="hector"><p><l>sustentavelmente<s n="adv"/></l><r>sosteniblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>irresistivelmente<s n="adv"/></l><r>irresistiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inegavelmente<s n="adv"/></l><r>innegablement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>incorrectamente<s n="adv"/></l><r>incorrectament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>incorrectamente<s n="adv"/></l><r>incorrectament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>imprevisivelmente<s n="adv"/></l><r>imprevisiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>imperturbavelmente<s n="adv"/></l><r>impertorbablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>horrivelmente<s n="adv"/></l><r>horriblement<s n="adv"/></r></p></e>
@@ -9050,7 +9133,8 @@
 <e a="hector"><p><l>indeleblemente<s n="adv"/></l><r>inesborrablement<s n="adv"/></r></p></e>
 
 <e a="hector"><p><l>abominavelmente<s n="adv"/></l><r>abominablement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>abstractamente<s n="adv"/></l><r>abstractament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>abstractamente<s n="adv"/></l><r>abstractament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>abstratamente<s n="adv"/></l><r>abstractament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>abusivamente<s n="adv"/></l><r>abusivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>aconselhavelmente<s n="adv"/></l><r>aconsellablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>acriticamente<s n="adv"/></l><r>acríticament<s n="adv"/></r></p></e>
@@ -9064,8 +9148,10 @@
 <e a="hector"><p><l>aeroespacialmente<s n="adv"/></l><r>aeroespacialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>aeronauticamente<s n="adv"/></l><r>aeronàuticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>afavelmente<s n="adv"/></l><r>afablement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>afectivamente<s n="adv"/></l><r>afectivament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>afectuosamente<s n="adv"/></l><r>afectuosament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>afectivamente<s n="adv"/></l><r>afectivament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetivamente<s n="adv"/></l><r>afectivament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>afectuosamente<s n="adv"/></l><r>afectuosament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>afetuosamente<s n="adv"/></l><r>afectuosament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>afirmativamente<s n="adv"/></l><r>afirmativament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>agradavelmente<s n="adv"/></l><r>agradablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>agressivamente<s n="adv"/></l><r>agressivament<s n="adv"/></r></p></e>
@@ -9120,7 +9206,8 @@
 <e a="hector"><p><l>aristocraticamente<s n="adv"/></l><r>aristocràticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>aritmeticamente<s n="adv"/></l><r>aritmèticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>arqueologicamente<s n="adv"/></l><r>arqueològicament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>arquitectonicamente<s n="adv"/></l><r>arquitectònicament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>arquitectonicamente<s n="adv"/></l><r>arquitectònicament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>arquitetonicamente<s n="adv"/></l><r>arquitectònicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>arriscadamente<s n="adv"/></l><r>arriscadament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>artesanalmente<s n="adv"/></l><r>artesanalment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>artisticamente<s n="adv"/></l><r>artísticament<s n="adv"/></r></p></e>
@@ -9175,7 +9262,8 @@
 <e a="hector"><p><l>belicamente<s n="adv"/></l><r>bèl·licament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>biblicamente<s n="adv"/></l><r>bíblicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>canonicamente<s n="adv"/></l><r>canònicament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>caracteristicamente<s n="adv"/></l><r>característicament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>caracteristicamente<s n="adv"/></l><r>característicament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>carateristicamente<s n="adv"/></l><r>característicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>caramente<s n="adv"/></l><r>carament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>caritativamente<s n="adv"/></l><r>caritativament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>carnalmente<s n="adv"/></l><r>carnalment<s n="adv"/></r></p></e>
@@ -9203,7 +9291,7 @@
 <e a="hector"><p><l>colonialmente<s n="adv"/></l><r>colonialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>coloridamente<s n="adv"/></l><r>coloridament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>colateralmente<s n="adv"/></l><r>col·lateralment<s n="adv"/></r></p></e>
-<e a="hector"><p><l>colectivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>colectivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>colericamente<s n="adv"/></l><r>colèricament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>comercialmente<s n="adv"/></l><r>comercialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>comparavelmente<s n="adv"/></l><r>comparablement<s n="adv"/></r></p></e>
@@ -9295,9 +9383,11 @@
 <e a="hector"><p><l>diabolicamente<s n="adv"/></l><r>diabòlicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>diacronicamente<s n="adv"/></l><r>diacrònicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>diagonalmente<s n="adv"/></l><r>diagonalment<s n="adv"/></r></p></e>
-<e a="hector"><p><l>dialecticamente<s n="adv"/></l><r>dialècticament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>dialecticamente<s n="adv"/></l><r>dialècticament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>dialeticamente<s n="adv"/></l><r>dialècticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>diametralmente<s n="adv"/></l><r>diametralment<s n="adv"/></r></p></e>
-<e a="hector"><p><l>didacticamente<s n="adv"/></l><r>didàcticament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>didacticamente<s n="adv"/></l><r>didàcticament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>didaticamente<s n="adv"/></l><r>didàcticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>dieteticamente<s n="adv"/></l><r>dietèticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>difusamente<s n="adv"/></l><r>difusament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>digestivamente<s n="adv"/></l><r>digestivament<s n="adv"/></r></p></e>
@@ -9338,7 +9428,8 @@
 <e a="hector"><p><l>elevadamente<s n="adv"/></l><r>elevadament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>elipticamente<s n="adv"/></l><r>el·lípticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>elasticamente<s n="adv"/></l><r>elàsticament<s n="adv"/></r></p></e>
-<e r="RL" a="hector"><p><l>electricamente<s n="adv"/></l><r>elèctricament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" r="RL" a="hector"><p><l>electricamente<s n="adv"/></l><r>elèctricament<s n="adv"/></r></p></e>
+<e vl="pt br" r="RL" a="hector"><p><l>eletricamente<s n="adv"/></l><r>elèctricament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>emblematicamente<s n="adv"/></l><r>emblemàticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>embrionariamente<s n="adv"/></l><r>embrionàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>emotivamente<s n="adv"/></l><r>emotivament<s n="adv"/></r></p></e>
@@ -9373,7 +9464,8 @@
 <e a="hector"><p><l>esotericamente<s n="adv"/></l><r>esotèricament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>espacialmente<s n="adv"/></l><r>espacialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>espantosamente<s n="adv"/></l><r>espantosament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>espectacularmente<s n="adv"/></l><r>espectacularment<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>espectacularmente<s n="adv"/></l><r>espectacularment<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetacularmente<s n="adv"/></l><r>espectacularment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>especulativamente<s n="adv"/></l><r>especulativament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>esperavelmente<s n="adv"/></l><r>esperablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>espiralmente<s n="adv"/></l><r>espiralment<s n="adv"/></r></p></e>
@@ -9560,7 +9652,8 @@
 <e a="hector"><p><l>impassivelmente<s n="adv"/></l><r>impassiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>impensavelmente<s n="adv"/></l><r>impensablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>imperativamente<s n="adv"/></l><r>imperativament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>imperceptivelmente<s n="adv"/></l><r>imperceptiblement<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>imperceptivelmente<s n="adv"/></l><r>imperceptiblement<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>impercetivelmente<s n="adv"/></l><r>imperceptiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>imperialmente<s n="adv"/></l><r>imperialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>impermeavelmente<s n="adv"/></l><r>impermeablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>implacavelmente<s n="adv"/></l><r>implacablement<s n="adv"/></r></p></e>
@@ -9571,7 +9664,8 @@
 <e a="hector"><p><l>impuramente<s n="adv"/></l><r>impurament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>impavidamente<s n="adv"/></l><r>impàvidament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inacabavelmente<s n="adv"/></l><r>inacabablement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>inactivamente<s n="adv"/></l><r>inactivament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>inactivamente<s n="adv"/></l><r>inactivament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inativamente<s n="adv"/></l><r>inactivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inadequadamente<s n="adv"/></l><r>inadequadament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inadmissivelmente<s n="adv"/></l><r>inadmissiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inadvertidamente<s n="adv"/></l><r>inadvertidament<s n="adv"/></r></p></e>
@@ -9595,7 +9689,8 @@
 <e a="hector"><p><l>incognitamente<s n="adv"/></l><r>incògnitament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>incomodamente<s n="adv"/></l><r>incòmodament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>indecisamente<s n="adv"/></l><r>indecisament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>indefectivelmente<s n="adv"/></l><r>indefectiblement<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>indefectivelmente<s n="adv"/></l><r>indefectiblement<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>indefetivelmente<s n="adv"/></l><r>indefectiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>indefinidamente<s n="adv"/></l><r>indefinidament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>indetectavelmente<s n="adv"/></l><r>indetectablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>indicativamente<s n="adv"/></l><r>indicativament<s n="adv"/></r></p></e>
@@ -9609,7 +9704,8 @@
 <e a="hector"><p><l>inesgotavelmente<s n="adv"/></l><r>inesgotablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inesperadamente<s n="adv"/></l><r>inesperadament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inestimavelmente<s n="adv"/></l><r>inestimablement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>inexactamente<s n="adv"/></l><r>inexactament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>inexactamente<s n="adv"/></l><r>inexactament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>inexatamente<s n="adv"/></l><r>inexactament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inexoravelmente<s n="adv"/></l><r>inexorablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>inextricavelmente<s n="adv"/></l><r>inextricablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>infalivelmente<s n="adv"/></l><r>infal·liblement<s n="adv"/></r></p></e>
@@ -9660,7 +9756,8 @@
 <e a="hector"><p><l>intencionalmente<s n="adv"/></l><r>intencionalment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>intensamente<s n="adv"/></l><r>intensament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>intensivamente<s n="adv"/></l><r>intensivament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>interactivamente<s n="adv"/></l><r>interactivament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>interactivamente<s n="adv"/></l><r>interactivament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>interativamente<s n="adv"/></l><r>interactivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>interanualmente<s n="adv"/></l><r>interanualment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>interinamente<s n="adv"/></l><r>interinament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>interinstitucionalmente<s n="adv"/></l><r>interinstitucionalment<s n="adv"/></r></p></e>
@@ -9705,7 +9802,8 @@
 <e a="hector"><p><l>laconicamente<s n="adv"/></l><r>lacònicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>laicamente<s n="adv"/></l><r>laicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>lateralmente<s n="adv"/></l><r>lateralment<s n="adv"/></r></p></e>
-<e a="hector"><p><l>lectivamente<s n="adv"/></l><r>lectivament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>lectivamente<s n="adv"/></l><r>lectivament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>letivamente<s n="adv"/></l><r>lectivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>legislativamente<s n="adv"/></l><r>legislativament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>leprosamente<s n="adv"/></l><r>leprosament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>letalmente<s n="adv"/></l><r>letalment<s n="adv"/></r></p></e>
@@ -9899,10 +9997,12 @@
 <e a="hector"><p><l>penosamente<s n="adv"/></l><r>penosament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>pensativamente<s n="adv"/></l><r>pensativament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>penultimamente<s n="adv"/></l><r>penúltimament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>perceptivelmente<s n="adv"/></l><r>perceptiblement<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>perceptivelmente<s n="adv"/></l><r>perceptiblement<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>percetivelmente<s n="adv"/></l><r>perceptiblement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>perduravelmente<s n="adv"/></l><r>perdurablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>peregrinamente<s n="adv"/></l><r>peregrinament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>peremptoriamente<s n="adv"/></l><r>peremptòriament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>peremptoriamente<s n="adv"/></l><r>peremptòriament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perentoriamente<s n="adv"/></l><r>peremptòriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>pericialmente<s n="adv"/></l><r>pericialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>perifrasticamente<s n="adv"/></l><r>perifràsticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>perifericamente<s n="adv"/></l><r>perifèricament<s n="adv"/></r></p></e>
@@ -9976,7 +10076,8 @@
 <e a="hector"><p><l>queixosamente<s n="adv"/></l><r>queixosament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>quietamente<s n="adv"/></l><r>quietament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>quinzenalmente<s n="adv"/></l><r>quinzenalment<s n="adv"/></r></p></e>
-<e a="hector"><p><l>quotidianamente<s n="adv"/></l><r>quotidianament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>quotidianamente<s n="adv"/></l><r>quotidianament<s n="adv"/></r></p></e>
+<e r="RL" vl="pt pt_pre1990" a="hector"><p><l>habitualmente<s n="adv"/></l><r>quotidianament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>quanticamente<s n="adv"/></l><r>quànticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>quimicamente<s n="adv"/></l><r>químicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>racialmente<s n="adv"/></l><r>racialment<s n="adv"/></r></p></e>
@@ -9987,7 +10088,8 @@
 <e a="hector"><p><l>raquiticamente<s n="adv"/></l><r>raquíticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>raramente<s n="adv"/></l><r>rarament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>rasamente<s n="adv"/></l><r>rasament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>reaccionariamente<s n="adv"/></l><r>reaccionàriament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reaccionariamente<s n="adv"/></l><r>reaccionàriament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reacionariamente<s n="adv"/></l><r>reaccionàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>realisticamente<s n="adv"/></l><r>realisticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>realisticamente<s n="adv"/></l><r>realísticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>receptivamente<s n="adv"/></l><r>receptivament<s n="adv"/></r></p></e>
@@ -10009,7 +10111,8 @@
 <e a="hector"><p><l>respiratoriamente<s n="adv"/></l><r>respiratòriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>responsavelmente<s n="adv"/></l><r>responsablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>ressecamente<s n="adv"/></l><r>ressecament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>retrospectivamente<s n="adv"/></l><r>retrospectivament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>retrospectivamente<s n="adv"/></l><r>retrospectivament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>retrospetivamente<s n="adv"/></l><r>retrospectivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>retoricamente<s n="adv"/></l><r>retòricament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>revolucionariamente<s n="adv"/></l><r>revolucionàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>ridiculamente<s n="adv"/></l><r>ridículament<s n="adv"/></r></p></e>
@@ -10032,12 +10135,14 @@
 <e a="hector"><p><l>satiricamente<s n="adv"/></l><r>satíricament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>secamente<s n="adv"/></l><r>secament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>secretamente<s n="adv"/></l><r>secretament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>sectorialmente<s n="adv"/></l><r>sectorialment<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>sectorialmente<s n="adv"/></l><r>sectorialment<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>setorialmente<s n="adv"/></l><r>sectorialment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>secularmente<s n="adv"/></l><r>secularment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>secundariamente<s n="adv"/></l><r>secundàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sedentariamente<s n="adv"/></l><r>sedentàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>seguidamente<s n="adv"/></l><r>seguidament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>selectivamente<s n="adv"/></l><r>selectivament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>selectivamente<s n="adv"/></l><r>selectivament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>seletivamente<s n="adv"/></l><r>selectivament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>semestralmente<s n="adv"/></l><r>semestralment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>semanticamente<s n="adv"/></l><r>semànticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>senilmente<s n="adv"/></l><r>senilment<s n="adv"/></r></p></e>
@@ -10063,7 +10168,8 @@
 <e a="hector"><p><l>singularmente<s n="adv"/></l><r>singularment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sinistramente<s n="adv"/></l><r>sinistrament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sinonimicamente<s n="adv"/></l><r>sinonímicament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>sintacticamente<s n="adv"/></l><r>sintàcticament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>sintacticamente<s n="adv"/></l><r>sintàcticament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>sintaticamente<s n="adv"/></l><r>sintàcticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sinteticamente<s n="adv"/></l><r>sintèticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sinuosamente<s n="adv"/></l><r>sinuosament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>sinopticamente<s n="adv"/></l><r>sinòpticament<s n="adv"/></r></p></e>
@@ -10151,8 +10257,10 @@
 <e a="hector"><p><l>tumultuariamente<s n="adv"/></l><r>tumultuàriament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>turisticamente<s n="adv"/></l><r>turísticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>tacitamente<s n="adv"/></l><r>tàcitament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>tacticamente<s n="adv"/></l><r>tàcticament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>tactilmente<s n="adv"/></l><r>tàctilment<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>tacticamente<s n="adv"/></l><r>tàcticament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>taticamente<s n="adv"/></l><r>tàcticament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>tactilmente<s n="adv"/></l><r>tàctilment<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>tatilmente<s n="adv"/></l><r>tàctilment<s n="adv"/></r></p></e>
 <e a="hector"><p><l>tenuemente<s n="adv"/></l><r>tènuement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>termicamente<s n="adv"/></l><r>tèrmicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>textilmente<s n="adv"/></l><r>tèxtilment<s n="adv"/></r></p></e>
@@ -10208,13 +10316,15 @@
 <e a="hector"><p><l>etnicamente<s n="adv"/></l><r>ètnicament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>infimamente<s n="adv"/></l><r>ínfimament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>intimamente<s n="adv"/></l><r>íntimament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>opticamente<s n="adv"/></l><r>òpticament<s n="adv"/></r></p></e>
-<e a="hector"><p><l>optimamente<s n="adv"/></l><r>òptimament<s n="adv"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>opticamente<s n="adv"/></l><r>òpticament<s n="adv"/></r></p></e>
+<e vl="br" a="hector"><p><l>oticamente<s n="adv"/></l><r>òpticament<s n="adv"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>optimamente<s n="adv"/></l><r>òptimament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>otimamente<s n="adv"/></l><r>òptimament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>utilmente<s n="adv"/></l><r>útilment<s n="adv"/></r></p></e>
 <e r="RL" a="hector"><p><l>repentinamente<s n="adv"/></l><r>sobtadament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>precocemente<s n="adv"/></l><r>precoçment<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>comummente<s n="adv"/></l><r>comunament<s n="adv"/></r></p></e>
-<e r="LR" a="hector"><p><l>coletivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>coletivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>indelevelmente<s n="adv"/></l><r>indeleblement<s n="adv"/></r></p></e>
 
 <!-- xxxxx -->
@@ -14405,7 +14515,7 @@
 <e a="hector"><p><l>consumação<s n="n"/><s n="f"/></l> <r>consumació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>consumição<s n="n"/><s n="f"/></l> <r>consumició<s n="n"/><s n="f"/></r></p></e>
 <e a="hector" vl="pt pt_pre1990"><p><l>consumpção<s n="n"/><s n="f"/></l><r>consumpció<s n="n"/><s n="f"/></r></p></e>
-<e a="hector" vl="br"><p><l>consunção<s n="n"/><s n="f"/></l><r>consumpció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector" vl="pt br"><p><l>consunção<s n="n"/><s n="f"/></l><r>consumpció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contemplação<s n="n"/><s n="f"/></l><r>contemplació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contenção<s n="n"/><s n="f"/></l>  <r>contenció<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>contestação<s n="n"/><s n="f"/></l><r>contestació<s n="n"/><s n="f"/></r></p></e>
@@ -17019,7 +17129,7 @@
 <e vl="pt_pre1990" a="hector"><p><l>coleccionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>colecionista<s n="n"/><s n="mf"/></l><r>col·leccionista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>conceptualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
-<e vl="br" a="hector"><p><l>concetualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>concetualista<s n="n"/><s n="mf"/></l><r>conceptualista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>concertista<s n="n"/><s n="mf"/></l><r>concertista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>conformista<s n="n"/><s n="mf"/></l><r>conformista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>congressista<s n="n"/><s n="mf"/></l><r>congressista<s n="n"/><s n="mf"/></r></p></e>
@@ -17041,11 +17151,11 @@
 <e r="RL" vl="pt br" a="hector"><p><l>eletricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>equilibrista<s n="n"/><s n="mf"/></l><r>equilibrista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>espectroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
-<e vl="br" a="hector"><p><l>espetroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>espetroscopista<s n="n"/><s n="mf"/></l><r>espectroscopista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>espiritualista<s n="n"/><s n="mf"/></l><r>espiritualista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>estadista<s n="n"/><s n="mf"/></l><r>estadista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>estalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
-<e a="hector"><p><l>stalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>estalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="br" a="hector"><p><l>stalinista<s n="n"/><s n="mf"/></l><r>estalinista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>esteticista<s n="n"/><s n="mf"/></l><r>esteticista<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL" a="hector"><p><l>etologista<s n="n"/><s n="mf"/></l><r>etologista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>evangelista<s n="n"/><s n="mf"/></l><r>evangelista<s n="n"/><s n="mf"/></r></p></e>
@@ -17123,7 +17233,7 @@
 <e a="hector"><p><l>papista<s n="n"/><s n="mf"/></l><r>papista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>pensionista<s n="n"/><s n="mf"/></l><r>pensionista<s n="n"/><s n="mf"/></r></p></e>
 <e vl="pt pt_pre1990" a="hector"><p><l>perfeccionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
-<e vl="br" a="hector"><p><l>perfecionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>perfecionista<s n="n"/><s n="mf"/></l><r>perfeccionista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>peronista<s n="n"/><s n="mf"/></l><r>peronista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>polemista<s n="n"/><s n="mf"/></l><r>polemista<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>populista<s n="n"/><s n="mf"/></l><r>populista<s n="n"/><s n="mf"/></r></p></e>
@@ -17381,7 +17491,7 @@
 <e a="hector"><p><l>sultana<s n="n"/><s n="f"/></l><r>sultà<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sultanato<s n="n"/><s n="m"/></l><r>sultanat<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="hector"><p><l>sultanado<s n="n"/><s n="m"/></l><r>sultanat<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>acusado<s n="n"/></l><r>acusat<s n="n"/></r></p></e>
+<e vl="br" a="hector"><p><l>acusado<s n="n"/></l><r>acusat<s n="n"/></r></p></e>
 <e a="hector"><p><l>alienado<s n="n"/></l><r>alienat<s n="n"/></r></p></e>
 <e a="hector"><p><l>altercado<s n="n"/><s n="m"/></l><r>altercat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>alçado<s n="n"/><s n="m"/></l><r>alçat<s n="n"/><s n="m"/></r></p></e>
@@ -17445,7 +17555,8 @@
 <e a="hector"><p><l>primado<s n="n"/><s n="m"/></l><r>primat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>professorado<s n="n"/><s n="m"/></l><r>professorat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>proletariado<s n="n"/><s n="m"/></l><r>proletariat<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>protectorado<s n="n"/><s n="m"/></l><r>protectorat<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>protectorado<s n="n"/><s n="m"/></l><r>protectorat<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>protetorado<s n="n"/><s n="m"/></l><r>protectorat<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>refugiado<s n="n"/></l><r>refugiat<s n="n"/></r></p></e>
 <e a="hector"><p><l>renegado<s n="n"/></l><r>renegat<s n="n"/></r></p></e>
 <e a="hector"><p><l>reticulado<s n="n"/><s n="m"/></l><r>reticulat<s n="n"/><s n="m"/></r></p></e>
@@ -17526,7 +17637,8 @@
 <e a="hector"><p><l>consultor<s n="n"/></l><r>consultor<s n="n"/></r></p></e>
 <e a="hector"><p><l>alinhamento<s n="n"/><s n="m"/></l><r>alineament<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>dublagem<s n="n"/><s n="f"/></l><r>doblatge<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>acrônimo<s n="n"/><s n="m"/></l><r>acrònim<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>acrônimo<s n="n"/><s n="m"/></l><r>acrònim<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>acrónimo<s n="n"/><s n="m"/></l><r>acrònim<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>prefixo<s n="n"/><s n="m"/></l><r>prefix<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>perímetro<s n="n"/><s n="m"/></l><r>perímetre<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="hector"><p><l>poluição<s n="n"/><s n="f"/></l><r>pol·lució<s n="n"/><s n="f"/></r></p></e>
@@ -17538,7 +17650,7 @@
 <e a="hector"><p><l>histeria<s n="n"/><s n="f"/></l><r>histèria<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>governança<s n="n"/><s n="f"/></l><r>governança<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>axioma<s n="n"/><s n="m"/></l><r>axioma<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>autodidata<s n="n"/></l><r>autodidacte<s n="n"/></r></p><par n="pobre_pobre"/></e>
+<e vl="pt br" a="hector"><p><l>autodidata<s n="n"/></l><r>autodidacte<s n="n"/></r></p><par n="pobre_pobre"/></e>
 <e a="hector"><p><l>golfo<s n="n"/><s n="m"/></l><r>golf<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>golfe<s n="n"/><s n="m"/></l><r>golf<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>caderno<s n="n"/><s n="m"/></l><r>quadern<s n="n"/><s n="m"/></r></p></e>
@@ -17565,7 +17677,7 @@
 <e a="hector"><p><l>cloreto<s n="n"/><s n="m"/></l><r>clorur<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>patriota<s n="n"/><s n="mf"/></l><r>patriota<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>capela<s n="n"/><s n="f"/></l><r>capella<s n="n"/><s n="f"/></r></p></e>
-<e r="LR" a="hector"><p><l>electrão<s n="n"/><s n="m"/></l><r>electró<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>electrão<s n="n"/><s n="m"/></l><r>electró<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>compêndio<s n="n"/><s n="m"/></l><r>compendi<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>teorema<s n="n"/><s n="m"/></l><r>teorema<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>istmo<s n="n"/><s n="m"/></l><r>istme<s n="n"/><s n="m"/></r></p></e>
@@ -17664,10 +17776,11 @@
 <e a="hector"><p><l>desfile<s n="n"/><s n="m"/></l><r>desfilada<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="hector"><p><l>paróquia<s n="n"/><s n="f"/></l><r>parròquia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="hector"><p><l>documentário<s n="n"/><s n="m"/></l><r>documental<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>vetor<s n="n"/><s n="m"/></l><r>vector<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>vetor<s n="n"/><s n="m"/></l><r>vector<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>vetor<s n="n"/><s n="m"/></l><r>vector<s n="n"/><s n="m"/></r></p></e>
 <e i="yes" a="hector"><p><l>parceiro<s n="n"/></l><r>soci<s n="n"/></r></p></e>
 <e i="yes" a="hector"><p><l>parceiro<s n="n"/></l><r>company<s n="n"/></r></p></e>
-<e r="LR" a="hector"><p><l>coletânea<s n="n"/><s n="f"/></l><r>recopilació<s n="n"/><s n="f"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>coletânea<s n="n"/><s n="f"/></l><r>recopilació<s n="n"/><s n="f"/></r></p></e>
 <e i="yes" a="hector"><p><l>sobrevivente<s n="n"/><s n="mf"/></l><r>supervivent<s n="n"/><s n="mf"/></r></p></e>
 <e a="hector"><p><l>norte-americano<s n="n"/></l><r>nord-americà<s n="n"/></r></p></e>
 <e a="hector"><p><l>balada<s n="n"/><s n="f"/></l><r>balada<s n="n"/><s n="f"/></r></p></e>
@@ -40464,7 +40577,8 @@
 <e a="hector"><p><l>dispersar<s n="vblex"/></l><r>dispersar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>reafirmar<s n="vblex"/></l><r>reafirmar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>arranhar<s n="vblex"/></l><r>esgarrapar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>acionar<s n="vblex"/></l><r>accionar<s n="vblex"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>acionar<s n="vblex"/></l><r>accionar<s n="vblex"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>accionar<s n="vblex"/></l><r>accionar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>relaxar<s n="vblex"/></l><r>relaxar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>rebater<s n="vblex"/></l><r>rebatre<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>persuadir<s n="vblex"/></l><r>persuadir<s n="vblex"/></r></p></e>
@@ -40480,7 +40594,8 @@
 <e a="hector"><p><l>redesenhar<s n="vblex"/></l><r>redissenyar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>passear<s n="vblex"/></l><r>passejar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>molhar<s n="vblex"/></l><r>mullar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>injetar<s n="vblex"/></l><r>injectar<s n="vblex"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>injetar<s n="vblex"/></l><r>injectar<s n="vblex"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>injectar<s n="vblex"/></l><r>injectar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>enraizar<s n="vblex"/></l><r>arrelar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>cumprimentar<s n="vblex"/></l><r>complimentar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>impactar<s n="vblex"/></l><r>impactar<s n="vblex"/></r></p></e>
@@ -40502,7 +40617,8 @@
 <e a="hector"><p><l>conferir<s n="vblex"/></l><r>conferir<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>sepultar<s n="vblex"/></l><r>sepultar<s n="vblex"/></r></p></e>
 <e r="LR" a="hector"><p><l>espelhar<s n="vblex"/></l><r>reflectir<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>reativar<s n="vblex"/></l><r>reactivar<s n="vblex"/></r></p></e>
+<e vl="pt br" a="hector"><p><l>reativar<s n="vblex"/></l><r>reactivar<s n="vblex"/></r></p></e>
+<e vl="pt_pre1990" a="hector"><p><l>reactivar<s n="vblex"/></l><r>reactivar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>reintroduzir<s n="vblex"/></l><r>reintroduir<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>apadrinhar<s n="vblex"/></l><r>apadrinar<s n="vblex"/></r></p></e>
   	
@@ -40660,7 +40776,7 @@
 <e a="hector"><p><l>subordinado<s n="adj"/></l>        <r>subordinat<s n="adj"/></r></p></e>
 <e a="hector"><p><l>sódio<s n="n"/><s n="m"/></l>      <r>sodi<s n="n"/><s n="m"/></r></p></e>
 <e a="hector" vl="br"><p><l>sinônimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
-<e a="hector" vl="pt"><p><l>sinónimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
+<e a="hector" vl="pt pt_pre1990"><p><l>sinónimo<s n="n"/><s n="m"/></l><r>sinònim<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>semifinal<s n="n"/><s n="f"/></l>  <r>semifinal<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>sedimentar<s n="vblex"/></l>       <r>sedimentar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>revolta<s n="n"/><s n="f"/></l>    <r>revolta<s n="n"/><s n="f"/></r></p></e>
@@ -40918,8 +41034,8 @@
 <e a="hector"><p><l>morfismo<s n="n"/><s n="m"/></l>   <r>morfisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>canalizar<s n="vblex"/></l>        <r>canalitzar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>automatizar<s n="vblex"/></l>      <r>automatitzar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>stalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>estalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="br" a="hector"><p><l>stalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
+<e vl="pt pt_pre1990" a="hector"><p><l>estalinismo<s n="n"/><s n="m"/></l> <r>estalinisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>positivismo<s n="n"/><s n="m"/></l><r>positivisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>misticismo<s n="n"/><s n="m"/></l> <r>misticisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>impressionismo<s n="n"/><s n="m"/></l><r>impressionisme<s n="n"/><s n="m"/></r></p></e>
