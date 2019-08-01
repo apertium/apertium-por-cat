@@ -637,6 +637,11 @@
 
 <!-- **************** V **************** -->
 
+  <!-- atrapalhar > destorbar, confondre -->
+  <rule weight="0.6">
+    <match lemma="atrapalhar" tags="vblex.*"><select lemma="destorbar"/></match>
+  </rule>
+
   <!-- advir > succeir, resultar -->
   <rule weight="0.6">
     <match lemma="advir" tags="vblex.*"><select lemma="succeir"/></match>
@@ -807,6 +812,8 @@
   <macro name="noms_propis" p1="André" p2="Andreu" />
   <macro name="noms_propis" p1="Bento" p2="Benet" />
   <macro name="noms_propis" p1="Carlos" p2="Carles" />
+  <macro name="noms_propis" p1="Eugénio" p2="Eugeni" />
+  <macro name="noms_propis" p1="Eugénia" p2="Eugènia" />
   <macro name="noms_propis" p1="Fernando" p2="Ferran" />
   <macro name="noms_propis" p1="Filipe" p2="Felip" />
   <macro name="noms_propis" p1="Francisco" p2="Francesc" />
@@ -815,6 +822,7 @@
   <macro name="noms_propis" p1="Henrique" p2="Enric" />
   <macro name="noms_propis" p1="Jaime" p2="Jaume" />
   <macro name="noms_propis" p1="João" p2="Joan" />
+  <macro name="noms_propis" p1="Gregório" p2="Gregori" />
   <macro name="noms_propis" p1="Hugo" p2="Hug" />
   <macro name="noms_propis" p1="Jorge" p2="Jordi" />
   <macro name="noms_propis" p1="Luís" p2="Lluís" />
@@ -822,6 +830,7 @@
   <macro name="noms_propis" p1="Paulo" p2="Pau" />
   <macro name="noms_propis" p1="Pedro" p2="Pere" />
   <macro name="noms_propis" p1="Sebastião" p2="Sebastià" />
+  <macro name="noms_propis" p1="Vitória" p2="Victòria" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
@@ -830,7 +839,6 @@
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
   <macro name="noms_propis" p1="Climent" p2="Clemente" />
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
-  <macro name="noms_propis" p1="Gregori" p2="Gregorio" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />

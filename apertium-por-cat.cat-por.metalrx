@@ -797,6 +797,16 @@
 
 <!-- **************** V **************** -->
 
+  <!-- lligar > ligar, atar -->
+  <rule weight="0.6">
+     <match lemma="lligar" tags="vblex.*"><select lemma="ligar"/></match>
+  </rule>
+
+  <!-- deslligar > desligar, desatar -->
+  <rule weight="0.6">
+     <match lemma="deslligar" tags="vblex.*"><select lemma="desligar"/></match>
+  </rule>
+
   <!-- cridar > chamar, gritar -->
   <rule weight="0.6">
      <match lemma="cridar" tags="vblex.*"><select lemma="chamar"/></match>
@@ -914,6 +924,8 @@
   <macro name="noms_propis" p1="Benet" p2="Bento" />
   <macro name="noms_propis" p1="Carles" p2="Carlos" />
   <macro name="noms_propis" p1="Enric" p2="Henrique" />
+  <macro name="noms_propis" p1="Eugeni" p2="Eugénio" />
+  <macro name="noms_propis" p1="Eugènia" p2="Eugénia" />
   <macro name="noms_propis" p1="Guillem" p2="Guilherme" />
   <macro name="noms_propis" p1="Jaume" p2="Jaime" />
   <macro name="noms_propis" p1="Joan" p2="João" />
@@ -921,6 +933,7 @@
   <macro name="noms_propis" p1="Ferran" p2="Fernando" />
   <macro name="noms_propis" p1="Francesc" p2="Francisco" />
   <macro name="noms_propis" p1="Frederic" p2="Frederico" />
+  <macro name="noms_propis" p1="Gregori" p2="Gregório" />
   <macro name="noms_propis" p1="Hug" p2="Hugo" />
   <macro name="noms_propis" p1="Jordi" p2="Jorge" />
   <macro name="noms_propis" p1="Lluís" p2="Luís" />
@@ -928,6 +941,7 @@
   <macro name="noms_propis" p1="Pau" p2="Paulo" />
   <macro name="noms_propis" p1="Pere" p2="Pedro" />
   <macro name="noms_propis" p1="Sebastià" p2="Sebastião" />
+  <macro name="noms_propis" p1="Victòria" p2="Vitória" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
@@ -936,7 +950,6 @@
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
   <macro name="noms_propis" p1="Climent" p2="Clemente" />
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
-  <macro name="noms_propis" p1="Gregori" p2="Gregorio" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
