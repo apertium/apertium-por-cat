@@ -8274,7 +8274,41 @@
 <e a="hector"><p><l>vulpino<s n="adj"/></l><r>vulpí<s n="adj"/></r></p></e>
 <e a="hector"><p><l>vulturino<s n="adj"/></l><r>vulturí<s n="adj"/></r></p></e>
 <e a="hector"><p><l>inoportuno<s n="adj"/></l><r>inoportú<s n="adj"/></r></p></e>
-<e a="hector"><p><l>tribuno<s n="n"/><s n="m"/></l><r>tribú<s n="n"/><s n="m"/></r></p></e>
+
+<e a="hector"><p><l>uniforme<s n="adj"/></l><r>uniforme<s n="adj"/></r></p></e>
+<e a="hector"><p><l>surpreso<s n="adj"/></l><r>sorprès<s n="adj"/></r></p></e>
+<e a="hector"><p><l>produtivo<s n="adj"/></l><r>productiu<s n="adj"/></r></p></e>
+<e a="hector"><p><l>disperso<s n="adj"/></l><r>dispers<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>disperso<s n="adj"/></l><r>dispers<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>carolíngio<s n="adj"/></l><r>carolingi<s n="adj"/></r></p></e>
+<e a="hector"><p><l>paisagístico<s n="adj"/></l><r>paisatgístic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>sináptico<s n="adj"/></l><r>sinàptic<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>derradeiro<s n="adj"/></l><r>darrer<s n="adj"/></r></p></e>
+<e a="hector"><p><l>cuidadoso<s n="adj"/></l><r>curós<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>cuidadoso<s n="adj"/></l><r>curós<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="hector"><p><l>cuidadoso<s n="adj"/></l><r>acurat<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>cuidadoso<s n="adj"/></l><r>acurat<s n="adj"/><s n="sup"/></r></p></e>
+<e r="RL" a="hector"><p><l>ímpar<s n="adj"/></l><r>imparell<s n="adj"/></r></p></e>
+<e a="hector"><p><l>ímpar<s n="adj"/></l><r>senar<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e r="LR" a="hector"><p><l>heróico<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>maia<s n="adj"/></l><r>maia<s n="adj"/></r></p></e>
+<e a="hector"><p><l>recíproco<s n="adj"/></l><r>recíproc<s n="adj"/></r></p></e>
+<e a="hector"><p><l>subsequente<s n="adj"/></l><r>subsegüent<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>mortuário<s n="adj"/></l><r>mortuori<s n="adj"/></r></p></e>
+<e a="hector"><p><l>impuro<s n="adj"/></l><r>impur<s n="adj"/></r></p></e>
+<e a="hector"><p><l>indelével<s n="adj"/></l><r>indeleble<s n="adj"/></r></p></e>
+<e a="hector"><p><l>herbívoro<s n="adj"/></l><r>herbívor<s n="adj"/></r></p></e>
+<e a="hector"><p><l>carnívoro<s n="adj"/></l><r>carnívor<s n="adj"/></r></p></e>
+<e a="hector"><p><l>omnívoro<s n="adj"/></l><r>omnívor<s n="adj"/></r></p></e>
+<e a="hector"><p><l>retrógrado<s n="adj"/></l><r>retrògrad<s n="adj"/></r></p></e>
+<e a="hector"><p><l>casto<s n="adj"/></l><r>cast<s n="adj"/></r></p></e>
+<e r="RL" a="hector"><p><l>casto<s n="adj"/></l><r>cast<s n="adj"/><s n="sup"/></r></p></e>
+<e a="hector"><p><l>somali<s n="adj"/></l><r>somali<s n="adj"/></r></p></e>
+<e a="hector"><p><l>asteca<s n="adj"/></l><r>asteca<s n="adj"/></r></p></e>
+<e a="hector"><p><l>inca<s n="adj"/></l><r>inca<s n="adj"/></r></p></e>
+<e a="hector"><p><l>alcoólico<s n="adj"/></l><r>alcohòlic<s n="adj"/></r></p></e>
+<e a="hector"><p><l>infravermelho<s n="adj"/></l><r>infraroig<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pagão<s n="adj"/></l><r>pagà<s n="adj"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -10177,6 +10211,11 @@
 <e a="hector"><p><l>opticamente<s n="adv"/></l><r>òpticament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>optimamente<s n="adv"/></l><r>òptimament<s n="adv"/></r></p></e>
 <e a="hector"><p><l>utilmente<s n="adv"/></l><r>útilment<s n="adv"/></r></p></e>
+<e r="RL" a="hector"><p><l>repentinamente<s n="adv"/></l><r>sobtadament<s n="adv"/></r></p></e>
+<e a="hector"><p><l>precocemente<s n="adv"/></l><r>precoçment<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>comummente<s n="adv"/></l><r>comunament<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>coletivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>indelevelmente<s n="adv"/></l><r>indeleblement<s n="adv"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -17613,6 +17652,124 @@
 <e a="hector"><p><l>tarentino<s n="n"/></l><r>tarentí<s n="n"/></r></p></e>
 <e a="hector"><p><l>travertino<s n="n"/><s n="m"/></l><r>travertí<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>violino<s n="n"/><s n="m"/></l><r>violí<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>tribuno<s n="n"/><s n="m"/></l><r>tribú<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>herbívoro<s n="n"/><s n="m"/></l><r>herbívor<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>padrinho<s n="n"/><s n="m"/></l><r>padrí<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>padrinho<s n="n"/><s n="f"/></l><r>padrina<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>patrício<s n="n"/><s n="m"/></l><r>patrici<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>abordagem<s n="n"/><s n="f"/></l><r>abordatge<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>abordagem<s n="n"/><s n="f"/></l><r>enfocament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>decréscimo<s n="n"/><s n="m"/></l><r>decreixement<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>exemplar<s n="n"/><s n="m"/></l><r>exemplar<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desfile<s n="n"/><s n="m"/></l><r>desfilada<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>paróquia<s n="n"/><s n="f"/></l><r>parròquia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>documentário<s n="n"/><s n="m"/></l><r>documental<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>vetor<s n="n"/><s n="m"/></l><r>vector<s n="n"/><s n="m"/></r></p></e>
+<e i="yes" a="hector"><p><l>parceiro<s n="n"/></l><r>soci<s n="n"/></r></p></e>
+<e i="yes" a="hector"><p><l>parceiro<s n="n"/></l><r>company<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>coletânea<s n="n"/><s n="f"/></l><r>recopilació<s n="n"/><s n="f"/></r></p></e>
+<e i="yes" a="hector"><p><l>sobrevivente<s n="n"/><s n="mf"/></l><r>supervivent<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>norte-americano<s n="n"/></l><r>nord-americà<s n="n"/></r></p></e>
+<e a="hector"><p><l>balada<s n="n"/><s n="f"/></l><r>balada<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>libra<s n="n"/><s n="f"/></l><r>lliura<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>flora<s n="n"/><s n="f"/></l><r>flora<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>diploma<s n="n"/><s n="m"/></l><r>diploma<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>cavalaria<s n="n"/><s n="f"/></l><r>cavalleria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>perturbação<s n="n"/><s n="f"/></l><r>pertorbació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>atributo<s n="n"/><s n="m"/></l><r>atribut<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>doblador<s n="n"/></l><r>doblador<s n="n"/></r></p></e>
+<e a="hector"><p><l>produtividade<s n="n"/><s n="f"/></l><r>productivitat<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>vôlei<s n="n"/><s n="m"/><s n="sg"/></l><r>voleibol<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="hector"><p><l>saneamento<s n="n"/><s n="m"/></l><r>sanejament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>metrópole<s n="n"/><s n="f"/></l><r>metròpoli<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tuberculose<s n="n"/><s n="f"/></l><r>tuberculosi<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>subconjunto<s n="n"/><s n="m"/></l><r>subconjunt<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>estreito<s n="n"/><s n="m"/></l><r>estret<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>enciclopédia<s n="n"/><s n="f"/></l><r>enciclopèdia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>embalagem<s n="n"/><s n="f"/></l><r>embalatge<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>desenhista<s n="n"/><s n="mf"/></l><r>dibuixant<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR" a="hector"><p><l>desenhista<s n="n"/></l><r>dissenyador<s n="n"/></r></p><par n="mf_GD"/></e>
+<e r="LR" a="hector"><p><l>designer<s n="n"/></l><r>dissenyador<s n="n"/></r></p><par n="mf_GD"/></e>
+<e a="hector"><p><l>curvatura<s n="n"/><s n="f"/></l><r>curvatura<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cometa<s n="n"/><s n="m"/></l><r>cometa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anexo<s n="n"/><s n="m"/></l><r>annex<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>anexação<s n="n"/><s n="f"/></l><r>annexió<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>abadia<s n="n"/><s n="f"/></l><r>abadia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>transcrição<s n="n"/><s n="f"/></l><r>transcripció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>lavagem<s n="n"/><s n="f"/></l><r>rentat<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>link<s n="n"/><s n="m"/></l><r>vincle<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>nomenclatura<s n="n"/><s n="f"/></l><r>nomenclatura<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>rigidez<s n="n"/><s n="f"/></l><r>rigidesa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>recriação<s n="n"/><s n="f"/></l><r>recreació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>simetria<s n="n"/><s n="f"/></l><r>simetria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>salvaguarda<s n="n"/><s n="f"/></l><r>salvaguarda<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>quimioterapia<s n="n"/><s n="f"/></l><r>quimioteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>refinaria<s n="n"/><s n="f"/></l><r>refineria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>reduto<s n="n"/><s n="m"/></l><r>reducte<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" a="hector"><p><l>recenseamento<s n="n"/><s n="m"/></l><r>cens<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>plebeu<s n="n"/></l><r>plebeu<s n="n"/></r></p></e>
+<e a="hector"><p><l>plebe<s n="n"/><s n="f"/></l><r>plebs<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
+<e a="hector"><p><l>insurreição<s n="n"/><s n="f"/></l><r>insurrecció<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>desordem<s n="n"/><s n="f"/></l><r>desordre<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ateu<s n="n"/></l><r>ateu<s n="n"/></r></p></e>
+<e a="hector"><p><l>ateísmo<s n="n"/><s n="m"/></l><r>ateisme<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>spam<s n="n"/><s n="m"/></l><r>correu<g><b/>brossa</g><s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+<e a="hector"><p><l>hipotálamo<s n="n"/><s n="m"/></l><r>hipotàlem<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>heresia<s n="n"/><s n="f"/></l><r>heretgia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>campanário<s n="n"/><s n="m"/></l><r>campanar<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>byte<s n="n"/><s n="m"/></l><r>byte<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>alistamento<s n="n"/><s n="m"/></l><r>allistament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>radioterapia<s n="n"/><s n="f"/></l><r>radioteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>maia<s n="n"/><s n="mf"/></l><r>maia<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>psicoterapia<s n="n"/><s n="f"/></l><r>psicoteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>espaçamento<s n="n"/><s n="m"/></l><r>espaiament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>concordância<s n="n"/><s n="f"/></l><r>concordança<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>concórdia<s n="n"/><s n="f"/></l><r>concòrdia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>chancelaria<s n="n"/><s n="f"/></l><r>cancelleria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>tíbia<s n="n"/><s n="f"/></l><r>tíbia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hemoterapia<s n="n"/><s n="f"/></l><r>hemoteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>difteria<s n="n"/><s n="f"/></l><r>diftèria<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>cozinheiro<s n="n"/></l><r>cuiner<s n="n"/></r></p></e>
+<e a="hector"><p><l>contágio<s n="n"/><s n="m"/></l><r>contagi<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>aperfeiçoamento<s n="n"/><s n="m"/></l><r>perfeccionament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>antítese<s n="n"/><s n="f"/></l><r>antítesi<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antipapa<s n="n"/><s n="m"/></l><r>antipapa<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>fisioterapia<s n="n"/><s n="f"/></l><r>fisioteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>firmeza<s n="n"/><s n="f"/></l><r>fermesa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>anticiclone<s n="n"/><s n="m"/></l><r>anticicló<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>circunvalação<s n="n"/><s n="f"/></l><r>circumval·lació<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>avidez<s n="n"/><s n="f"/></l><r>avidesa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>autocontrole<s n="n"/><s n="m"/></l><r>autocontrol<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ataúde<s n="n"/><s n="m"/></l><r>taüt<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>subúrbio<s n="n"/><s n="m"/></l><r>suburbi<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>hormonoterapia<s n="n"/><s n="f"/></l><r>hormonoteràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>fototerapia<s n="n"/><s n="f"/></l><r>fototeràpia<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>calvário<s n="n"/><s n="m"/></l><r>calvari<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ermida<s n="n"/><s n="f"/></l><r>ermita<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" a="hector"><p><l>patrono<s n="n"/></l><r>patró<s n="n"/></r></p></e>
+<e a="hector"><p><l>pagão<s n="n"/></l><r>pagà<s n="n"/></r></p></e>
+<e a="hector"><p><l>afloramento<s n="n"/><s n="m"/></l><r>aflorament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>carnívoro<s n="n"/></l><r>carnívor<s n="n"/></r></p></e>
+<e a="hector"><p><l>omnívoro<s n="n"/></l><r>omnívor<s n="n"/></r></p></e>
+<e r="LR" a="hector"><p><l>marioneta<s n="n"/><s n="f"/></l><r>titella<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>videoclipe<s n="n"/><s n="m"/></l><r>videoclip<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>falante<s n="n"/><s n="mf"/></l><r>parlant<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>somali<s n="n"/><s n="mf"/></l><r>somali<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>brigada<s n="n"/><s n="f"/></l><r>brigada<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>barragem<s n="n"/><s n="f"/></l><r>presa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>barragem<s n="n"/><s n="f"/></l><r>embassament<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>ligadura<s n="n"/><s n="f"/></l><r>lligadura<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>hominídeo<s n="n"/><s n="m"/></l><r>homínid<s n="n"/><s n="m"/></r></p></e>
+<e a="hector"><p><l>arquidiocese<s n="n"/><s n="f"/></l><r>arxidiòcesi<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>diocese<s n="n"/><s n="f"/></l><r>diòcesi<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>olimpíada<s n="n"/><s n="f"/></l><r>olimpíada<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>membrana<s n="n"/><s n="f"/></l><r>membrana<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>latitude<s n="n"/><s n="f"/></l><r>latitud<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>abscissa<s n="n"/><s n="f"/></l><r>abscissa<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>antena<s n="n"/><s n="f"/></l><r>antena<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>asteca<s n="n"/><s n="mf"/></l><r>asteca<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>inca<s n="n"/><s n="mf"/></l><r>inca<s n="n"/><s n="mf"/></r></p></e>
+<e a="hector"><p><l>batizado<s n="n"/><s n="m"/></l><r>bateig<s n="n"/><s n="m"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -40338,7 +40495,16 @@
 <e a="hector"><p><l>ensaiar<s n="vblex"/></l><r>assajar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>aflorar<s n="vblex"/></l><r>aflorar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>irrigar<s n="vblex"/></l><r>irrigar<s n="vblex"/></r></p></e>
-<e a="hector"><p><l>apurar<s n="vblex"/></l><r>esbrinar<s n="vblex"/></r></p></e>
+<e r="RL" a="hector"><p><l>apurar<s n="vblex"/></l><r>esbrinar<s n="vblex"/></r></p></e>
+<e r="LR" a="hector"><p><l>apurar<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
+<e r="LR" a="hector"><p><l>concorrer<s n="vblex"/></l><r>competir<s n="vblex"/></r></p></e>
+<e r="LR" a="hector"><p><l>concorrer<s n="vblex"/></l><r>concórrer<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>conferir<s n="vblex"/></l><r>conferir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sepultar<s n="vblex"/></l><r>sepultar<s n="vblex"/></r></p></e>
+<e r="LR" a="hector"><p><l>espelhar<s n="vblex"/></l><r>reflectir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>reativar<s n="vblex"/></l><r>reactivar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>reintroduzir<s n="vblex"/></l><r>reintroduir<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>apadrinhar<s n="vblex"/></l><r>apadrinar<s n="vblex"/></r></p></e>
   	
 <!-- xxxxx -->
 

@@ -453,6 +453,20 @@
     </or>
   </rule>
 
+  <!-- abordagem > abordatge, enfocament -->
+  <rule weight="0.6">
+    <match lemma="abordagem" tags="n.*"><select lemma="abordatge"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="abordagem" tags="n.*"><select lemma="enfocament"/></match>
+    <match tags="adj.*"/>
+  </rule>
+
+  <!-- desenhista > dibuixant, dissenyador -->
+  <rule weight="0.6">
+    <match lemma="desenhista" tags="n.*"><select lemma="dibuixant"/></match>
+  </rule>
+
   <!-- liderança > liderat, lideratge -->
   <rule weight="0.6">
     <match lemma="liderança" tags="n.*"><select lemma="liderat"/></match>
@@ -629,15 +643,6 @@
   <!-- freguesia > parròquia, clientela -->
   <rule weight="0.6">
     <match lemma="freguesia" tags="n.*"><select lemma="parròquia"/></match>
-  </rule>
-
-  <!-- comuna > comuna, ajuntament -->
-  <rule weight="0.6">
-    <match lemma="comuna" tags="n.*"><select lemma="comuna"/></match>
-  </rule>
-  <rule weight="1.0">
-    <match lemma="comuna" tags="n.*"><select lemma="ajuntament"/></match>
-    <match lemma="francès" tags="adj.*"/>
   </rule>
 
 <!-- **************** ADV **************** -->
