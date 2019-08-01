@@ -441,6 +441,18 @@
 
 <!-- **************** N **************** -->
 
+  <!-- comuna > comuna, municipi -->
+  <rule weight="0.6">
+    <match lemma="comuna" tags="n.*"><select lemma="comuna"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="comuna" tags="n.*"><select lemma="municipi"/></match>
+    <or>
+      <match lemma="italiano" tags="adj.*"/>
+      <match lemma="francês" tags="adj.*"/>
+    </or>
+  </rule>
+
   <!-- liderança > liderat, lideratge -->
   <rule weight="0.6">
     <match lemma="liderança" tags="n.*"><select lemma="liderat"/></match>
@@ -766,6 +778,14 @@
       <match tags="n.*"/>
       <match tags="adj.*"/>
     </or>
+  </rule>
+
+  <rule weight="3.0">
+    <or>
+      <match tags="n.*"/>
+      <match tags="adj.*"/>
+    </or>
+    <match lemma="chamar" tags="vblex.pp.*"><select lemma="anomenar"/></match> 
   </rule>
 
   <rule weight="5.0">
