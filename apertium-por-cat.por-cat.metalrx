@@ -396,6 +396,39 @@
     <match lemma="para" tags="pr"><select lemma="cap a"/></match>
   </rule>
 
+  <!-- até > fins a/fins ... -->
+  <rule weight="0.6">
+    <match lemma="até" tags="pr"><select lemma="fins a"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="até" tags="pr"><select lemma="fins"/></match>
+    <or>
+      <match tags="adv"/>
+      <match tags="pr"/>
+      <match tags="rel.adv"/>
+      <match lemma="que"/>
+      <match lemma="quando"/>
+      <match lemma="quanto"/>
+    </or>   
+  </rule>
+  <rule weight="1.0">
+    <match lemma="até" tags="pr"><select lemma="fins a"/></match>
+    <or>
+      <match tags="vblex.inf"/>  
+      <match tags="vbmod.inf"/>
+      <match tags="vbser.inf"/> 
+    </or>  
+  </rule>
+  <rule weight="0.8">
+    <match lemma="até" tags="pr"><select lemma="fins"/></match>
+    <or>
+      <match tags="prn.*"/>
+      <match tags="vblex.*"/>  
+      <match tags="vbmod.*"/>
+      <match tags="vbser.*"/> 
+    </or>  
+  </rule>
+
 <!-- **************** ADJ **************** -->
 
   <!-- conjuntivo > subjuntiu, conjuntiu (Por) -->
@@ -652,6 +685,11 @@
     <match lemma="além" tags="adv"><select lemma="més enllà"/></match>
   </rule>
 
+  <!-- inclusive > inclusivament, fins i tot -->
+  <rule weight="0.6">
+    <match lemma="inclusive" tags="adv"><select lemma="inclusivament"/></match>
+  </rule>
+
 <!-- **************** V **************** -->
 
   <!-- atrapalhar > destorbar, confondre -->
@@ -836,7 +874,9 @@
   <macro name="noms_propis" p1="Afonso" p2="Alfons" />
   <macro name="noms_propis" p1="André" p2="Andreu" />
   <macro name="noms_propis" p1="Bento" p2="Benet" />
+  <macro name="noms_propis" p1="Bonifácio" p2="Bonifaci" />
   <macro name="noms_propis" p1="Carlos" p2="Carles" />
+  <macro name="noms_propis" p1="Clemente" p2="Climent" />
   <macro name="noms_propis" p1="Eugénio" p2="Eugeni" />
   <macro name="noms_propis" p1="Eugénia" p2="Eugènia" />
   <macro name="noms_propis" p1="Fernando" p2="Ferran" />
@@ -850,11 +890,14 @@
   <macro name="noms_propis" p1="Gregório" p2="Gregori" />
   <macro name="noms_propis" p1="Hugo" p2="Hug" />
   <macro name="noms_propis" p1="Jorge" p2="Jordi" />
+  <macro name="noms_propis" p1="Júlio" p2="Juli" />
   <macro name="noms_propis" p1="Luís" p2="Lluís" />
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Paulo" p2="Pau" />
   <macro name="noms_propis" p1="Pedro" p2="Pere" />
+  <macro name="noms_propis" p1="Ricardo" p2="Ricard" />
   <macro name="noms_propis" p1="Sebastião" p2="Sebastià" />
+  <macro name="noms_propis" p1="Sisto" p2="Sixt" />
   <macro name="noms_propis" p1="Vitória" p2="Victòria" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
@@ -862,16 +905,11 @@
   <macro name="noms_propis" p1="Bernat" p2="Bernardo" />
   <macro name="noms_propis" p1="Blanca" p2="Bianca" />
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
-  <macro name="noms_propis" p1="Climent" p2="Clemente" />
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
-  <macro name="noms_propis" p1="Joan Carles" p2="Juan Carlos" />
-  <macro name="noms_propis" p1="Joan Manuel" p2="Giovanni Manuelle" />
-  <macro name="noms_propis" p1="Joan Pau" p2="Giovanni Paolo" />
   <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
-  <macro name="noms_propis" p1="Juli" p2="Giulio" />
   <macro name="noms_propis" p1="Lleó" p2="Leone" />
   <macro name="noms_propis" p1="Llúcia" p2="Lucia" />
   <macro name="noms_propis" p1="Lluc" p2="Luca" />
@@ -882,9 +920,7 @@
   <macro name="noms_propis" p1="Nicolau" p2="Nicola" />
   <macro name="noms_propis" p1="Ramir" p2="Ramiro" />
   <macro name="noms_propis" p1="Ramon" p2="Raimundo" />
-  <macro name="noms_propis" p1="Ricard" p2="Ricardo" />
   <macro name="noms_propis" p1="Roger" p2="Ruggero" />
-  <macro name="noms_propis" p1="Sixt" p2="Sisto" />
 
 </rules>
 </metalrx>

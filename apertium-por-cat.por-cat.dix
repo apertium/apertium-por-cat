@@ -708,6 +708,7 @@
 <e>       <p><l>hebreo<s n="adj"/></l>                 <r>hebreo<s n="adj"/></r></p></e>
 <e>       <p><l>hipócrita<s n="adj"/></l>              <r>hipòcrita<s n="adj"/></r></p></e>
 <e>       <p><l>histórico<s n="adj"/></l>              <r>històric<s n="adj"/></r></p></e>
+<e a="hector"><p><l>pré-histórico<s n="adj"/></l>      <r>prehistòric<s n="adj"/></r></p></e>
 <e>       <p><l>holandês<s n="adj"/></l>               <r>holandès<s n="adj"/></r></p></e>
 <e>       <p><l>homossexual<s n="adj"/></l>            <r>homosexual<s n="adj"/></r></p></e>
 <e>       <p><l>horrível<s n="adj"/></l>               <r>horrible<s n="adj"/></r></p></e>
@@ -5461,10 +5462,9 @@
 <e a="hector"><p><l>carreteiro<s n="adj"/></l><r>carreter<s n="adj"/></r></p></e>
 <e a="hector"><p><l>cimeiro<s n="adj"/></l><r>cimer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>conserveiro<s n="adj"/></l><r>conserver<s n="adj"/></r></p></e>
-<e a="hector"><p><l>costaneiro<s n="adj"/></l><r>costaner<s n="adj"/></r></p></e>
-<e a="hector"><p><l>costeiro<s n="adj"/></l><r>coster<s n="adj"/></r></p></e>
+<e a="hector"><p><l>costeiro<s n="adj"/></l><r>costaner<s n="adj"/></r></p></e>
 <e a="hector"><p><l>forasteiro<s n="adj"/></l><r>foraster<s n="adj"/></r></p></e>
-<e a="hector"><p><l>fronteiro<s n="adj"/></l><r>fronter<s n="adj"/></r></p></e>
+<e r="LR" a="hector"><p><l>fronteiro<s n="adj"/></l><r>fronterer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>galhofeiro<s n="adj"/></l><r>gallofer<s n="adj"/></r></p></e>
 <e a="hector"><p><l>gateiro<s n="adj"/></l><r>gater<s n="adj"/></r></p></e>
 <e r="RL" a="hector"><p><l>grosseiro<s n="adj"/></l><r>grosser<s n="adj"/></r></p></e>
@@ -8511,6 +8511,7 @@
 <e r="RL"><p><l>atrás<s n="adv"/></l>                  <r>enrera<s n="adv"/></r></p></e>
 <e>       <p><l>atrás<s n="adv"/></l>                  <r>enrere<s n="adv"/></r></p></e>
 <e r="LR"><p><l>até<b/>mesmo<s n="adv"/></l>           <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
+<e a="hector"><p><l>até<s n="adv"/></l>                <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
 <e>       <p><l>autenticamente<s n="adv"/></l>         <r>autènticament<s n="adv"/></r></p></e>
 <e>       <p><l>automaticamente<s n="adv"/></l>        <r>automàticament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>avante<s n="adv"/></l>                 <r>avant<s n="adv"/></r></p></e>
@@ -8755,7 +8756,7 @@
 <e>       <p><l>impunemente<s n="adv"/></l>            <r>impunement<s n="adv"/></r></p></e>
 <e>       <p><l>inclusivamente<s n="adv"/></l>         <r>inclusivament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>inclusive<s n="adv"/></l>              <r>inclusivament<s n="adv"/></r></p></e>
-<e r="RL"><p><l>inclusive<s n="adv"/></l>              <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
+<e r="LR"><p><l>inclusive<s n="adv"/></l>              <r>fins<b/>i<b/>tot<s n="adv"/></r></p></e>
 <e>       <p><l>incondicionalmente<s n="adv"/></l>     <r>incondicionalment<s n="adv"/></r></p></e>
 <e>       <p><l>incrivelmente<s n="adv"/></l>          <r>increïblement<s n="adv"/></r></p></e>
 <e>       <p><l>independentemente<s n="adv"/></l>      <r>independentment<s n="adv"/></r></p></e>
@@ -9129,8 +9130,8 @@
 <e a="hector"><p><l>imperturbavelmente<s n="adv"/></l><r>impertorbablement<s n="adv"/></r></p></e>
 <e a="hector"><p><l>horrivelmente<s n="adv"/></l><r>horriblement<s n="adv"/></r></p></e>
 <e r="RL" a="hector"><p><l>desproporcionalmente<s n="adv"/></l><r>desproporcionadament<s n="adv"/></r></p></e>
-<e r="RL" a="hector"><p><l>indeleblemente<s n="adv"/></l><r>indeleblement<s n="adv"/></r></p></e>
-<e a="hector"><p><l>indeleblemente<s n="adv"/></l><r>inesborrablement<s n="adv"/></r></p></e>
+<e r="RL" a="hector"><p><l>indelevelmente<s n="adv"/></l><r>indeleblement<s n="adv"/></r></p></e>
+<e a="hector"><p><l>indelevelmente<s n="adv"/></l><r>inesborrablement<s n="adv"/></r></p></e>
 
 <e a="hector"><p><l>abominavelmente<s n="adv"/></l><r>abominablement<s n="adv"/></r></p></e>
 <e vl="pt_pre1990" a="hector"><p><l>abstractamente<s n="adv"/></l><r>abstractament<s n="adv"/></r></p></e>
@@ -10325,7 +10326,9 @@
 <e a="hector"><p><l>precocemente<s n="adv"/></l><r>precoçment<s n="adv"/></r></p></e>
 <e r="LR" a="hector"><p><l>comummente<s n="adv"/></l><r>comunament<s n="adv"/></r></p></e>
 <e vl="pt br" a="hector"><p><l>coletivamente<s n="adv"/></l><r>col·lectivament<s n="adv"/></r></p></e>
-<e r="LR" a="hector"><p><l>indelevelmente<s n="adv"/></l><r>indeleblement<s n="adv"/></r></p></e>
+<e a="hector"><p><l>a<b/>pé<s n="adv"/></l><r>a<b/>peu<s n="adv"/></r></p></e>
+<e a="hector"><p><l>de<b/>pé<s n="adv"/></l><r>dempeus<s n="adv"/></r></p></e>
+<e r="LR" a="hector"><p><l>de<b/>pé<s n="adv"/></l><r>a<b/>peu<b/>dret<s n="adv"/></r></p></e>
 
 <!-- xxxxx -->
 
@@ -10336,6 +10339,7 @@
 <e r="LR"><p><l>a<b/>pesar<b/>do<b/>que<s n="cnjadv"/></l><r>malgrat<b/>el<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ainda<b/>assim<s n="cnjadv"/></l>      <r>així<b/>i<b/>tot<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ainda<b/>que<s n="cnjadv"/></l>        <r>encara<b/>que<s n="cnjadv"/></r></p></e>
+<e>       <p><l>até<b/>que<s n="cnjadv"/></l>          <r>fins<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ao<b/>menos<s n="adv"/></l>            <r>almenys<s n="adv"/></r></p></e>
 <e r="LR"><p><l>ao<b/>mesmo<b/>tempo<b/>em<b/>que<s n="cnjadv"/></l><r>al<b/>mateix<b/>temps<b/>que<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>ao<b/>passo<b/>que<s n="cnjadv"/></l>  <r>mentre<b/>que<s n="cnjadv"/></r></p></e>
@@ -10400,6 +10404,8 @@
 <e r="RL"><p><l>porquanto<s n="cnjadv"/></l>           <r>atés<b/>que<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>porquanto<s n="cnjadv"/></l>           <r>puix<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>porque<s n="cnjadv"/></l>              <r>perquè<s n="cnjadv"/></r></p></e>
+<e r="LR"><p><l>para<b/>que<s n="cnjadv"/></l>         <r>perquè<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>para<b/>que<s n="cnjadv"/></l>         <r>per<b/>tal<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>portanto<s n="cnjadv"/></l>            <r>per<b/>tant<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>porém<s n="cnjadv"/></l>               <r>no<b/>obstant<b/>això<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>posto<b/>que<s n="cnjadv"/></l>        <r>encara<b/>que<s n="cnjadv"/></r></p></e>
@@ -12247,6 +12253,7 @@
 <e>       <p><l>historiador<s n="n"/></l>              <r>historiador<s n="n"/></r></p></e>
 <e>       <p><l>historial<s n="n"/></l>                <r>historial<s n="n"/></r></p></e>
 <e>       <p><l>história<s n="n"/><s n="f"/></l>       <r>història<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>pré-história<s n="n"/><s n="f"/></l><r>prehistòria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>holandês<s n="n"/></l>                 <r>holandès<s n="n"/></r></p></e>
 <e>       <p><l>homem<s n="n"/></l>                    <r>home<s n="n"/></r></p></e>
 <e>       <p><l>homenagem<s n="n"/><s n="f"/></l>      <r>homenatge<s n="n"/><s n="m"/></r></p></e>
@@ -12278,6 +12285,10 @@
 <e>       <p><l>hóspede<s n="n"/><s n="mf"/></l>       <r>hoste<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ida<s n="n"/></l>                      <r>anada<s n="n"/></r></p></e>
 <e>       <p><l>idade<s n="n"/></l>                    <r>edat<s n="n"/></r></p></e>
+<e a="hector"><p><l>Idade<b/>Média<s n="n"/></l>       <r>edat<b/>mitjana<s n="n"/></r></p></e>
+<e a="hector"><p><l>Idade<g><b/>da<b/>Pedra</g><s n="n"/></l><r>edat<g><b/>de<b/>pedra</g><s n="n"/></r></p></e>
+<e a="hector"><p><l>Idade<g><b/>do<b/>Bronze</g><s n="n"/></l><r>edat<g><b/>del<b/>bronze</g><s n="n"/></r></p></e>
+<e a="hector"><p><l>Idade<g><b/>do<b/>Ferro</g><s n="n"/></l><r>edat<g><b/>del<b/>ferro</g><s n="n"/></r></p></e>
 <e>       <p><l>ideia<s n="n"/></l>                    <r>idea<s n="n"/></r></p></e>
 <e>       <p><l>identidade<s n="n"/></l>               <r>identitat<s n="n"/></r></p></e>
 <e>       <p><l>identificação<s n="n"/></l>            <r>identificació<s n="n"/></r></p></e>
@@ -18327,7 +18338,19 @@
 <e>       <p><l>Samper<s n="np"/></l>                  <r>Samper<s n="np"/></r></p></e>
 <e>       <p><l>San<s n="np"/><s n="al"/></l>          <r>San<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Sancho<s n="np"/></l>                  <r>Sancho<s n="np"/></r></p></e>
-<e>       <p><l>Santiago<s n="np"/></l>                <r>Santiago<s n="np"/></r></p></e>
+<e>       <p><l>Santiago<s n="np"/><s n="top"/></l>    <r>Santiago<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Santiago<s n="np"/><s n="ant"/></l>    <r>Santiago<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Santiago<s n="np"/><s n="cog"/></l>    <r>Santiago<s n="np"/><s n="cog"/></r></p></e>
+<e r="LR"><p><l>Santiago<b/>de<b/>Compostela<s n="np"/><s n="top"/></l><r>Santiago<b/>de<b/>Compostel·la<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>São<b/>Tiago<b/>de<b/>Compostela<s n="np"/><s n="top"/></l><r>Santiago<b/>de<b/>Compostel·la<s n="np"/><s n="top"/></r></p></e>
+<e r="RL"><p><l>São<b/>Tiago<b/>de<b/>Compostela<s n="np"/><s n="top"/></l><r>Sant<b/>Jaume<b/>de<b/>Galícia<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Compostela<s n="np"/><s n="top"/></l>  <r>Compostel·la<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Vigo<s n="np"/><s n="top"/></l>        <r>Vigo<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Pontevedra<s n="np"/><s n="top"/></l>  <r>Pontevedra<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Corunha<s n="np"/><s n="top"/></l>     <r>la<b/>Corunya<s n="np"/><s n="top"/></r></p></e>
+<e r="LR"><p><l>a<b/>Corunha<s n="np"/><s n="top"/></l><r>la<b/>Corunya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Lugo<s n="np"/><s n="top"/></l>        <r>Lugo<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Badajoz<s n="np"/><s n="top"/></l>     <r>Badajoz<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Sarajevo<s n="np"/></l>                <r>Sarajevo<s n="np"/></r></p></e>
 <e>       <p><l>Sarrià<s n="np"/></l>                  <r>Sarrià<s n="np"/></r></p></e>
 <e>       <p><l>Sevilla<s n="np"/></l>                 <r>Sevilla<s n="np"/></r></p></e>
@@ -21652,6 +21675,15 @@
 <e>       <p><l>Clemenceau<s n="np"/><s n="cog"/></l>  <r>Clemenceau<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Clemens<s n="np"/><s n="cog"/></l>     <r>Clemens<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Clemente<s n="np"/><s n="cog"/></l>    <r>Clemente<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Clemente<s n="np"/><s n="ant"/></l>    <r>Clemente<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Clemente<s n="np"/><s n="ant"/></l>    <r>Climent<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Climent<s n="np"/><s n="ant"/></l>    <r>Climent<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Bonifácio<s n="np"/><s n="cog"/></l>    <r>Bonifácio<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bonifácio<s n="np"/><s n="ant"/></l>    <r>Bonifaci<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Bonifaci<s n="np"/><s n="ant"/></l>    <r>Bonifaci<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Ricardo<s n="np"/><s n="ant"/></l>    <r>Ricardo<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Ricardo<s n="np"/><s n="cog"/></l>    <r>Ricard<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ricard<s n="np"/><s n="ant"/></l>    <r>Ricard<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Clement<s n="np"/><s n="cog"/></l>     <r>Clement<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Clément<s n="np"/><s n="cog"/></l>     <r>Clément<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Clements<s n="np"/><s n="cog"/></l>    <r>Clements<s n="np"/><s n="cog"/></r></p></e>
@@ -36993,6 +37025,9 @@
 <e>       <p><l>Siri<s n="np"/><s n="cog"/></l>        <r>Siri<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sisinni<s n="np"/><s n="cog"/></l>     <r>Sisinni<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sisto<s n="np"/><s n="cog"/></l>       <r>Sisto<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Sisto<s n="np"/><s n="ant"/></l>       <r>Sisto<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sisto<s n="np"/><s n="ant"/></l>       <r>Sixt<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Sixt<s n="np"/><s n="ant"/></l>       <r>Sixt<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Skolimowski<s n="np"/><s n="cog"/></l> <r>Skolimowski<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Smeriglio<s n="np"/><s n="cog"/></l>   <r>Smeriglio<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Smuraglia<s n="np"/><s n="cog"/></l>   <r>Smuraglia<s n="np"/><s n="cog"/></r></p></e>
@@ -37606,6 +37641,8 @@
 <e>       <p><l>Joziel<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Joziel<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Juninho<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Juninho<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Júlio<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Júlio<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>Júlio<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Juli<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>Juli<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Juli<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Laurindo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Laurindo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Leandro<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Leandro<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Lindberg<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l><r>Lindberg<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -38378,6 +38415,10 @@
       <e a="hector"><p><l>Amazonas<s n="np"/><s n="top"/></l><r>Amazones<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Tejo<s n="np"/><s n="top"/></l><r>Tajo<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Douro<s n="np"/><s n="top"/></l><r>Duero<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Minho<s n="np"/><s n="top"/></l><r>Miño<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Guadiana<s n="np"/><s n="top"/></l><r>Guadiana<s n="np"/><s n="top"/></r></p></e>
+      <e r="LR" a="hector"><p><l>Odiana<s n="np"/><s n="top"/></l><r>Guadiana<s n="np"/><s n="top"/></r></p></e>
+      <e a="hector"><p><l>Ourense<s n="np"/><s n="top"/></l><r>Ourense<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Prat<b/>de<b/>la<b/>Riba<s n="np"/><s n="cog"/></l><r>Prat<b/>de<b/>la<b/>Riba<s n="np"/><s n="cog"/></r></p></e>
       <e a="hector"><p><l>Acre<s n="np"/><s n="top"/></l><r>Acre<s n="np"/><s n="top"/></r></p></e>
       <e a="hector"><p><l>Alagoas<s n="np"/><s n="top"/></l><r>Alagoas<s n="np"/><s n="top"/></r></p></e>
@@ -38708,7 +38749,16 @@
           group pr_symbol
       ****************************** -->
 <e>       <p><l>a<s n="pr"/></l>                       <r>a<s n="pr"/></r></p></e>
+<e>       <p><l>a<b/>fim<b/>de<s n="pr"/></l>          <r>a<b/>fi<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>a<b/>guisa<b/>de<s n="pr"/></l>        <r>com<b/>a<s n="pr"/></r></p></e>
+<e>       <p><l>a<b/>meados<b/>de<s n="pr"/></l>       <r>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>a<b/>meados<b/>de<s n="pr"/></l>       <r>a<b/>mitjan<s n="pr"/></r></p></e>
+<e>       <p><l>desde<b/>meados<b/>de<s n="pr"/></l>   <r>des<b/>de<b/>mitjans<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>desde<b/>meados<b/>de<s n="pr"/></l>   <r>des<b/>de<b/>mitjan<s n="pr"/></r></p></e>
+<e>       <p><l>até<b/>meados<b/>de<s n="pr"/></l>     <r>fins<b/>mitjans<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>até<b/>meados<b/>de<s n="pr"/></l>     <r>fins<b/>mitjan<s n="pr"/></r></p></e>
+<e>       <p><l>por<b/>volta<b/>de<b/>meados<b/>de<s n="pr"/></l><r>cap<b/>a<b/>mitjans<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>por<b/>volta<b/>de<b/>meados<b/>de<s n="pr"/></l><r>cap<b/>a<b/>mitjan<s n="pr"/></r></p></e>
 <e>       <p><l>a<b/>par<b/>de<s n="pr"/></l>          <r>al<b/>corrent<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>a<b/>pedido<b/>de<s n="pr"/></l>       <r>a<b/>petició<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>apesar<b/>de<s n="pr"/></l>            <r>malgrat<s n="pr"/></r></p></e>
@@ -38720,7 +38770,7 @@
 <e r="LR"><p><l>além<b/>de<s n="pr"/></l>              <r>a<b/>més<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>ante<s n="pr"/></l>                    <r>davant<s n="pr"/></r></p></e>
 <e r="LR"><p><l>ao<b/>invés<b/>de<s n="pr"/></l>       <r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
-<e r="RL"><p><l>até<s n="pr"/></l>                     <r>fins<s n="pr"/></r></p></e>
+<e>       <p><l>até<s n="pr"/></l>                     <r>fins<s n="pr"/></r></p></e>
 <e>       <p><l>até<s n="pr"/></l>                     <r>fins<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>casa<b/>de<s n="pr"/></l>              <r>can<s n="pr"/></r></p></e>
 <e>       <p><l>casa<b/>de<s n="pr"/></l>              <r>can<s n="pr"/></r></p></e>
@@ -38791,6 +38841,7 @@
 <e r="RL"><p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>per<b/>darrera<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>darrere<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>por<b/>trás<b/>de<s n="pr"/></l>       <r>darrera<b/>de<s n="pr"/></r></p></e>
+<e>       <p><l>por<b/>volta<b/>de<s n="pr"/></l>      <r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>pra<s n="pr"/></l>                     <r>per<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>quanto<b/>a<s n="pr"/></l>             <r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>segundo<s n="pr"/></l>                 <r>d'acord<b/>a<s n="pr"/></r></p></e>
@@ -40621,6 +40672,196 @@
 <e vl="pt_pre1990" a="hector"><p><l>reactivar<s n="vblex"/></l><r>reactivar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>reintroduzir<s n="vblex"/></l><r>reintroduir<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>apadrinhar<s n="vblex"/></l><r>apadrinar<s n="vblex"/></r></p></e>
+
+<e a="hector"><p><l>adverbializar<s n="vblex"/></l><r>adverbialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>africanizar<s n="vblex"/></l><r>africanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>agonizar<s n="vblex"/></l><r>agonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>agudizar<s n="vblex"/></l><r>aguditzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>alcalinizar<s n="vblex"/></l><r>alcalinitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>alfabetizar<s n="vblex"/></l><r>alfabetitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>alegorizar<s n="vblex"/></l><r>al·legoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>amenizar<s n="vblex"/></l><r>amenitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>americanizar<s n="vblex"/></l><r>americanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>amortizar<s n="vblex"/></l><r>amortitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>angelizar<s n="vblex"/></l><r>angelitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>anglicizar<s n="vblex"/></l><r>anglicitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>animalizar<s n="vblex"/></l><r>animalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>arabizar<s n="vblex"/></l><r>arabitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>arborizar<s n="vblex"/></l><r>arboritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>aristocratizar<s n="vblex"/></l><r>aristocratitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>aromatizar<s n="vblex"/></l><r>aromatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>atomizar<s n="vblex"/></l><r>atomitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>banalizar<s n="vblex"/></l><r>banalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>burocratizar<s n="vblex"/></l><r>burocratitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>canonizar<s n="vblex"/></l><r>canonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>capitalizar<s n="vblex"/></l><r>capitalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>caramelizar<s n="vblex"/></l><r>caramel·litzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>caricaturizar<s n="vblex"/></l><r>caricaturitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>castelhanizar<s n="vblex"/></l><r>castellanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>categorizar<s n="vblex"/></l><r>categoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>cauterizar<s n="vblex"/></l><r>cauteritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>centralizar<s n="vblex"/></l><r>centralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>cicatrizar<s n="vblex"/></l><r>cicatritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>climatizar<s n="vblex"/></l><r>climatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>coalizar<s n="vblex"/></l><r>coalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>confraternizar<s n="vblex"/></l><r>confraternitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>constitucionalizar<s n="vblex"/></l><r>constitucionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>contemporizar<s n="vblex"/></l><r>contemporitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>contextualizar<s n="vblex"/></l><r>contextualitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>corresponsabilizar<s n="vblex"/></l><r>corresponsabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>cristalizar<s n="vblex"/></l><r>cristal·litzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>cristianizar<s n="vblex"/></l><r>cristianitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>culpabilizar<s n="vblex"/></l><r>culpabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>democratizar<s n="vblex"/></l><r>democratitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desamortizar<s n="vblex"/></l><r>desamortitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desautorizar<s n="vblex"/></l><r>desautoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desburocratizar<s n="vblex"/></l><r>desburocratitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>descapitalizar<s n="vblex"/></l><r>descapitalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>descarbonizar<s n="vblex"/></l><r>descarbonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>descristianizar<s n="vblex"/></l><r>descristianitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desculpabilizar<s n="vblex"/></l><r>desculpabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desestabilizar<s n="vblex"/></l><r>desestabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desmineralizar<s n="vblex"/></l><r>desmineralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desmobilizar<s n="vblex"/></l><r>desmobilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desnacionalizar<s n="vblex"/></l><r>desnacionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desnaturalizar<s n="vblex"/></l><r>desnaturalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>despenalizar<s n="vblex"/></l><r>despenalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>despersonalizar<s n="vblex"/></l><r>despersonalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>desvitalizar<s n="vblex"/></l><r>desvitalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>divinizar<s n="vblex"/></l><r>divinitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>dogmatizar<s n="vblex"/></l><r>dogmatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>dramatizar<s n="vblex"/></l><r>dramatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>economizar<s n="vblex"/></l><r>economitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>electrizar<s n="vblex"/></l><r>electritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>entronizar<s n="vblex"/></l><r>entronitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>erotizar<s n="vblex"/></l><r>erotitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>escandalizar<s n="vblex"/></l><r>escandalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>escolarizar<s n="vblex"/></l><r>escolaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>espanholizar<s n="vblex"/></l><r>espanyolitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>espiritualizar<s n="vblex"/></l><r>espiritualitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>esquematizar<s n="vblex"/></l><r>esquematitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>esterilizar<s n="vblex"/></l><r>esterilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>estigmatizar<s n="vblex"/></l><r>estigmatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>estilizar<s n="vblex"/></l><r>estilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>eterizar<s n="vblex"/></l><r>eteritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>eternizar<s n="vblex"/></l><r>eternitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>evangelizar<s n="vblex"/></l><r>evangelitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>exorcizar<s n="vblex"/></l><r>exorcitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>fanatizar<s n="vblex"/></l><r>fanatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>feminizar<s n="vblex"/></l><r>feminitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>fertilizar<s n="vblex"/></l><r>fertilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>flexibilizar<s n="vblex"/></l><r>flexibilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>focalizar<s n="vblex"/></l><r>focalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>fossilizar<s n="vblex"/></l><r>fossilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>fraternizar<s n="vblex"/></l><r>fraternitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>galvanizar<s n="vblex"/></l><r>galvanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>gelatinizar<s n="vblex"/></l><r>gelatinitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>globalizar<s n="vblex"/></l><r>globalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>gramaticalizar<s n="vblex"/></l><r>gramaticalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>grecizar<s n="vblex"/></l><r>grecitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>harmonizar<s n="vblex"/></l><r>harmonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>helenizar<s n="vblex"/></l><r>hel·lenitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>higienizar<s n="vblex"/></l><r>higienitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>hipnotizar<s n="vblex"/></l><r>hipnotitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>hispanizar<s n="vblex"/></l><r>hispanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>hostilizar<s n="vblex"/></l><r>hostilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>idealizar<s n="vblex"/></l><r>idealitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>idiotizar<s n="vblex"/></l><r>idiotitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ilegalizar<s n="vblex"/></l><r>il·legalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>impermeabilizar<s n="vblex"/></l><r>impermeabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>infantilizar<s n="vblex"/></l><r>infantilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>informatizar<s n="vblex"/></l><r>informatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>insensibilizar<s n="vblex"/></l><r>insensibilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>insonorizar<s n="vblex"/></l><r>insonoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>institucionalizar<s n="vblex"/></l><r>institucionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>instrumentalizar<s n="vblex"/></l><r>instrumentalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>interiorizar<s n="vblex"/></l><r>interioritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>internacionalizar<s n="vblex"/></l><r>internacionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>internalizar<s n="vblex"/></l><r>internalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ionizar<s n="vblex"/></l><r>ionitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>italianizar<s n="vblex"/></l><r>italianitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>lexicalizar<s n="vblex"/></l><r>lexicalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>liberalizar<s n="vblex"/></l><r>liberalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>martirizar<s n="vblex"/></l><r>martiritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mecanizar<s n="vblex"/></l><r>mecanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mediatizar<s n="vblex"/></l><r>mediatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>memorizar<s n="vblex"/></l><r>memoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mentalizar<s n="vblex"/></l><r>mentalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mercantilizar<s n="vblex"/></l><r>mercantilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mercerizar<s n="vblex"/></l><r>merceritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>metalizar<s n="vblex"/></l><r>metal·litzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>militarizar<s n="vblex"/></l><r>militaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>mineralizar<s n="vblex"/></l><r>mineralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>miniaturizar<s n="vblex"/></l><r>miniaturitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>monetizar<s n="vblex"/></l><r>monetitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>monopolizar<s n="vblex"/></l><r>monopolitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>moralizar<s n="vblex"/></l><r>moralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>motorizar<s n="vblex"/></l><r>motoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>nacionalizar<s n="vblex"/></l><r>nacionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>narcotizar<s n="vblex"/></l><r>narcotitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>nasalizar<s n="vblex"/></l><r>nasalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>naturalizar<s n="vblex"/></l><r>naturalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>normalizar<s n="vblex"/></l><r>normalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>obstaculizar<s n="vblex"/></l><r>obstaculitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>oficializar<s n="vblex"/></l><r>oficialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>orientalizar<s n="vblex"/></l><r>orientalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>palatalizar<s n="vblex"/></l><r>palatalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>particularizar<s n="vblex"/></l><r>particularitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>pasteurizar<s n="vblex"/></l><r>pasteuritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>poetizar<s n="vblex"/></l><r>poetitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>polarizar<s n="vblex"/></l><r>polaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>polemizar<s n="vblex"/></l><r>polemitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>polimerizar<s n="vblex"/></l><r>polimeritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>politizar<s n="vblex"/></l><r>polititzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>polvorizar<s n="vblex"/></l><r>polvoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>polinizar<s n="vblex"/></l><r>pol·linitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>popularizar<s n="vblex"/></l><r>popularitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>pressurizar<s n="vblex"/></l><r>pressuritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>profetizar<s n="vblex"/></l><r>profetitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>protocolizar<s n="vblex"/></l><r>protocolitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>radicalizar<s n="vblex"/></l><r>radicalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>regionalizar<s n="vblex"/></l><r>regionalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>relativizar<s n="vblex"/></l><r>relativitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>rendibilizar<s n="vblex"/></l><r>rendibilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ridiculizar<s n="vblex"/></l><r>ridiculitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>rivalizar<s n="vblex"/></l><r>rivalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>romanizar<s n="vblex"/></l><r>romanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>ruborizar<s n="vblex"/></l><r>ruboritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sacralizar<s n="vblex"/></l><r>sacralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>satirizar<s n="vblex"/></l><r>satiritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sectorizar<s n="vblex"/></l><r>sectoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>secularizar<s n="vblex"/></l><r>secularitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sedentarizar<s n="vblex"/></l><r>sedentaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sentimentalizar<s n="vblex"/></l><r>sentimentalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>singularizar<s n="vblex"/></l><r>singularitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sintonizar<s n="vblex"/></l><r>sintonitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>socializar<s n="vblex"/></l><r>socialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sodomizar<s n="vblex"/></l><r>sodomitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>solidarizar<s n="vblex"/></l><r>solidaritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>sonorizar<s n="vblex"/></l><r>sonoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>subtilizar<s n="vblex"/></l><r>subtilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>teatralizar<s n="vblex"/></l><r>teatralitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>temporizar<s n="vblex"/></l><r>temporitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>teologizar<s n="vblex"/></l><r>teologitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>teorizar<s n="vblex"/></l><r>teoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>tiranizar<s n="vblex"/></l><r>tiranitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>traumatizar<s n="vblex"/></l><r>traumatitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>trivializar<s n="vblex"/></l><r>trivialitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>uniformizar<s n="vblex"/></l><r>uniformitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>universalizar<s n="vblex"/></l><r>universalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>urbanizar<s n="vblex"/></l><r>urbanitzar<s n="vblex"/></r></p></e>
+<e r="RL" a="hector"><p><l>valorizar<s n="vblex"/></l><r>valoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vampirizar<s n="vblex"/></l><r>vampiritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vaporizar<s n="vblex"/></l><r>vaporitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>verbalizar<s n="vblex"/></l><r>verbalitzar<s n="vblex"/></r></p></e>
+<e r="RL" a="hector"><p><l>viabilizar<s n="vblex"/></l><r>viabilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vigorizar<s n="vblex"/></l><r>vigoritzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>virilizar<s n="vblex"/></l><r>virilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vitalizar<s n="vblex"/></l><r>vitalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vocalizar<s n="vblex"/></l><r>vocalitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>volatilizar<s n="vblex"/></l><r>volatilitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vulcanizar<s n="vblex"/></l><r>vulcanitzar<s n="vblex"/></r></p></e>
+<e a="hector"><p><l>vulgarizar<s n="vblex"/></l><r>vulgaritzar<s n="vblex"/></r></p></e>
   	
 <!-- xxxxx -->
 
@@ -40734,7 +40975,6 @@
 <e a="hector"><p><l>predominantemente<s n="adv"/></l>  <r>predominantment<s n="adv"/></r></p></e>
 <e a="hector" vl="br"><p><l>planejar<s n="vblex"/></l> <r>planejar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>matriz<s n="n"/><s n="f"/></l>     <r>matriu<s n="n"/><s n="f"/></r></p></e>
-<e a="hector"><p><l>localizar<s n="vblex"/></l>        <r>localitzar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>desmembrar<s n="vblex"/></l>       <r>desmembrar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>bateria<s n="n"/><s n="f"/></l>    <r>bateria<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>autoria<s n="n"/><s n="f"/></l>    <r>autoria<s n="n"/><s n="f"/></r></p></e>
@@ -40785,7 +41025,7 @@
 <e a="hector"><p><l>oxidação<s n="n"/><s n="f"/></l>   <r>oxidació<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>monarquia<s n="n"/><s n="f"/></l>  <r>monarquia<s n="n"/><s n="f"/></r></p></e>
 <e a="hector"><p><l>míssil<s n="n"/><s n="m"/></l>     <r>míssil<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>legenda<s n="n"/><s n="f"/></l>    <r>llegenda<s n="n"/><s n="f"/></r></p></e>
+<e a="hector"><p><l>legenda<s n="n"/><s n="f"/></l>    <r>subtítol<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>integral<s n="adj"/></l>           <r>integral<s n="adj"/></r></p></e>
 <e a="hector"><p><l>instrumentar<s n="vblex"/></l>     <r>instrumentar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>ingressar<s n="vblex"/></l>        <r>ingressar<s n="vblex"/></r></p></e>
@@ -41184,7 +41424,6 @@
 <e a="hector"><p><l>dualismo<s n="n"/><s n="m"/></l>   <r>dualisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>dramatismo<s n="n"/><s n="m"/></l> <r>dramatisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>cromatismo<s n="n"/><s n="m"/></l> <r>cromatisme<s n="n"/><s n="m"/></r></p></e>
-<e a="hector"><p><l>cristalizar<s n="vblex"/></l>      <r>cristalitzar<s n="vblex"/></r></p></e>
 <e a="hector"><p><l>corporativismo<s n="n"/><s n="m"/></l><r>corporativisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>consumismo<s n="n"/><s n="m"/></l> <r>consumisme<s n="n"/><s n="m"/></r></p></e>
 <e a="hector"><p><l>confucionismo<s n="n"/><s n="m"/></l><r>confucionisme<s n="n"/><s n="m"/></r></p></e>
