@@ -829,6 +829,9 @@
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
 
+  <!-- negar > negar, recusar -->
+  <macro name="verb_nopron_pron" p1="negar" p2="negar" p3="recusar"/>
+
   <!-- dir > dizer, chamar -->
   <macro name="verb_nopron_pron" p1="dir" p2="dizer" p3="chamar"/>
 

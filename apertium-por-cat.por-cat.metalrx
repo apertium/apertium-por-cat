@@ -709,6 +709,9 @@
     <match lemma="de" tags="pr"/>
   </rule>
 
+  <!-- recusar > rebutjar, negar -->
+  <macro name="verb_nopron_pron" p1="recusar" p2="rebutjar" p3="negar"/>
+
   <!-- sentar > asseure, seure -->
   <macro name="verb_nopron_pron" p1="sentar" p2="asseure" p3="seure"/>
 
