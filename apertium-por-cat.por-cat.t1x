@@ -208,11 +208,19 @@
 		<cat-item tags="vbmod"/>
 	</def-cat>
 	
-   <def-cat n="inf">
-   	<cat-item tags="vblex.inf"/>
+   	<def-cat n="inf">
+   		<cat-item tags="vblex.inf"/>
 	  	<cat-item tags="vbser.inf"/>
 	  	<cat-item tags="vbhaver.inf"/>
 	  	<cat-item tags="vbmod.inf"/>
+	</def-cat>
+	
+   	<def-cat n="vblex_inf">
+   		<cat-item tags="vblex.inf"/>
+	</def-cat>
+	
+   	<def-cat n="vbser_inf">
+   		<cat-item tags="vbser.inf"/>
 	</def-cat>
 	
 	<def-cat n="ger">          
@@ -419,6 +427,10 @@
 	<def-cat n="que_rel">
 		<cat-item lemma="que" tags="rel.*"/>
 		<cat-item lemma="que" tags="cnjsub"/>
+	</def-cat>
+	
+	<def-cat n="vir">
+		<cat-item lemma="vir" tags="vblex.*"/>
 	</def-cat>
 	
 	<def-cat n="vbir">
@@ -7336,6 +7348,66 @@
 	
 <!-- 								== v. ir == -->
 
+	<rule comment="VIR  + A + INFINITIU -> VERB">
+		<pattern>
+			<pattern-item n="vir"/>
+			<pattern-item n="a"/>
+			<pattern-item n="inf"/>
+		</pattern>
+		<action>
+			<call-macro n="f_bcond">
+				<with-param pos="1"/>
+			</call-macro>
+			<call-macro n="f_bcond">
+				<with-param pos="2"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="sl" part="temps"/>
+							<lit-tag v="ifi"/>
+						</equal>
+					</test>
+					<out>
+						<lu>
+							<get-case-from pos="1">
+								<lit v="anar"/>
+							</get-case-from>
+							<lit-tag v="vaux"/>
+							<clip pos="1" side="sl" part="persona"/>
+							<clip pos="1" side="sl" part="nbr"/>
+						</lu>
+						<b/>
+						<lu>
+							<clip pos="3" side="tl" part="lemh"/>
+							<clip pos="3" side="tl" part="a_verb"/>
+							<lit-tag v="inf"/>
+							<clip pos="3" side="tl" part="lemq"/>
+						</lu>
+					</out>
+				</when>
+				<otherwise>
+					<call-macro n="f_infps">
+						<with-param pos="1"/>
+					</call-macro> 
+					<out>
+						<lu>
+							<get-case-from pos="1">
+								<clip pos="3" side="tl" part="lemh"/>
+							</get-case-from>
+							<clip pos="3" side="tl" part="a_verb"/>
+							<clip pos="1" side="tl" part="temps"/>
+							<clip pos="1" side="tl" part="persona"/>
+							<clip pos="1" side="tl" part="nbr"/>
+							<clip pos="3" side="tl" part="lemq"/>	 
+						</lu>
+					</out>	
+				</otherwise>
+			</choose>
+		</action>
+ 	</rule> 
+	
 	<rule> <!--REGLA 36: VERB IR + INFINITIU -> anar + A + INFINITIU -->
 		<pattern>
 			<pattern-item n="vbir"/>
