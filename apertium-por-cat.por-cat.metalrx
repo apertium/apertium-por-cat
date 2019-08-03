@@ -353,6 +353,34 @@
     </def-macro>
   </def-macros>
 
+  <def-seqs>
+    <def-seq n="veículo">
+      <match lemma="veículo"/>
+      <match lemma="transporte"/>
+      <match lemma="carro"/>
+      <match lemma="automóvel"/>
+      <match lemma="moto"/>
+      <match lemma="autocarro"/>
+      <match lemma="ônibus"/>
+      <match lemma="autocar"/>
+      <match lemma="elétrico"/>
+      <match lemma="eléctrico"/>
+      <match lemma="trólei"/>
+      <match lemma="metro"/>
+      <match lemma="comboio"/>
+      <match lemma="trem"/>
+      <match lemma="carrinha"/>
+      <match lemma="carrinha# de caixa aberta"/>
+      <match lemma="furgoneta"/>
+      <match lemma="caminhão"/>
+      <match lemma="caminhonete"/>
+      <match lemma="furgão"/>
+      <match lemma="bicicleta"/>
+      <match lemma="barca"/>
+      <match lemma="barco"/>
+    </def-seq>
+  </def-seqs>
+
 <rules>
 
 <!-- **************** PR **************** -->
@@ -429,6 +457,35 @@
     </or>  
   </rule>
 
+  <!-- em > en, a -->
+  <rule weight="0.6">
+    <match lemma="em" tags="pr"><select lemma="en"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="em" tags="pr"><select lemma="a" tags="pr"/></match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/><match tags="np.al"/><match tags="np.al.*"/></or>
+  </rule>
+
+  <!-- de > de, en -->
+  <rule weight="0.6">
+    <match lemma="de" tags="pr"><select lemma="de"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="ir" tags="vblex.*"/>
+      <match lemma="vir" tags="vblex.*"/>
+      <match lemma="chegar" tags="vblex.*"/>
+      <match lemma="viajar" tags="vblex.*"/>
+    </or>
+    <match lemma="de" tags="pr"><select lemma="en"/></match>
+    <or>
+      <seq n="veículo"/>
+    </or>
+  </rule>
+
 <!-- **************** ADJ **************** -->
 
   <!-- conjuntivo > subjuntiu, conjuntiu (Por) -->
@@ -473,6 +530,16 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- saque > saqueig, sacada (Bra) -->
+  <rule weight="0.6">
+    <match lemma="saque" tags="n.*"><select lemma="saqueig"/></match>
+  </rule>
+
+  <!-- serviço > servei/servici, sacada (Por) -->
+  <rule weight="0.6">
+    <match lemma="serviço" tags="n.*"><select lemma="servei"/></match>
+  </rule>
 
   <!-- comuna > comuna, municipi -->
   <rule weight="0.6">
