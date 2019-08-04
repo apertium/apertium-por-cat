@@ -904,8 +904,8 @@
       <list-item v="Nova Sibéria"/>
       <list-item v="Sierra Leone"/>
       <list-item v="Singapore"/>
-      <list-item v="Siria"/>
-      <list-item v="Somalia"/>
+      <list-item v="Síria"/>
+      <list-item v="Somália"/>
       <list-item v="Somerset"/>
       <list-item v="Southampton"/>
       <list-item v="Sri Lanka"/>
@@ -976,6 +976,7 @@
       <list-item v="Andalusia"/>
       <list-item v="Galiza"/>
       <list-item v="Biscaglia"/>
+      <list-item v="Madeira"/>
       <list-item v="Bretanha"/>
       <list-item v="Occitânia"/>
       <list-item v="Linguadoca"/>
@@ -1018,6 +1019,7 @@
       <list-item v="Connecticut"/>
       <list-item v="Dakota do Norte"/>
       <list-item v="Dakota do Sul"/>
+      <list-item v="Flórida"/>
       <list-item v="Idaho"/>
       <list-item v="Illinois"/>
       <list-item v="Indiana"/>
