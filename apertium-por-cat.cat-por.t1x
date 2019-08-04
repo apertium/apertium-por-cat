@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="utf-8"?> <!-- -*- nxml -*- -->
 <transfer>
 	<section-def-cats>
 		
@@ -10,12 +10,12 @@
 			<cat-item tags="np.ant"/>
 		</def-cat>
 		
-		<def-cat n="nploc">
-			<cat-item tags="np.loc"/>
-		</def-cat>
-		
 		<def-cat n="np">
 			<cat-item tags="np.*"/>
+		</def-cat>
+		
+		<def-cat n="top">
+			<cat-item tags="np.top.*"/>
 		</def-cat>
 		
 		<def-cat n="det">          
@@ -433,10 +433,6 @@
 			<attr-item tags="np.ant"/>
 		</def-attr>
 		
-		<def-attr n="a_nploc">
-			<attr-item tags="np.loc"/>
-		</def-attr>
-		
 		<def-attr n="a_det">          
 			<attr-item tags="det.def"/>
 			<attr-item tags="det.ind"/>
@@ -735,6 +731,349 @@
     <list-item v="estudiar"/> 
   </def-list>
 
+    <def-list n="paisos_regions"> <!-- per a treure un article si el porten -->
+      <list-item v="Europa"/>
+      <list-item v="Ásia"/>
+      <list-item v="África"/>
+      <list-item v="África do Sul"/>
+      <list-item v="América"/>
+      <list-item v="América Centrale"/>
+      <list-item v="América do Norte"/>
+      <list-item v="América do Sul"/>
+      <list-item v="Oceania"/>
+      <list-item v="Oceânia"/>
+      <list-item v="Escandinávia"/>
+      <list-item v="Afeganistão"/>
+      <list-item v="Algéria"/>
+      <list-item v="Angola"/>
+      <list-item v="Antígua e Barbuda"/>
+      <list-item v="Arábia"/>
+      <list-item v="Arábia Saudita"/>
+<!--      <list-item v="Argentina"/> -->
+      <list-item v="Arménia"/>
+      <list-item v="Armênia"/>
+      <list-item v="Austrália"/>
+      <list-item v="Áustria"/>
+      <list-item v="Azerbaijão"/>
+      <list-item v="Bahamas"/>
+      <list-item v="Bahrein"/>
+      <list-item v="Bangladesh"/>
+      <list-item v="Barbados"/>
+      <list-item v="Bélgica"/>
+      <list-item v="Belize"/>
+      <list-item v="Benim"/>
+      <list-item v="Butão"/>
+      <list-item v="Bielorrússia"/>
+      <list-item v="Belarus"/>
+      <list-item v="Bolívia"/>
+      <list-item v="Borneo"/>
+      <list-item v="Botswana"/>
+<!--      <list-item v="Brasil"/>  -->
+      <list-item v="Grã-Bretanha"/>
+      <list-item v="Brunei"/>
+      <list-item v="Bulgária"/>
+      <list-item v="Burkina Faso"/>
+      <list-item v="Burundi"/>
+      <list-item v="Cabo Verde"/>
+      <list-item v="Nova Caledónia"/>
+      <list-item v="Nova Caledônia"/>
+      <list-item v="Camarões"/>
+<!--      <list-item v="Canadá"/>  -->
+      <list-item v="Sulawesi"/>
+<!--      <list-item v="Chade"/> -->
+      <list-item v="Colômbia"/>
+      <list-item v="Comore"/>
+<!--      <list-item v="Congo"/> -->
+      <list-item v="Coréia"/>
+      <list-item v="Coréia do Norte"/>
+      <list-item v="Coréia do Sul"/>
+      <list-item v="Costa do Marfim"/>
+      <list-item v="Costa Rica"/>
+      <list-item v="Cuba"/>
+      <list-item v="Dinamarca"/>
+      <list-item v="Dominica"/>
+      <list-item v="Equador"/>
+      <list-item v="Egito"/>
+      <list-item v="Egipto"/>
+      <list-item v="Ellesmere"/>
+      <list-item v="El Salvador"/>
+      <list-item v="Eritréia"/>
+      <list-item v="Estónia"/>
+      <list-item v="Estônia"/>
+      <list-item v="Etiópia"/>
+      <list-item v="Faroe"/>
+      <list-item v="Filipinas"/>
+      <list-item v="Finlândia"/>
+      <list-item v="França"/>
+      <list-item v="Gabão"/>
+      <list-item v="Gâmbia"/>
+      <list-item v="Georgia"/>
+      <list-item v="Alemanha"/>
+      <list-item v="Gana"/>
+      <list-item v="Nova Guiné"/>
+      <list-item v="Jamaica"/>
+<!--      <list-item v="Japão"/> -->
+      <list-item v="Java"/>
+      <list-item v="Djibuti"/>
+      <list-item v="Jordânia"/>
+      <list-item v="Grenada"/>
+      <list-item v="Grécia"/>
+      <list-item v="Groenlândia"/>
+      <list-item v="Guadalupe"/>
+      <list-item v="Guiana Francesa"/>
+      <list-item v="Guam"/>
+      <list-item v="Guatemala"/>
+      <list-item v="Guiné"/>
+      <list-item v="Guiné-Bissau"/>
+      <list-item v="Guiné-Conacri"/>
+      <list-item v="Guiné Equatorial"/>
+      <list-item v="Guiana"/>
+      <list-item v="Haiti"/>
+      <list-item v="Honduras"/>
+      <list-item v="Indonésia"/>
+      <list-item v="Irã"/>
+      <list-item v="Irão"/>
+      <list-item v="Iraque"/>
+      <list-item v="Irlanda"/>
+      <list-item v="Irlanda do Norte"/>
+      <list-item v="Islândia"/>
+      <list-item v="Espanha"/>
+      <list-item v="Israel"/>
+      <list-item v="Suécia"/>
+      <list-item v="Suíça"/>
+      <list-item v="Itália"/>
+<!--      <list-item v="Iémen"/> -->
+      <list-item v="Cazaquistão"/>
+      <list-item v="Quênia"/>
+      <list-item v="Quirguistão"/>
+      <list-item v="Kiribati"/>
+      <list-item v="Kuweit"/>
+      <list-item v="Laos"/>
+      <list-item v="Lesoto"/>
+      <list-item v="Letónia"/>
+      <list-item v="Letônia"/>
+<!--      <list-item v="Libano"/> -->
+      <list-item v="Libéria"/>
+      <list-item v="Líbia"/>
+      <list-item v="Lituânia"/>
+      <list-item v="Luxemburgo"/>
+      <list-item v="Luzon"/>
+      <list-item v="Macedónia"/>
+      <list-item v="Macedônia"/>
+      <list-item v="Macedónia do Norte"/>
+      <list-item v="Macedônia do Norte"/>
+      <list-item v="Madagascar"/>
+      <list-item v="Malásia"/>
+      <list-item v="Malavi"/>
+      <list-item v="Mali"/>
+      <list-item v="Malpelo"/>
+      <list-item v="Malta"/>
+      <list-item v="Marrocos"/>
+      <list-item v="Mauritânia"/>
+      <list-item v="Mauricia"/>
+      <list-item v="Melville"/>
+      <list-item v="México"/>
+      <list-item v="Mindanao"/>
+      <list-item v="Mongólia"/>
+      <list-item v="Moçambique"/>
+      <list-item v="Myanmar"/>
+      <list-item v="Birmânia"/>
+      <list-item v="Camboja"/>
+      <list-item v="Namíbia"/>
+      <list-item v="Nauru"/>
+<!--      <list-item v="Nepal"/> -->
+      <list-item v="Nicarágua"/>
+      <list-item v="Níger"/>
+      <list-item v="Nigéria"/>
+      <list-item v="Norfolk"/>
+      <list-item v="Noruega"/>
+      <list-item v="Holanda"/>
+      <list-item v="Oman"/>
+      <list-item v="Paquistão"/>
+      <list-item v="Palestina"/>
+      <list-item v="Panamá"/>
+      <list-item v="Papua"/>
+      <list-item v="Paraguai"/>
+<!--      <list-item v="Peru"/> -->
+      <list-item v="Polónia"/>
+      <list-item v="Polônia"/>
+      <list-item v="Portugal"/>
+      <list-item v="Porto Rico"/>
+      <list-item v="Catar"/>
+      <list-item v="Roménia"/>
+      <list-item v="Romênia"/>
+      <list-item v="Ruanda"/>
+      <list-item v="Rússia"/>
+      <list-item v="Sibéria"/>
+<!--      <list-item v="Sara Ocidental"/> -->
+<!--      <list-item v="Saara Ocidental"/> -->
+      <list-item v="Santa Lúcia"/>
+      <list-item v="São Tomé e Príncipe"/>
+      <list-item v="São Vicente e Granadinas"/>
+<!--      <list-item v="Senegal"/> -->
+      <list-item v="Sérvia"/>		<!-- Traduït fins aquí -->
+      <list-item v="Nova Sibéria"/>
+      <list-item v="Sierra Leone"/>
+      <list-item v="Singapore"/>
+      <list-item v="Siria"/>
+      <list-item v="Somalia"/>
+      <list-item v="Somerset"/>
+      <list-item v="Southampton"/>
+      <list-item v="Sri Lanka"/>
+      <list-item v="Saint-Pierre e Miquelon"/>
+      <list-item v="Sudan"/>
+      <list-item v="Sumatra"/>
+      <list-item v="Suriname"/>
+      <list-item v="Swaziland"/>
+      <list-item v="Quirguistão"/>
+      <list-item v="Tajiquistão"/>
+      <list-item v="Tadjiquistão"/>
+      <list-item v="Tailandia"/>
+      <list-item v="Taiwan"/>
+      <list-item v="Tanzania"/>
+      <list-item v="Tasmania"/>
+      <list-item v="Terranova"/>
+      <list-item v="Timor"/>
+      <list-item v="Togo "/>
+      <list-item v="Trinidad e Tobago"/>
+      <list-item v="Tunisia"/>
+      <list-item v="Turchia"/>
+      <list-item v="Turcomenistão"/>
+      <list-item v="Turquemenistão"/>
+      <list-item v="Tuvalu"/>
+      <list-item v="Cile"/>
+<!--      <list-item v="Cina"/> -->
+      <list-item v="Cipro"/>
+      <list-item v="Ucraina"/>
+      <list-item v="E.a.u."/>
+      <list-item v="Uganda"/>
+      <list-item v="Ungheria"/>
+<!--      <list-item v="Uruguay"/> -->
+      <list-item v="Uzbequistão"/>
+      <list-item v="Usbequistão"/>
+      <list-item v="Vanuatu"/>
+      <list-item v="Venezuela"/>
+      <list-item v="Vietnam"/>
+      <list-item v="Zambia"/>
+      <list-item v="Nuova Zelanda"/>
+      <list-item v="Zimbawe"/>
+<!--      <list-item v="Piemonte"/> -->
+      <list-item v="Liguria"/>
+      <list-item v="Lombardia"/>
+      <list-item v="Trentino-Alto Adige"/>
+      <list-item v="Trentino"/>
+<!--      <list-item v="Veneto"/> -->
+      <list-item v="Friuli"/>
+      <list-item v="Friuli-Venezia Giulia"/>
+      <list-item v="Emilia-Romagna"/>
+      <list-item v="Emilia"/>
+      <list-item v="Romagna"/>
+<!--      <list-item v="Toscana"/> -->
+      <list-item v="Umbria"/>
+      <list-item v="Lazio"/>
+      <list-item v="Abruzzo"/>
+      <list-item v="Molise"/>
+      <list-item v="Campânia"/>
+      <list-item v="Basilicata"/>
+      <list-item v="Puglia"/>
+      <list-item v="Calâbria"/>
+      <list-item v="Sicilia"/>
+      <list-item v="Sardegna"/>
+      <list-item v="Catalunha"/>
+      <list-item v="Catalunha do Norte"/>
+      <list-item v="Aragão"/>
+      <list-item v="Castela"/>
+      <list-item v="Andalusia"/>
+      <list-item v="Galiza"/>
+      <list-item v="Biscaglia"/>
+      <list-item v="Bretanha"/>
+      <list-item v="Occitânia"/>
+      <list-item v="Linguadoca"/>
+      <list-item v="Provença"/>
+      <list-item v="Aquitânia"/>
+      <list-item v="Guasconha"/>
+      <list-item v="Normandia"/>
+      <list-item v="Corsica"/>
+      <list-item v="Rossiglione"/>
+      <list-item v="Inglaterra"/>
+      <list-item v="Escócia"/>
+      <list-item v="Gales"/>
+      <list-item v="Devon"/>
+      <list-item v="Cornovaglia"/>
+      <list-item v="Fiandra"/>
+      <list-item v="Fiandre"/>
+      <list-item v="Frisia"/>
+      <list-item v="Drenthe"/>
+      <list-item v="Zelanda"/>
+      <list-item v="Baden-Württemberg"/>
+      <list-item v="Baviera"/>
+      <list-item v="Brandeburgo"/>
+      <list-item v="Renania"/>
+      <list-item v="Palatinato"/>
+      <list-item v="Renania-Palatinato"/>
+      <list-item v="Vestfalia"/>
+      <list-item v="Renania Settentrionale-Vestfalia"/>
+      <list-item v="Sassonia"/>
+      <list-item v="Schleswig-Holstein"/>
+      <list-item v="Boemia"/>
+      <list-item v="Moravia"/>
+      <list-item v="Slesia"/>
+      <list-item v="Crimea"/>
+      <list-item v="Tibet"/>
+      <list-item v="Alabama"/>
+      <list-item v="Alaska"/>
+      <list-item v="Arizona"/>
+      <list-item v="California"/>
+      <list-item v="Carolina do Norte"/>
+      <list-item v="Carolina do Sul"/>
+      <list-item v="Connecticut"/>
+      <list-item v="Dakota do Norte"/>
+      <list-item v="Dakota do Sul"/>
+      <list-item v="Idaho"/>
+      <list-item v="Illinois"/>
+      <list-item v="Indiana"/>
+      <list-item v="Kansas"/>
+      <list-item v="Kentucky"/>
+      <list-item v="Louisiana"/>
+      <list-item v="Massachussets"/>
+      <list-item v="Michigan"/>
+      <list-item v="Minnesota"/>
+      <list-item v="Missouri"/>
+      <list-item v="Nevada"/>
+      <list-item v="New England"/>
+      <list-item v="New Hampshire"/>
+      <list-item v="New Jersey"/>
+      <list-item v="Oklahoma"/>
+      <list-item v="Ohio"/>
+      <list-item v="Texas"/>
+      <list-item v="Utah"/>
+      <list-item v="Wyoming"/>
+      <list-item v="Wisconsin"/>
+      <list-item v="Alberta"/>
+      <list-item v="Labrador"/>
+      <list-item v="Manitoba"/>
+      <list-item v="Ontario"/>
+      <list-item v="Quebec"/>
+      <list-item v="Saskatchewan"/>
+      <list-item v="Terranova"/>
+      <list-item v="Rio Grande do Norte"/>
+      <list-item v="Rio Grande do Sul"/>
+      <list-item v="Polinésia"/>
+      <list-item v="Melanésia"/>
+      <list-item v="Micronésia"/>
+      <list-item v="Prússia"/>
+      <list-item v="Pêrsia"/>
+      <list-item v="Mesopotômia"/>
+      <list-item v="Babilónia"/>
+      <list-item v="Babilônia"/>
+      <list-item v="Caldea"/>
+      <list-item v="Giudea"/>
+      <list-item v="Cecoslovacchia"/>
+      <list-item v="Jugoslavia"/>
+
+      <list-item v="Ferrol"/>
+      <list-item v="Porto"/>
+    </def-list>
 </section-def-lists>
 
 <section-def-macros>
@@ -5252,7 +5591,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA 45: és la setmana fantï¿½stica -> é a semana fantï¿½stica -->
+	<rule> <!--REGLA 45: és la setmana fantàstica -> é a semana fantàstica -->
 		<pattern>
 			<pattern-item n="vbser"/>
 			<pattern-item n="det"/>
@@ -5773,6 +6112,31 @@
 		</action>
 	</rule>
 	
+	
+	<rule comment="DETERMINANT TOP">
+		<pattern>
+			<pattern-item n="det"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+		<call-macro n="comprovagostar">
+			<with-param pos="1"/>
+		</call-macro>
+		<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+		</call-macro>
+			<out>  
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
 	
 	<rule> <!-- REGLA 11: DETERMINANT T-NOM -->
 		<pattern>
@@ -11384,29 +11748,6 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA: a + nploc = a Barcelona -> en Barcelona-->
-		<pattern>
-			<pattern-item n="a"/>
-			<pattern-item n="nploc"/>
-		</pattern>
-		<action>
-			<out>
-				<lu>
-					<get-case-from pos="1">
-						<lit v="em"/>
-					</get-case-from>
-					<clip pos="1" side="tl" part="a_prep"/>
-				</lu> 
-				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lem"/>
-					<clip pos="2" side="tl" part="a_nploc"/> 
-				</lu>
-			</out>
-		</action>
-	</rule> 
-
-
 	<rule> <!-- REGLA: verb + prep: Viure a la ciutat - Vivir en la ciudad-->
 		<pattern>
 			<pattern-item n="verb"/>
@@ -11494,273 +11835,6 @@
 		</action>
 	</rule> 
  
-	<rule> <!--REGLA: verb + prep + nploc: Estudio a Madrid - Estudio en Madrid. Sï¿½c a Sabadell - Estoy en Sabadell  -->
-		<pattern>
-			<pattern-item n="verb"/>
-			<pattern-item n="a"/>
-			<pattern-item n="nploc"/>
-		</pattern>
-		<action>
-			<choose>
-				<when>
-					<test>
-						<and>
-							<not>
-								<in caseless="yes">
-									<clip pos="1" side="sl" part="lem"/>
-									<list n="verbs_moviment"/>
-								</in>
-							</not>
-							<or>
-								<equal>
-									<clip pos="1" side="tl" part="a_verb"/>
-									<lit-tag v="vblex"/>
-								</equal>
-								<equal>
-									<clip pos="1" side="tl" part="a_verb"/>
-									<lit-tag v="vbmod"/>
-								</equal>
-							</or>
-						</and>
-					</test>
-					<out>
-						<lu>
-							<clip pos="1" side="tl" part="lemh"/>
-							<clip pos="1" side="tl" part="a_verb"/>
-							<clip pos="1" side="tl" part="temps"/>
-							<clip pos="1" side="tl" part="persona"/>
-							<clip pos="1" side="tl" part="gen"/>
-							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="1" side="tl" part="lemq"/>
-						</lu>
-						<b pos="1"/>
-						<lu>
-							<get-case-from pos="2">
-								<lit v="em"/>
-							</get-case-from>
-							<clip pos="2" side="tl" part="a_prep"/>
-						</lu>
-						<b pos="2"/>
-						<lu>
-							<clip pos="3" side="tl" part="whole"/>
-						</lu>
-					</out>
-				</when>
-				<when>
-					<test>
-						<equal>
-							<clip pos="1" side="tl" part="a_verb"/>
-							<lit-tag v="vbser"/>
-						</equal>
-					</test>
-					<out>
-						<lu>
-							<get-case-from pos="1">
-								<lit v="estar"/>
-							</get-case-from>
-							<lit-tag v="vblex"/>
-							<clip pos="1" side="tl" part="temps"/>
-							<clip pos="1" side="tl" part="persona"/>
-							<clip pos="1" side="tl" part="gen"/>
-							<clip pos="1" side="tl" part="nbr"/>
-						</lu>
-						<b pos="1"/>
-						<lu>
-							<get-case-from pos="2">
-								<lit v="em"/>
-							</get-case-from>
-							<clip pos="2" side="tl" part="a_prep"/>
-						</lu>
-						<b pos="2"/>
-						<lu>
-							<clip pos="3" side="tl" part="whole"/>
-						</lu>
-					</out>
-				</when>
-				<otherwise>
-					<out>
-						<lu>
-							<clip pos="1" side="tl" part="lemh"/>
-							<clip pos="1" side="tl" part="a_verb"/>
-							<clip pos="1" side="tl" part="temps"/>
-							<clip pos="1" side="tl" part="persona"/>
-							<clip pos="1" side="tl" part="gen"/>
-							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="1" side="tl" part="lemq"/>
-						</lu>
-						<b pos="1"/>
-						<lu>
-							<clip pos="2" side="tl" part="whole"/>
-						</lu>
-						<b pos="2"/>
-						<lu>
-							<clip pos="3" side="tl" part="whole"/>
-						</lu>
-					</out>
-				</otherwise>
-			</choose>
-		</action>
-	</rule>
-
- <rule> <!--REGLA: "anar" + inf + prep + nploc: Estudio a Madrid - Estudio en Madrid. Sï¿½c a Sabadell - Estoy en Sabadell (igual que l'anterior perï¿½ amb verb en forma perifrï¿½stica -->
-    <pattern>
-        <pattern-item n="anar"/>
-	<pattern-item n="inf"/>
-	<pattern-item n="a"/>
-	<pattern-item n="nploc"/>
-    </pattern>
-    <action>
-      <choose>
-	<when>
-	  <test>
-	    <and>
-	      <not>
-		<in caseless="yes">
-		  <clip pos="2" side="sl" part="lem"/>
-		  <list n="verbs_moviment"/>
-		</in>
-	      </not>
-	      <or>
-		<equal>  
-		  <clip pos="2" side="tl" part="a_verb"/>
-		  <lit-tag v="vblex"/>
-		</equal>  
-		<equal>  
-		  <clip pos="2" side="tl" part="a_verb"/>
-		  <lit-tag v="vbmod"/>  
-		</equal>
-	      </or>
-	    </and>
-	  </test>    
-	  <out>
-	    <lu>
-	      <get-case-from pos="1">            
-		<clip pos="2" side="tl" part="lemh"/>
-	      </get-case-from>
-	      <clip pos="2" side="tl" part="a_verb"/>
-	      <lit-tag v="ifi"/>
-	      <clip pos="1" side="tl" part="persona"/>
-	      <clip pos="1" side="tl" part="nbr"/>
-	      <clip pos="2" side="tl" part="lemq"/>                  
-	    </lu>  
-	  </out>  
-	  <call-macro n="f_bcond">
-	    <with-param pos="1"/>
-	  </call-macro>
-	  <out>
-	    <b pos="2"/>
-	    <lu>
-	      <get-case-from pos="3">
-		<lit v="em"/>
-	      </get-case-from>
-	      <clip pos="3" side="tl" part="a_prep"/> 
-	    </lu>
-	    <b pos="3"/>
-	    <lu>
-	      <clip pos="4" side="tl" part="whole"/>
-	    </lu>
-	  </out> 
-	</when> 
-	<when>
-	  <test>
-	    <equal>  
-	      <clip pos="2" side="tl" part="a_verb"/>
-	      <lit-tag v="vbser"/>
-	    </equal>  
-	  </test>  
-	  <out>
-	    <lu>    
-	      <get-case-from pos="2">
-		<lit v="estar"/>
-	      </get-case-from>
-	      <lit-tag v="vblex.ifi"/> 
-	      <clip pos="1" side="tl" part="persona"/>
-	      <clip pos="1" side="tl" part="nbr"/>
-	    </lu> 
-	  </out>  
-	  <call-macro n="f_bcond">
-	    <with-param pos="1"/>
-	  </call-macro>
-	  <out>
-	    <b pos="2"/>
-	    <lu>
-	      <get-case-from pos="3">
-		<lit v="em"/>
-	      </get-case-from>
-	      <clip pos="3" side="tl" part="a_prep"/> 
-	    </lu>
-	    <b pos="3"/>
-	    <lu>
-	      <clip pos="4" side="tl" part="whole"/>
-	    </lu>
-	  </out> 
-	</when>
-	<otherwise>
-	  <out>
-	    <lu>
-	    <get-case-from pos="1">            
-	      <clip pos="2" side="tl" part="lemh"/>
-	    </get-case-from>
-	    <clip pos="2" side="tl" part="a_verb"/>
-	    <lit-tag v="ifi"/>
-	    <clip pos="1" side="tl" part="persona"/>
-	    <clip pos="1" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>                  
-	  </lu>  
-	</out>  
-         <call-macro n="f_bcond">
-	  <with-param pos="1"/>
-	</call-macro>
-	<out>
-	  <b pos="2"/>
-	    <lu>
-	      <clip pos="3" side="tl" part="whole"/>
-	    </lu>
-	    <b pos="3"/>
-	    <lu>
-	      <clip pos="4" side="tl" part="whole"/>
-	    </lu>
-	  </out> 
-	</otherwise>
-      </choose>
-    </action>
- </rule>   
-
-
-<rule> <!-- dir-se -> llamarse -->
-  <pattern>
-      <pattern-item n="prnproref"/>
-      <pattern-item n="dir"/>
-    </pattern>
-    <action>
-      <choose>
-        <when>
-	  <test>
-	    <equal>
-	      <clip pos="1" side="sl" part="persona"/>
-	      <clip pos="2" side="sl" part="persona"/>
-	    </equal>
-	  </test>
-	  <let>
-	    <clip pos="2" side="tl" part="lem"/>
-	    <lit v="chamar"/>
-	  </let>
-	</when>
-      </choose>
-	<out>
-	  <lu>
-	    <clip pos="1" side="tl" part="whole"/>
-	  </lu>
-	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="whole"/>
-	  </lu>
-	</out>
-    </action>
-
-</rule> 
-
-
 <!-- 	ALTRES -->
 	<rule> <!-- REGLA 41: reset variables-->
 		<pattern>
