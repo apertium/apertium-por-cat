@@ -405,6 +405,7 @@
     <or>
       <match lemma="traduzir" tags="vblex.*"/>
       <match lemma="viajar" tags="vblex.*"/>
+      <match lemma="fugir" tags="vblex.*"/>
       <!--       <match lemma="ir" tags="vblex.*"/> -->
     </or>
     <repeat from="0" upto="1">
@@ -502,6 +503,11 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- sírio > sirià, siri -->
+  <rule weight="0.6">
+    <match lemma="sírio" tags="adj.*"><select lemma="sirià"/></match>
+  </rule>
+
   <!-- conjuntivo > subjuntiu, conjuntiu (Por) -->
   <rule weight="0.6">
     <match lemma="conjuntivo" tags="adj.*"><select lemma="subjuntiu"/></match>
@@ -544,6 +550,16 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- franquia > franquícia, franqueig -->
+  <rule weight="0.6">
+    <match lemma="franquia" tags="n.*"><select lemma="franquícia"/></match>
+  </rule>
+
+  <!-- sírio > sirià, siri -->
+  <rule weight="0.6">
+    <match lemma="sírio" tags="n.*"><select lemma="sirià"/></match>
+  </rule>
 
   <!-- saque > saqueig, sacada (Bra) -->
   <rule weight="0.6">
@@ -796,6 +812,11 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- dobrar > doblar, doblegar -->
+  <rule weight="0.6">
+    <match lemma="dobrar" tags="vblex.*"><select lemma="doblar"/></match>
+  </rule>
 
   <!-- acreditar > creure, acreditar -->
   <rule weight="0.6">
