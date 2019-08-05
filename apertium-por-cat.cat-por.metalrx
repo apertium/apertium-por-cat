@@ -1206,6 +1206,48 @@
 
 <!-- **************** N **************** -->
 
+  <!-- assistent > assistente, presente -->
+  <rule weight="0.6">
+    <match lemma="assistent" tags="n.*"><select lemma="assistente"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or><match tags="num.*"/><match tags="num"/></or>
+    <match lemma="assistent" tags="n.m.pl"><select lemma="presente"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="desena" tags="n.*"/>
+      <match lemma="dotzena" tags="n.*"/>
+      <match lemma="centenar" tags="n.*"/>
+      <match lemma="miler" tags="n.*"/>
+      <match lemma="milió" tags="n.*"/>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match lemma="assistent" tags="n.m.pl"><select lemma="presente"/></match>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="tenir" tags="vblex.*"/>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or><match tags="num.*"/><match tags="num"/></or>
+    <match lemma="assistent" tags="n.*"><select lemma="assistente"/></match>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="comptar" tags="vblex.*"/>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="amb" tags="pr"/>
+    <or><match tags="num.*"/><match tags="num"/></or>
+    <match lemma="assistent" tags="n.*"><select lemma="assistente"/></match>
+  </rule>
+
+  <!-- lloc > lugar, local, sítio -->
+  <rule weight="0.6">
+    <match lemma="lloc" tags="n.*"><select lemma="lugar"/></match>
+  </rule>
+
   <!-- parla > fala, falar -->
   <rule weight="0.6">
     <match lemma="parla" tags="n.*"><select lemma="fala"/></match>
@@ -1599,6 +1641,30 @@
 
 <!-- **************** V **************** -->
 
+  <!-- ser > ser, estar -->
+  <rule weight="0.6">
+    <match lemma="ser" tags="vblex.*"><select lemma="ser"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ser" tags="vblex.*"><select lemma="estar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or>
+      <match lemma="a" tags="pr"><select lemma="em" tags="pr"/></match>
+      <match lemma="en" tags="pr"/>
+    </or>
+  </rule>
+
+  <!-- qualificar > qualificar, chamar -->
+  <rule weight="0.6">
+    <match lemma="qualificar" tags="vblex.*"><select lemma="qualificar"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="qualificar" tags="vblex.*"><select lemma="chamar"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+
   <!-- lligar > ligar, atar -->
   <rule weight="0.6">
      <match lemma="lligar" tags="vblex.*"><select lemma="ligar"/></match>
@@ -1679,6 +1745,15 @@
   </rule>
 
 <!-- **************** PR **************** -->
+
+  <!-- a punt de > a ponto de, para -->
+  <rule weight="0.6">
+    <match lemma="a punt de" tags="pr"><select lemma="a ponto de"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estar" tags="vblex.*"/>
+    <match lemma="a punt de" tags="pr"><select lemma="para"/></match>
+  </rule>
 
   <!-- a > a, para, em -->
   <rule weight="0.6">

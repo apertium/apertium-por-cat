@@ -379,6 +379,20 @@
       <match lemma="barca"/>
       <match lemma="barco"/>
     </def-seq>
+
+    <def-seq n="lugar_concreto">
+      <match lemma="ilha" tags="n.*"/>
+      <match lemma="cidade" tags="n.*"/>
+      <match lemma="região" tags="n.*"/>
+      <match lemma="departamento" tags="n.*"/>
+      <match lemma="província" tags="n.*"/>
+      <match lemma="república" tags="n.*"/>
+      <match lemma="reino" tags="n.*"/>
+      <match lemma="casa" tags="n.*"/>
+      <match lemma="igreja" tags="n.*"/>
+      <match lemma="catedral" tags="n.*"/>
+      <match lemma="palácio" tags="n.*"/>
+    </def-seq>
   </def-seqs>
 
 <rules>
@@ -390,7 +404,7 @@
     <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
   </rule>
 
-  <!-- para > per a, cap a, a -->
+  <!-- para > per a, cap a, a, a punt de -->
   <rule weight="0.6">
     <match lemma="para" tags="pr"><select lemma="per a"/></match>
   </rule>
@@ -423,6 +437,18 @@
       <match tags="adv"/>
     </repeat>
     <match lemma="para" tags="pr"><select lemma="cap a"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estar" tags="vblex.*"/>
+    <match lemma="para" tags="pr"><select lemma="a punt de"/></match>
+    <repeat from="0" upto="2">
+      <match tags="prn.pro.*"/>  
+    </repeat>
+    <or>
+      <match tags="vblex.inf"/>  
+      <match tags="vbmod.inf"/>
+      <match tags="vbser.inf"/> 
+    </or>  
   </rule>
 
   <!-- até > fins a/fins ... -->
@@ -475,12 +501,10 @@
       <match tags="det.*"/>
     </repeat>
     <or>
-      <match lemma="ilha" tags="n.*"/>
-      <match lemma="região" tags="n.*"/>
-      <match lemma="departamento" tags="n.*"/>
-      <match lemma="província" tags="n.*"/>
-      <match lemma="república" tags="n.*"/>
-      <match lemma="reino" tags="n.*"/>
+      <seq n="lugar_concreto"/>
+      <match lemma="são"/>	<!-- endevino que és un topònim -->
+      <match lemma="internet" tags="n.*"/>
+      <match lemma="Internet" tags="np.al.*"/>
     </or>
   </rule>
 
@@ -499,6 +523,17 @@
     <or>
       <seq n="veículo"/>
     </or>
+  </rule>
+
+<!-- **************** REL **************** -->
+
+  <!-- que > que, què -->
+  <rule weight="0.6">
+    <match lemma="que" tags="rel.*"><select lemma="que"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="pr"/>
+    <match lemma="que" tags="rel.*"><select lemma="què"/></match>
   </rule>
 
 <!-- **************** ADJ **************** -->
@@ -551,9 +586,76 @@
 
 <!-- **************** N **************** -->
 
+  <!-- funcionário > funcionari, empleat -->
+  <rule weight="0.6">
+    <match lemma="funcionário" tags="n.*"><select lemma="funcionari"/></match>
+  </rule>
+
+  <!-- faixa > franja, faixa -->
+  <rule weight="0.6">
+    <match lemma="faixa" tags="n.*"><select lemma="franja"/></match>
+  </rule>
+
   <!-- franquia > franquícia, franqueig -->
   <rule weight="0.6">
     <match lemma="franquia" tags="n.*"><select lemma="franquícia"/></match>
+  </rule>
+
+  <!-- presente > present, regal, assistent -->
+  <rule weight="0.6">
+    <match lemma="presente" tags="n.*"><select lemma="present"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or><match tags="num.*"/><match tags="num"/></or>
+    <match lemma="presente" tags="n.m.pl"><select lemma="assistent"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="dezena" tags="n.*"/>
+      <match lemma="dúzia" tags="n.*"/>
+      <match lemma="centena" tags="n.*"/>
+      <match lemma="milhar" tags="n.*"/>
+      <match lemma="milhão" tags="n.*"/>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match lemma="presente" tags="n.m.pl"><select lemma="assistent"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="comprar" tags="vblex.*"/>
+      <match lemma="dar" tags="vblex.*"/>
+      <match lemma="escoher" tags="vblex.*"/>
+      <match lemma="levar" tags="vblex.*"/>
+      <match lemma="trazer" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="4">
+      <match tags="prn.pro.*"/>
+      <match tags="adv"/>
+      <match tags="predet.*"/>
+      <match tags="det.*"/>
+      <match tags="adj.*"/>
+      <match tags="num.*"/>
+      <match tags="num"/>
+    </repeat>
+    <match lemma="presente" tags="n.*"><select lemma="regal"/></match>
+  </rule>
+
+  <!-- fim > fi f, fi m -->
+  <rule weight="0.6">
+    <match lemma="fim" tags="n.*"><select lemma="fi" tags="n.f.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="con" tags="pr"/>
+      <match lemma="para" tags="pr"/>
+    </or>
+    <match lemma="fim" tags="n.m.pl"><select lemma="fi" tags="n.m.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="con" tags="pr"/>
+    <match tags="det.def.*"/>
+    <match lemma="fim" tags="n.*"><select lemma="fi" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
   </rule>
 
   <!-- sírio > sirià, siri -->
@@ -891,7 +993,7 @@
     </or>
   </rule>
 
-  <!-- chamar > cridar, dir, anomenar -->
+  <!-- chamar > cridar, dir, anomenar, qualificar -->
 
   <macro name="verb_nopron_pron" p1="chamar" p2="cridar" p3="dir"/>
 
@@ -979,6 +1081,39 @@
   <rule weight="2.0">
     <match tags="rel.*"/>
     <match lemma="chamar" tags="vblex.*"><select lemma="anomenar"/></match>
+  </rule>
+
+  <rule weight="4.0">
+    <match lemma="chamar" tags="vblex.*"><select lemma="qualificar"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+
+  <!-- indicar > indicar, nomenar -->
+  <rule weight="0.6">
+    <match lemma="indicar" tags="vblex.*"><select lemma="indicar"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="indicar" tags="vblex.*"><select lemma="nomenar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or>
+      <match tags="np.ant.*"/>
+      <match tags="np.cog.*"/>
+    </or>
+  </rule>
+
+  <!-- estar > estar, ser -->
+  <rule weight="0.6">
+    <match lemma="estar" tags="vblex.*"><select lemma="qualificar"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estar" tags="vblex.*"><select lemma="ser"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="em" tags="pr"/>
+    <match tags="np.top.*"/>
   </rule>
 
 <!-- **************** PRN **************** -->

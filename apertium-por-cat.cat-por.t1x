@@ -1027,6 +1027,7 @@
       <list-item v="Carolina do Norte"/>
       <list-item v="Carolina do Sul"/>
       <list-item v="Connecticut"/>
+      <list-item v="Delaware"/>
       <list-item v="Dakota do Norte"/>
       <list-item v="Dakota do Sul"/>
       <list-item v="Idaho"/>
@@ -1035,6 +1036,7 @@
       <list-item v="Kansas"/>
       <list-item v="Kentucky"/>
       <list-item v="Louisiana"/>
+      <list-item v="Maryland"/>
       <list-item v="Massachussets"/>
       <list-item v="Michigan"/>
       <list-item v="Minnesota"/>
