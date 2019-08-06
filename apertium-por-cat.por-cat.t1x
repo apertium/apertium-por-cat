@@ -865,7 +865,7 @@
       <list-item v="Mali"/>
       <list-item v="Malpelo"/>
       <list-item v="Malta"/>
-      <list-item v="Marrocos"/>
+<!--      <list-item v="Marrocos"/> -->
       <list-item v="Mauritânia"/>
       <list-item v="Mauricia"/>
       <list-item v="Melville"/>
@@ -890,7 +890,7 @@
       <list-item v="Palestina"/>
       <list-item v="Panamá"/>
       <list-item v="Papua"/>
-      <list-item v="Paraguai"/>
+<!--      <list-item v="Paraguai"/> -->
 <!--      <list-item v="Peru"/> -->
       <list-item v="Polónia"/>
       <list-item v="Polônia"/>
@@ -918,6 +918,7 @@
       <list-item v="Southampton"/>
       <list-item v="Sri Lanka"/>
       <list-item v="Saint-Pierre e Miquelon"/>
+      <list-item v="Suazilândia"/>
       <list-item v="Sudan"/>
       <list-item v="Sumatra"/>
       <list-item v="Suriname"/>
@@ -954,7 +955,7 @@
       <list-item v="Vietnam"/>
       <list-item v="Zambia"/>
       <list-item v="Nova Zelándia"/>
-      <list-item v="Zimbawe"/>
+      <list-item v="Zimbabwe"/>
 <!--      <list-item v="Piemonte"/> -->
       <list-item v="Liguria"/>
       <list-item v="Lombardia"/>
@@ -1035,6 +1036,7 @@
       <list-item v="Idaho"/>
       <list-item v="Illinois"/>
       <list-item v="Indiana"/>
+      <list-item v="Iowa"/>
       <list-item v="Kansas"/>
       <list-item v="Kentucky"/>
       <list-item v="Louisiana"/>
@@ -1054,13 +1056,14 @@
       <list-item v="Texas"/>
       <list-item v="Utah"/>
       <list-item v="Virgínia"/>
-      <list-item v="Wyoming"/>
+<!--      <list-item v="Washington"/> -->
       <list-item v="Wisconsin"/>
+      <list-item v="Wyoming"/>
       <list-item v="Alberta"/>
       <list-item v="Labrador"/>
       <list-item v="Manitoba"/>
       <list-item v="Ontario"/>
-      <list-item v="Quebec"/>
+<!--      <list-item v="Quebec"/> -->
       <list-item v="Saskatchewan"/>
       <list-item v="Terranova"/>
       <list-item v="Rio Grande do Norte"/>
@@ -6951,7 +6954,7 @@
 									</test>
 									<out>
 										<lu>
-											<get-case-from pos="1">
+											<get-case-from pos="2">
 												<lit v="anar"/>
 											</get-case-from>
 											<lit-tag v="vaux"/>

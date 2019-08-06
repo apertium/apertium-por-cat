@@ -1637,16 +1637,15 @@
     <match lemma="a" tags="pr"/>
   </rule>
 
-  <!-- taula > tavola, tavolo, tabella -->
-
 <!-- **************** V **************** -->
 
   <!-- ser > ser, estar -->
   <rule weight="0.6">
-    <match lemma="ser" tags="vblex.*"><select lemma="ser"/></match>
+    <match lemma="ser" tags="vbser.*"><select lemma="ser"/></match>
   </rule>
+<!--
   <rule weight="1.0">
-    <match lemma="ser" tags="vblex.*"><select lemma="estar"/></match>
+    <match lemma="ser" tags="vbser.*"><select lemma="estar"/></match>
     <repeat from="0" upto="1">
       <match tags="adv"/>
     </repeat>
@@ -1654,7 +1653,36 @@
       <match lemma="a" tags="pr"><select lemma="em" tags="pr"/></match>
       <match lemma="en" tags="pr"/>
     </or>
+    <match tags="np.top.*"/>
   </rule>
+  <rule weight="1.0">
+    <match lemma="ser" tags="vbser.*"><select lemma="estar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or>
+      <match lemma="a" tags="pr"><select lemma="em" tags="pr"/></match>
+      <match lemma="en" tags="pr"/>
+    </or>
+    <match tags="det.def.*"/>
+    <match tags="np.top.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ser" tags="vbser.*"><select lemma="estar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <or>
+      <match lemma="a" tags="pr"><select lemma="em" tags="pr"/></match>
+      <match lemma="en" tags="pr"/>
+    </or>
+    <or>
+      <seq n="edifici"/>
+      <seq n="vehicle"/>
+      <seq n="lloc_concret"/>
+    </or>
+  </rule>
+-->
 
   <!-- qualificar > qualificar, chamar -->
   <rule weight="0.6">
@@ -2096,6 +2124,7 @@
   <macro name="noms_propis" p1="Gonçal" p2="Gonçalo" />
   <macro name="noms_propis" p1="Gregori" p2="Gregório" />
   <macro name="noms_propis" p1="Hug" p2="Hugo" />
+  <macro name="noms_propis" p1="Innocenci" p2="Inocêncio" />
   <macro name="noms_propis" p1="Jordi" p2="Jorge" />
   <macro name="noms_propis" p1="Juli" p2="Giulio" />
   <macro name="noms_propis" p1="Lleó" p2="Leão" />
@@ -2117,7 +2146,6 @@
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
-  <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
   <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
   <macro name="noms_propis" p1="Llúcia" p2="Lucia" />
   <macro name="noms_propis" p1="Lluc" p2="Luca" />

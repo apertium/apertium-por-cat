@@ -543,6 +543,30 @@
     <match lemma="sírio" tags="adj.*"><select lemma="sirià"/></match>
   </rule>
 
+  <!-- reformado > reformat, jubilat, retirat -->
+  <rule weight="0.6">
+    <match lemma="reformado" tags="adj.*"><select lemma="reformat"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="estar" tags="vblex.*"/>
+      <match lemma="policia" tags="n.*"/>
+    </or>
+    <match lemma="reformado" tags="adj.*"><select lemma="jubilat"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="general" tags="n.*"/>
+      <match lemma="coronel" tags="n.*"/>
+      <match lemma="comandante" tags="n.*"/>
+      <match lemma="capitão" tags="n.*"/>
+      <match lemma="tenente" tags="n.*"/>
+      <match lemma="oficial" tags="n.*"/>
+      <match lemma="suboficial" tags="n.*"/>
+    </or>
+    <match lemma="reformado" tags="adj.*"><select lemma="retirat"/></match>
+  </rule>
+
   <!-- conjuntivo > subjuntiu, conjuntiu (Por) -->
   <rule weight="0.6">
     <match lemma="conjuntivo" tags="adj.*"><select lemma="subjuntiu"/></match>
@@ -915,6 +939,11 @@
 
 <!-- **************** V **************** -->
 
+  <!-- reformar > reformar, jubilar -->
+  <rule weight="0.6">
+    <match lemma="reformar" tags="vblex.*"><select lemma="reformar"/></match>
+  </rule>
+
   <!-- dobrar > doblar, doblegar -->
   <rule weight="0.6">
     <match lemma="dobrar" tags="vblex.*"><select lemma="doblar"/></match>
@@ -1159,6 +1188,7 @@
   <macro name="noms_propis" p1="Gonçalo" p2="Gonçal" />
   <macro name="noms_propis" p1="Gregório" p2="Gregori" />
   <macro name="noms_propis" p1="Hugo" p2="Hug" />
+  <macro name="noms_propis" p1="Inocêncio" p2="Innocenci" />
   <macro name="noms_propis" p1="Jorge" p2="Jordi" />
   <macro name="noms_propis" p1="Júlio" p2="Juli" />
   <macro name="noms_propis" p1="Leão" p2="Lleó" />
@@ -1180,7 +1210,6 @@
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
-  <macro name="noms_propis" p1="Innocenci" p2="Innocenzo" />
   <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
   <macro name="noms_propis" p1="Llúcia" p2="Lucia" />
   <macro name="noms_propis" p1="Lluc" p2="Luca" />
