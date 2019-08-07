@@ -28,6 +28,9 @@
 	<def-cat n="det">          
 		<cat-item tags="det.*"/>
 	</def-cat>
+	<def-cat n="detdef">          
+		<cat-item tags="det.def.*"/>
+	</def-cat>
           
 	<def-cat n="predet">
    	<cat-item tags="predet.*"/>
@@ -120,6 +123,14 @@
 		<cat-item lemma="outubro" tags="n.*"/>
 		<cat-item lemma="novembro" tags="n.*"/>
 		<cat-item lemma="dezembro" tags="n.*"/>
+	</def-cat>
+
+	<def-cat n="ministerio">
+		<cat-item lemma="ministério" tags="n.*"/>
+		<cat-item lemma="ministro" tags="n.*"/>
+		<cat-item lemma="vice-ministro" tags="n.*"/>
+		<cat-item lemma="conselho" tags="n.*"/>
+		<cat-item lemma="conselheiro" tags="n.*"/>
 	</def-cat>
 
    <def-cat n="prnenc">   	  	  
@@ -1088,6 +1099,7 @@
       <list-item v="Porto Alegre"/>
       <list-item v="Rio"/>
       <list-item v="Rio de Janeiro"/>
+      <list-item v="Bahia"/>
 
       <list-item v="Internet"/>
     </def-list>
@@ -4797,6 +4809,76 @@
 		</action>
 	</rule>-->
 	
+	<rule comment="ministério do/da > ministeri de">
+		<pattern>
+			<pattern-item n="ministerio"/>
+			<pattern-item n="de"/>
+			<pattern-item n="detdef"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord1">
+				<with-param pos="3"/>
+			</call-macro>     
+			<out>  
+				<lu> 
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_nom"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>		
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="2"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="DET ministério do/da > DET ministeri de">
+		<pattern>
+			<pattern-item n="det"/>
+			<pattern-item n="ministerio"/>
+			<pattern-item n="de"/>
+			<pattern-item n="detdef"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord1">
+				<with-param pos="4"/>
+			</call-macro>     
+			<out>  
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>		
+				</lu>
+				<b pos="2"/>
+				<lu> 
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="a_nom"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>		
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="3"/>
+			</call-macro>
+		</action>
+	</rule>
+
 	<!-- REGLES PER ELIMINIAR EL DET DAVANT DE NOM PROPI cat: ja no fan falta! :-)-->
 	<!--<rule> <!-#- REGLA 31: DETERMINANT NOM propi-antropï¿½im -#->
 		<pattern>

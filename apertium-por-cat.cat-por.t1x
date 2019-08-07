@@ -401,6 +401,14 @@
 			<cat-item lemma="desembre" tags="n.*"/>
 		</def-cat>
 		
+		<def-cat n="ministeri">
+			<cat-item lemma="ministeri" tags="n.*"/>
+			<cat-item lemma="ministre" tags="n.*"/>
+			<cat-item lemma="viceministre" tags="n.*"/>
+			<cat-item lemma="conselleria" tags="n.*"/>
+			<cat-item lemma="conselller" tags="n.*"/>
+		</def-cat>
+
 		<def-cat n="pred">
 			<cat-item lemma="estar" tags="vblex.*"/>
 			<cat-item lemma="semblar" tags="vblex.*"/>
@@ -5680,6 +5688,213 @@
 		</action>
 	</rule>
 	
+	<rule comment="ministeri de NOM > ministeri do/da NOM">
+		<pattern>
+			<pattern-item n="ministeri"/>
+			<pattern-item n="de"/>
+			<pattern-item n="nom"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord1">
+				<with-param pos="3"/>
+			</call-macro>     
+			<out>  
+				<lu> 
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_nom"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>		
+				</lu>
+				<b/>
+				<lu>
+					<lit v="o"/>
+					<lit-tag v="det.def"/>
+					<clip pos="3" side="tl" part="gen"/>
+					<clip pos="3" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu> 
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="a_nom"/>
+					<clip pos="3" side="tl" part="gen"/>
+					<clip pos="3" side="tl" part="nbr"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="ministeri de NOM ADJ > ministeri do/da NOM ADJ">
+		<pattern>
+			<pattern-item n="ministeri"/>
+			<pattern-item n="de"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adj"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord2">
+				<with-param pos="3"/>
+				<with-param pos="4"/>
+			</call-macro>     
+			<out>  
+				<lu> 
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_nom"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>		
+				</lu>
+				<b/>
+				<lu>
+					<lit v="o"/>
+					<lit-tag v="det.def"/>
+					<clip pos="3" side="tl" part="gen"/>
+					<clip pos="3" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu> 
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="a_nom"/>
+					<clip pos="3" side="tl" part="gen"/>
+					<clip pos="3" side="tl" part="nbr"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu> 
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="a_adj"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="DET ministeri de NOM > DET ministeri do/da NOM">
+		<pattern>
+			<pattern-item n="det"/>
+			<pattern-item n="ministeri"/>
+			<pattern-item n="de"/>
+			<pattern-item n="nom"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord1">
+				<with-param pos="4"/>
+			</call-macro>     
+			<out>  
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>		
+				</lu>
+				<b pos="1"/>
+				<lu> 
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="a_nom"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>		
+				</lu>
+				<b/>
+				<lu>
+					<lit v="o"/>
+					<lit-tag v="det.def"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+				</lu>
+				<b pos="3"/>
+				<lu> 
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="a_nom"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="DET ministeri de NOM ADJ > DET ministeri do/da NOM ADJ">
+		<pattern>
+			<pattern-item n="det"/>
+			<pattern-item n="ministeri"/>
+			<pattern-item n="de"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adj"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>    
+			<call-macro n="f_concord2">
+				<with-param pos="4"/>
+				<with-param pos="5"/>
+			</call-macro>     
+			<out>  
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>		
+				</lu>
+				<b pos="1"/>
+				<lu> 
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="a_nom"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>		
+				</lu>
+				<b/>
+				<lu>
+					<lit v="o"/>
+					<lit-tag v="det.def"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+				</lu>
+				<b pos="3"/>
+				<lu> 
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="a_nom"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+				<b pos="4"/>
+				<lu> 
+					<clip pos="5" side="tl" part="lemh"/>
+					<clip pos="5" side="tl" part="a_adj"/>
+					<clip pos="5" side="tl" part="gen"/>
+					<clip pos="5" side="tl" part="nbr"/>
+					<clip pos="5" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
 
 
 <!-- 	REGLES QUE ACTIVEN LA PROCLISI	 -->
@@ -5894,36 +6109,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA:fA dies -> há dias -->
-		<pattern>
-			<pattern-item n="fa"/>
-			<pattern-item n="nomtempo"/>
-		</pattern>
-		<action>
-			<call-macro n="f_concord1">
-				<with-param pos="2"/>
-			</call-macro>
-					<out>
-						<lu>
-							<get-case-from pos="1" >
-								<lit v="há"/>
-							</get-case-from>
-							<clip pos="1" side="tl" part="a_verb"/>	
-							<clip pos="1" side="tl" part="temps"/>	
-							<clip pos="1" side="tl" part="persona"/>	
-							<clip pos="1" side="tl" part="nbr"/>	
-						</lu>
-					</out>
-			<out>
-				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
-			</out>
-		</action>
-	</rule>
-	
-	<rule> <!--REGLA:fA dies -> há dias -->
+	<rule> <!--REGLA:fa dies -> há dias -->
 		<pattern>
 			<pattern-item n="fa"/>
 			<pattern-item n="nomtempo"/>
@@ -5952,7 +6138,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA:fA dies -> há dias -->
+	<rule> <!--REGLA:fa NUM dies -> há NUM dias -->
 		<pattern>
 			<pattern-item n="fa"/>
 			<pattern-item n="num"/>
@@ -5987,7 +6173,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA:fA dies -> há dias -->
+	<rule> <!--REGLA:fa DET dies -> há DET dias -->
 		<pattern>
 			<pattern-item n="fa"/>
 			<pattern-item n="det"/>
@@ -6022,7 +6208,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA:fA dies -> há dias -->
+	<rule> <!--REGLA:fa ADV dies -> há ADV dias -->
 		<pattern>
 			<pattern-item n="fa"/>
 			<pattern-item n="adv"/>
@@ -6063,7 +6249,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA:fA dies -> há dias -->
+	<rule> <!--REGLA:fa ADV de NUM dies -> há dias -->
 		<pattern>
 			<pattern-item n="fa"/>
 			<pattern-item n="adv"/>
@@ -11607,51 +11793,6 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA: EN + INF + ENCLï¿½TIC-->
-		<pattern>
-			<pattern-item n="en"/>
-			<pattern-item n="infnm"/>
-			<pattern-item n="prnenc"/>
-		</pattern>
-		<action>
-			<out>
-				<lu>
-					<get-case-from pos="1">            
-						<lit v="a"/>
-					</get-case-from>
-					<lit-tag v="pr"/>
-				</lu>
-				<b/>
-				<lu>
-					<lit v="o"/>
-					<lit-tag v="det.def.m.sg"/>
-				</lu>
-				<b pos="1"/>
-				<lu>
-					<clip pos="3" side="tl" part="lem"/>
-					<lit-tag v="prn.pro"/>
-					<clip pos="3" side="tl" part="tipoenc_pro"/>
-				</lu>  
-				<b pos="1"/>
-				<lu>
-					<clip pos="4" side="tl" part="lem"/>
-					<lit-tag v="prn.pro"/>
-					<clip pos="4" side="tl" part="tipoenc_pro"/>
-				</lu>  
-				<b pos="2"/>
-				<lu>	
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_verb"/>
-					<clip pos="2" side="tl" part="temps"/>
-					<clip pos="2" side="tl" part="persona"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
-			</out>
-		</action>
-	</rule>
-
 	<rule> <!--REGLA: PER + infinitiu = per trobar -> para encontrar-->
 		<pattern>
 			<pattern-item n="per"/>
