@@ -610,6 +610,26 @@
 
 <!-- **************** N **************** -->
 
+  <!-- saúde > salut, sanitat -->
+  <rule weight="0.6">
+    <match lemma="saúde" tags="n.*"><select lemma="salut"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="saúde" tags="n.*"><select lemma="sanitat"/></match>
+    <match lemma="público" tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="ministério" tags="n.*"/>
+      <match lemma="ministro" tags="n.*"/>
+      <match lemma="conselho" tags="n.*"/>
+      <match lemma="conselheiro" tags="n.*"/>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match tags="det.def.*"/>
+    <match lemma="saúde" tags="n.*"><select lemma="sanitat"/></match>
+  </rule>
+
   <!-- funcionário > funcionari, empleat -->
   <rule weight="0.6">
     <match lemma="funcionário" tags="n.*"><select lemma="funcionari"/></match>
@@ -938,6 +958,11 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- acordar > acordar, despertar -->
+  <rule weight="0.6">
+    <match lemma="acordar" tags="vblex.*"><select lemma="acordar"/></match>
+  </rule>
 
   <!-- reformar > reformar, jubilar -->
   <rule weight="0.6">

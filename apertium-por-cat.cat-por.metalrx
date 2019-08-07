@@ -1684,6 +1684,11 @@
   </rule>
 -->
 
+  <!-- despertar > acordar, despertar -->
+  <rule weight="0.6">
+    <match lemma="despertar" tags="vblex.*"><select lemma="acordar"/></match>
+  </rule>
+
   <!-- qualificar > qualificar, chamar -->
   <rule weight="0.6">
     <match lemma="qualificar" tags="vblex.*"><select lemma="qualificar"/></match>
