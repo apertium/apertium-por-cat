@@ -287,7 +287,7 @@
 	</def-cat>    
 
    <def-cat n="num">
-   	<cat-item tags="num.*"/>
+   		<cat-item tags="num.*"/>
 		<cat-item tags="num"/>
 	</def-cat>
 	
@@ -436,6 +436,12 @@
 	
 	<def-cat n="ate">
 		<cat-item lemma="até" tags="pr"/>
+	</def-cat>
+	
+	<def-cat n="de_ate_desde">
+		<cat-item lemma="de" tags="pr"/>
+		<cat-item lemma="até" tags="pr"/>
+		<cat-item lemma="desde" tags="pr"/>
 	</def-cat>
 	
 	<def-cat n="detnt">
@@ -14247,6 +14253,70 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
+				</lu>	
+			</out>	
+		</action>
+	</rule> 
+
+	<rule comment="em NUM de mes > el NUM de mes">
+		<pattern>
+			<pattern-item n="em"/>
+			<pattern-item n="num"/>
+			<pattern-item n="de"/>
+			<pattern-item n="mes"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="el"/>
+					</get-case-from>
+					<lit-tag v="det.def.m.sg"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>	
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>	
+				<b pos="3"/>
+				<lu>
+					<clip pos="4" side="tl" part="whole"/>
+				</lu>	
+			</out>	
+		</action>
+	</rule> 
+
+	<rule comment="de NUM de mes > del NUM de mes">
+		<pattern>
+			<pattern-item n="de_ate_desde"/>
+			<pattern-item n="num"/>
+			<pattern-item n="de"/>
+			<pattern-item n="mes"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>	
+				<b pos="1"/>
+				<lu>
+					<lit v="el"/>
+					<lit-tag v="det.def.m.sg"/>
+				</lu>
+				<b/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>	
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>	
+				<b pos="3"/>
+				<lu>
+					<clip pos="4" side="tl" part="whole"/>
 				</lu>	
 			</out>	
 		</action>
