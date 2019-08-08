@@ -610,6 +610,31 @@
 
 <!-- **************** N **************** -->
 
+  <!-- bando > banda, bandada, bàndol -->
+  <rule weight="0.6">
+    <match lemma="bando" tags="n.*"><select lemma="bàndol"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="bando" tags="n.*"><select lemma="banda"/></match>
+    <or>
+      <match lemma="terrorista" tags="n.*"/>
+      <match lemma="organizar" tags="vblex.pp.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="bando" tags="n.*"><select lemma="banda"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adj.*"/>
+    </repeat>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="assassí" tags="vblex.pp.*"/>
+      <match lemma="delinqüent" tags="vblex.pp.*"/>
+      <match lemma="estafador" tags="vblex.pp.*"/>
+      <match lemma="lladre" tags="n.*"/>
+    </or>
+  </rule>
+
   <!-- saúde > salut, sanitat -->
   <rule weight="0.6">
     <match lemma="saúde" tags="n.*"><select lemma="salut"/></match>
@@ -1196,6 +1221,8 @@
 
   <macro name="noms_propis" p1="Afonso" p2="Alfons" />
   <macro name="noms_propis" p1="André" p2="Andreu" />
+  <macro name="noms_propis" p1="Bernardo" p2="Bernat" />
+  <macro name="noms_propis" p1="Berengário" p2="Berenguer" />
   <macro name="noms_propis" p1="Bento" p2="Benet" />
   <macro name="noms_propis" p1="Bonifácio" p2="Bonifaci" />
   <macro name="noms_propis" p1="Carlos" p2="Carles" />
@@ -1206,6 +1233,7 @@
   <macro name="noms_propis" p1="Filipe" p2="Felip" />
   <macro name="noms_propis" p1="Francisco" p2="Francesc" />
   <macro name="noms_propis" p1="Frederico" p2="Frederic" />
+  <macro name="noms_propis" p1="Gastão" p2="Gastó" />
   <macro name="noms_propis" p1="Guilherme" p2="Guillem" />
   <macro name="noms_propis" p1="Henrique" p2="Enric" />
   <macro name="noms_propis" p1="Jaime" p2="Jaume" />
@@ -1221,7 +1249,8 @@
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Paulo" p2="Pau" />
   <macro name="noms_propis" p1="Pedro" p2="Pere" />
-  <macro name="noms_propis" p1="Ramir" p2="Ramiro" />
+  <macro name="noms_propis" p1="Ramiro" p2="Ramir" />
+  <macro name="noms_propis" p1="Raimundo" p2="Ramon" />
   <macro name="noms_propis" p1="Ricardo" p2="Ricard" />
   <macro name="noms_propis" p1="Sancho" p2="Sanç" />
   <macro name="noms_propis" p1="Sebastião" p2="Sebastià" />
@@ -1229,8 +1258,6 @@
   <macro name="noms_propis" p1="Vitória" p2="Victòria" />
 
   <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
-  <macro name="noms_propis" p1="Berenguer" p2="Berengario" />
-  <macro name="noms_propis" p1="Bernat" p2="Bernardo" />
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
   <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
@@ -1242,7 +1269,6 @@
   <macro name="noms_propis" p1="Mateu" p2="Matteo" />
   <macro name="noms_propis" p1="Maximilià" p2="Massimiliano" />
   <macro name="noms_propis" p1="Nicolau" p2="Nicola" />
-  <macro name="noms_propis" p1="Ramon" p2="Raimundo" />
   <macro name="noms_propis" p1="Roger" p2="Ruggero" />
 
 </rules>
