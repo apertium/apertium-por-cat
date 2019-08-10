@@ -10518,6 +10518,39 @@
 						</lu>
 					</out>
 				</when>
+
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="temps"/>
+							<lit-tag v="pmp"/>
+						</equal>
+					</test>
+					<out> 
+						<lu>
+							<get-case-from pos="1">
+								<lit v="anar"/>
+							</get-case-from>
+							<lit-tag v="vaux"/>
+							<clip pos="1" side="tl" part="persona"/>
+							<clip pos="1" side="tl" part="nbr"/>
+						</lu>
+						<b/>
+						<lu>
+							<lit v="haver"/>
+							<lit-tag v="vaux.inf"/>
+						</lu>
+						<b/>
+						<lu>
+							<get-case-from pos="2">
+								<clip pos="1" side="tl" part="lemh"/>
+							</get-case-from>
+							<clip pos="1" side="tl" part="a_verb"/>
+							<lit-tag v="pp.m.sg"/>
+						</lu>
+					</out>
+				</when>
+
 				<otherwise>
 					<choose>
 							<when>
@@ -10584,6 +10617,7 @@
 			</call-macro>
 		</action>
  	</rule> 
+
 	<rule> <!--REGLA 43: estar adv a infinitiu   -> estar gerundi adv -->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -10620,6 +10654,39 @@
 						</lu>
 					</out>
 				</when>
+
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="temps"/>
+							<lit-tag v="pmp"/>
+						</equal>
+					</test>
+					<out> 
+						<lu>
+							<get-case-from pos="1">
+								<lit v="anar"/>
+							</get-case-from>
+							<lit-tag v="vaux"/>
+							<clip pos="1" side="tl" part="persona"/>
+							<clip pos="1" side="tl" part="nbr"/>
+						</lu>
+						<b/>
+						<lu>
+							<lit v="haver"/>
+							<lit-tag v="vaux.inf"/>
+						</lu>
+						<b/>
+						<lu>
+							<get-case-from pos="2">
+								<clip pos="1" side="tl" part="lemh"/>
+							</get-case-from>
+							<clip pos="1" side="tl" part="a_verb"/>
+							<lit-tag v="pp.m.sg"/>
+						</lu>
+					</out>
+				</when>
+
 				<otherwise>
 					<choose>
 						<when>
