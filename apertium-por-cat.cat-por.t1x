@@ -863,6 +863,8 @@
 <!--      <list-item v="Libano"/> -->
       <list-item v="Libéria"/>
       <list-item v="Líbia"/>
+      <list-item v="Liechtenstein"/>
+      <list-item v="Listenstaine"/>
       <list-item v="Lituânia"/>
       <list-item v="Luxemburgo"/>
       <list-item v="Luzon"/>
@@ -968,16 +970,16 @@
       <list-item v="Nova Zelándia"/>
       <list-item v="Zimbabwe"/>
 <!--      <list-item v="Piemonte"/> -->
-      <list-item v="Liguria"/>
+      <list-item v="Ligúria"/>
       <list-item v="Lombardia"/>
       <list-item v="Trentino-Alto Adige"/>
       <list-item v="Trentino"/>
 <!--      <list-item v="Veneto"/> -->
-      <list-item v="Friuli"/>
-      <list-item v="Friuli-Venezia Giulia"/>
-      <list-item v="Emilia-Romagna"/>
-      <list-item v="Emilia"/>
-      <list-item v="Romagna"/>
+      <list-item v="Friul"/>
+      <list-item v="Friul-Veneza Júlia"/>
+      <list-item v="Emília-Romanha"/>
+      <list-item v="Emília"/>
+      <list-item v="Romanha"/>
 <!--      <list-item v="Toscana"/> -->
       <list-item v="Umbria"/>
       <list-item v="Lazio"/>
@@ -1012,7 +1014,7 @@
       <list-item v="Devon"/>
       <list-item v="Cornovaglia"/>
       <list-item v="Flandres"/>
-      <list-item v="Frisia"/>
+      <list-item v="Frísia"/>
       <list-item v="Drenthe"/>
       <list-item v="Zelándia"/>
       <list-item v="Baden-Württemberg"/>
@@ -1077,6 +1079,7 @@
 <!--      <list-item v="Quebec"/> -->
       <list-item v="Saskatchewan"/>
       <list-item v="Terranova"/>
+      <list-item v="Winnipeg"/>
       <list-item v="Rio Grande do Norte"/>
       <list-item v="Rio Grande do Sul"/>
       <list-item v="Polinésia"/>
@@ -1084,7 +1087,7 @@
       <list-item v="Micronésia"/>
       <list-item v="Prússia"/>
       <list-item v="Pêrsia"/>
-      <list-item v="Mesopotômia"/>
+      <list-item v="Mesopotâmia"/>
       <list-item v="Babilónia"/>
       <list-item v="Babilônia"/>
       <list-item v="Caldea"/>
