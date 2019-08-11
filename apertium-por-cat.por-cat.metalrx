@@ -125,8 +125,8 @@
           <match lemma="regent" tags="n.*"/>
           <match lemma="príncipe" tags="n.*"/>
           <match lemma="princesa" tags="n.*"/>
-          <match lemma="infant" tags="n.*"/>
-          <match lemma="delfí" tags="n.*"/>
+          <match lemma="infante" tags="n.*"/>
+          <match lemma="delfim" tags="n.*"/>
           <match lemma="conde" tags="n.*"/>
           <match lemma="visconde" tags="n.*"/>
           <match lemma="duque" tags="n.*"/>
