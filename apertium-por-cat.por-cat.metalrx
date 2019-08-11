@@ -538,6 +538,21 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- vermelho > vermell, roig -->
+  <rule weight="0.6">
+    <match lemma="vermelho" tags="adj.*"><select lemma="vermell"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="cruz" tags="n.*"/>
+      <match lemma="lua" tags="n.*"/>
+      <match lemma="socorro" tags="n.*"/>
+      <match lemma="exército" tags="n.*"/>
+    </or>
+    <match lemma="vermelho" tags="adj.*"><select lemma="roig"/></match>
+
+  </rule>
+
   <!-- sírio > sirià, siri -->
   <rule weight="0.6">
     <match lemma="sírio" tags="adj.*"><select lemma="sirià"/></match>
@@ -609,6 +624,26 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- cabo > cap, cable, màneg, caporal -->
+  <rule weight="0.6">
+    <match lemma="cabo" tags="n.*"><select lemma="cap"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cabo" tags="n.*"><select lemma="cable"/></match>
+    <or>
+      <match lemma="eléctrico" tags="adj.*"/>
+      <match lemma="elétrico" tags="adj.*"/>
+      <match lemma="coaxial" tags="adj.*"/>
+      <match lemma="submarino" tags="adj.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cabo" tags="n.*"><select lemma="cable"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="alta" tags="adj.*"/>
+    <match lemma="tensão" tags="n.*"/>
+  </rule>
 
   <!-- bando > banda, bandada, bàndol -->
   <rule weight="0.6">
@@ -1139,6 +1174,18 @@
   </rule>
 
   <rule weight="3.0">
+    <match lemma="chamar" tags="vblex.*"><select lemma="anomenar"/></match> 
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match tags="n.*"/>
+      <match tags="adj.*"/>
+    </or>
+  </rule>
+
+  <rule weight="3.0">
     <or>
       <match tags="n.*"/>
       <match tags="adj.*"/>
@@ -1227,6 +1274,8 @@
   <macro name="noms_propis" p1="Bonifácio" p2="Bonifaci" />
   <macro name="noms_propis" p1="Carlos" p2="Carles" />
   <macro name="noms_propis" p1="Clemente" p2="Climent" />
+  <macro name="noms_propis" p1="Dario" p2="Darios" />
+  <macro name="noms_propis" p1="Eduardo" p2="Eduard" />
   <macro name="noms_propis" p1="Eugénio" p2="Eugeni" />
   <macro name="noms_propis" p1="Eugénia" p2="Eugènia" />
   <macro name="noms_propis" p1="Fernando" p2="Ferran" />
@@ -1238,13 +1287,16 @@
   <macro name="noms_propis" p1="Henrique" p2="Enric" />
   <macro name="noms_propis" p1="Jaime" p2="Jaume" />
   <macro name="noms_propis" p1="João" p2="Joan" />
+  <macro name="noms_propis" p1="José" p2="Josep" />
   <macro name="noms_propis" p1="Gonçalo" p2="Gonçal" />
   <macro name="noms_propis" p1="Gregório" p2="Gregori" />
   <macro name="noms_propis" p1="Hugo" p2="Hug" />
   <macro name="noms_propis" p1="Inocêncio" p2="Innocenci" />
+  <macro name="noms_propis" p1="Iolanda" p2="Violant" />
   <macro name="noms_propis" p1="Jorge" p2="Jordi" />
   <macro name="noms_propis" p1="Júlio" p2="Juli" />
   <macro name="noms_propis" p1="Leão" p2="Lleó" />
+  <macro name="noms_propis" p1="Leonor" p2="Elionor" />
   <macro name="noms_propis" p1="Luís" p2="Lluís" />
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Paulo" p2="Pau" />
@@ -1257,12 +1309,9 @@
   <macro name="noms_propis" p1="Sisto" p2="Sixt" />
   <macro name="noms_propis" p1="Vitória" p2="Victòria" />
 
-  <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
-  <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
-  <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
   <macro name="noms_propis" p1="Llúcia" p2="Lucia" />
   <macro name="noms_propis" p1="Lluc" p2="Luca" />
   <macro name="noms_propis" p1="Marc" p2="Marco" />

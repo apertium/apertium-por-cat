@@ -2143,6 +2143,9 @@
   <macro name="noms_propis" p1="Bonifaci" p2="Bonifácio" />
   <macro name="noms_propis" p1="Carles" p2="Carlos" />
   <macro name="noms_propis" p1="Climent" p2="Clemente" />
+  <macro name="noms_propis" p1="Eduard" p2="Eduardo" />
+  <macro name="noms_propis" p1="Elionor" p2="Leonor" />
+  <macro name="noms_propis" p1="Elisabet" p2="Isabel" />
   <macro name="noms_propis" p1="Enric" p2="Henrique" />
   <macro name="noms_propis" p1="Eugeni" p2="Eugénio" />
   <macro name="noms_propis" p1="Eugènia" p2="Eugénia" />
@@ -2173,10 +2176,9 @@
   <macro name="noms_propis" p1="Sixt" p2="Sisto" />
   <macro name="noms_propis" p1="Sanç" p2="Sancho" />
   <macro name="noms_propis" p1="Victòria" p2="Vitória" />
+  <macro name="noms_propis" p1="Violant" p2="Iolanda" />
 
-  <macro name="noms_propis" p1="Alexandre" p2="Alessandro" />
   <macro name="noms_propis" p1="Celestí" p2="Celestino" />
-  <macro name="noms_propis" p1="Elisabet" p2="Elisabeta" />
   <macro name="noms_propis" p1="Guifré" p2="Gofredo" />
   <macro name="noms_propis" p1="Humbert" p2="Umberto" />
   <macro name="noms_propis" p1="Josep" p2="Giuseppe" />
