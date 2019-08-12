@@ -478,6 +478,8 @@
       <match lemma="espai"/>
 
       <match lemma="illa"/>
+      <match lemma="municipi"/>
+      <match lemma="terme municipal"/>
     </def-seq>
 
     <def-seq n="lloc_abstracte">
@@ -1162,6 +1164,22 @@
 <rules>
 
 <!-- **************** ADJ **************** -->
+
+  <!-- próprio > propi, mateix -->
+  <rule weight="0.6">
+    <match lemma="próprio" tags="adj.*"><select lemma="propi"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="comigo" tags="prn.*"/>
+      <match lemma="contigo" tags="prn.*"/>
+      <match lemma="consigo" tags="prn.*"/>
+      <match lemma="conosco" tags="prn.*"/>
+      <match lemma="connosco" tags="prn.*"/>
+      <match lemma="covosco" tags="prn.*"/>
+    </or>
+    <match lemma="próprio" tags="adj.*"><select lemma="mateix"/></match>
+  </rule>
 
   <!-- civil > civil, cível -->
   <rule weight="0.6">
@@ -2246,9 +2264,30 @@
     <or><match tags="num.*"/><match tags="num"/></or>
   </rule>
 
-  <!-- en > en, de -->
+  <!-- en > em, de -->
+  <!-- amb > com, de -->
   <rule weight="0.6">
-    <match lemma="en" tags="pr"><select lemma="en"/></match>
+    <match lemma="en" tags="pr"><select lemma="em"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="amb" tags="pr"><select lemma="com"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="viatge" tags="n.*"/>
+    <repeat from="0" upto="2">
+      <or>
+        <match tags="preadv"/>
+        <match tags="adv"/>
+        <match tags="adj.*"/>
+      </or>
+    </repeat>
+    <or>
+      <match lemma="en" tags="pr"><select lemma="de"/></match>
+      <match lemma="amb" tags="pr"><select lemma="de"/></match>
+    </or>
+    <or>
+      <seq n="vehicle"/>
+    </or>
   </rule>
   <rule weight="1.0">
     <or>
@@ -2257,11 +2296,21 @@
       <match lemma="arribar" tags="vblex.*"/>
       <match lemma="viatjar" tags="vblex.*"/>
     </or>
-    <match lemma="en" tags="pr"><select lemma="de"/></match>
+    <repeat from="0" upto="2">
+      <or>
+        <match tags="adv"/>
+        <match tags="prn.enc.*"/>
+      </or>
+    </repeat>
+    <or>
+      <match lemma="en" tags="pr"><select lemma="de"/></match>
+      <match lemma="amb" tags="pr"><select lemma="de"/></match>
+    </or>
     <or>
       <seq n="vehicle"/>
     </or>
   </rule>
+
 
 <!-- **************** ADV **************** -->
 

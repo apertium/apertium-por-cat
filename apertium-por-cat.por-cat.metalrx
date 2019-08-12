@@ -563,6 +563,12 @@
       <match lemma="chegar" tags="vblex.*"/>
       <match lemma="viajar" tags="vblex.*"/>
     </or>
+    <repeat from="0" upto="2">
+      <or>
+        <match tags="adv"/>
+        <match tags="prn.enc.*"/>
+      </or>
+    </repeat>
     <match lemma="de" tags="pr"><select lemma="en"/></match>
     <or>
       <seq n="veículo"/>
@@ -594,7 +600,6 @@
       <match lemma="exército" tags="n.*"/>
     </or>
     <match lemma="vermelho" tags="adj.*"><select lemma="roig"/></match>
-
   </rule>
 
   <!-- sírio > sirià, siri -->
@@ -665,6 +670,29 @@
   <rule weight="1.0">
     <match lemma="número" tags="n.*"/>
     <match lemma="inteiro" tags="adj.*"><select lemma="enter"/></match>
+  </rule>
+
+  <!-- real > real / reial -->
+  <rule weight="0.5">
+    <match lemma="real" tags="adj.*"><select lemma="real"/></match>
+  </rule>
+
+  <rule weight="1.0">
+    <or>
+      <match lemma="alteza" tags="n.*"/>
+      <match lemma="casa" tags="n.*"/>
+      <match lemma="família" tags="n.*"/>
+    </or>
+    <match lemma="real" tags="adj.*"><select lemma="reial"/></match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="real" tags="adj.*"><select lemma="reial"/></match>
+    <or>
+      <match lemma="academia" tags="n.*"/>
+      <match lemma="mosteiro" tags="n.*"/>
+      <match lemma="monastério" tags="n.*"/>
+    </or>
   </rule>
 
 <!-- **************** N **************** -->
@@ -1150,6 +1178,9 @@
     </repeat>
     <match lemma="de" tags="pr"/>
   </rule>
+
+  <!-- assentar > establir, assentar -->
+  <macro name="verb_nopron_pron" p1="assentar" p2="establir" p3="assentar"/>
 
   <!-- recusar > rebutjar, negar -->
   <macro name="verb_nopron_pron" p1="recusar" p2="rebutjar" p3="negar"/>
