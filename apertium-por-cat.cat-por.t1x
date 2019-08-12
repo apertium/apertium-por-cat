@@ -18,6 +18,10 @@
 			<cat-item tags="np.top.*"/>
 		</def-cat>
 		
+		<def-cat n="ant">
+			<cat-item tags="np.ant.*"/>
+		</def-cat>
+		
 		<def-cat n="det">          
 			<cat-item tags="det.*"/>
 		</def-cat>
@@ -1059,6 +1063,8 @@
 <!--      <list-item v="Massachussetts"/> -->
       <list-item v="Michigan"/>
       <list-item v="Minnesota"/>
+      <list-item v="Mississippi"/>
+      <list-item v="Mississípi"/>
       <list-item v="Missouri"/>
       <list-item v="Montana"/>
       <list-item v="Nevada"/>
@@ -6327,6 +6333,109 @@
 	</rule>
 	
 	
+	<rule comment="PREP TOP (s'afegeix el determinant si el top és a la llista paisos_regions)">
+		<pattern>
+			<pattern-item n="prep"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>  
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>  
+			<choose>
+				<when>
+	  				<test>
+						<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions"/></in>
+					</test>
+					<out>  
+						<b/>
+						<lu>
+							<lit v="o"/>
+							<lit-tag v="det.def"/>
+							<clip pos="2" side="tl" part="gen"/>
+							<clip pos="2" side="tl" part="nbr"/>
+						</lu>
+					</out>
+				</when>
+			</choose>
+			<out>  
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+	
+	<rule comment="ANT PREP TOP (per prevenir que s'afegeixi el determinant)">
+		<pattern>
+			<pattern-item n="ant"/>
+			<pattern-item n="prep"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="3"/>
+			</call-macro>
+			<call-macro n="f_concord1">
+				<with-param pos="1"/>
+			</call-macro>
+			<out>  
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+	
+	<rule comment="ANT NUM PREP TOP (per prevenir que s'afegeixi el determinant)">
+		<pattern>
+			<pattern-item n="ant"/>
+			<pattern-item n="num"/>
+			<pattern-item n="prep"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="f_concord1">
+				<with-param pos="1"/>
+			</call-macro>
+			<out>  
+				<lu>    
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="4" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+	
+
 	<rule comment="DETERMINANT TOP">
 		<pattern>
 			<pattern-item n="det"/>
