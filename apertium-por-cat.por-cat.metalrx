@@ -383,6 +383,9 @@
     <def-seq n="lugar_concreto">
       <match lemma="ilha" tags="n.*"/>
       <match lemma="cidade" tags="n.*"/>
+<!--      <match lemma="vila" tags="n.*"/> -->
+<!--      <match lemma="aldeia" tags="n.*"/> -->
+<!--      <match lemma="povoação" tags="n.*"/> -->
       <match lemma="região" tags="n.*"/>
       <match lemma="departamento" tags="n.*"/>
       <match lemma="província" tags="n.*"/>
@@ -392,6 +395,47 @@
       <match lemma="igreja" tags="n.*"/>
       <match lemma="catedral" tags="n.*"/>
       <match lemma="palácio" tags="n.*"/>
+
+      <match lemma="parlamento"/>
+      <match lemma="congresso"/>
+      <match lemma="senado"/>
+      <match lemma="assembleia"/>
+      <match lemma="conferência"/>
+      <match lemma="universidade"/>
+      <match lemma="escola"/>
+      <match lemma="faculdade"/>
+      <match lemma="colégio"/>
+      <match lemma="instituto"/>
+      <match lemma="hospital"/>
+      <match lemma="clínica"/>
+      <match lemma="policlínica"/>
+
+      <match lemma="casa"/>
+      <match lemma="andar"/>
+      <match lemma="piso"/>
+      <match lemma="apartamento"/>
+      <match lemma="escada"/>
+      <match lemma="torre"/>
+      <match lemma="edifício"/>
+      <match lemma="castelo"/>
+      <match lemma="muralja"/>
+      <match lemma="habitação"/>
+      <match lemma="câmara"/>
+      <match lemma="despacho"/>
+      <match lemma="laboratório"/>
+      <match lemma="entrada"/>
+      <match lemma="saída"/>
+      <match lemma="hall"/>
+      <match lemma="antessala"/>
+      <match lemma="saguão"/>
+      <match lemma="sala# de jantar"/>
+      <match lemma="salão"/>
+      <match lemma="telhado"/>
+      <match lemma="terrado"/>
+
+      <match lemma="prisão"/>
+
+      <match lemma="espaço"/>
     </def-seq>
   </def-seqs>
 
@@ -624,6 +668,57 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- apreensão > captura, apreensão -->
+  <rule weight="0.6">
+    <match lemma="apreensão" tags="n.*"><select lemma="aprensió"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="mandado" tags="n.*"/>
+    <match lemma="de" tags="pr"/>
+    <match lemma="apreensão" tags="n.*"><select lemma="captura"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="busca" tags="n.*"/>
+    <match lemma="e" tags="cnjcoo"/>
+    <match lemma="apreensão" tags="n.*"><select lemma="captura"/></match>
+  </rule>
+
+  <!-- crime > crim, delicte -->
+  <rule weight="0.6">
+    <match lemma="crime" tags="n.*"><select lemma="crim"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="crime" tags="n.*"><select lemma="delicte"/></match>
+    <match lemma="financeiro" tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="haver" tags="vblex.*"/>
+    <match lemma="crime" tags="n.*"><select lemma="delicte"/></match>
+  </rule>
+
+  <!-- vara > vara, jurisdicció -->
+  <rule weight="0.6">
+    <match lemma="vara" tags="n.*"><select lemma="vara"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="vara" tags="n.*"><select lemma="jurisdicció"/></match>
+    <or>
+      <match lemma="federal" tags="adj.*"/>
+      <match lemma="estatual" tags="adj.*"/>
+      <match lemma="criminal" tags="adj.*"/>
+      <match lemma="cível" tags="adj.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match tags="adj.ord.*"/>
+    <match lemma="vara" tags="n.*"><select lemma="jurisdicció"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="vara" tags="n.*"><select lemma="jurisdicció"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="execução" tags="n.*"/>
+  </rule>
 
   <!-- cabo > cap, cable, màneg, caporal -->
   <rule weight="0.6">
@@ -1105,6 +1200,90 @@
       <match lemma="basar" tags="vblex.pp.*"/>
       <match lemma="basar" tags="vblex.pp.*"/>
     </or>
+  </rule>
+
+  <!-- contar > contar, comptar -->
+
+  <rule weight="0.8">
+    <match lemma="contar" tags="vblex.*"><select lemma="comptar"/></match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="contar" tags="vblex.*"><select lemma="contar"/></match>
+    <repeat from="0" upto="4">
+      <or>
+        <match tags="*.*"/>
+        <match tags="pr"/>
+      </or>
+    </repeat> 
+    <or>
+      <match lemma="anedota" tags="n.*"/>
+      <match lemma="aventura" tags="n.*"/>
+      <match lemma="conto" tags="n.*"/>
+      <match lemma="desventura" tags="n.*"/>
+      <match lemma="episodio" tags="n.*"/>
+      <match lemma="história" tags="n.*"/>
+      <match lemma="lenda" tags="n.*"/>
+      <match lemma="narración" tags="n.*"/>
+      <match lemma="narrador" tags="n.*"/>
+      <match lemma="parábola" tags="n.*"/>
+      <match lemma="filme" tags="n.*"/>
+      <match lemma="peripecia" tags="n.*"/>
+      <match lemma="relato" tags="n.*"/>
+      <match lemma="vida" tags="n.*"/>
+    </or>
+  </rule>
+
+  <rule weight="1.0">
+    <or>
+      <match lemma="anedota" tags="n.*"/>
+      <match lemma="aventura" tags="n.*"/>
+      <match lemma="conto" tags="n.*"/>
+      <match lemma="desventura" tags="n.*"/>
+      <match lemma="episodio" tags="n.*"/>
+      <match lemma="história" tags="n.*"/>
+      <match lemma="lenda" tags="n.*"/>
+      <match lemma="narración" tags="n.*"/>
+      <match lemma="narrador" tags="n.*"/>
+      <match lemma="parábola" tags="n.*"/>
+      <match lemma="filme" tags="n.*"/>
+      <match lemma="peripecia" tags="n.*"/>
+      <match lemma="relato" tags="n.*"/>
+      <match lemma="vida" tags="n.*"/>
+    </or>
+    <repeat from="0" upto="4">
+      <or>
+        <match tags="*.*"/>
+        <match tags="pr"/>
+      </or>
+    </repeat> 
+    <match lemma="contar" tags="vblex.*"><select lemma="contar"/></match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="contar" tags="vblex.*"><select lemma="contar"/></match>
+    <repeat from="0" upto="2">
+      <match tags="adv.*"/>
+    </repeat>
+      <match lemma="que"/>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="contar" tags="vblex.*"><select lemma="comptar"/></match>
+    <repeat from="0" upto="2">
+      <match tags="adv.*"/>
+    </repeat>
+    <or>
+      <match lemma="com"/>
+      <match lemma="comigo"/>
+      <match lemma="contigo"/>
+      <match lemma="consigo"/>
+    </or>
+  </rule>
+ 
+  <rule weight="0.9">
+    <match lemma="contar" tags="vblex.*"><select lemma="explicar"/></match>
+    <match tags="prn.*"/>
   </rule>
 
   <!-- chamar > cridar, dir, anomenar, qualificar -->

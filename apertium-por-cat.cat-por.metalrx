@@ -440,7 +440,7 @@
       <match lemma="parlament"/>
       <match lemma="congrés"/>
       <match lemma="senat"/>
-      <match lemma="assamblea"/>
+      <match lemma="assemblea"/>
       <match lemma="conferència"/>
       <match lemma="universitat"/>
       <match lemma="escola"/>
@@ -1163,6 +1163,27 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- civil > civil, cível -->
+  <rule weight="0.6">
+    <match lemma="civil" tags="adj.*"><select lemma="civil"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="dret" tags="n.*"/>
+      <match lemma="demanda" tags="n.*"/>
+      <match lemma="denúncia" tags="n.*"/>
+      <match lemma="plet" tags="n.*"/>
+      <match lemma="acció" tags="n.*"/>
+      <match lemma="procés" tags="n.*"/>
+      <match lemma="justícia" tags="n.*"/>
+      <match lemma="judici" tags="n.*"/>
+      <match lemma="jutjat" tags="n.*"/>
+      <match lemma="cort" tags="n.*"/>
+      <match lemma="via" tags="n.*"/>
+    </or>
+    <match lemma="civil" tags="adj.*"><select lemma="cível"/></match>
+  </rule>
+
   <!-- indi > indiano, índio -->
   <rule weight="0.6">
     <match lemma="indi" tags="adj.*"><select lemma="indiano"/></match>
@@ -1205,6 +1226,120 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- ordre > ordem, mandado -->
+  <rule weight="0.6">
+    <match lemma="ordre" tags="n.f.*"><select lemma="ordem"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ordre" tags="n.f.*"><select lemma="mandado"/></match>
+    <or>
+      <match lemma="judicial" tags="adj.*"/>
+      <match lemma="internacional" tags="adj.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ordre" tags="n.f.*"><select lemma="mandado"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="arrest" tags="n.*"/>
+      <match lemma="recerca" tags="n.*"/>
+      <match lemma="captura" tags="n.*"/>
+      <match lemma="registre" tags="n.*"/>
+    </or>
+  </rule>
+
+  <!-- captura > captura, apreensão -->
+  <rule weight="0.6">
+    <match lemma="captura" tags="n.f.*"><select lemma="captura"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ordre" tags="n.*"/>
+    <match lemma="de" tags="pr"/>
+    <match lemma="captura" tags="n.f.*"><select lemma="apreensão"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="recerca" tags="n.*"/>
+    <match lemma="i" tags="cnjcoo"/>
+    <match lemma="captura" tags="n.f.*"><select lemma="apreensão"/></match>
+  </rule>
+
+  <!-- tret > rasgo, disparo -->
+  <rule weight="0.6">
+    <match lemma="tret" tags="n.*"><select lemma="rasgo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="tret" tags="n.*"><select lemma="disparo"/></match>
+    <match lemma="a" tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="tret" tags="n.*"><select lemma="disparo"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="sortida" tags="n.*"/>
+  </rule>
+
+  <!-- escala > escada, escala -->
+  <rule weight="0.6">
+    <match lemma="escala" tags="n.*"><select lemma="escada"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="a" tags="pr"/>
+    <match lemma="escala" tags="n.*"><select lemma="escala"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="gran" tags="adj.*"/>
+      <match lemma="petit" tags="adj.*"/>
+      <match lemma="major" tags="adj.*"/>
+      <match lemma="menor" tags="adj.*"/>
+      <match lemma="fer" tags="vblex.*"/>
+    </or>
+    <match lemma="escala" tags="n.*"><select lemma="escala"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="escala" tags="n.*"><select lemma="escala"/></match>
+    <or>
+      <match lemma="musical" tags="adj.*"/>
+      <match lemma="major" tags="adj.*"/>
+      <match lemma="menor" tags="adj.*"/>
+      <match lemma="cromàtic" tags="adj.*"/>
+      <match lemma="pentatònic" tags="adj.*"/>
+      <match lemma="octatònic" tags="adj.*"/>
+      <match lemma="modal" tags="adj.*"/>
+      <match lemma="graduat" tags="adj.*"/>
+      <match lemma="graduar" tags="vblex.pp.*"/>
+      <match lemma="astronòmic" tags="adj.*"/>
+      <match lemma="atòmic" tags="adj.*"/>
+      <match lemma="subatòmic" tags="adj.*"/>
+      <match tags="np.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="escala" tags="n.*"><select lemma="escala"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="to" tags="n.*"/>
+  </rule>
+
+  <!-- pis > andar, piso, apartamento (Bra) -->
+  <rule weight="0.6">
+    <match lemma="pis" tags="n.*"><select lemma="piso"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="pis" tags="n.*"><select lemma="apartamento"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+      <match tags="preadv"/>
+    </repeat>
+    <match tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.pos.*"/>
+    <match lemma="pis" tags="n.*"><select lemma="apartamento"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="pis" tags="n.*"><select lemma="apartamento"/></match>
+    <match lemma="pilot"/>
+  </rule>
 
   <!-- banda > banda, bando -->
   <rule weight="0.6">
@@ -1490,12 +1625,12 @@
     <match lemma="estada" tags="n.*"><select lemma="estadia"/></match>
   </rule>
 
-  <!-- poble > povoação, aldeia -->
+  <!-- poble > aldeia, povo -->
   <rule weight="0.6">
-    <match lemma="poble" tags="n.*"><select lemma="povoação"/></match>
+    <match lemma="poble" tags="n.*"><select lemma="aldeia"/></match>
   </rule>
   <rule weight="1.0">
-    <match lemma="poble" tags="n.*"><select lemma="aldeia"/></match>
+    <match lemma="poble" tags="n.*"><select lemma="povo"/></match>
     <match tags="adj.*"/>
   </rule>
 
@@ -1651,15 +1786,6 @@
   <rule weight="1.0">
     <match lemma="cargol" tags="n.m.*"><select lemma="parafuso"/></match>
     <or><match tags="np.cog.*"/><match tags="np.al.*"/></or> <!-- Philips, Allen, etc. -->
-  </rule>
-
-  <!-- tret > caratteristica, sparo -->
-  <rule weight="0.6">
-    <match lemma="tret" tags="n.*"><select lemma="caratteristica"/></match>
-  </rule>
-  <rule weight="1.0">
-    <match lemma="tret" tags="n.*"><select lemma="sparo"/></match>
-    <match lemma="a" tags="pr"/>
   </rule>
 
 <!-- **************** V **************** -->
@@ -1819,6 +1945,10 @@
   </rule>
   <rule weight="1.0">
     <match lemma="traslladar" tags="vblex.*"><select lemma="mudar"/></match>
+    <repeat from="0" upto="2">
+      <match tags="adv"/>
+      <match tags="prn.enc.*"/>
+    </repeat>
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
   <rule weight="1.0">
@@ -1827,6 +1957,10 @@
       <match lemma="viatjar" tags="vblex.*"/>
       <match lemma="anar" tags="vblex.*"/>
     </or>
+    <repeat from="0" upto="2">
+      <match tags="adv"/>
+      <match tags="prn.enc.*"/>
+    </repeat>
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
   <rule weight="1.0">
@@ -1915,6 +2049,8 @@
       <match lemma="ordre" tags="n.f.*"/>
       <match lemma="comiat" tags="n.*"/>
       <match lemma="traducció" tags="n.*"/>
+
+      <match lemma="trasllat" tags="n.*"/>
     </or>
     <repeat from="0" upto="1">
       <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
@@ -1923,10 +2059,16 @@
   </rule>
   <rule weight="1.0">
     <match lemma="traducció" tags="n.*"/>
+    <repeat from="0" upto="1">
+      <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+    </repeat>
     <match lemma="a" tags="pr"><select lemma="a" tags="pr"/></match>
   </rule>
   <rule weight="1.0">
     <match lemma="traducció" tags="n.*"/>
+    <repeat from="0" upto="1">
+      <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+    </repeat>
     <match lemma="a" tags="pr"><select lemma="a" tags="pr"/></match>
     <match tags="det.*"/>
     <match tags="n.*"/>
@@ -1934,6 +2076,17 @@
   </rule>
   <rule weight="1.0">
     <match lemma="traducció" tags="n.*"/>
+    <match lemma="de" tags="pr"/>
+    <match tags="det.*"/>
+    <match tags="n.*"/>
+    <repeat from="0" upto="1">
+      <match tags="adj.*"/>
+    </repeat>
+    <match lemma="a" tags="pr"><select lemma="a" tags="pr"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="traducció" tags="n.*"/>
+    <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
     <match lemma="de" tags="pr"/>
     <match tags="det.*"/>
     <match tags="n.*"/>
@@ -1998,10 +2151,12 @@
       <match lemma="parlar" tags="vblex.*"/>
       <match lemma="cridar" tags="vblex.*"/>
       <match lemma="incorporar" tags="vblex.*"/>
+      <match lemma="estendre" tags="vblex.*"/>
       <match lemma="correspondre" tags="vblex.*"/>
     </or>
-    <repeat from="0" upto="1">
+    <repeat from="0" upto="2">
       <match tags="adv"/>
+      <match tags="prn.enc.*"/>
     </repeat>
     <match lemma="a" tags="pr"><select lemma="a" tags="pr"/></match>
   </rule>

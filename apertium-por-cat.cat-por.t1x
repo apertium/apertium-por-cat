@@ -846,7 +846,7 @@
       <list-item v="Irlanda do Norte"/>
       <list-item v="Islândia"/>
       <list-item v="Espanha"/>
-      <list-item v="Israel"/>
+<!--      <list-item v="Israel"/> -->
       <list-item v="Suécia"/>
       <list-item v="Suíça"/>
       <list-item v="Itália"/>
@@ -1037,6 +1037,7 @@
       <list-item v="Tibet"/>
       <list-item v="Alabama"/>
       <list-item v="Alaska"/>
+      <list-item v="Alasca"/>
       <list-item v="Arizona"/>
       <list-item v="Califórnia"/>
       <list-item v="Carolina do Norte"/>
@@ -1046,6 +1047,8 @@
       <list-item v="Dakota do Sul"/>
       <list-item v="Delaware"/>
       <list-item v="Flórida"/>
+      <list-item v="Havaí"/>
+      <list-item v="Havai"/>
       <list-item v="Idaho"/>
       <list-item v="Illinois"/>
       <list-item v="Indiana"/>
@@ -1057,6 +1060,7 @@
       <list-item v="Michigan"/>
       <list-item v="Minnesota"/>
       <list-item v="Missouri"/>
+      <list-item v="Montana"/>
       <list-item v="Nevada"/>
       <list-item v="Nova England"/>
       <list-item v="Nova Hampshire"/>
