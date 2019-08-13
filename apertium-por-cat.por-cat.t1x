@@ -1042,7 +1042,7 @@
       <list-item v="Morávia"/>
       <list-item v="Silésia"/>
       <list-item v="Crimea"/>
-      <list-item v="Tibet"/>
+<!--      <list-item v="Tibete"/> -->
       <list-item v="Alabama"/>
       <list-item v="Alaska"/>
       <list-item v="Alasca"/>
@@ -1071,12 +1071,15 @@
 <!--      <list-item v="Mississípi"/>  -->
       <list-item v="Missouri"/>
       <list-item v="Montana"/>
+      <list-item v="Nebrasca"/>
+      <list-item v="Nebraska"/>
       <list-item v="Nevada"/>
       <list-item v="Nova England"/>
       <list-item v="Nova Hampshire"/>
       <list-item v="Nova Jérsia"/>
       <list-item v="Nova Jérsei"/>
       <list-item v="Nova Jersey"/>
+      <list-item v="Novo México"/>
       <list-item v="Oklahoma"/>
       <list-item v="Ohio"/>
       <list-item v="Pensilvânia"/>
