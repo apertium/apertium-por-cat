@@ -1124,6 +1124,7 @@
       <list-item v="Babilônia"/>
       <list-item v="Caldea"/>
       <list-item v="Judea"/>
+      <list-item v="Hispânia"/>
       <list-item v="Checoslováquia"/>
       <list-item v="Tchecoslováquia"/>
       <list-item v="Iugoslávia"/>
@@ -1132,6 +1133,7 @@
       <list-item v="Ferrol"/>
       <list-item v="Porto"/>
       <list-item v="Porto Alegre"/>
+      <list-item v="Pretória"/>
 
       <list-item v="Internet"/>
     </def-list>
