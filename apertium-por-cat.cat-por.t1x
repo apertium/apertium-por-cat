@@ -78,6 +78,10 @@
 			<cat-item tags="preadv"/>
 		</def-cat>
 		
+		<def-cat n="tot_adv">
+			<cat-item lemma="tot" tags="adv"/>
+		</def-cat>
+
 		<def-cat n="mes_menys">
 			<cat-item lemma="més" tags="adv"/>
 			<cat-item lemma="menys" tags="adv"/>
@@ -10880,7 +10884,7 @@
 	</action>
 </rule>
 
-	<rule> <!-- REGLA 35: VERB (per a multiparaules sense enclï¿½tics)-->
+	<rule> <!-- REGLA 35: VERB (per a multiparaules sense enclítics)-->
 		<pattern>
 			<pattern-item n="verb"/>
 		</pattern>
@@ -10899,7 +10903,27 @@
 		</action>
 	</rule>
 	
-	<rule> <!-- REGLA: VERB + ENCLï¿½TIC--> 
+	<rule comment="REGLA: TOT GER">
+		<pattern>
+			<pattern-item n="tot_adv"/>
+			<pattern-item n="ger"/>
+		</pattern>
+		<action>
+			<call-macro n="f_bcond">
+				<with-param pos="1"/>
+			</call-macro>	
+			<out>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="a_verb"/>
+					<clip pos="2" side="tl" part="temps"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>		
+			</out>		
+		</action>
+	</rule>
+	
+	<rule> <!-- REGLA: VERB + ENCLÍTIC --> 
 		<pattern>
 			<pattern-item n="verb"/>
 			<pattern-item n="prnenc"/>
@@ -10908,6 +10932,23 @@
 			<call-macro n="f_outverb2">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
+			</call-macro>
+		</action>
+ 	</rule> 
+	
+	<rule comment="REGLA: TOT GER + ENCLÍTIC"> 
+		<pattern>
+			<pattern-item n="tot_adv"/>
+			<pattern-item n="ger"/>
+			<pattern-item n="prnenc"/>
+		</pattern>
+		<action>
+			<call-macro n="f_bcond">
+				<with-param pos="1"/>
+			</call-macro>	
+			<call-macro n="f_outverb2">
+				<with-param pos="2"/>
+				<with-param pos="3"/>
 			</call-macro>
 		</action>
  	</rule> 
@@ -10931,7 +10972,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!-- REGLA 37: VERB + ENCLï¿½TIC + ENCLï¿½TIC--> 
+	<rule> <!-- REGLA 37: VERB + ENCLÍTIC + ENCLÍTIC --> 
 		<pattern>
 			<pattern-item n="verb"/>
 			<pattern-item n="prnenc"/>
@@ -10945,6 +10986,25 @@
 			</call-macro>
 		</action>
 	</rule>
+	
+	<rule comment="REGLA: TOT GER + ENCLÍTIC + ENCLÍTIC"> 
+		<pattern>
+			<pattern-item n="tot_adv"/>
+			<pattern-item n="ger"/>
+			<pattern-item n="prnenc"/>
+			<pattern-item n="prnenc"/>
+		</pattern>
+		<action>
+			<call-macro n="f_bcond">
+				<with-param pos="1"/>
+			</call-macro>	
+			<call-macro n="f_outverb3enc">
+				<with-param pos="2"/>
+				<with-param pos="3"/>
+				<with-param pos="4"/>
+			</call-macro>
+		</action>
+ 	</rule> 
 	
 	<rule> <!-- REGLA 38: prnpro prnpro VERB -->
 		<pattern>
@@ -11280,7 +11340,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!-- REGLA 35: anar estar ger -> anar estar a inf (sense enclï¿½tics)-->
+	<rule> <!-- REGLA 35: anar estar ger -> anar estar a inf (sense enclítics)-->
 		<pattern>
 			<pattern-item n="anar"/>
 			<pattern-item n="estar"/>
@@ -11440,7 +11500,7 @@
 	</rule>
 
 	<!--  					=ï¿½=anar a infinitiu=ï¿½=-->
-	<rule> <!-- REGLA 35: anar a cantar -> ir cantar (sense enclï¿½tics)-->
+	<rule> <!-- REGLA 35: anar a cantar -> ir cantar (sense enclítics)-->
 		<pattern>
 			<pattern-item n="vbanar"/>
 			<pattern-item n="a"/>
@@ -11906,7 +11966,7 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA: EN + INF + ENCLï¿½TIC-->
+	<rule> <!--REGLA: EN + INF + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="en"/>
 			<pattern-item n="infnm"/>
@@ -11968,7 +12028,7 @@
 		</action>
 	</rule> 
 
-	<rule> <!--REGLA: PER + infinitiu + enclï¿½tic= per trobar-se -> para se encontrar-->
+	<rule> <!--REGLA: PER + infinitiu + enclític = per trobar-se -> para se encontrar-->
 		<pattern>
 			<pattern-item n="per"/>
 			<pattern-item n="inf"/>
@@ -12002,7 +12062,7 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA: PER + infinitiu + enclï¿½tic + enclï¿½tic-->
+	<rule> <!--REGLA: PER + infinitiu + enclític + enclític -->
 	<pattern>
 		<pattern-item n="per"/>
 		<pattern-item n="inf"/>
