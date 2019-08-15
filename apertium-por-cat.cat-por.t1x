@@ -139,6 +139,12 @@
 			<cat-item tags="prn.itg.*"/>
 		</def-cat>
 		
+		<def-cat n="prn_tnpro">   	  	  
+			<cat-item tags="prn.tn.*"/>
+			<cat-item tags="prn.itg.*"/>
+			<cat-item tags="prn.pro.*"/>
+		</def-cat>
+		
 		<def-cat n="prnenc">   	  	  
 			<cat-item tags="prn.enc.*"/>
 		</def-cat>     
@@ -6119,7 +6125,7 @@
 	<rule> <!-- REGLA 10: PRONOM -->
 		<!--Special case, macro f_concord1 is not applicable because gender and number cannot be taken from previous rules -->
 		<pattern>
-			<pattern-item n="prn"/>
+			<pattern-item n="prn_tnpro"/>
 		</pattern>
 		<action>
 			<call-macro n="comprovagostar">
