@@ -432,6 +432,9 @@
       <match lemma="salão"/>
       <match lemma="telhado"/>
       <match lemma="terrado"/>
+      <match lemma="rua"/>
+      <match lemma="praça"/>
+      <match lemma="avenida"/>
 
       <match lemma="prisão"/>
 
@@ -442,6 +445,24 @@
 <rules>
 
 <!-- **************** PR **************** -->
+
+  <!-- apesar de > malgrat, tot i -->
+  <rule weight="0.6">
+    <match lemma="apesar de" tags="pr"><select lemma="malgrat"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="apesar de" tags="pr"><select lemma="tot i"/></match>
+    <or>
+      <match tags="vblex.inf"/>  
+      <match tags="vbhaver.inf"/>  
+      <match tags="vbmod.inf"/>
+      <match tags="vbser.inf"/> 
+      <match tags="vblex.ger"/>  
+      <match tags="vbhaver.ger"/>  
+      <match tags="vbmod.ger"/>
+      <match tags="vbser.ger"/> 
+    </or>
+  </rule>
 
   <!-- além de > més enllà de, a més de -->
   <rule weight="0.6">

@@ -472,6 +472,9 @@
       <match lemma="saló"/>
       <match lemma="teulada"/>
       <match lemma="terrat"/>
+      <match lemma="carrer"/>
+      <match lemma="plaça"/>
+      <match lemma="avinguda"/>
 
       <match lemma="presó"/>
 
@@ -1263,6 +1266,74 @@
   <!-- taller > oficina, atelier, ateliê -->
   <rule weight="0.6">
     <match lemma="taller" tags="n.*"><select lemma="oficina"/></match>
+  </rule>
+
+<!--
+# molts cops, alguns cops
+# cops forts, cop molt dur, cops al pit
+-->
+
+  <!-- cop, colp > golpe, vez -->
+  <rule weight="0.6">
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
+     </or>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+     </or>
+     <match lemma="de" tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+     </or>
+     <match lemma="a" tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+     </or>
+     <repeat from="0" upto="1">
+       <or><match tags="preadv"/><match tags="adv"/></or>
+     </repeat>
+     <match tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="donar" tags="vblex.*"/>
+       <match lemma="clavar" tags="vblex.*"/>
+       <match lemma="rebre" tags="vblex.*"/>
+     </or>
+     <repeat from="0" upto="1">
+       <match tags="adv"/>
+     </repeat>
+     <match tags="det.*"/>
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+     </or>
+  </rule>
+  <rule weight="1.0">
+     <or>
+       <match lemma="donar" tags="vblex.*"/>
+       <match lemma="clavar" tags="vblex.*"/>
+       <match lemma="rebre" tags="vblex.*"/>
+     </or>
+     <repeat from="0" upto="1">
+       <match tags="adv"/>
+     </repeat>
+     <match tags="det.*"/>
+     <match tags="adj.*"/>
+     <or>
+       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+     </or>
   </rule>
 
   <!-- ordre > ordem, mandado -->
