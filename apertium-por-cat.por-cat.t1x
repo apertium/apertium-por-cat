@@ -6,10 +6,6 @@
 	  	<cat-item tags="n.*"/>
 	</def-cat>
 
-	<def-cat n="npant">
-		<cat-item tags="np.ant"/>
-	</def-cat>
-
 	<def-cat n="np">
 		<cat-item tags="np.*"/>
 	</def-cat>
@@ -19,6 +15,9 @@
 	<def-cat n="top_al">
 		<cat-item tags="np.top.*"/>
 		<cat-item tags="np.al.*"/>
+	</def-cat>
+	<def-cat n="ant">
+		<cat-item tags="np.ant.*"/>
 	</def-cat>
 	<def-cat n="ant_cog">
 		<cat-item tags="np.ant.*"/>
@@ -4920,24 +4919,6 @@
 		</action>
 	</rule>
 
-	<!-- REGLES PER ELIMINIAR EL DET DAVANT DE NOM PROPI cat: ja no fan falta! :-)-->
-	<!--<rule> <!-#- REGLA 31: DETERMINANT NOM propi-antropï¿½im -#->
-		<pattern>
-			<pattern-item n="det"/>
-			<pattern-item n="npant"/>
-		</pattern>
-		<action>
-			<out>     
-				<lu>
-					<clip pos="2" side="tl" part="whole"/>
-				</lu>  
-			</out>
-			<call-macro n="f_bcond">
-				<with-param pos="1"/>
-			</call-macro>
-		</action>
-	</rule>-->
-	
 	<rule> <!--REGLA: cujo + nom = det nom del qual -->
       <pattern>
 	<pattern-item n="cujo"/>
@@ -7002,7 +6983,7 @@
 				<when>
 					<test>
 						<equal caseless="yes">
-							<clip pos="1" side="sl" part="lem"/>
+							<clip pos="1" side="tl" part="lem"/>
 							<lit v="haver"/>
 						</equal>
 					</test>
@@ -7271,7 +7252,7 @@
 				<when>
 					<test>
 						<equal caseless="yes">
-							<clip pos="1" side="sl" part="lem"/>
+							<clip pos="1" side="tl" part="lem"/>
 							<lit v="haver"/>
 						</equal>
 					</test>
