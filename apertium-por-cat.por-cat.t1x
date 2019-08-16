@@ -757,7 +757,7 @@
       <list-item v="Oceania"/>
       <list-item v="Oceânia"/>
       <list-item v="Escandinávia"/>
-      <list-item v="Afeganistão"/>
+<!--      <list-item v="Afeganistão"/> -->
       <list-item v="Algéria"/>
       <list-item v="Angola"/>
       <list-item v="Antígua e Barbuda"/>
@@ -857,9 +857,9 @@
       <list-item v="Suíça"/>
       <list-item v="Itália"/>
 <!--      <list-item v="Iémen"/> -->
-      <list-item v="Cazaquistão"/>
+<!--      <list-item v="Cazaquistão"/> -->
       <list-item v="Quênia"/>
-      <list-item v="Quirguistão"/>
+<!--      <list-item v="Quirguistão"/> -->
       <list-item v="Kiribati"/>
       <list-item v="Kuweit"/>
       <list-item v="Laos"/>
@@ -905,7 +905,7 @@
       <list-item v="Noruega"/>
       <list-item v="Holanda"/>
       <list-item v="Oman"/>
-      <list-item v="Paquistão"/>
+<!--      <list-item v="Paquistão"/> -->
       <list-item v="Palestina"/>
       <list-item v="Panamá"/>
       <list-item v="Papua"/>
@@ -942,9 +942,9 @@
       <list-item v="Sumatra"/>
       <list-item v="Suriname"/>
       <list-item v="Swaziland"/>
-      <list-item v="Quirguistão"/>
-      <list-item v="Tajiquistão"/>
-      <list-item v="Tadjiquistão"/>
+<!--      <list-item v="Quirguistão"/> -->
+<!--      <list-item v="Tajiquistão"/> -->
+<!--      <list-item v="Tadjiquistão"/> -->
       <list-item v="Tailândia"/>
       <list-item v="Taiwan"/>
       <list-item v="Tanzânia"/>
@@ -956,8 +956,8 @@
       <list-item v="Trinidad e Tobago"/>
       <list-item v="Tunísia"/>
       <list-item v="Turquia"/>
-      <list-item v="Turcomenistão"/>
-      <list-item v="Turquemenistão"/>
+<!--      <list-item v="Turcomenistão"/> -->
+<!--      <list-item v="Turquemenistão"/> -->
       <list-item v="Tuvalu"/>
       <list-item v="Chile"/>
 <!--      <list-item v="Cina"/> -->
@@ -967,8 +967,8 @@
       <list-item v="Uganda"/>
       <list-item v="Hungria"/>
 <!--      <list-item v="Uruguay"/> -->
-      <list-item v="Uzbequistão"/>
-      <list-item v="Usbequistão"/>
+<!--      <list-item v="Uzbequistão"/> -->
+<!--      <list-item v="Usbequistão"/> -->
       <list-item v="Vanuatu"/>
       <list-item v="Venezuela"/>
       <list-item v="Vietnam"/>
@@ -1041,7 +1041,7 @@
       <list-item v="Boêmia"/>
       <list-item v="Morávia"/>
       <list-item v="Silésia"/>
-      <list-item v="Crimea"/>
+      <list-item v="Crimeia"/>
       <list-item v="Chechênia"/>
       <list-item v="Tchetchênia"/>
       <list-item v="Chechénia"/>
@@ -3614,7 +3614,7 @@
 												<clip pos="2" side="tl" part="nbr"/>
 											</lu>
 											<lu>
-												<lit v="nos"/>
+												<lit v="ens"/>
 												<lit-tag v="prn.enc.p1.mf.pl"/>
 											</lu>
 										</mlu>
@@ -3685,7 +3685,7 @@
 												<clip pos="2" side="tl" part="nbr"/>
 											</lu>
 											<lu>
-												<lit v="le"/>
+												<lit v="li"/>
 												<lit-tag v="prn.enc.p3.mf"/>
 												<clip pos="1" side="tl" part="nbr"/>
 											</lu>
@@ -3783,6 +3783,8 @@
 						<lit-tag v="m"/>
 					</let>
 				</when>
+			</choose>	
+			<choose>	
 				<when>
 					<test> 
 						<equal>
@@ -6264,7 +6266,7 @@
 													<lit-tag v="p3.sg"/>
 												</lu>
 												<lu>
-													<lit v="nos"/>
+													<lit v="ens"/>
 													<lit-tag v="prn.enc.p1.mf.pl"/>
 												</lu>
 											</mlu>
@@ -6332,7 +6334,7 @@
 													<lit-tag v="p3.sg"/>
 												</lu>
 												<lu>
-													<lit v="le"/>
+													<lit v="li"/>
 													<lit-tag v="prn.enc.p3.mf"/>
 													<clip pos="1" side="tl" part="nbr"/>
 												</lu>
