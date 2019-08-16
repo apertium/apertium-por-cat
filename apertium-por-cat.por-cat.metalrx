@@ -495,7 +495,7 @@
   <rule weight="1.0">
     <or>
       <match lemma="avançar" tags="vblex.*"/>
-      <match lemma="xxxviajar" tags="vblex.*"/>
+      <match lemma="seguir" tags="vblex.*"/>
       <!--       <match lemma="ir" tags="vblex.*"/> -->
     </or>
     <repeat from="0" upto="1">
@@ -953,6 +953,40 @@
   <!-- sírio > sirià, siri -->
   <rule weight="0.6">
     <match lemma="sírio" tags="n.*"><select lemma="sirià"/></match>
+  </rule>
+
+  <!-- chapa > placa, llista (Bra) -->
+  <rule weight="0.6">
+    <match lemma="chapa" tags="n.*"><select lemma="placa"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="chapa" tags="n.*"><select lemma="llista"/></match>
+    <match lemma="eleitoral" tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="chapa" tags="n.*"><select lemma="llista"/></match>
+    <match lemma="de" tags="pr"/>
+    <repeat from="0" upto="1">
+      <match tags="det.df.*"/>
+    </repeat>
+    <or>
+      <match tags="np.al"/>
+      <match tags="np.al.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match tags="adj.ord.*"/>
+      <match lemma="primeiro"/>
+      <match lemma="segundo"/>
+      <match lemma="terceiro"/>
+      <match lemma="últim"/>
+      <match lemma="penúltim"/>
+      <match lemma="antepenúltim"/>
+      <match lemma="colega" tags="n.*"/>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match lemma="chapa" tags="n.*"><select lemma="llista"/></match>
   </rule>
 
   <!-- saque > saqueig, sacada (Bra) -->
@@ -1577,6 +1611,7 @@
   <macro name="noms_propis" p1="Marcos" p2="Marc" />
   <macro name="noms_propis" p1="Martim" p2="Martí" />
   <macro name="noms_propis" p1="Mateus" p2="Mateu" />
+  <macro name="noms_propis" p1="Miguel" p2="Miquel" />
   <macro name="noms_propis" p1="Paulo" p2="Pau" />
   <macro name="noms_propis" p1="Pedro" p2="Pere" />
   <macro name="noms_propis" p1="Ramiro" p2="Ramir" />

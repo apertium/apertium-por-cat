@@ -819,15 +819,6 @@
        <match lemma="vendre" tags="vblex.*"/>
     </def-seq>
 
-    <def-seq n="verbs_mov_amb_a">
-       <match lemma="apropar" tags="vblex.*"/>
-       <match lemma="aproximar" tags="vblex.*"/>
-       <match lemma="llençar" tags="vblex.*"/>
-       <match lemma="llançar" tags="vblex.*"/>
-       <match lemma="ficar" tags="vblex.*"/>
-       <match lemma="posar" tags="vblex.*"/>
-    </def-seq>
-
     <def-seq n="verbs_moviment">
       <match lemma="anar" tags="vblex.*"/>
       <match lemma="traslladar" tags="vblex.*"/>
@@ -1248,6 +1239,49 @@
 
 <!-- **************** N **************** -->
 
+  <!-- plantilla > forma, quadro, plantel -->
+  <rule weight="0.6">
+    <match lemma="plantilla" tags="n.*"><select lemma="forma"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.def.f.sg"/>
+    <match lemma="plantilla" tags="n.*"><select lemma="quadro"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="plantilla" tags="n.*"><select lemma="quadro"/></match>
+    <match lemma="de" tags="pr"/>
+    <or><match tags="num.*"/><match tags="num"/></or>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="plantilla" tags="n.*"><select lemma="plantel"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match tags="np.*"/>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="plantilla" tags="n.*"><select lemma="plantel"/></match>
+    <match lemma="de" tags="pr"/>
+    <repeat from="0" upto="1">
+      <or><match tags="num.*"/><match tags="num"/></or>
+    </repeat>
+    <match lemma="jugador" tags="n.*"/>
+  </rule>
+
+  <!-- governació > governo, província -->
+  <rule weight="0.6">
+    <match lemma="governació" tags="n.*"><select lemma="governo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="capital" tags="n.*"/>
+    <match lemma="de" tags="pr"/>
+    <match lemma="governació" tags="n.*"><select lemma="província"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="governació" tags="n.*"><select lemma="província"/></match>
+    <match lemma="de" tags="pr"/>
+    <match tags="np.*"/>
+  </rule>
+
   <!-- oficina > escritório, posto, laboratório -->
   <rule weight="0.6">
     <match lemma="oficina" tags="n.*"><select lemma="escritório"/></match>
@@ -1512,17 +1546,50 @@
     <match lemma="assistent" tags="n.*"><select lemma="assistente"/></match>
   </rule>
 
+  <!-- llista > lista, chapa (Bra) -->
+  <rule weight="0.6">
+    <match lemma="llista" tags="n.*"><select lemma="lista"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="llista" tags="n.*"><select lemma="chapa"/></match>
+    <match lemma="electoral" tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="llista" tags="n.*"><select lemma="chapa"/></match>
+    <match lemma="de" tags="pr"/>
+    <repeat from="0" upto="1">
+      <match tags="det.df.*"/>
+    </repeat>
+    <or>
+      <match tags="np.al"/>
+      <match tags="np.al.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match tags="adj.ord.*"/>
+      <match lemma="company" tags="n.*"/>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match lemma="llista" tags="n.*"><select lemma="chapa"/></match>
+  </rule>
+
   <!-- lloc > lugar, local, sítio -->
   <rule weight="0.6">
     <match lemma="lloc" tags="n.*"><select lemma="lugar"/></match>
   </rule>
 
-  <!-- parla > fala, falar -->
+  <!-- parla > fala, falar, língua -->
   <rule weight="0.6">
     <match lemma="parla" tags="n.*"><select lemma="fala"/></match>
   </rule>
   <rule weight="1.0">
     <match lemma="parla" tags="n.*"><select lemma="falar"/></match>
+    <match tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="parla" tags="n.*"><select lemma="língua"/></match>
     <match tags="adj.*"/>
   </rule>
 
@@ -1666,6 +1733,33 @@
     <match lemma="a" tags="pr"/>
     <match tags="det.def.*"/>
     <match lemma="corrent" tags="n.*"><select lemma="corrente" tags="n.m.*"/></match>
+  </rule>
+
+  <!-- càmping > campismo, parque# de campismo (Por) -->
+  <rule weight="0.6">
+    <match lemma="càmping" tags="n.*"><select lemma="campismo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.*"/>
+    <match lemma="càmping" tags="n.*"><select lemma="parque# de campismo"/></match>
+  </rule>
+  <rule weight="1.2">
+    <match tags="det.def.*"/>
+    <match lemma="càmping" tags="n.*"><select lemma="campismo"/></match>
+  </rule>
+  <rule weight="1.4">
+    <or>
+      <seq n="verbs_moviment"/>
+    </or>
+    <repeat from="0" upto="3">
+      <or>
+        <match tags="adv"/>
+        <match tags="prn.enc.*"/>
+      </or>
+    </repeat>
+    <match tags="pr"/>
+    <match tags="det.def.*"/>
+    <match lemma="càmping" tags="n.*"><select lemma="parque# de campismo"/></match>
   </rule>
 
   <!-- camioneta > carrinha# de caixa aberta, etc. (Por) -->
@@ -1898,6 +1992,23 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- invertir > investir, inverter -->
+  <rule weight="0.6">
+    <match lemma="invertir" tags="vbser.*"><select lemma="investir"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="invertir" tags="vbser.*"><select lemma="inverter"/></match>
+    <match tags="det.*"/>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="invertir" tags="vbser.*"><select lemma="investir"/></match>
+    <match tags="det.*"/>
+    <or>
+    	<match lemma="diners" tags="n.*"/>
+    	<match lemma="estalvi" tags="n.*"/>
+    </or>
+  </rule>
 
   <!-- ser > ser, estar -->
   <rule weight="0.6">
@@ -2318,10 +2429,16 @@
       <seq n="verbs_moviment"/>
       <match lemma="proximitat" tags="n.*"/>
     </or>
-    <repeat from="0" upto="2">
-      <match tags="prn.enc.*"/>
+    <repeat from="0" upto="3">
+      <or>
+        <match tags="adv"/>
+        <match tags="prn.enc.*"/>
+      </or>
     </repeat>
-    <match lemma="a" tags="pr"><select lemma="a"/></match>
+    <or>
+      <match lemma="a" tags="pr"><select lemma="a"/></match>
+      <match lemma="de" tags="pr"/>
+    </or>
     <match tags="det.def.*"/>
     <or>
       <match lemma="península" tags="n.*"/>
@@ -2464,6 +2581,7 @@
   <macro name="noms_propis" p1="Marc" p2="Marcos" />
   <macro name="noms_propis" p1="Martí" p2="Martim" />
   <macro name="noms_propis" p1="Mateu" p2="Mateus" />
+  <macro name="noms_propis" p1="Miquel" p2="Miguel" />
   <macro name="noms_propis" p1="Pau" p2="Paulo" />
   <macro name="noms_propis" p1="Pere" p2="Pedro" />
   <macro name="noms_propis" p1="Ramir" p2="Ramiro" />
