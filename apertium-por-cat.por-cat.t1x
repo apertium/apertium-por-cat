@@ -167,6 +167,10 @@
 		<cat-item lemma="ter" tags="vblex.*"/>
 	</def-cat>
 	
+	<def-cat n="vbmod_imp">
+		<cat-item tags="vbmod.imp.*"/>
+	</def-cat>
+	
 	<def-cat n="gostar">
 		<cat-item lemma="gostar" tags="vblex.*"/>
 	</def-cat>
@@ -742,6 +746,7 @@
 		<def-var n="comparativa"/>
       <def-var n="auxg"/>
       <def-var n="auxn"/>
+      <def-var n="debug"/>
 </section-def-vars>
 
 <section-def-lists>
@@ -6364,9 +6369,16 @@
 									<b/>
 									<lu>
 										<get-case-from pos="1" >
-											<lit v="haber"/>
+											<lit v="anar"/>
 										</get-case-from>
-										<lit-tag v="vbhaver.ifi.p3.sg"/>
+										<lit-tag v="vaux"/>
+										<clip pos="1" side="tl" part="persona"/>
+										<clip pos="1" side="tl" part="nbr"/>
+									</lu>
+									<b/>
+									<lu>
+										<lit v="haver"/>
+										<lit-tag v="vaux.inf"/>
 									</lu>
 									<b/>
 									<lu>
@@ -6378,7 +6390,7 @@
 								</out>
 							</when>
 							<otherwise>
-														<choose>
+									<choose>
 								<when>
 									<test>
 										<equal>
@@ -6421,7 +6433,6 @@
 									</out>
 								</when>
 								<otherwise>
-									
 								<choose>
 									<when>
 										<test>
@@ -6976,7 +6987,7 @@
 		</action>
 	</rule>
 	
-	<rule> <!--REGLA 34: VERB + ENCLï¿½IC-->
+	<rule> <!--REGLA 34: VERB + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="verb"/>
 			<pattern-item n="prnenc"/>
@@ -6985,6 +6996,23 @@
 <!--			<call-macro n="f_pretind">
 				<with-param pos="1"/>
 			</call-macro>-->
+
+			<!-- pedaç -->
+			<choose>
+				<when>
+					<test>
+						<equal caseless="yes">
+							<clip pos="1" side="sl" part="lem"/>
+							<lit v="haver"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vbhaver"/>
+					</let>
+				</when>
+			</choose>
+
 			<choose>
 				<when>
 					<test>
@@ -7161,8 +7189,6 @@
 	</rule>
 	
 
-
-
 	<rule>	 <!-- verb-mesoclï¿½ic-cua -->
 		<pattern>
 			<pattern-item n="verbmeso"/>
@@ -7193,8 +7219,43 @@
 		</action>
 	</rule> 
 	
+	<rule comment="RULE: VERBMOD_IMP + ENCLÍTIC">
+		<pattern>
+			<pattern-item n="vbmod_imp"/>
+			<pattern-item n="prnenc"/>
+			<pattern-item n="inf"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_verb"/>
+					<clip pos="1" side="tl" part="temps"/>
+					<clip pos="1" side="tl" part="persona"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>	 
+				</lu>
+				<b pos="2"/> 
+				<mlu>
+					<lu>
+						<clip pos="3" side="tl" part="lemh"/>
+						<clip pos="3" side="tl" part="a_verb"/>
+						<clip pos="3" side="tl" part="temps"/>
+					</lu>
+					<lu>
+						<clip pos="2" side="tl" part="lem"/>
+						<clip pos="2" side="tl" part="a_prnenc"/>
+						<clip pos="2" side="tl" part="persona"/>
+						<clip pos="2" side="tl" part="gen"/>
+						<clip pos="2" side="tl" part="nbr"/>
+						<clip pos="3" side="tl" part="lemq"/>
+					</lu>  
+				</mlu>
+			</out>
+		</action>
+	</rule> 
 		
-	<rule> <!--REGLA 34: VERB + ENCLï¿½IC + ENCLï¿½IC-->
+	<rule> <!--REGLA 34: VERB + ENCLÍTIC  + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="verb"/>
 			<pattern-item n="prnenc"/>
@@ -7204,6 +7265,23 @@
 		<!--	<call-macro n="f_pretind">
 				<with-param pos="1"/>
 			</call-macro>-->
+
+			<!-- pedaç -->
+			<choose>
+				<when>
+					<test>
+						<equal caseless="yes">
+							<clip pos="1" side="sl" part="lem"/>
+							<lit v="haver"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vbhaver"/>
+					</let>
+				</when>
+			</choose>
+
 			<choose>
 				<when>
 					<test>
