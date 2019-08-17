@@ -496,7 +496,7 @@
     <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
   </rule>
 
-  <!-- para > per a, cap a, a, a punt de -->
+  <!-- para > per a, per, cap a, a, a punt de -->
   <rule weight="0.6">
     <match lemma="para" tags="pr"><select lemma="per a"/></match>
   </rule>

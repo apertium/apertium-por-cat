@@ -1248,6 +1248,30 @@
 
 <!-- **************** N **************** -->
 
+  <!-- aixecament > levantamento, insurreição -->
+  <!-- alçament > levantamento, insurreição -->
+  <rule weight="0.6">
+    <or>
+      <match lemma="aixecament" tags="n.*"><select lemma="levantamento"/></match>
+      <match lemma="alçament" tags="n.*"><select lemma="levantamento"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="aixecament" tags="n.*"><select lemma="insurreição"/></match>
+      <match lemma="alçament" tags="n.*"><select lemma="insurreição"/></match>
+    </or>
+    <or>
+      <match lemma="militar" tags="adj.*"/>
+      <match lemma="carlista" tags="adj.*"/>
+      <match lemma="revolucionari" tags="adj.*"/>
+      <match lemma="comunista" tags="adj.*"/>
+      <match lemma="anarquista" tags="adj.*"/>
+      <match lemma="popular" tags="adj.*"/>
+      <match lemma="antigovernamental" tags="adj.*"/>
+    </or>
+  </rule>
+
   <!-- croat > croata, cruzado -->
   <rule weight="0.6">
      <match lemma="croat" tags="n.*"><select lemma="croata"/></match>
@@ -2012,16 +2036,21 @@
 
 <!-- **************** V **************** -->
 
+  <!-- calibrar > avaliar, calibrar -->
+  <rule weight="0.6">
+    <match lemma="calibrar" tags="vblex.*"><select lemma="avaliar"/></match>
+  </rule>
+
   <!-- invertir > investir, inverter -->
   <rule weight="0.6">
-    <match lemma="invertir" tags="vbser.*"><select lemma="investir"/></match>
+    <match lemma="invertir" tags="vblex.*"><select lemma="investir"/></match>
   </rule>
   <rule weight="1.0">
-    <match lemma="invertir" tags="vbser.*"><select lemma="inverter"/></match>
+    <match lemma="invertir" tags="vblex.*"><select lemma="inverter"/></match>
     <match tags="det.*"/>
   </rule>
   <rule weight="1.2">
-    <match lemma="invertir" tags="vbser.*"><select lemma="investir"/></match>
+    <match lemma="invertir" tags="vblex.*"><select lemma="investir"/></match>
     <match tags="det.*"/>
     <or>
     	<match lemma="diners" tags="n.*"/>
@@ -2168,6 +2197,20 @@
   </rule>
 
 <!-- **************** PR **************** -->
+
+  <!-- per > por, para -->
+  <rule weight="0.6">
+    <match lemma="per" tags="pr"><select lemma="por"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="per" tags="pr"><select lemma="para"/></match>
+    <or>
+      <match tags="vblex.inf"/>  
+      <match tags="vbhaver.inf"/>  
+      <match tags="vbmod.inf"/>
+      <match tags="vbser.inf"/> 
+    </or>
+  </rule>
 
   <!-- a punt de > a ponto de, para -->
   <rule weight="0.6">
