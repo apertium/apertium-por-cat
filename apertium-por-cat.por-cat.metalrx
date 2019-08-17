@@ -19,6 +19,19 @@
      </rule>
      <rule weight="1.0">
         <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+        <match lemma="de" tags="pr"/>
+        <match tags="det.def.*"/>
+        <or><match tags="np.loc"/><match tags="np.top.*"/></or>
+     </rule>
+     <rule weight="1.0">
+        <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+        <match tags="np.ant.*"/>
+        <match lemma="de" tags="pr"/>
+        <match tags="det.def.*"/>
+        <or><match tags="np.loc"/><match tags="np.top.*"/></or>
+     </rule>
+     <rule weight="1.0">
+        <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
         <match tags="det.*"/>
         <or>
           <match tags="adj.*"/>
@@ -444,6 +457,20 @@
 
 <rules>
 
+<!-- **************** CNJ **************** -->
+
+  <!-- quer > tant, com -->
+  <rule weight="0.6">
+    <match lemma="quer" tags="cnjcoo"><select lemma="com"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="quer" tags="cnjcoo"><select lemma="tant"/></match>
+    <repeat from="0" upto="20">
+      <match tags="*"/>  
+    </repeat>
+    <match lemma="quer" tags="cnjcoo"><select lemma="com"/></match>
+  </rule>
+
 <!-- **************** PR **************** -->
 
   <!-- apesar de > malgrat, tot i -->
@@ -608,6 +635,11 @@
   </rule>
 
 <!-- **************** ADJ **************** -->
+
+  <!-- cruzado > creuar (pp), croat -->
+  <rule weight="0.6">
+     <match lemma="cruzado" tags="adj.*"><select lemma="creuar"/></match>
+  </rule>
 
   <!-- vermelho > vermell, roig -->
   <rule weight="0.6">
@@ -1585,6 +1617,7 @@
   <macro name="noms_propis" p1="Clemente" p2="Climent" />
   <macro name="noms_propis" p1="Dario" p2="Darios" />
   <macro name="noms_propis" p1="Eduardo" p2="Eduard" />
+  <macro name="noms_propis" p1="Estêvão" p2="Esteve" />
   <macro name="noms_propis" p1="Eugénio" p2="Eugeni" />
   <macro name="noms_propis" p1="Eugénia" p2="Eugènia" />
   <macro name="noms_propis" p1="Fernando" p2="Ferran" />
