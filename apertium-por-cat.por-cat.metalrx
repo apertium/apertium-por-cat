@@ -750,6 +750,37 @@
 
 <!-- **************** N **************** -->
 
+  <!-- vago > vague, vacant -->
+  <rule weight="0.6">
+    <match lemma="vago" tags="n.*"><select lemma="vague"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="estar" tags="vblex.*"/>
+      <match lemma="deixar" tags="vblex.*"/>
+      <match lemma="permancer" tags="vblex.*"/>
+      <match lemma="ficar" tags="vblex.*"/>
+      <match lemma="continuar" tags="vblex.*"/>
+      <match tags="vblex.*"/>
+    </or>
+    <match lemma="vago" tags="n.*"><select lemma="vacant"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="posto" tags="n.*"/>
+      <match lemma="assento" tags="n.*"/>
+      <match lemma="pasta" tags="n.*"/>
+      <match lemma="cargo" tags="n.*"/>
+      <match lemma="lugar" tags="n.*"/>
+    </or>
+    <match lemma="vago" tags="n.*"><select lemma="vacant"/></match>
+  </rule>
+
+  <!-- pasta > cartera, carpeta -->
+  <rule weight="0.6">
+    <match lemma="pasta" tags="n.*"><select lemma="cartera"/></match>
+  </rule>
+
   <!-- operário > obrer, operari -->
   <rule weight="0.6">
     <match lemma="operário" tags="n.*"><select lemma="obrer"/></match>
@@ -1309,6 +1340,9 @@
     </repeat>
     <match lemma="de" tags="pr"/>
   </rule>
+
+  <!-- demitir > acomiadar, dimitir -->
+  <macro name="verb_nopron_pron" p1="demitir" p2="acomiadar" p3="dimitir"/>
 
   <!-- assentar > establir, assentar -->
   <macro name="verb_nopron_pron" p1="assentar" p2="establir" p3="assentar"/>

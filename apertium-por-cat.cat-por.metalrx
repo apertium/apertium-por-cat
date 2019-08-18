@@ -1248,6 +1248,33 @@
 
 <!-- **************** N **************** -->
 
+  <!-- seu > sede, sé -->
+  <rule weight="0.6">
+    <match lemma="seu" tags="n.*"><select lemma="sede"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="sant" tags="adj.*"/>
+    <match lemma="seu" tags="n.*"><select lemma="sé"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="seu" tags="n.*"><select lemma="sé"/></match>
+    <or>
+      <match lemma="episcopal" tags="adj.*"/>
+      <match lemma="apostòlic" tags="adj.*"/>
+      <match lemma="papal" tags="adj.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="seu" tags="n.*"><select lemma="sé"/></match>
+    <match lemma="de" tags="pr"/>
+    <match tags="np.top.*"/>
+  </rule>
+
+  <!-- cartera > pasta, carteira -->
+  <rule weight="0.6">
+     <match lemma="cartera" tags="n.*"><select lemma="pasta"/></match>
+  </rule>
+
   <!-- aixecament > levantamento, insurreição -->
   <!-- alçament > levantamento, insurreição -->
   <rule weight="0.6">
@@ -2035,6 +2062,16 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- impulsar > impulsionar, impulsar -->
+  <rule weight="0.6">
+    <match lemma="impulsar" tags="vblex.*"><select lemma="impulsionar"/></match>
+  </rule>
+
+  <!-- reimpulsar > reimpulsionar, reimpulsar -->
+  <rule weight="0.6">
+    <match lemma="reimpulsar" tags="vblex.*"><select lemma="reimpulsionar"/></match>
+  </rule>
 
   <!-- calibrar > avaliar, calibrar -->
   <rule weight="0.6">
