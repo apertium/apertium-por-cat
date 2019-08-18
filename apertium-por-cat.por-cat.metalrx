@@ -636,6 +636,32 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- vago > vague, vacant -->
+  <rule weight="0.6">
+    <match lemma="vago" tags="adj.*"><select lemma="vague"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="estar" tags="vblex.*"/>
+      <match lemma="deixar" tags="vblex.*"/>
+      <match lemma="permancer" tags="vblex.*"/>
+      <match lemma="ficar" tags="vblex.*"/>
+      <match lemma="continuar" tags="vblex.*"/>
+      <match tags="vblex.*"/>
+    </or>
+    <match lemma="vago" tags="adj.*"><select lemma="vacant"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="posto" tags="n.*"/>
+      <match lemma="assento" tags="n.*"/>
+      <match lemma="pasta" tags="n.*"/>
+      <match lemma="cargo" tags="n.*"/>
+      <match lemma="lugar" tags="n.*"/>
+    </or>
+    <match lemma="vago" tags="adj.*"><select lemma="vacant"/></match>
+  </rule>
+
   <!-- cruzado > creuar (pp), croat -->
   <rule weight="0.6">
      <match lemma="cruzado" tags="adj.*"><select lemma="creuar"/></match>
@@ -750,30 +776,9 @@
 
 <!-- **************** N **************** -->
 
-  <!-- vago > vague, vacant -->
+  <!-- desempenho > acompliment, desempenyorament -->
   <rule weight="0.6">
-    <match lemma="vago" tags="n.*"><select lemma="vague"/></match>
-  </rule>
-  <rule weight="1.0">
-    <or>
-      <match lemma="estar" tags="vblex.*"/>
-      <match lemma="deixar" tags="vblex.*"/>
-      <match lemma="permancer" tags="vblex.*"/>
-      <match lemma="ficar" tags="vblex.*"/>
-      <match lemma="continuar" tags="vblex.*"/>
-      <match tags="vblex.*"/>
-    </or>
-    <match lemma="vago" tags="n.*"><select lemma="vacant"/></match>
-  </rule>
-  <rule weight="1.0">
-    <or>
-      <match lemma="posto" tags="n.*"/>
-      <match lemma="assento" tags="n.*"/>
-      <match lemma="pasta" tags="n.*"/>
-      <match lemma="cargo" tags="n.*"/>
-      <match lemma="lugar" tags="n.*"/>
-    </or>
-    <match lemma="vago" tags="n.*"><select lemma="vacant"/></match>
+    <match lemma="desempenho" tags="n.*"><select lemma="acompliment"/></match>
   </rule>
 
   <!-- pasta > cartera, carpeta -->
@@ -1303,6 +1308,30 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- desempenhar > dur# a terme, portar# a terme, reeixir, ocupar, fer, tenir, desempenyorar -->
+  <macro name="verb_nopron_pron" p1="desempenhar" p2="dur# a terme" p3="reeixir"/>
+  <rule weight="2.0">
+    <match lemma="desempenhar" tags="vblex.*"><select lemma="ocupar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <match lemma="cargo" tags="n.*"/>
+  </rule>
+  <rule weight="2.0">
+    <match lemma="desempenhar" tags="vblex.*"><select lemma="fer"/></match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <match lemma="função" tags="n.f.pl"/>
+  </rule>
+  <rule weight="2.0">
+    <match lemma="desempenhar" tags="vblex.*"><select lemma="tenir"/></match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <match lemma="papel" tags="n.*"/>
+  </rule>
 
   <!-- acordar > acordar, despertar -->
   <rule weight="0.6">
