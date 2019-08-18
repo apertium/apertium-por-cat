@@ -91,6 +91,9 @@
 		</def-cat>
 		<def-cat n="fa">
 			<cat-item lemma="fer" tags="vblex.pri.p3.sg"/>
+			<cat-item lemma="fer" tags="vblex.pii.p3.sg"/>
+			<cat-item lemma="fer" tags="vblex.ifi.p3.sg"/>
+			<cat-item lemma="fer" tags="vblex.fti.p3.sg"/>
 		</def-cat>
 		
 		<def-cat n="itg">
@@ -6183,7 +6186,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	
@@ -6214,7 +6217,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	
@@ -6249,7 +6252,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	
@@ -6290,7 +6293,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	
@@ -6333,7 +6336,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	
@@ -6384,7 +6387,7 @@
 			<out>
 				<lu>
 					<get-case-from pos="1" >
-						<lit v="há"/>
+						<lit v="haver"/>
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_verb"/>	
 					<clip pos="1" side="tl" part="temps"/>	

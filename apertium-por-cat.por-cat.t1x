@@ -472,6 +472,10 @@
 	<def-cat n="ha">
 		<cat-item lemma="há" tags="vblex.*"/>
 		<cat-item lemma="há" tags="vbhaver.*"/>
+		<cat-item lemma="haver" tags="vblex.pii.p3.sg"/>
+		<cat-item lemma="haver" tags="vblex.pii.p1.sg"/>
+		<cat-item lemma="haver" tags="vblex.ifi.p3.sg"/>
+		<cat-item lemma="haver" tags="vblex.fts.p3.sg"/>
 	</def-cat>
 	
 	<def-cat n="nomtempo">
@@ -13735,7 +13739,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -13747,7 +13751,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -13815,7 +13819,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -13827,7 +13831,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -13899,7 +13903,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -13912,7 +13916,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -13984,7 +13988,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -13996,7 +14000,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -14070,7 +14074,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -14082,7 +14086,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -14164,7 +14168,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -14176,7 +14180,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>	
+						<lit-tag v="vblex"/>
 						<clip pos="1" side="tl" part="temps"/>	
 						<clip pos="1" side="tl" part="persona"/>	
 						<clip pos="1" side="tl" part="nbr"/>	
@@ -14257,7 +14261,7 @@
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
-						<clip pos="1" side="tl" part="a_verb"/>
+						<lit-tag v="vblex"/>
 						<lit-tag v="inf"/>
 						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
@@ -14267,8 +14271,8 @@
 				<out>
 					<b pos="1"/>
 					<lu>
-						<lit v="fa"/>
-						<clip pos="2" side="tl" part="a_verb"/>	
+						<lit v="fer"/>
+						<lit-tag v="vblex"/>
 						<clip pos="2" side="tl" part="temps"/>	
 						<clip pos="2" side="tl" part="persona"/>	
 						<clip pos="2" side="tl" part="nbr"/>	
@@ -14279,7 +14283,7 @@
 	</action>
 </rule>
 
-<rule> <!--REGLA: canta há ..-> canta fa...--><!-- controlar cat!!!-->
+<rule> <!--REGLA: canta há ..-> canta fa...-->
 	<pattern>
 		<pattern-item n="verb"/>
 		<pattern-item n="ha"/>
@@ -14413,8 +14417,8 @@
 		<out>
 			<b pos="1"/>
 			<lu>
-				<lit v="hacer"/>
-				<clip pos="2" side="tl" part="a_verb"/>	
+				<lit v="fer"/>
+				<lit-tag v="vblex"/>
 				<clip pos="2" side="tl" part="temps"/>	
 				<clip pos="2" side="tl" part="persona"/>	
 				<clip pos="2" side="tl" part="nbr"/>	
