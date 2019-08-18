@@ -749,7 +749,7 @@
 </section-def-vars>
 
 <section-def-lists>
-    <def-list n="paisos_regions"> <!-- per a treure un article si el porten -->
+    <def-list n="paisos_regions_empreses"> <!-- per a treure un article si el porten -->
       <list-item v="Europa"/>
       <list-item v="Ásia"/>
       <list-item v="África"/>
@@ -1140,6 +1140,12 @@
       <list-item v="Pretória"/>
 
       <list-item v="Internet"/>
+      <list-item v="Facebook"/>
+      <list-item v="Google"/>
+      <list-item v="Apple"/>
+      <list-item v="Amazon"/>
+      <list-item v="Bloomberg"/>
+      <list-item v="Odebrecht"/>
     </def-list>
 </section-def-lists>
 
@@ -3894,7 +3900,7 @@
 			<choose>
 				<when>
 	  				<test>
-						<in><clip pos="2" side="sl" part="lem"/><list n="paisos_regions"/></in>
+						<in><clip pos="2" side="sl" part="lem"/><list n="paisos_regions_empreses"/></in>
 					</test>
 					<call-macro n="f_bcond"><with-param pos="1"/></call-macro>
 					<out>  
