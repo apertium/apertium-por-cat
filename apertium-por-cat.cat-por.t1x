@@ -46,6 +46,10 @@
 			<cat-item tags="adj.*"/>
 		</def-cat>
 		
+		<def-cat n="adjsup">          
+			<cat-item tags="adj.sup.*"/>
+		</def-cat>
+		
 		<def-cat n="tnom">
 			<cat-item tags="n.*"/>
 			<cat-item tags="adj.*"/>
@@ -5037,6 +5041,52 @@
 			</choose>
 		</def-macro>
 
+
+		<def-macro n="escriure_adj" npar="1" comment="s'assegura d'afegir 'muito' si hi ha adj.sup en origen però no en destí">
+			<choose>
+				<when>
+					<test>
+						<not>
+							<or>
+								<equal><clip pos="1" side="sl" part="a_adj"/><lit-tag v="adj.sup"/></equal>
+								<equal><clip pos="1" side="sl" part="a_adj"/><lit-tag v="adj.ind.sup"/></equal>
+							</or>
+						</not>
+					</test>
+					<out>   
+						<lu>
+							<clip pos="1" side="tl" part="whole"/>
+						</lu>
+					</out>   
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="a_adj"/><lit-tag v="adj.sup"/></equal>
+							<equal><clip pos="1" side="tl" part="a_adj"/><lit-tag v="adj.ind.sup"/></equal>
+						</or>
+					</test>
+					<out>   
+						<lu>
+							<clip pos="1" side="tl" part="whole"/>
+						</lu>
+					</out>   
+				</when>
+				<otherwise>
+					<out>
+						<lu>
+							<lit v="muito"/>
+							<lit-tag v="adv"/>
+						</lu>
+						<b/>
+						<lu>
+							<clip pos="1" side="tl" part="whole"/>
+						</lu>
+					</out>
+				</otherwise>
+			</choose>
+		</def-macro>
+
 <def-macro n="f_bcond" npar="1">
 	<choose>
 		<when>
@@ -5054,8 +5104,6 @@
 		</when>     	    
 	</choose>
 </def-macro> 
-
-
 
 </section-def-macros>
 
@@ -6120,11 +6168,9 @@
 			<call-macro n="comprovagostar">
 				<with-param pos="1"/>
 			</call-macro>
-			<out>   
-				<lu>
-					<clip pos="1" side="tl" part="whole"/>
-				</lu>
-			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="1"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -6622,14 +6668,10 @@
 					<clip pos="1" side="tl" part="lemq"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
 		</action>
 	</rule>
 		
@@ -6649,12 +6691,10 @@
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
 			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="1"/>
+			</call-macro>
 			<out>  
-				<lu>    
-					<clip pos="1" side="tl" part="lemh"/>
-					<clip pos="1" side="tl" part="tags"/>
-					<clip pos="1" side="tl" part="lemq"/>
-				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
@@ -6694,14 +6734,10 @@
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
-			</out>
+			</out>  
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -6728,13 +6764,11 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out>  
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>  
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -6821,14 +6855,10 @@
 					<clip pos="3" side="tl" part="lemq"/>
 				</lu>
 				<b pos="3"/>
-				<lu>
-					<clip pos="4" side="tl" part="lemh"/>
-					<clip pos="4" side="tl" part="a_adjec"/>
-					<clip pos="4" side="tl" part="gen"/>
-					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="4" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="4"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -6885,14 +6915,10 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -6925,14 +6951,10 @@
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -6959,13 +6981,11 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out>  
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>  
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -6997,10 +7017,10 @@
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
 			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="1"/>
+			</call-macro>
 			<out> 
-				<lu>    
-					<clip pos="1" side="tl" part="whole"/>
-				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
@@ -7008,14 +7028,10 @@
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7047,13 +7063,11 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out> 
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out> 
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -7061,14 +7075,10 @@
 					<clip pos="3" side="tl" part="lemq"/>
 				</lu>
 				<b pos="3"/>
-				<lu>
-					<clip pos="4" side="tl" part="lemh"/>
-					<clip pos="4" side="tl" part="a_adjec"/>
-					<clip pos="4" side="tl" part="gen"/>
-					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="4" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="4"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7106,14 +7116,10 @@
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7157,15 +7163,10 @@
 					<clip pos="3" side="tl" part="whole"/>
 				</lu>
 				<b pos="3"/>
-				<lu>
-					<clip pos="4" side="tl" part="lemh"/>
-					<clip pos="4" side="tl" part="a_adjec"/>
-					<clip pos="4" side="tl" part="gen"/>
-					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="4" side="tl" part="lemq"/>
-				</lu>
 			</out>
-			
+			<call-macro n="escriure_adj">
+				<with-param pos="4"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7237,7 +7238,8 @@
 			</out>
 		</action>
 	</rule>
-	<rule> <!-- REGLA 27: NUMERAL T-NOM -->
+
+	<rule> <!-- REGLA 27: NUMERAL ADJECTIU -->
 		<pattern>
 			<pattern-item n="num"/>
 			<pattern-item n="adjec"/>
@@ -7255,14 +7257,10 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_tnom"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7292,7 +7290,6 @@
 					<clip pos="1" side="tl" part="nbr"/>
 				</lu>
 				<b pos="1"/>
-				
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="a_nom"/>
@@ -7301,14 +7298,10 @@
 					<clip pos="2" side="tl" part="lemq"/>
 				</lu>  
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7335,13 +7328,11 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out> 
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out> 
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -7386,6 +7377,7 @@
 			</out>
 		</action>
 	</rule>
+
 <!-- concordància amb pred -->
 	<rule> <!-- REGLA : nom pred adjec -->
 		<pattern>
@@ -7409,14 +7401,10 @@
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7448,16 +7436,12 @@
 					<clip pos="3" side="tl" part="lemq"/>
 				</lu> 
 				<b pos="2"/>
-				<lu>
-					<clip pos="4" side="tl" part="lemh"/>
-					<clip pos="4" side="tl" part="a_adjec"/>
-					<clip pos="4" side="tl" part="gen"/>
-					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="4" side="tl" part="lemq"/>
-				</lu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="3"/>
+			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="4"/>
 			</call-macro>
 		</action>
 	</rule>
@@ -7490,14 +7474,10 @@
 					<clip pos="3" side="tl" part="whole"/>
 				</lu>
 				<b pos="3"/>
-				<lu>
-					<clip pos="4" side="tl" part="lemh"/>
-					<clip pos="4" side="tl" part="a_adjec"/>
-					<clip pos="4" side="tl" part="gen"/>
-					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="4" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="4"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7535,16 +7515,12 @@
 					<clip pos="4" side="tl" part="lemq"/>
 				</lu> 
 				<b pos="3"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
 			</call-macro>
 		</action>
 	</rule>
@@ -7590,14 +7566,10 @@
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 				<b pos="4"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7647,16 +7619,12 @@
 					<clip pos="5" side="tl" part="lemq"/>
 				</lu> 
 				<b pos="4"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="5"/>
+			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
 			</call-macro>
 		</action>
 	</rule>
@@ -7700,14 +7668,10 @@
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 				<b pos="4"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7761,14 +7725,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7820,14 +7780,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -7886,16 +7842,12 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="6"/>
+			</call-macro>
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
 			</call-macro>
 		</action>
 	</rule>
@@ -7938,14 +7890,10 @@
 			</call-macro>
 			<out>
 				<b pos="4"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8020,15 +7968,9 @@
 			<call-macro n="f_bcond">
 				<with-param pos="5"/>
 			</call-macro>
-			<out>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
-			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8078,14 +8020,10 @@
 			</call-macro>
 			<out>	
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8136,15 +8074,11 @@
 				<with-param pos="4"/>
 			</call-macro>
 			<out>
-				<b pos="4"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
+				<b pos="6"/>
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8191,14 +8125,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8255,14 +8185,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8320,14 +8246,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8395,14 +8317,10 @@
 					<clip pos="7" side="tl" part="whole"/>
 				</lu>
 				<b pos="7"/>
-				<lu>
-					<clip pos="8" side="tl" part="lemh"/>
-					<clip pos="8" side="tl" part="a_adjec"/>
-					<clip pos="8" side="tl" part="gen"/>
-					<clip pos="8" side="tl" part="nbr"/>
-					<clip pos="8" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="8"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8438,14 +8356,10 @@
 			</call-macro>
 			<out>
 				<b pos="4"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8486,14 +8400,10 @@
 			</call-macro>
 			<out>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8540,14 +8450,10 @@
 			</call-macro>
 			<out>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8565,7 +8471,7 @@
 			<call-macro n="f_concord3">
 				<with-param pos="2"/>           
 				<with-param pos="1"/>
-				<with-param pos="6"/>
+				<with-param pos="7"/>
 			</call-macro> 
 			<call-macro n="f_proclise">
 				<with-param pos="3"/>
@@ -8600,15 +8506,9 @@
 			<call-macro n="f_bcond">
 				<with-param pos="6"/>
 			</call-macro>
-			<out>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
-			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8652,14 +8552,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8709,14 +8605,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8768,14 +8660,10 @@
 					<clip pos="4" side="tl" part="lemq"/>
 				</lu>
 				<b pos="4"/>
-				<lu>
-					<clip pos="5" side="tl" part="lemh"/>
-					<clip pos="5" side="tl" part="a_adjec"/>
-					<clip pos="5" side="tl" part="gen"/>
-					<clip pos="5" side="tl" part="nbr"/>
-					<clip pos="5" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="5"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8832,14 +8720,10 @@
 					<clip pos="5" side="tl" part="lemq"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>
 			</out>
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8883,14 +8767,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -8944,14 +8824,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9006,14 +8882,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9072,14 +8944,10 @@
 					<clip pos="7" side="tl" part="whole"/>
 				</lu>
 				<b pos="7"/>
-				<lu>
-					<clip pos="8" side="tl" part="lemh"/>
-					<clip pos="8" side="tl" part="a_adjec"/>
-					<clip pos="8" side="tl" part="gen"/>
-					<clip pos="8" side="tl" part="nbr"/>
-					<clip pos="8" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="8"/>
+			</call-macro>
 		</action>
 	</rule>
 
@@ -9134,14 +9002,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu> 
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu> 
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9200,14 +9064,10 @@
 					<clip pos="7" side="tl" part="whole"/>
 				</lu>
 				<b pos="7"/>
-				<lu>
-					<clip pos="8" side="tl" part="lemh"/>
-					<clip pos="8" side="tl" part="a_adjec"/>
-					<clip pos="8" side="tl" part="gen"/>
-					<clip pos="8" side="tl" part="nbr"/>
-					<clip pos="8" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="8"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9248,14 +9108,10 @@
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 				<b pos="5"/>
-				<lu>
-					<clip pos="6" side="tl" part="lemh"/>
-					<clip pos="6" side="tl" part="a_adjec"/>
-					<clip pos="6" side="tl" part="gen"/>
-					<clip pos="6" side="tl" part="nbr"/>
-					<clip pos="6" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="6"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9303,14 +9159,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9362,14 +9214,10 @@
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9422,14 +9270,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 				<b pos="7"/>
-				<lu>
-					<clip pos="8" side="tl" part="lemh"/>
-					<clip pos="8" side="tl" part="a_adjec"/>
-					<clip pos="8" side="tl" part="gen"/>
-					<clip pos="8" side="tl" part="nbr"/>
-					<clip pos="8" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="8"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9475,14 +9319,10 @@
 					<clip pos="6" side="tl" part="whole"/>
 				</lu> 
 				<b pos="6"/>
-				<lu>
-					<clip pos="7" side="tl" part="lemh"/>
-					<clip pos="7" side="tl" part="a_adjec"/>
-					<clip pos="7" side="tl" part="gen"/>
-					<clip pos="7" side="tl" part="nbr"/>
-					<clip pos="7" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="7"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -9535,14 +9375,10 @@
 					<clip pos="7" side="tl" part="whole"/>		
 				</lu>
 				<b pos="7"/>
-				<lu>
-					<clip pos="8" side="tl" part="lemh"/>
-					<clip pos="8" side="tl" part="a_adjec"/>
-					<clip pos="8" side="tl" part="gen"/>
-					<clip pos="8" side="tl" part="nbr"/>
-					<clip pos="8" side="tl" part="lemq"/>
-				</lu>  
 			</out>		
+			<call-macro n="escriure_adj">
+				<with-param pos="8"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -11873,14 +11709,10 @@
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="3"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
 			</out>      
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
 		</action>
 	</rule>
 	
@@ -11910,13 +11742,11 @@
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="3" side="tl" part="lemh"/>
-					<clip pos="3" side="tl" part="a_adjec"/>
-					<clip pos="3" side="tl" part="gen"/>
-					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="3" side="tl" part="lemq"/>
-				</lu>
+			</out> 
+			<call-macro n="escriure_adj">
+				<with-param pos="3"/>
+			</call-macro>
+			<out> 
 				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
@@ -11962,13 +11792,11 @@
 					<clip pos="1" side="tl" part="nbr"/>
 				</lu>
 				<b pos="2"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out> 
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out> 
 				<b pos="3"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
@@ -11999,13 +11827,11 @@
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>
-					<clip pos="2" side="tl" part="lemh"/>
-					<clip pos="2" side="tl" part="a_adjec"/>
-					<clip pos="2" side="tl" part="gen"/>
-					<clip pos="2" side="tl" part="nbr"/>
-					<clip pos="2" side="tl" part="lemq"/>
-				</lu>
+			</out> 
+			<call-macro n="escriure_adj">
+				<with-param pos="2"/>
+			</call-macro>
+			<out> 
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
