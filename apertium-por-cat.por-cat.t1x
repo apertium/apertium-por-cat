@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> <!-- -*- nxml -*- -->
 <transfer>
 <section-def-cats>
-	
+
 	<def-cat n="nom">
 	  	<cat-item tags="n.*"/>
 	</def-cat>
@@ -23,24 +23,24 @@
 		<cat-item tags="np.ant.*"/>
 		<cat-item tags="np.cog.*"/>
 	</def-cat>
-	
-	<def-cat n="det">          
+
+	<def-cat n="det">
 		<cat-item tags="det.*"/>
 	</def-cat>
-	<def-cat n="detdef">          
+	<def-cat n="detdef">
 		<cat-item tags="det.def.*"/>
 	</def-cat>
-          
+
 	<def-cat n="predet">
    	<cat-item tags="predet.*"/>
    </def-cat>
- 
-   <def-cat n="adjec">          
+
+   <def-cat n="adjec">
 		<cat-item tags="adj.*"/>
 		<cat-item tags="vblex.pp.*"/>
 	</def-cat>
 
-	<def-cat n="adj">          
+	<def-cat n="adj">
 		<cat-item tags="adj.*"/>
 	</def-cat>
 
@@ -49,7 +49,7 @@
 		<cat-item tags="adj.*"/>
 		<cat-item tags="vblex.pp.*"/>
 	</def-cat>
-		
+
    <def-cat n="adv">
    	<cat-item tags="adv"/>
 	  	<cat-item tags="preadv"/>
@@ -63,15 +63,15 @@
    <def-cat n="prep">
    	<cat-item tags="pr"/>
 	</def-cat>
-     
-	<def-cat n="cujo">          
-		<cat-item tags="rel.aa.*"/>	  
+
+	<def-cat n="cujo">
+		<cat-item tags="rel.aa.*"/>
 	</def-cat>
 
 	<def-cat n="cnjsub">
 		<cat-item tags="cnjsub"/>
 	</def-cat>
-	
+
 	<def-cat n="cnjadj">
 		<cat-item tags="cnjadj"/>
 	</def-cat>
@@ -79,24 +79,24 @@
 	<def-cat n="cnjcoo">
 		<cat-item tags="cnjcoo"/>
 	</def-cat>
-	
+
 	<def-cat n="e">
 		<cat-item lemma="e" tags="cnjcoo"/>
 	</def-cat>
-	
+
 	<def-cat n="seadv">
 		<cat-item lemma="se" tags="cnjadv"/>
 	</def-cat>
-	
-   <def-cat n="prn">   	  	  
+
+   <def-cat n="prn">
 		<cat-item tags="prn.tn.*"/>
 	  	<cat-item tags="prn.itg.*"/>
 	</def-cat>
-	
-   <def-cat n="que_prn">   	  	  
+
+   <def-cat n="que_prn">
 	  	<cat-item lemma="que" tags="prn.itg.*"/>
 	</def-cat>
-	
+
 	<def-cat n="prnsub">
 		<cat-item lemma="eu" tags="prn.tn.*"/>
 		<cat-item lemma="tu" tags="prn.tn.*"/>
@@ -132,18 +132,18 @@
 		<cat-item lemma="conselheiro" tags="n.*"/>
 	</def-cat>
 
-   <def-cat n="prnenc">   	  	  
+   <def-cat n="prnenc">
    	<cat-item tags="prn.enc.*"/>
-	</def-cat>     
+	</def-cat>
 
-	<def-cat n="prnpro">   	  	  
+	<def-cat n="prnpro">
 		<cat-item tags="prn.pro.*"/>
-	</def-cat>  
-	
+	</def-cat>
+
 	<!--<def-cat n="relat">
 		<cat-item tags="rel.*"/>
 	</def-cat>-->
-	
+
    <def-cat n="verb">
 <!-- 		<cat-item tags="vblex"/> -->
    	<cat-item tags="vblex.*"/>
@@ -152,7 +152,7 @@
 	  	<cat-item tags="vbter.*"/>
 		<cat-item tags="vbmod.*"/>
 	</def-cat>
-	
+
 	<def-cat n="verbmeso">
 		<!-- 		<cat-item tags="vblex"/> -->
 		<cat-item tags="vblex"/>
@@ -161,15 +161,15 @@
 		<cat-item tags="vbter"/>
 		<cat-item tags="vbmod"/>
 	</def-cat>
-	
+
 	<def-cat n="ter">
 		<cat-item lemma="ter" tags="vblex.*"/>
 	</def-cat>
-	
+
 	<def-cat n="vbmod_imp">
 		<cat-item tags="vbmod.imp.*"/>
 	</def-cat>
-	
+
 	<def-cat n="gostar">
 		<cat-item lemma="gostar" tags="vblex.*"/>
 	</def-cat>
@@ -187,13 +187,13 @@
 		<cat-item lemma="gostar" tags="vblex.ger"/>
 		<cat-item lemma="gostar" tags="vblex.inf"/>
 	</def-cat>-->
-	
+
 
 	<def-cat n="vbhaver">
 		<cat-item tags="vbhaver.*"/>
 	</def-cat>
-		
-	<def-cat n="haber3p">          
+
+	<def-cat n="haber3p">
 <!--	  <cat-item tags="vbhaver.pri.p3.sg"/> -->
 		<cat-item tags="vbhaver.prs.p1.sg"/>
 		<cat-item tags="vbhaver.prs.p3.sg"/>
@@ -201,7 +201,7 @@
 		<cat-item tags="vbhaver.pii.p3.sg"/>
 		<cat-item tags="vbhaver.pis.p1.sg"/>
 		<cat-item tags="vbhaver.pis.p3.sg"/>
-		<cat-item tags="vbhaver.ifi.p3.sg"/> 
+		<cat-item tags="vbhaver.ifi.p3.sg"/>
 		<cat-item tags="vbhaver.fts.p1.sg"/>
 		<cat-item tags="vbhaver.fts.p3.sg"/>
 		<cat-item tags="vbhaver.fti.p3.sg"/>
@@ -210,17 +210,17 @@
 		<cat-item tags="vbhaver.inf"/>
 		<cat-item tags="vbhaver.ger"/>
 	</def-cat>
-		 
+
 		 <def-cat n="pp_nohaber">
 			 <cat-item tags="vblex.pp.*"/>
 			 <cat-item tags="vbser.pp.*"/>
 			 <cat-item tags="vbmod.pp.*"/>
 		 </def-cat>
-	
+
 	<def-cat n="vbmod">
 		<cat-item tags="vbmod.*"/>
 	</def-cat>
-		
+
 	<def-cat n="verbcurt">
 		<cat-item tags="vblex"/>
 		<cat-item tags="vbser"/>
@@ -228,23 +228,23 @@
 		<cat-item tags="vbter"/>
 		<cat-item tags="vbmod"/>
 	</def-cat>
-	
+
    	<def-cat n="inf">
    		<cat-item tags="vblex.inf"/>
 	  	<cat-item tags="vbser.inf"/>
 	  	<cat-item tags="vbhaver.inf"/>
 	  	<cat-item tags="vbmod.inf"/>
 	</def-cat>
-	
+
    	<def-cat n="vblex_inf">
    		<cat-item tags="vblex.inf"/>
 	</def-cat>
-	
+
    	<def-cat n="vbser_inf">
    		<cat-item tags="vbser.inf"/>
 	</def-cat>
-	
-	<def-cat n="ger">          
+
+	<def-cat n="ger">
 		<cat-item tags="vbhaver.ger"/>
 		<cat-item tags="vblex.ger"/>
 		<cat-item tags="vbmod.ger"/>
@@ -273,28 +273,28 @@
 		<cat-item tags="vbhaver.fts.*"/>
 		<cat-item tags="vbmod.fts.*"/>
 	</def-cat>
-	
+
    <def-cat n="perif">
    	<cat-item tags="vblex.ifi.*"/>
 	  	<cat-item tags="vbser.ifi.*"/>
 	  	<cat-item tags="vbhaver.ifi.*"/>
 	  	<cat-item tags="vbmod.ifi.*"/>
-	</def-cat>    
+	</def-cat>
 
    <def-cat n="lquest">
    	<cat-item tags="lquest"/>
-	</def-cat>    
-	
+	</def-cat>
+
 	<def-cat n="sent">
 		<cat-item tags="sent"/>
-	</def-cat>    
+	</def-cat>
 
    <def-cat n="num">
    		<cat-item tags="num.*"/>
 		<cat-item tags="num"/>
 	</def-cat>
-	
-	<def-cat n="percent"> 
+
+	<def-cat n="percent">
 		<cat-item tags="num.percent"/>
 	</def-cat>
 
@@ -302,7 +302,7 @@
 		<cat-item lemma="[1-3][0-9][0-9][0-9]" tags="num"/> <!-- no està funcionant -->
 		<cat-item tags="num"/>
 	</def-cat>
-	
+
 	<def-cat n="cents">
 		<cat-item lemma="cem" tags="num.*"/>
 		<cat-item lemma="duzentos" tags="num.*"/>
@@ -428,47 +428,47 @@
 	<def-cat n="de">
 		<cat-item lemma="de" tags="pr"/>
 	</def-cat>
-	
+
 	<def-cat n="a">
 		<cat-item lemma="a" tags="pr"/>
 	</def-cat>
-	
+
 	<def-cat n="em">
 		<cat-item lemma="em" tags="pr"/>
 	</def-cat>
-	
+
 	<def-cat n="ate">
 		<cat-item lemma="até" tags="pr"/>
 	</def-cat>
-	
+
 	<def-cat n="de_ate_desde">
 		<cat-item lemma="de" tags="pr"/>
 		<cat-item lemma="até" tags="pr"/>
 		<cat-item lemma="desde" tags="pr"/>
 	</def-cat>
-	
+
 	<def-cat n="detnt">
 		<cat-item lemma="o" tags="detnt"/>
 	</def-cat>
-	
+
 	<def-cat n="que_rel">
 		<cat-item lemma="que" tags="rel.*"/>
 		<cat-item lemma="que" tags="cnjsub"/>
 	</def-cat>
-	
+
 	<def-cat n="vir">
 		<cat-item lemma="vir" tags="vblex.*"/>
 	</def-cat>
-	
+
 	<def-cat n="vbir">
 		<cat-item lemma="ir" tags="vblex.*"/>
 		<cat-item lemma="vir" tags="vblex.*"/>
 	</def-cat>
-	
+
 	<def-cat n="estar">
 		<cat-item lemma="estar" tags="vblex.*"/>
 	</def-cat>
-	
+
 	<def-cat n="ha">
 		<cat-item lemma="há" tags="vblex.*"/>
 		<cat-item lemma="há" tags="vbhaver.*"/>
@@ -477,7 +477,7 @@
 		<cat-item lemma="haver" tags="vblex.ifi.p3.sg"/>
 		<cat-item lemma="haver" tags="vblex.fts.p3.sg"/>
 	</def-cat>
-	
+
 	<def-cat n="nomtempo">
 		<cat-item lemma="segunda-feira" tags="n.*"/>
 		<cat-item lemma="terça-feira" tags="n.*"/>
@@ -496,26 +496,26 @@
 		<cat-item lemma="lustro" tags="n.*"/>
 		<cat-item lemma="tempo" tags="n.*"/>
 	</def-cat>
-	
+
 	<def-cat n="pred">
 		<cat-item lemma="estar" tags="vblex.*"/>
-		<cat-item lemma="parecer" tags="vblex.*"/> 
+		<cat-item lemma="parecer" tags="vblex.*"/>
 		<cat-item lemma="ficar" tags="vblex.*"/>
-		<cat-item lemma="continuar" tags="vblex.*"/> 
+		<cat-item lemma="continuar" tags="vblex.*"/>
 		<cat-item lemma="acabar" tags="vblex.*"/>
 		<cat-item lemma="mudar" tags="vblex.*"/>
 		<cat-item lemma="sentir" tags="vblex.*"/>
 		<cat-item lemma="ser" tags="vbser.*"/>
 	</def-cat>
-	
+
 	<def-cat n="demaisadj">
 		<cat-item lemma="demais" tags="adj.*"/>
 	</def-cat>
-	
+
 	<def-cat n="demaisadv">
 		<cat-item lemma="demais" tags="adv"/>
 	</def-cat>
-	
+
 </section-def-cats>
 
 <section-def-attrs>
@@ -531,19 +531,19 @@
    <def-attr n="a_nptop">
 	  <attr-item tags="np.top"/>
    </def-attr>
-     
-   <def-attr n="a_det">          
+
+   <def-attr n="a_det">
 	  <attr-item tags="det.def"/>
 	  <attr-item tags="det.ind"/>
 	  <attr-item tags="det.dem"/>
-	  <attr-item tags="det.pos"/>  
+	  <attr-item tags="det.pos"/>
    </def-attr>
-          
+
    <def-attr n="a_predet">
    	<attr-item tags="predet"/>
    </def-attr>
 
-	<def-attr n="a_adjec">          
+	<def-attr n="a_adjec">
 		<attr-item tags="adj.ind"/>
 		<attr-item tags="adj.sup"/>
 		<attr-item tags="adj.itg"/>
@@ -553,16 +553,16 @@
 		<attr-item tags="vblex.pp"/>
 	</def-attr>
 
-	<def-attr n="a_adj">          
+	<def-attr n="a_adj">
 		<attr-item tags="adj.ind"/>
 		<attr-item tags="adj.sup"/>
 		<attr-item tags="adj.itg"/>
 		<attr-item tags="adj.ord"/>
 		<attr-item tags="adj.pos"/>
 		<attr-item tags="adj"/>
-	</def-attr> 
-	
-	<def-attr n="a_tnom"> 
+	</def-attr>
+
+	<def-attr n="a_tnom">
 		<attr-item tags="n"/>
 		<attr-item tags="n.acr"/>
 		<attr-item tags="adj.ind"/>
@@ -582,19 +582,19 @@
 	<def-attr n="a_prep">
    	<attr-item tags="pr"/>
 	</def-attr>
-     
-	<def-attr n="a_cujo">          
-		<attr-item tags="rel.aa"/>	  
+
+	<def-attr n="a_cujo">
+		<attr-item tags="rel.aa"/>
 	</def-attr>
 
-	<def-attr n="a_prn">   	  	  
+	<def-attr n="a_prn">
 		<attr-item tags="prn.tn.p1"/>
 		<attr-item tags="prn.tn.p2"/>
 		<attr-item tags="prn.tn.p3"/>
-		<attr-item tags="prn.tn"/>	 
-		<attr-item tags="prn.tn.ref.p3"/>	 
-		<attr-item tags="prn.tn.pos"/>	     
-		<attr-item tags="prn.itg"/>	 	
+		<attr-item tags="prn.tn"/>
+		<attr-item tags="prn.tn.ref.p3"/>
+		<attr-item tags="prn.tn.pos"/>
+		<attr-item tags="prn.itg"/>
 	</def-attr>
 
 	<def-attr n="a_verb">
@@ -617,11 +617,11 @@
 		<attr-item tags="vbser.ifi"/>
 		<attr-item tags="vbhaver.ifi"/>
 		<attr-item tags="vbmod.ifi"/>
-	</def-attr>    
+	</def-attr>
 
 	<def-attr n="a_lquest">
 		<attr-item tags="lquest"/>
-	</def-attr>    
+	</def-attr>
 
 	<def-attr n="a_num">
    	<attr-item tags="num"/>
@@ -632,7 +632,7 @@
       <attr-item tags="prn.enc"/>
       <attr-item tags="prn.enc.ref"/>
    </def-attr>
-     
+
    <def-attr n="a_prnpro">
 	   <attr-item tags="prn.pro"/>
 	   <attr-item tags="prn.pro.ref"/>
@@ -658,7 +658,7 @@
         	<attr-item tags="adv"/>
 			<attr-item tags="cnjadv"/>
 			<attr-item tags="cnjcoo"/>
-			<attr-item tags="cnjadv"/> 
+			<attr-item tags="cnjadv"/>
 			<attr-item tags="det"/>
 			<attr-item tags="n"/>
         	<attr-item tags="np"/>
@@ -666,7 +666,7 @@
 			<attr-item tags="pr"/>
 			<attr-item tags="prn"/>
 			<attr-item tags="prn.pro.ref"/>
-			<attr-item tags="prn.tn.ref"/> 
+			<attr-item tags="prn.tn.ref"/>
 			<attr-item tags="preadv"/>
         	<attr-item tags="predet"/>
 			<attr-item tags="rel"/>
@@ -682,18 +682,18 @@
 			<attr-item tags="ant"/>
 			<attr-item tags="cog"/>
         	<attr-item tags="def"/>
-        	<attr-item tags="dem"/>	
-        	<attr-item tags="ind"/>	
+        	<attr-item tags="dem"/>
+        	<attr-item tags="ind"/>
         	<attr-item tags="itg"/>
 			<attr-item tags="loc"/>
 			<attr-item tags="top"/>
-        	<attr-item tags="pos"/>	
+        	<attr-item tags="pos"/>
         	<attr-item tags="ref"/>
-        	<attr-item tags="sup"/>	      
+        	<attr-item tags="sup"/>
         	<attr-item tags="tn"/>
       </def-attr>
  -->
-      
+
 		<def-attr n="gen">
          <attr-item tags="m"/>
          <attr-item tags="f"/>
@@ -715,7 +715,7 @@
 	  		<attr-item tags="p3"/>
       </def-attr>
 
-     
+
       <def-attr n="temps">
 	  		<attr-item tags="inf"/>
 	  		<attr-item tags="ger"/>
@@ -731,7 +731,7 @@
 	  		<attr-item tags="imp"/>
 	  		<attr-item tags="infps"/>
 	  		<attr-item tags="pmp"/>
-      </def-attr>   
+      </def-attr>
 
 </section-def-attrs>
 
@@ -3122,7 +3122,7 @@
 
 <def-macro n="f_comparativa" npar="1">
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<or>
 					<equal caseless="yes">
@@ -3148,7 +3148,7 @@
 				<lit v="true"/>
 			</let>
 		</when>
-	</choose>				
+	</choose>
 </def-macro>
 
   <def-macro n="f_pretind" npar="1"><!--Para traducir el pretï¿½rito indefinido por la forma perifrï¿½stica (dije - vaig dir) y enviar el verbo. Debe ponerse en todas las reglas en las que aparezca un verbo vblex, vbmod o vbser -->
@@ -3170,7 +3170,7 @@
 	    <clip pos="1" side="sl" part="nbr"/>
 	  </lu>
 	  <b/>
-	</out> 
+	</out>
 	<choose>
 	  <when>
 	    <test>
@@ -3213,14 +3213,14 @@
 <!--
 <def-macro n="f_lexicadv" npar="2">
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
 						<clip pos="1" side="tl" part="lem"/>
 						<lit v="mucho"/>
 					</equal>
-					<not>	
+					<not>
 						<equal caseless="yes">
 							<clip pos="2" side="sl" part="lem"/>
 							<lit v="mais"/>
@@ -3243,24 +3243,24 @@
 							<clip pos="2" side="sl" part="lem"/>
 							<lit v="pior"/>
 						</equal>
-					</not>	
+					</not>
 				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="muy"/>
 			</let>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="a_adv"/>
 				<lit-tag v="preadv"/>
 			</let>
 		</when>
-	</choose>				
+	</choose>
 </def-macro>-->
 
 <def-macro n="f_lexicadj" npar="2">
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
@@ -3275,16 +3275,16 @@
 						<clip pos="1" side="tl" part="nbr"/>
 						<lit-tag v="sg"/>
 					</equal>
-				</and>	
+				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="bon"/>
 			</let>
 		</when>
-	</choose>				
+	</choose>
 <!--	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
@@ -3295,16 +3295,16 @@
 						<clip pos="1" side="tl" part="nbr"/>
 						<lit-tag v="sg"/>
 					</equal>
-				</and>	
+				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="gran"/>
 			</let>
 		</when>
-	</choose>				
+	</choose>
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
@@ -3319,16 +3319,16 @@
 						<clip pos="1" side="tl" part="nbr"/>
 						<lit-tag v="sg"/>
 					</equal>
-				</and>	
+				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="primer"/>
 			</let>
 		</when>
-	</choose>	
+	</choose>
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
@@ -3343,16 +3343,16 @@
 						<clip pos="1" side="tl" part="nbr"/>
 						<lit-tag v="sg"/>
 					</equal>
-				</and>	
+				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="mal"/>
 			</let>
 		</when>
-	</choose>		
+	</choose>
 	<choose>
-		<when> 
+		<when>
 			<test>
 				<and>
 					<equal caseless="yes">
@@ -3367,14 +3367,14 @@
 						<clip pos="1" side="tl" part="nbr"/>
 						<lit-tag v="sg"/>
 					</equal>
-				</and>	
+				</and>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="lem"/>
 				<lit v="tercer"/>
 			</let>
 		</when>
-	</choose>	-->	
+	</choose>	-->
 </def-macro>
 
 <def-macro n="f_bcond" npar="1">
@@ -3391,7 +3391,7 @@
 			<out>
 				<b pos="1"/>
 			</out>
-		</when>           
+		</when>
 	</choose>
 </def-macro>
 
@@ -3410,11 +3410,11 @@
 					</equal>
 				</or>
 			</test>
-			<let>			
+			<let>
 				<clip pos="1" side="tl" part="temps"/>
 				<lit-tag v="prs"/>
 			</let>
-		</when> 	          
+		</when>
 	</choose>
 </def-macro>
 
@@ -3508,7 +3508,7 @@
 			</choose>
 		</otherwise>
 	</choose>
-</def-macro> 
+</def-macro>
 
 <def-macro n="gostarenc" npar="2">
 	<choose>
@@ -3521,8 +3521,8 @@
 			</test>
 			<call-macro n="prn_gostar">
 				<with-param pos="1"/>
-			</call-macro>  
-			<out> 
+			</call-macro>
+			<out>
 				<b/>
 				<lu>
 					<get-case-from pos="1">
@@ -3583,7 +3583,7 @@
 								<clip pos="2" side="tl" part="nbr"/>
 								<lit-tag v="sg"/>
 							</let>
-						</when> 
+						</when>
 					</choose>
 					<choose>
 						<when>
@@ -3709,16 +3709,16 @@
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>	
+				</otherwise>
 			</choose>
 		</otherwise>
 	</choose>
-</def-macro> 
+</def-macro>
 
-</section-def-macros> 
+</section-def-macros>
 
 <section-rules>
-<!-- REGLES DE CONCORDï¿½CIA-->	
+<!-- REGLES DE CONCORDï¿½CIA-->
 
 
 	<rule> <!-- REGLA 1: DETERMINANT -->
@@ -3728,15 +3728,15 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
-			</call-macro>     
-			<out> 
-				<lu>    
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 2: NOM -->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -3744,9 +3744,9 @@
 		<action>
 		<call-macro n="f_concord1">
 				<with-param pos="1"/>
-			</call-macro>    
-			<out>  
-				<lu> 
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="a_nom"/>
 					<clip pos="1" side="tl" part="gen"/>
@@ -3764,11 +3764,11 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro>   
-			<out> 
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="tags"/>
@@ -3777,7 +3777,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 4: PRONOM -->
 		<!--Special case, macro f_concord1 is not applicable because gender and number cannot be taken from previous rules -->
 		<pattern>
@@ -3786,7 +3786,7 @@
 		<action>
 			<choose>
 				<when>
-					<test> 
+					<test>
 						<equal>
 							<clip pos="1" side="tl" part="gen"/>
 							<lit-tag v="GD"/>
@@ -3797,10 +3797,10 @@
 						<lit-tag v="m"/>
 					</let>
 				</when>
-			</choose>	
-			<choose>	
+			</choose>
+			<choose>
 				<when>
-					<test> 
+					<test>
 						<equal>
 							<clip pos="1" side="tl" part="nbr"/>
 							<lit-tag v="ND"/>
@@ -3811,15 +3811,15 @@
 						<lit-tag v="sg"/>
 					</let>
 				</when>
-			</choose>	
-			<out>   
+			</choose>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-		
+
 	<rule> <!-- REGLA 5: NUMERAL-->
 		<pattern>
 			<pattern-item n="num"/>
@@ -3842,17 +3842,17 @@
 							<lit-tag v="det.def.m.sg"/>
 						</lu>
 						<b/>
-					</out>	
+					</out>
 				</when>
 			</choose>
-			<out>  
-				<lu> 
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 6: adverbi-->
 		<pattern>
 			<pattern-item n="adv"/>
@@ -3860,15 +3860,15 @@
 		<action>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>  
-				<lu> 
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule comment="cem e um > cent un">
 		<pattern>
 			<pattern-item n="cents"/>
@@ -3876,8 +3876,8 @@
 			<pattern-item n="menys_de_cent"/>
 		</pattern>
 		<action>
-			<out> 
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -3890,7 +3890,7 @@
 			</call-macro>
 		</action>
 	</rule>
-	
+
 	<rule comment="DETERMINANT TOP (es treu el determinant si el top és a la llista paisos_regions)">
 		<pattern>
 			<pattern-item n="det"/>
@@ -3907,15 +3907,15 @@
 						<in><clip pos="2" side="sl" part="lem"/><list n="paisos_regions_empreses"/></in>
 					</test>
 					<call-macro n="f_bcond"><with-param pos="1"/></call-macro>
-					<out>  
+					<out>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
 						</lu>
 					</out>
 				</when>
 				<otherwise>
-					<out>  
-						<lu>    
+					<out>
+						<lu>
 							<clip pos="1" side="tl" part="whole"/>
 						</lu>
 						<b pos="1"/>
@@ -3927,7 +3927,7 @@
 			</choose>
 		</action>
 	</rule>
-	
+
 <!--
 	<rule comment="DETERMINANT ANT (es treu el determinant)">
 		<pattern>
@@ -3939,7 +3939,7 @@
 				<with-param pos="2"/>
 			</call-macro>
 			<call-macro n="f_bcond"><with-param pos="1"/></call-macro>
-			<out>  
+			<out>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
 				</lu>
@@ -3947,7 +3947,7 @@
 		</action>
 	</rule>
 -->
-	
+
 	<rule> <!-- REGLA 7: DETERMINANT t-NOM -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -3957,8 +3957,8 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>     
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -3969,11 +3969,11 @@
 					<clip pos="2" side="tl" part="gen"/>
 					<clip pos="2" side="tl" part="nbr"/>
 					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 8: NOM ADJECTIU-->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -3983,11 +3983,11 @@
 			<call-macro n="f_concord2">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
-			</call-macro> 
-			<out>   
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="a_nom"/>
@@ -4000,11 +4000,11 @@
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 9: QUE NOM -->
 		<pattern>
 			<pattern-item n="que_prn"/>
@@ -4014,23 +4014,23 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
+			</call-macro>
 			<call-macro n="f_lexicadj">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
 			</call-macro>
-			<out>  
-				<lu>  
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lem"/>
 					<clip pos="1" side="tl" part="a_prn"/>
 					<clip pos="1" side="tl" part="gen"/>
 					<clip pos="1" side="tl" part="nbr"/>
 				</lu>
 				<b pos="1"/>
-				<lu> 
+				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="a_nom"/>
 					<clip pos="2" side="tl" part="gen"/>
@@ -4040,7 +4040,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 9: ADJECTIU NOM -->
 		<pattern>
 			<pattern-item n="adj"/>
@@ -4050,16 +4050,16 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
+			</call-macro>
 			<call-macro n="f_lexicadj">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
 			</call-macro>
-			<out>  
-				<lu>  
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="a_adj"/>
 					<clip pos="1" side="tl" part="gen"/>
@@ -4067,7 +4067,7 @@
 					<clip pos="1" side="tl" part="lemq"/>
 				</lu>
 				<b pos="1"/>
-				<lu> 
+				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="a_nom"/>
 					<clip pos="2" side="tl" part="gen"/>
@@ -4077,7 +4077,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 10: DET NOM ADJECTIU-->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4089,14 +4089,14 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 				<with-param pos="1"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
-			</call-macro> 
-			<out>  
-				<lu>  
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
@@ -4114,7 +4114,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: DET NOM ADJECTIU ADJECTIU-->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4128,7 +4128,7 @@
 				<with-param pos="3"/>
 				<with-param pos="4"/>
 				<with-param pos="1"/>
-			</call-macro>     
+			</call-macro>
 			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
@@ -4170,7 +4170,7 @@
 				<with-param pos="1"/>
 				<with-param pos="2"/>
 				<with-param pos="3"/>
-			</call-macro>     
+			</call-macro>
 			<out>
 				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
@@ -4216,8 +4216,8 @@
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
 			</call-macro>
-			<out>  
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4232,10 +4232,10 @@
 					<clip pos="3" side="tl" part="tags"/>
 					<clip pos="3" side="tl" part="lemq"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 12: PREDET DET NOM-->
 		<pattern>
 			<pattern-item n="predet"/>
@@ -4244,12 +4244,12 @@
 		</pattern>
 		<action>
 			<call-macro n="f_concord3">
-				<with-param pos="3"/>           
+				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out> 
-				<lu>    
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4263,11 +4263,11 @@
 					<clip pos="3" side="tl" part="gen"/>
 					<clip pos="3" side="tl" part="nbr"/>
 					<clip pos="3" side="tl" part="lemq"/>
-				</lu>	    
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 13: PREDET DET NOM ADJECTIU-->
 		<pattern>
 			<pattern-item n="predet"/>
@@ -4281,12 +4281,12 @@
 				<with-param pos="4"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
 			</call-macro>
-			<out> 
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4305,10 +4305,10 @@
 					<clip pos="4" side="tl" part="tags"/>
 					<clip pos="4" side="tl" part="lemq"/>
 				</lu>
-			</out> 
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 14: PREDETERMINANT t-NOM -->
 		<pattern>
 			<pattern-item n="predet"/>
@@ -4318,9 +4318,9 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>  
-				<lu>    
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4334,7 +4334,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 15: PREDETERMINANT NOM ADJECTIU -->
 		<pattern>
 			<pattern-item n="predet"/>
@@ -4346,9 +4346,9 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>  
-				<lu>    
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4366,7 +4366,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 16: PREDETERMINANT ADJECTIU NOM -->
 		<pattern>
 			<pattern-item n="predet"/>
@@ -4378,16 +4378,16 @@
 				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>   
+			</call-macro>
 			<call-macro n="f_lexicadj">
 				<with-param pos="2"/>
 				<with-param pos="3"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
 			</call-macro>
-			<out>  
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4405,7 +4405,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 18: ADJECTIU NOM ADJECTIU-->
 		<pattern>
 			<pattern-item n="adj"/>
@@ -4417,7 +4417,7 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_lexicadj">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
@@ -4428,8 +4428,8 @@
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
 			</call-macro>
-			<out>  
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="tags"/>
 					<clip pos="1" side="tl" part="lemq"/>
@@ -4449,7 +4449,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 19: DET ADJECTIU NOM ADJECTIU -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4463,7 +4463,7 @@
 				<with-param pos="4"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>   
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
 			</call-macro>
@@ -4474,8 +4474,8 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 			</call-macro>
-			<out> 
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
@@ -4499,7 +4499,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 20: NOM ADVERBI ADJECTIU-->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -4521,7 +4521,7 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 			</call-macro> -->
-			<out>   
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="tags"/>
@@ -4538,11 +4538,11 @@
 					<clip pos="3" side="tl" part="lemh"/>
 					<clip pos="3" side="tl" part="tags"/>
 					<clip pos="3" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 21: DET NOM ADVERBI ADJECTIU -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4555,7 +4555,7 @@
 				<with-param pos="2"/>
 				<with-param pos="1"/>
 				<with-param pos="4"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
 			</call-macro>
@@ -4566,12 +4566,12 @@
 				<with-param pos="3"/>
 				<with-param pos="4"/>
 			</call-macro> -->
-			<out>  
-				<lu>    
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
-				<lu>    
+				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
@@ -4591,7 +4591,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 22: DET ADVERBI t-NOM-->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4602,11 +4602,11 @@
 			<call-macro n="f_concord2">
 				<with-param pos="3"/>
 				<with-param pos="1"/>
-			</call-macro>   
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
 			</call-macro>
-			<out>   
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4621,11 +4621,11 @@
 					<clip pos="3" side="tl" part="gen"/>
 					<clip pos="3" side="tl" part="nbr"/>
 					<clip pos="3" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 23: NUMERAL t-NOM -->
 		<pattern>
 			<pattern-item n="num"/>
@@ -4635,8 +4635,8 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>     
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4647,11 +4647,11 @@
 					<clip pos="2" side="tl" part="gen"/>
 					<clip pos="2" side="tl" part="nbr"/>
 					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 25: NUMERAL NOM ADJECTIU -->
 		<pattern>
 			<pattern-item n="num"/>
@@ -4663,11 +4663,11 @@
 				<with-param pos="2"/>
 				<with-param pos="1"/>
 				<with-param pos="3"/>
-			</call-macro>   
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
 			</call-macro>
-			<out>     
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4676,7 +4676,7 @@
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -4686,7 +4686,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 26: NUMERAL ADJECTIU NOM -->
 		<pattern>
 			<pattern-item n="num"/>
@@ -4698,7 +4698,7 @@
 				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
 			</call-macro>
@@ -4706,7 +4706,7 @@
 				<with-param pos="2"/>
 				<with-param pos="3"/>
 			</call-macro>
-			<out>     
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4715,7 +4715,7 @@
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="tags"/>
 					<clip pos="2" side="tl" part="lemq"/>
-				</lu>  
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -4725,7 +4725,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA 27: DET NUMERAL NOM -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -4737,15 +4737,15 @@
 				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>     
-			<out>     
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>  
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -4755,7 +4755,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 
 <!--	<rule> <!-#- REGLA : ADVERBI ADJECTIU-#->
 		<pattern>
@@ -4765,7 +4765,7 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="2"/>
-			</call-macro>     
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
 			</call-macro>
@@ -4775,8 +4775,8 @@
 			<call-macro n="f_lexicadv">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
-			</call-macro> 
-			<out>   
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4787,7 +4787,7 @@
 			</out>
 		</action>
 	</rule>-->
-	
+
 	<!--<rule> <!-#- REGLA : ADVERBI ADVERBI ADJECTIU-#->
 		<pattern>
 			<pattern-item n="adv"/>
@@ -4811,11 +4811,11 @@
 			<call-macro n="f_lexicadv">
 				<with-param pos="2"/>
 				<with-param pos="3"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_concord1">
 				<with-param pos="3"/>
-			</call-macro>     
-			<out>   
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4826,11 +4826,11 @@
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
-				</lu>  
+				</lu>
 			</out>
 		</action>
 	</rule>-->
-	
+
 	<!--<rule> <!-#- REGLA : ADVERBI ADVERBI-#->
 		<pattern>
 			<pattern-item n="adv"/>
@@ -4846,8 +4846,8 @@
 			<call-macro n="f_lexicadv">
 				<with-param pos="1"/>
 				<with-param pos="2"/>
-			</call-macro> 
-			<out>   
+			</call-macro>
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
 				</lu>
@@ -4858,7 +4858,7 @@
 			</out>
 		</action>
 	</rule>-->
-	
+
 	<rule comment="ministério do/da > ministeri de">
 		<pattern>
 			<pattern-item n="ministerio"/>
@@ -4868,12 +4868,12 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_concord1">
 				<with-param pos="3"/>
-			</call-macro>     
-			<out>  
-				<lu> 
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lemh"/>
 					<clip pos="1" side="tl" part="a_nom"/>
 					<clip pos="1" side="tl" part="gen"/>
@@ -4882,7 +4882,7 @@
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 			</out>
 			<call-macro n="f_bcond">
@@ -4902,16 +4902,16 @@
 			<call-macro n="f_concord2">
 				<with-param pos="2"/>
 				<with-param pos="1"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_concord1">
 				<with-param pos="4"/>
-			</call-macro>     
-			<out>  
+			</call-macro>
+			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
-				<lu> 
+				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="a_nom"/>
 					<clip pos="2" side="tl" part="gen"/>
@@ -4920,7 +4920,7 @@
 				</lu>
 				<b pos="2"/>
 				<lu>
-					<clip pos="3" side="tl" part="whole"/>		
+					<clip pos="3" side="tl" part="whole"/>
 				</lu>
 			</out>
 			<call-macro n="f_bcond">
@@ -4955,13 +4955,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <var n="genero"/>      
+	      <var n="genero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <lit-tag v="m"/>  
+	      <lit-tag v="m"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5015,13 +5015,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <var n="numero"/>  
+	      <var n="numero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <lit-tag v="sg"/>  
+	      <lit-tag v="sg"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5116,8 +5116,8 @@
 	    </let>
 	  </otherwise>
 	</choose>
-	<out> 
-	    <lu>  
+	<out>
+	    <lu>
 	      <get-case-from pos="1">
 		<lit v="el"/>
 	      </get-case-from>
@@ -5126,15 +5126,15 @@
 	      <var n="auxn"/>
 	    </lu>
 	    <b pos="1"/>
-	    <lu>    
+	    <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_nom"/>
               <clip pos="2" side="tl" part="gen"/>
               <clip pos="2" side="tl" part="nbr"/>
               <clip pos="2" side="tl" part="lemq"/>
-	    </lu> 
+	    </lu>
 	    <b/>
-	    <lu> 
+	    <lu>
 	      <get-case-from pos="1">
 		<lit v="del qual"/>
 	      </get-case-from>
@@ -5143,10 +5143,10 @@
               <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
          </out>
-        
+
       </action>
     </rule>
-    
+
     <rule> <!--REGLA: cujo + nom + adjetivo= det nom del qual (modificat MG 16/11/05) -->
       <pattern>
 	<pattern-item n="cujo"/>
@@ -5174,13 +5174,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <var n="genero"/>      
+	      <var n="genero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <lit-tag v="m"/>  
+	      <lit-tag v="m"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5333,7 +5333,7 @@
 		      <lit-tag v="mf"/>
 		    </equal>
 		  </not>
-		</test> 
+		</test>
 		<let>
 		  <clip pos="3" side="tl" part="gen"/>
 		  <clip pos="2" side="tl" part="gen"/>
@@ -5342,7 +5342,7 @@
 	    </choose>
 	  </when>
 	</choose>
-	
+
 	<choose>
 	  <when>
 	    <test>
@@ -5363,13 +5363,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <var n="numero"/>      
+	      <var n="numero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <lit-tag v="sg"/>  
+	      <lit-tag v="sg"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5390,7 +5390,7 @@
 		  </equal>
 		</not>
 	      </or>
-	    </test>    
+	    </test>
 	    <choose>
 	      <when>
 		<test>
@@ -5522,7 +5522,7 @@
 		      <lit-tag v="sp"/>
 		    </equal>
 		  </not>
-		</test> 
+		</test>
 		<let>
 		  <clip pos="3" side="tl" part="nbr"/>
 		  <clip pos="2" side="tl" part="nbr"/>
@@ -5531,7 +5531,7 @@
 	    </choose>
 	  </when>
 	</choose>
-	
+
 	<choose>
 	  <when>
 	    <test>
@@ -5577,7 +5577,7 @@
 	    <let><var n="auxg"/><clip pos="2" side="tl" part="gen"/>
 	    </let>
 	  </otherwise>
-	</choose>	
+	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -5624,9 +5624,9 @@
 	    </let>
 	  </otherwise>
 	</choose>
-	
+
 	<out>
-	  <lu>    
+	  <lu>
 	    <get-case-from pos="1">
 	      <lit v="el"/>
 	    </get-case-from>
@@ -5635,13 +5635,13 @@
 	    <var n="auxn"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>    
+	  <lu>
 	    <clip pos="2" side="tl" part="lemh"/>
 	    <clip pos="2" side="tl" part="a_nom"/>
 	    <clip pos="2" side="tl" part="gen"/>
 	    <clip pos="2" side="tl" part="nbr"/>
 	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu> 
+	  </lu>
 	  <b pos="2"/>
 	  <lu>
 	    <clip pos="3" side="tl" part="lemh"/>
@@ -5651,7 +5651,7 @@
 	    <clip pos="3" side="tl" part="lemq"/>
 	  </lu>
 	  <b/>
-	  <lu>  
+	  <lu>
 	    <get-case-from pos="3">
 	      <lit v="del qual"/>
 	    </get-case-from>
@@ -5661,8 +5661,8 @@
 	  </lu>
 	</out>
       </action>
-    </rule> 
-    
+    </rule>
+
     <rule> <!--REGLA: cujo + adjetivo + nom= det nom adj del qual (modificat MG 15/11/05) -->
       <pattern>
 	<pattern-item n="cujo"/>
@@ -5690,13 +5690,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <var n="genero"/>      
+	      <var n="genero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="gen"/>
-	      <lit-tag v="m"/>  
+	      <lit-tag v="m"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5849,7 +5849,7 @@
 		      <lit-tag v="mf"/>
 		    </equal>
 		  </not>
-		</test> 
+		</test>
 		<let>
 		  <clip pos="2" side="tl" part="gen"/>
 		  <clip pos="3" side="tl" part="gen"/>
@@ -5879,13 +5879,13 @@
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <var n="numero"/>      
+	      <var n="numero"/>
 	    </let>
 	  </when>
 	  <otherwise>
 	    <let>
 	      <clip pos="1" side="tl" part="nbr"/>
-	      <lit-tag v="sg"/>  
+	      <lit-tag v="sg"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -5907,7 +5907,7 @@
 		  </equal>
 		</not>
 	      </or>
-	    </test> 
+	    </test>
 	    <choose>
 	      <when>
 		<test>
@@ -6039,7 +6039,7 @@
 		      <lit-tag v="sp"/>
 		    </equal>
 		  </not>
-		</test> 
+		</test>
 		<let>
 		  <clip pos="2" side="tl" part="nbr"/>
 		  <clip pos="3" side="tl" part="nbr"/>
@@ -6048,7 +6048,7 @@
 	    </choose>
 	  </when>
 	</choose>
-	
+
 	<choose>
 	  <when>
 	    <test>
@@ -6094,7 +6094,7 @@
 	    <let><var n="auxg"/><clip pos="3" side="tl" part="gen"/>
 	    </let>
 	  </otherwise>
-	</choose>	
+	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -6144,9 +6144,9 @@
 	<call-macro n="f_lexicadj">
 	    <with-param pos="2"/>
 	</call-macro>
-	<out> 
-	  <lu>  
-	    <get-case-from pos="1">  
+	<out>
+	  <lu>
+	    <get-case-from pos="1">
 	      <lit v="el"/>
 	    </get-case-from>
 	    <lit-tag v="det.def"/>
@@ -6162,15 +6162,15 @@
 	    <clip pos="2" side="tl" part="lemq"/>
 	  </lu>
 	  <b pos="2"/>
-	  <lu>    
+	  <lu>
 	    <clip pos="3" side="tl" part="lemh"/>
 	    <clip pos="3" side="tl" part="a_nom"/>
 	    <clip pos="3" side="tl" part="gen"/>
 	    <clip pos="3" side="tl" part="nbr"/>
 	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu> 
+	  </lu>
 	  <b/>
-	  <lu>  
+	  <lu>
 	    <get-case-from pos="3">
 	      <lit v="del qual"/>
 	    </get-case-from>
@@ -6181,7 +6181,7 @@
 	</out>
       </action>
 </rule>
-<!-- 	REGLES DE VERBS (posiciï¿½dels clï¿½ics, canvis de temps, multiparaules, etc)--> 
+<!-- 	REGLES DE VERBS (posiciï¿½dels clï¿½ics, canvis de temps, multiparaules, etc)-->
 <!-- 								== gostar I == -->
 
 <rule> <!-- REGLA : gostar-->
@@ -6340,14 +6340,14 @@
 								</choose>
 							</otherwise>
 						</choose>
-					</when>		
+					</when>
 					<otherwise>
 						<call-macro n="f_infps">
 							<with-param pos="1"/>
-						</call-macro> 
+						</call-macro>
 						<call-macro n="prn_gostar">
 							<with-param pos="1"/>
-						</call-macro>  
+						</call-macro>
 						<choose>
 							<when>
 								<test>
@@ -6376,7 +6376,7 @@
 										<clip pos="1" side="tl" part="lemh"/>
 										<clip pos="1" side="tl" part="a_verb"/>
 										<lit-tag v="pp.m.sg"/>
-										<clip pos="1" side="tl" part="lemq"/>	
+										<clip pos="1" side="tl" part="lemq"/>
 									</lu>
 								</out>
 							</when>
@@ -6442,7 +6442,7 @@
 										</out>
 									</when>
 									<otherwise>
-										<out> 
+										<out>
 											<b/>
 											<lu>
 												<clip pos="1" side="tl" part="lemh"/>
@@ -6451,9 +6451,9 @@
 												<lit-tag v="p3.sg"/>
 											</lu>
 										</out>
-									</otherwise>	
+									</otherwise>
 								</choose>
-									</otherwise>	
+									</otherwise>
 								</choose>
 							</otherwise>
 						</choose>
@@ -6472,11 +6472,11 @@
 	<action>
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
-		<out> 
+		</call-macro>
+		<out>
 			<b/>
 			<lu>
 				<clip pos="1" side="tl" part="lemh"/>
@@ -6487,12 +6487,12 @@
 				<lit-tag v="sg"/>
 			</lu>
 			<b pos="1"/>
-			<lu> 
+			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 		</out>
 	</action>
-</rule> 
+</rule>
 
 <rule> <!-- REGLA : estar gostando -> estar agradant-->
 	<pattern>
@@ -6502,10 +6502,10 @@
 	<action>
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<!--<call-macro n="f_pretind">
 			<with-param pos="1"/>
 		</call-macro>-->
@@ -6554,7 +6554,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b/>
 					<lu>
 						<clip pos="1" side="tl" part="lemh"/>
@@ -6569,13 +6569,13 @@
 		</choose>
 		<out>
 			<b pos="1"/>
-			<lu> 
+			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 		</out>
 
 	</action>
-</rule> 
+</rule>
 <rule> <!-- REGLA : estar a gostar -> estar agradant-->
 	<pattern>
 		<pattern-item n="estar"/>
@@ -6585,7 +6585,7 @@
 	<action>
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
 		</call-macro>
@@ -6637,7 +6637,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b/>
 					<lu>
 						<clip pos="1" side="tl" part="lemh"/>
@@ -6652,7 +6652,7 @@
 		</choose>
 		<out>
 			<b pos="1"/>
-			<lu> 
+			<lu>
 				<clip pos="3" side="tl" part="lemh"/>
 				<clip pos="3" side="tl" part="a_verb"/>
 				<lit-tag v="ger"/>
@@ -6662,7 +6662,7 @@
 			<with-param pos="2"/>
 			</call-macro>
 	</action>
-</rule> 
+</rule>
 
 <rule> <!-- REGLA : estar gostando de -> estar agradant-->
 	<pattern>
@@ -6673,14 +6673,14 @@
 	<action>
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
 		</call-macro>
 		<!--<call-macro n="f_pretind">
 			<with-param pos="1"/>
 		</call-macro>-->
-		
+
 		<choose>
 			<when>
 				<test>
@@ -6726,8 +6726,8 @@
 				</out>
 			</when>
 			<otherwise>
-				
-				<out> 
+
+				<out>
 					<b/>
 					<lu>
 						<clip pos="1" side="tl" part="lemh"/>
@@ -6742,7 +6742,7 @@
 		</choose>
 		<out>
 			<b pos="1"/>
-			<lu> 
+			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 		</out>
@@ -6750,7 +6750,7 @@
 			<with-param pos="2"/>
 		</call-macro>
 	</action>
-</rule> 
+</rule>
 
 <rule> <!-- REGLA : estar a gostar de -> estar agradant-->
 	<pattern>
@@ -6762,14 +6762,14 @@
 	<action>
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
 		</call-macro>
 		<!--<call-macro n="f_pretind">
 			<with-param pos="1"/>
 		</call-macro>-->
-		
+
 		<choose>
 			<when>
 				<test>
@@ -6815,7 +6815,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b/>
 					<lu>
 						<clip pos="1" side="tl" part="lemh"/>
@@ -6830,7 +6830,7 @@
 		</choose>
 		<out>
 			<b pos="1"/>
-			<lu> 
+			<lu>
 				<clip pos="3" side="tl" part="lemh"/>
 				<clip pos="3" side="tl" part="a_verb"/>
 				<lit-tag v="ger"/>
@@ -6843,7 +6843,7 @@
 			<with-param pos="3"/>
 		</call-macro>
 	</action>
-</rule> 
+</rule>
 
 <!-- 								==altres verbs== -->
 
@@ -6876,7 +6876,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="1" side="tl" part="lemq"/>	 
+							<clip pos="1" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -6908,12 +6908,12 @@
 									<clip pos="1" side="tl" part="lemh"/>
 									<clip pos="1" side="tl" part="a_verb"/>
 									<lit-tag v="pp.m.sg"/>
-									<clip pos="1" side="tl" part="lemq"/>	
+									<clip pos="1" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
 						<otherwise>
-							
+
 							<choose>
 								<when>
 									<test>
@@ -6966,9 +6966,9 @@
 									<clip pos="1" side="tl" part="persona"/>
 									<clip pos="1" side="tl" part="gen"/>
 									<clip pos="1" side="tl" part="nbr"/>
-									<clip pos="1" side="tl" part="lemq"/>	 
+									<clip pos="1" side="tl" part="lemq"/>
 								</lu>
-							</out>	
+							</out>
 								</otherwise>
 							</choose>
 						</otherwise>
@@ -6977,7 +6977,7 @@
 			</choose>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 34: VERB + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="verb"/>
@@ -7038,20 +7038,20 @@
 								<clip pos="2" side="tl" part="gen"/>
 								<clip pos="2" side="tl" part="nbr"/>
 								<clip pos="1" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<get-case-from pos="1" >
 								<clip pos="2" side="tl" part="lem"/>
 							</get-case-from>
 							<lit-tag v="prn.pro" />
 							<clip pos="2" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b/> 
+						<b/>
 					</out>
 					<choose>
 						<when>
@@ -7068,7 +7068,7 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<get-case-from pos="2" >
 										<clip pos="1" side="tl" part="lemh"/>
 									</get-case-from>
@@ -7076,7 +7076,7 @@
 									<lit-tag v="prs"/>
 									<clip pos="1" side="tl" part="persona"/>
 									<clip pos="1" side="tl" part="nbr"/>
-									<clip pos="1" side="tl" part="lemq"/>	 
+									<clip pos="1" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -7124,7 +7124,7 @@
 									</out>
 								</when>
 								<otherwise>
-							
+
 									<choose>
 										<when>
 											<test>
@@ -7150,10 +7150,10 @@
 													<clip pos="1" side="tl" part="lemh"/>
 													<clip pos="1" side="tl" part="a_verb"/>
 													<lit-tag v="pp.m.sg"/>
-													<clip pos="1" side="tl" part="lemq"/>	
+													<clip pos="1" side="tl" part="lemq"/>
 												</lu>
 											</out>
-										</when>	
+										</when>
 										<otherwise>
 											<out>
 												<lu>
@@ -7165,20 +7165,20 @@
 													<clip pos="1" side="tl" part="persona"/>
 													<clip pos="1" side="tl" part="gen"/>
 													<clip pos="1" side="tl" part="nbr"/>
-													<clip pos="1" side="tl" part="lemq"/>	 
+													<clip pos="1" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 		</action>
 	</rule>
-	
+
 
 	<rule>	 <!-- verb-mesoclï¿½ic-cua -->
 		<pattern>
@@ -7188,14 +7188,14 @@
 		</pattern>
 		<action>
 			<out>
-				<lu>   
+				<lu>
 					<get-case-from pos="1" >
 						<clip pos="2" side="tl" part="lem"/>
 					</get-case-from>
 					<lit-tag v="prn.pro" />
 					<clip pos="2" side="tl" part="tipoenc_pro"/>
 				</lu>
-				<b pos="1"/> 
+				<b pos="1"/>
 				<lu>
 					<get-case-from pos="2" >
 						<clip pos="1" side="tl" part="lemh"/>
@@ -7204,12 +7204,12 @@
 					<clip pos="3" side="tl" part="temps"/>
 					<clip pos="3" side="tl" part="persona"/>
 					<clip pos="3" side="tl" part="nbr"/>
-					<clip pos="1" side="tl" part="lemq"/>	 
+					<clip pos="1" side="tl" part="lemq"/>
 				</lu>
 			</out>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule comment="RULE: VERBMOD_IMP + ENCLÍTIC">
 		<pattern>
 			<pattern-item n="vbmod_imp"/>
@@ -7224,9 +7224,9 @@
 					<clip pos="1" side="tl" part="temps"/>
 					<clip pos="1" side="tl" part="persona"/>
 					<clip pos="1" side="tl" part="nbr"/>
-					<clip pos="1" side="tl" part="lemq"/>	 
+					<clip pos="1" side="tl" part="lemq"/>
 				</lu>
-				<b pos="2"/> 
+				<b pos="2"/>
 				<mlu>
 					<lu>
 						<clip pos="3" side="tl" part="lemh"/>
@@ -7240,12 +7240,12 @@
 						<clip pos="2" side="tl" part="gen"/>
 						<clip pos="2" side="tl" part="nbr"/>
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 		</action>
-	</rule> 
-		
+	</rule>
+
 	<rule> <!--REGLA 34: VERB + ENCLÍTIC  + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="verb"/>
@@ -7306,7 +7306,7 @@
 								<clip pos="2" side="tl" part="persona"/>
 								<clip pos="2" side="tl" part="gen"/>
 								<clip pos="2" side="tl" part="nbr"/>
-							</lu>  
+							</lu>
 							<lu>
 								<clip pos="3" side="tl" part="lem"/>
 								<clip pos="3" side="tl" part="a_prnenc"/>
@@ -7314,26 +7314,26 @@
 								<clip pos="3" side="tl" part="gen"/>
 								<clip pos="3" side="tl" part="nbr"/>
 								<clip pos="1" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<get-case-from pos="1" >
 								<clip pos="2" side="tl" part="lem"/>
 							</get-case-from>
 							<lit-tag v="prn.pro" />
 							<clip pos="2" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b/> 
-						<lu>   
+						<b/>
+						<lu>
 							<clip pos="3" side="tl" part="lem"/>
 							<lit-tag v="prn.pro" />
 							<clip pos="3" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b/> 
+						<b/>
 					</out>
 					<choose>
 						<when>
@@ -7350,7 +7350,7 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<get-case-from pos="2" >
 										<clip pos="1" side="tl" part="lemh"/>
 									</get-case-from>
@@ -7358,7 +7358,7 @@
 									<lit-tag v="prs"/>
 									<clip pos="1" side="tl" part="persona"/>
 									<clip pos="1" side="tl" part="nbr"/>
-									<clip pos="1" side="tl" part="lemq"/>	 
+									<clip pos="1" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -7431,10 +7431,10 @@
 													<clip pos="1" side="tl" part="lemh"/>
 													<clip pos="1" side="tl" part="a_verb"/>
 													<lit-tag v="pp.m.sg"/>
-													<clip pos="1" side="tl" part="lemq"/>	
+													<clip pos="1" side="tl" part="lemq"/>
 												</lu>
 											</out>
-										</when>	
+										</when>
 										<otherwise>
 											<out>
 												<lu>
@@ -7444,20 +7444,20 @@
 													<clip pos="1" side="tl" part="persona"/>
 													<clip pos="1" side="tl" part="gen"/>
 													<clip pos="1" side="tl" part="nbr"/>
-													<clip pos="1" side="tl" part="lemq"/>	 
+													<clip pos="1" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : prnpro prnrpo VERB-->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -7503,7 +7503,7 @@
 								</get-case-from>
 								<lit-tag v="prn.enc" />
 								<clip pos="1" side="tl" part="tipoenc_pro"/>
-							</lu>  
+							</lu>
 							<lu>
 								<get-case-from pos="3" >
 								<clip pos="2" side="tl" part="lem"/>
@@ -7511,20 +7511,20 @@
 								<lit-tag v="prn.enc" />
 								<clip pos="2" side="tl" part="tipoenc_pro"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<clip pos="1" side="tl" part="whole"/>
 						</lu>
-						<b pos="1"/> 
-						<lu>   
+						<b pos="1"/>
+						<lu>
 							<clip pos="2" side="tl" part="whole"/>
 						</lu>
-						<b pos="2"/> 
+						<b pos="2"/>
 					</out>
 					<choose>
 						<when>
@@ -7541,13 +7541,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
 									<clip pos="3" side="tl" part="nbr"/>
-									<clip pos="3" side="tl" part="lemq"/>	 
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -7595,7 +7595,7 @@
 									</out>
 								</when>
 								<otherwise>
-							
+
 							<choose>
 								<when>
 									<test>
@@ -7621,10 +7621,10 @@
 											<clip pos="3" side="tl" part="lemh"/>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="3" side="tl" part="lemq"/>	
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<out>
 										<lu>
@@ -7634,20 +7634,20 @@
 											<clip pos="3" side="tl" part="persona"/>
 											<clip pos="3" side="tl" part="gen"/>
 											<clip pos="3" side="tl" part="nbr"/>
-											<clip pos="3" side="tl" part="lemq"/>	 
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
-									</out>	
+									</out>
 								</otherwise>
 							</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 		</action>
 	</rule>
-	
+
 	<rule>	 <!-- verb-mesoclï¿½ic-mesoclï¿½ic-cua -->
 		<pattern>
 			<pattern-item n="verbmeso"/>
@@ -7657,20 +7657,20 @@
 		</pattern>
 		<action>
 			<out>
-				<lu>   
+				<lu>
 					<get-case-from pos="1" >
 						<clip pos="2" side="tl" part="lem"/>
 					</get-case-from>
 					<lit-tag v="prn.pro" />
 					<clip pos="2" side="tl" part="tipoenc_pro"/>
 				</lu>
-				<b/> 
-				<lu>   
+				<b/>
+				<lu>
 					<clip pos="3" side="tl" part="lem"/>
 					<lit-tag v="prn.pro" />
 					<clip pos="3" side="tl" part="tipoenc_pro"/>
 				</lu>
-				<b/> 
+				<b/>
 				<lu>
 					<get-case-from pos="2" >
 						<clip pos="1" side="tl" part="lemh"/>
@@ -7679,13 +7679,13 @@
 					<clip pos="4" side="tl" part="temps"/>
 					<clip pos="4" side="tl" part="persona"/>
 					<clip pos="4" side="tl" part="nbr"/>
-					<clip pos="1" side="tl" part="lemq"/>	 
+					<clip pos="1" side="tl" part="lemq"/>
 				</lu>
 			</out>
 		</action>
-	</rule> 
-	
-	
+	</rule>
+
+
 	 <rule> <!--REGLA: prep "em" + inf = a + inf : "especialistas en investigar -> especialistes a investigar -->
       <pattern>
 	<pattern-item n="em"/>
@@ -7704,11 +7704,11 @@
 	    <clip pos="2" side="tl" part="lemh"/>
 	    <clip pos="2" side="tl" part="a_inf"/>
 	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>  
+	  </lu>
 	</out>
       </action>
 </rule>
-    
+
      <rule> <!--REGLA: prep "em" + inf +enc= a + inf+enc -->
       <pattern>
 	<pattern-item n="em"/>
@@ -7729,15 +7729,15 @@
 	       <clip pos="2" side="tl" part="lemh"/>
 	       <clip pos="2" side="tl" part="a_inf"/>
 	     </lu>
-	     <lu>  
+	     <lu>
 	       <clip pos="3" side="tl" part="lem"/>
 	       <clip pos="3" side="tl" part="a_prnenc"/>
 	       <clip pos="3" side="tl" part="persona"/>
 	       <clip pos="3" side="tl" part="gen"/>
 	       <clip pos="3" side="tl" part="nbr"/>
 	       <clip pos="2" side="tl" part="lemq"/>
-	     </lu>  
-	   </mlu>	
+	     </lu>
+	   </mlu>
 	 </out>
        </action>
 </rule>
@@ -7762,17 +7762,17 @@
 						<clip pos="3" side="tl" part="lemh"/>
 						<clip pos="3" side="tl" part="a_inf"/>
 					</lu>
-					<lu>  
+					<lu>
 						<clip pos="2" side="tl" part="lem"/>
 						<lit-tag v="prn.enc"/>
 						<clip pos="2" side="tl" part="tipoenc_pro"/>
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
-				</mlu>	
+					</lu>
+				</mlu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA: prep "em" + inf +enc+enc = a + inf+enc+enc -->
       <pattern>
 	<pattern-item n="em"/>
@@ -7794,22 +7794,22 @@
 	      <clip pos="2" side="tl" part="lemh"/>
 	      <clip pos="2" side="tl" part="a_inf"/>
 	    </lu>
-	    <lu>  
+	    <lu>
 	      <clip pos="3" side="tl" part="lem"/>
 	      <clip pos="3" side="tl" part="a_prnenc"/>
 	      <clip pos="3" side="tl" part="persona"/>
 	      <clip pos="3" side="tl" part="gen"/>
 	      <clip pos="3" side="tl" part="nbr"/>
-	    </lu> 
-	    <lu>  
+	    </lu>
+	    <lu>
 	      <clip pos="4" side="tl" part="lem"/>
 	      <clip pos="4" side="tl" part="a_prnenc"/>
 	      <clip pos="4" side="tl" part="persona"/>
 	      <clip pos="4" side="tl" part="gen"/>
 	      <clip pos="4" side="tl" part="nbr"/>
 	      <clip pos="2" side="tl" part="lemq"/>
-	    </lu>  
-	  </mlu>	
+	    </lu>
+	  </mlu>
 	</out>
       </action>
 </rule>
@@ -7835,22 +7835,22 @@
 						<clip pos="4" side="tl" part="lemh"/>
 						<clip pos="4" side="tl" part="a_inf"/>
 					</lu>
-					<lu>  
+					<lu>
 						<clip pos="2" side="tl" part="lem"/>
 						<lit-tag v="prn.enc"/>
 						<clip pos="2" side="tl" part="tipoenc_pro"/>
-					</lu> 
-					<lu>  
+					</lu>
+					<lu>
 						<clip pos="3" side="tl" part="lem"/>
 						<lit-tag v="prn.enc"/>
 						<clip pos="3" side="tl" part="tipoenc_pro"/>
 						<clip pos="4" side="tl" part="lemq"/>
-					</lu> 
-				</mlu>	
+					</lu>
+				</mlu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA: pro inf/ger -> inf/ger -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -7866,22 +7866,22 @@
 						<clip pos="2" side="tl" part="a_verb"/>
 						<clip pos="2" side="tl" part="temps"/>
 					</lu>
-					<lu>  
+					<lu>
 						<get-case-from pos="2">
 							<clip pos="1" side="tl" part="lem"/>
 						</get-case-from>
 						<lit-tag v="prn.enc"/>
 						<clip pos="1" side="tl" part="tipoenc_pro"/>
 						<clip pos="2" side="tl" part="lemq"/>
-					</lu>  
-				</mlu>	
+					</lu>
+				</mlu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="1"/>
 			</call-macro>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA: pro pro inf/ger -> inf/ger -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -7898,20 +7898,20 @@
 						<clip pos="3" side="tl" part="a_verb"/>
 						<clip pos="3" side="tl" part="temps"/>
 					</lu>
-					<lu>  
+					<lu>
 						<get-case-from pos="2">
 							<clip pos="1" side="tl" part="lem"/>
 						</get-case-from>
 						<lit-tag v="prn.enc"/>
 						<clip pos="1" side="tl" part="tipoenc_pro"/>
-					</lu>  
-					<lu>  
+					</lu>
+					<lu>
 						<clip pos="2" side="tl" part="lem"/>
 						<lit-tag v="prn.enc"/>
 						<clip pos="2" side="tl" part="tipoenc_pro"/>
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
-				</mlu>	
+					</lu>
+				</mlu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="1"/>
@@ -7921,9 +7921,9 @@
 			</call-macro>
 		</action>
 	</rule>
-	
 
-	
+
+
 <!-- 								== v. ir == -->
 
 	<rule comment="VIR  + A + INFINITIU -> VERB">
@@ -7968,7 +7968,7 @@
 				<otherwise>
 					<call-macro n="f_infps">
 						<with-param pos="1"/>
-					</call-macro> 
+					</call-macro>
 					<out>
 						<lu>
 							<get-case-from pos="1">
@@ -7978,14 +7978,14 @@
 							<clip pos="1" side="tl" part="temps"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 36: VERB IR + INFINITIU -> anar + A + INFINITIU -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -8012,9 +8012,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="2" side="tl" part="lemq"/>	 
+							<clip pos="2" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="1"/>
 					</call-macro>
@@ -8095,15 +8095,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="2" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b />
@@ -8113,14 +8113,14 @@
 							<clip pos="2" side="tl" part="temps"/>
 							<clip pos="2" side="tl" part="persona"/>
 							<clip pos="2" side="tl" part="nbr"/>
-							<clip pos="2" side="tl" part="lemq"/>	 
+							<clip pos="2" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 37: pro + VERB IR + INFINITIU -> anar + A + INFINITIU-enc -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -8150,9 +8150,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="2" side="tl" part="persona"/>
 							<clip pos="2" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="2"/>
 					</call-macro>
@@ -8176,7 +8176,7 @@
 								<lu>
 									<get-case-from pos="1" >
 										<clip pos="2" side="tl" part="lemh"/>
-									</get-case-from>	
+									</get-case-from>
 										<clip pos="2" side="tl" part="a_verb"/>
 										<lit-tag v="prs"/>
 										<clip pos="2" side="tl" part="persona"/>
@@ -8233,7 +8233,7 @@
 										<lu>
 											<get-case-from pos="1" >
 												<clip pos="2" side="tl" part="lemh"/>
-											</get-case-from>	
+											</get-case-from>
 											<clip pos="2" side="tl" part="a_verb"/>
 											<clip pos="2" side="tl" part="temps"/>
 											<clip pos="2" side="tl" part="persona"/>
@@ -8243,15 +8243,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="2"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b />
@@ -8266,14 +8266,14 @@
 								<lit-tag v="prn.enc"/>
 								<clip pos="1" side="tl" part="tipoenc_pro"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 37: pro + pro + VERB IR + INFINITIU -> anar + A + INFINITIU-enc-enc -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -8308,9 +8308,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="3" side="tl" part="persona"/>
 							<clip pos="3" side="tl" part="nbr"/>
-							<clip pos="4" side="tl" part="lemq"/>	 
+							<clip pos="4" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="3"/>
 					</call-macro>
@@ -8334,7 +8334,7 @@
 								<lu>
 									<get-case-from pos="1" >
 										<clip pos="3" side="tl" part="lemh"/>
-									</get-case-from>	
+									</get-case-from>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
@@ -8391,7 +8391,7 @@
 										<lu>
 											<get-case-from pos="1" >
 												<clip pos="3" side="tl" part="lemh"/>
-											</get-case-from>	
+											</get-case-from>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<clip pos="3" side="tl" part="temps"/>
 											<clip pos="3" side="tl" part="persona"/>
@@ -8401,15 +8401,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="4" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -8438,8 +8438,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 38: VERB IR + pro + INFINITIU -> ananr + A + INFINITIU-enc -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -8473,9 +8473,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="2"/>
 					</call-macro>
@@ -8507,7 +8507,7 @@
 							</out>
 						</when>
 						<otherwise>
-							
+
 							<choose>
 								<when>
 									<test>
@@ -8557,15 +8557,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -8580,14 +8580,14 @@
 								<lit-tag v="prn.enc"/>
 								<clip pos="2" side="tl" part="tipoenc_pro"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 38: VERB IR + pro + pro + INFINITIU -> anar + A + INFINITIU-enc-enc -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -8626,9 +8626,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="4" side="tl" part="lemq"/>	 
+							<clip pos="4" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="3"/>
 					</call-macro>
@@ -8709,15 +8709,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="4" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -8746,8 +8746,8 @@
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 39: VERB IR + INFINITIU-enc -> anar + A + INFINITIU-enc -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -8781,9 +8781,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="2" side="tl" part="lemq"/>	 
+							<clip pos="2" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="2"/>
 					</call-macro>
@@ -8870,15 +8870,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="2" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -8893,14 +8893,14 @@
 								<lit-tag v="prn.enc"/>
 								<clip pos="3" side="tl" part="tipoenc_pro" />
 								<clip pos="2" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<rule> <!--REGLA 39: VERB IR + INFINITIU-enc-enc -> IR + A + INFINITIU-enc-enc -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -8941,9 +8941,9 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="2" side="tl" part="lemq"/>	 
+							<clip pos="2" side="tl" part="lemq"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="2"/>
 					</call-macro>
@@ -8975,7 +8975,7 @@
 							</out>
 						</when>
 						<otherwise>
-							
+
 							<choose>
 								<when>
 									<test>
@@ -9031,15 +9031,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="2" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -9053,20 +9053,20 @@
 								<clip pos="3" side="tl" part="lem" />
 								<lit-tag v="prn.enc"/>
 								<clip pos="3" side="tl" part="tipoenc_pro" />
-							</lu> 
+							</lu>
 							<lu>
 								<clip pos="4" side="tl" part="lem" />
 								<lit-tag v="prn.enc"/>
 								<clip pos="4" side="tl" part="tipoenc_pro" />
 								<clip pos="2" side="tl" part="lemq"/>
-							</lu> 
+							</lu>
 						</mlu>
 					</out>
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
-	
+ 	</rule>
+
 	<!-- el mateix amb un adverbi al mig-->
 	<rule> <!--REGLA 36: va igualmente cantar -> va a cantar igualment-->
 		<pattern>
@@ -9095,13 +9095,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 						<b pos="1"/>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="1"/>
 					</call-macro>
@@ -9182,15 +9182,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b />
@@ -9200,7 +9200,7 @@
 							<clip pos="3" side="tl" part="temps"/>
 							<clip pos="3" side="tl" part="persona"/>
 							<clip pos="3" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 						<b pos="2"/>
 						<lu>
@@ -9210,8 +9210,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 37: pro + VERB IR + adv + INFINITIU -> anar + A + INFINITIU-enc +adv -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -9242,13 +9242,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="2" side="tl" part="persona"/>
 							<clip pos="2" side="tl" part="nbr"/>
-							<clip pos="4" side="tl" part="lemq"/>	 
+							<clip pos="4" side="tl" part="lemq"/>
 						</lu>
 						<b pos="2"/>
 						<lu>
 							<clip pos="3" side="tl" part="whole"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="1"/>
 					</call-macro>
@@ -9272,7 +9272,7 @@
 								<lu>
 									<get-case-from pos="1" >
 										<clip pos="2" side="tl" part="lemh"/>
-									</get-case-from>	
+									</get-case-from>
 									<clip pos="2" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="2" side="tl" part="persona"/>
@@ -9329,7 +9329,7 @@
 										<lu>
 											<get-case-from pos="1" >
 												<clip pos="2" side="tl" part="lemh"/>
-											</get-case-from>	
+											</get-case-from>
 											<clip pos="2" side="tl" part="a_verb"/>
 											<clip pos="2" side="tl" part="temps"/>
 											<clip pos="2" side="tl" part="persona"/>
@@ -9339,15 +9339,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="2"/>
 						<lu>
 							<get-case-from pos="4" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b />
@@ -9362,7 +9362,7 @@
 								<lit-tag v="prn.enc"/>
 								<clip pos="1" side="tl" part="tipoenc_pro"/>
 								<clip pos="4" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 						<b pos="3"/>
 						<lu>
@@ -9372,8 +9372,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 37: pro + pro + VERB IR + adv + INFINITIU -> anar + A + INFINITIU-enc-enc + adv-->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -9409,13 +9409,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="3" side="tl" part="persona"/>
 							<clip pos="3" side="tl" part="nbr"/>
-							<clip pos="5" side="tl" part="lemq"/>	 
+							<clip pos="5" side="tl" part="lemq"/>
 						</lu>
 						<b pos="2"/>
 						<lu>
 							<clip pos="4" side="tl" part="whole"/>
 						</lu>
-					</out>	
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="1"/>
 					</call-macro>
@@ -9439,7 +9439,7 @@
 								<lu>
 									<get-case-from pos="1" >
 										<clip pos="3" side="tl" part="lemh"/>
-									</get-case-from>	
+									</get-case-from>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
@@ -9496,7 +9496,7 @@
 										<lu>
 											<get-case-from pos="1" >
 												<clip pos="3" side="tl" part="lemh"/>
-											</get-case-from>	
+											</get-case-from>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<clip pos="3" side="tl" part="temps"/>
 											<clip pos="3" side="tl" part="persona"/>
@@ -9506,15 +9506,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="4" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -9547,8 +9547,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 38: VERB IR + + adv + pro + INFINITIU -> anar + A + INFINITIU-enc +adv -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -9583,13 +9583,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="4" side="tl" part="lemq"/>	 
+							<clip pos="4" side="tl" part="lemq"/>
 						</lu>
 						<b pos="2"/>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
-						</lu>	
-					</out>	
+						</lu>
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="3"/>
 					</call-macro>
@@ -9670,15 +9670,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -9703,8 +9703,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 38: VERB IR + adv + pro + pro + INFINITIU -> ananr + A + INFINITIU-enc-enc +adv -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -9736,7 +9736,7 @@
 						<b pos="1"/>
 						<lu>
 							<clip pos="4" side="tl" part="whole"/>
-						</lu>	
+						</lu>
 						<b pos="2"/>
 						<lu>
 							<clip pos="5" side="tl" part="lemh"/>
@@ -9744,13 +9744,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="5" side="tl" part="lemq"/>	 
+							<clip pos="5" side="tl" part="lemq"/>
 						</lu>
 						<b pos="3"/>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
-						</lu>	
-					</out>	
+						</lu>
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="4"/>
 					</call-macro>
@@ -9831,15 +9831,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="4" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -9872,8 +9872,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 39: VERB IR +adv +INFINITIU-enc -> anar + A + INFINITIU-enc + adv-->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -9908,13 +9908,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 						<b pos="2"/>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
-						</lu>	
-					</out>	
+						</lu>
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="3"/>
 					</call-macro>
@@ -10001,15 +10001,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -10024,7 +10024,7 @@
 								<lit-tag v="prn.enc"/>
 								<clip pos="4" side="tl" part="tipoenc_pro" />
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 						<b pos="3"/>
 						<lu>
@@ -10034,8 +10034,8 @@
 				</otherwise>
 			</choose>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 39: VERB IR + INFINITIU-enc-enc -> anar + A + INFINITIU-enc-enc -->
 		<pattern>
 			<pattern-item n="vbir"/>
@@ -10077,13 +10077,13 @@
 							<lit-tag v="fti"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 						<b pos="3"/>
 						<lu>
 							<clip pos="2" side="tl" part="whole"/>
-						</lu>	
-					</out>	
+						</lu>
+					</out>
 					<call-macro n="f_bcond">
 						<with-param pos="4"/>
 					</call-macro>
@@ -10170,15 +10170,15 @@
 										</lu>
 									</out>
 								</otherwise>
-							</choose>	
+							</choose>
 						</otherwise>
-					</choose>	
-					<out>			
+					</choose>
+					<out>
 						<b pos="1"/>
 						<lu>
 							<get-case-from pos="3" >
 								<lit v="a"/>
-							</get-case-from>	
+							</get-case-from>
 							<lit-tag v="pr"/>
 						</lu>
 						<b pos="2"/>
@@ -10192,13 +10192,13 @@
 								<clip pos="4" side="tl" part="lem" />
 								<lit-tag v="prn.enc"/>
 								<clip pos="4" side="tl" part="tipoenc_pro" />
-							</lu> 
+							</lu>
 							<lu>
 								<clip pos="5" side="tl" part="lem" />
 								<lit-tag v="prn.enc"/>
 								<clip pos="5" side="tl" part="tipoenc_pro" />
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu> 
+							</lu>
 						</mlu>
 						<b pos="3"/>
 						<lu>
@@ -10208,10 +10208,10 @@
 				</otherwise>
 			</choose>
 		</action>
- 	</rule> 
+ 	</rule>
 <!-- 								== infinitivo pessoal == -->
 
-	<rule> <!--REGLA 40: PREP INFPS -> PRP INF (sense clï¿½ics)--> 
+	<rule> <!--REGLA 40: PREP INFPS -> PRP INF (sense clï¿½ics)-->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="infpsfts"/>
@@ -10219,7 +10219,7 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
@@ -10230,8 +10230,8 @@
 			</out>
 		</action>
 	</rule>
-	
-	<rule> <!--REGLA 41: PREP PRNPRO INFPS -> PRP INF-ENC --> 
+
+	<rule> <!--REGLA 41: PREP PRNPRO INFPS -> PRP INF-ENC -->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="prnpro"/>
@@ -10240,7 +10240,7 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<mlu>
@@ -10254,7 +10254,7 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="2" side="tl" part="tipoenc_pro" />
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 			<call-macro n="f_bcond">
@@ -10263,7 +10263,7 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA 42: PREP INFPS-ENC -> PRP INF-ENC --> 
+	<rule> <!--REGLA 42: PREP INFPS-ENC -> PRP INF-ENC -->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="infpsfts"/>
@@ -10272,7 +10272,7 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<mlu>
@@ -10286,15 +10286,15 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="3" side="tl" part="tipoenc_pro" />
 						<clip pos="2" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 		</action>
 	</rule>
-	
+
 <!-- el mateix, perï¿½amb un adverbi entre la preposiciï¿½i el verb -->
 
-	<rule> <!--REGLA 40: PREP ADV INFPS -> PRP ADV INF (sense clï¿½ics)--> 
+	<rule> <!--REGLA 40: PREP ADV INFPS -> PRP ADV INF (sense clï¿½ics)-->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="adv"/>
@@ -10303,11 +10303,11 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
@@ -10318,8 +10318,8 @@
 			</out>
 		</action>
 	</rule>
-	
-	<rule> <!--REGLA 41: PREP ADV PRNPRO INFPS -> PREP ADV INF-ENC --> 
+
+	<rule> <!--REGLA 41: PREP ADV PRNPRO INFPS -> PREP ADV INF-ENC -->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="adv"/>
@@ -10329,11 +10329,11 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<mlu>
@@ -10347,7 +10347,7 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="3" side="tl" part="tipoenc_pro" />
 						<clip pos="4" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 			<call-macro n="f_bcond">
@@ -10356,7 +10356,7 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA 42: PREP ADV INFPS-ENC -> PRP ADV INF-ENC --> 
+	<rule> <!--REGLA 42: PREP ADV INFPS-ENC -> PRP ADV INF-ENC -->
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="adv"/>
@@ -10366,11 +10366,11 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<mlu>
@@ -10384,15 +10384,15 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="4" side="tl" part="tipoenc_pro" />
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 		</action>
 	</rule>
-	
+
 <!-- amb si condicional	 -->
 
-	<rule> <!--REGLA 40: SEADV INFPS/FTS-> SI pis (sense clï¿½ics)--> 
+	<rule> <!--REGLA 40: SEADV INFPS/FTS-> SI pis (sense clï¿½ics)-->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="infpsfts"/>
@@ -10400,7 +10400,7 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
@@ -10413,8 +10413,8 @@
 			</out>
 		</action>
 	</rule>
-	
-	<rule> <!--REGLA 41: SEADV PRNPRO INFPS -> SEADV PRNPRO pis --> 
+
+	<rule> <!--REGLA 41: SEADV PRNPRO INFPS -> SEADV PRNPRO pis -->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="prnpro"/>
@@ -10423,14 +10423,14 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lem" />
 					<lit-tag v="prn.pro"/>
 					<clip pos="2" side="tl" part="tipoenc_pro" />
-				</lu>  
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -10447,7 +10447,7 @@
 		</action>
 	</rule>
 
-	<rule> <!--REGLA 42: SEADV INFPS-ENC -> SEADV PRNPRO pis --> 
+	<rule> <!--REGLA 42: SEADV INFPS-ENC -> SEADV PRNPRO pis -->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="infpsfts"/>
@@ -10456,14 +10456,14 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="3" side="tl" part="lem" />
 					<lit-tag v="prn.pro"/>
 					<clip pos="3" side="tl" part="tipoenc_pro" />
-				</lu>  
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
@@ -10476,10 +10476,10 @@
 			</out>
 		</action>
 	</rule>
-	
+
 <!-- el mateix, perï¿½amb un adverbi entre la preposiciï¿½i el verb -->
 
-       	<rule> <!--REGLA 40: SEADV ADV INFPS -> SEADV ADV pis (sense clï¿½ics)--> 
+       	<rule> <!--REGLA 40: SEADV ADV INFPS -> SEADV ADV pis (sense clï¿½ics)-->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="adv"/>
@@ -10488,11 +10488,11 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
@@ -10505,8 +10505,8 @@
 			</out>
 		</action>
 	</rule>
-	
-	<rule> <!--REGLA 41: SEADV ADV PRNPRO INFPS -> SEADV ADV PRNPRO pis --> 
+
+	<rule> <!--REGLA 41: SEADV ADV PRNPRO INFPS -> SEADV ADV PRNPRO pis -->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="adv"/>
@@ -10516,18 +10516,18 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="lem" />
 					<lit-tag v="prn.pro"/>
 					<clip pos="3" side="tl" part="tipoenc_pro" />
-				</lu>  
+				</lu>
 				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="lemh"/>
@@ -10543,8 +10543,8 @@
 			</call-macro>-->
 		</action>
 	</rule>
-	
-	<rule> <!--REGLA 42: SEADV ADV INFPS-ENC -> SEADV ADV PRNPRO pis --> 
+
+	<rule> <!--REGLA 42: SEADV ADV INFPS-ENC -> SEADV ADV PRNPRO pis -->
 		<pattern>
 			<pattern-item n="seadv"/>
 			<pattern-item n="adv"/>
@@ -10554,18 +10554,18 @@
 		<action>
 			<out>
 				<lu>
-					<clip pos="1" side="tl" part="whole"/>		
+					<clip pos="1" side="tl" part="whole"/>
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<clip pos="2" side="tl" part="whole"/>		
+					<clip pos="2" side="tl" part="whole"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="4" side="tl" part="lem" />
 					<lit-tag v="prn.pro"/>
 					<clip pos="4" side="tl" part="tipoenc_pro" />
-				</lu>  
+				</lu>
 				<b pos="3"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -10578,8 +10578,8 @@
 			</out>
 		</action>
 	</rule>
-	
-	
+
+
 <!-- 								=:= estar a inf. == -->
 
  	<rule> <!--REGLA 43: estar a infinitiu   -> estar gerundi -->
@@ -10613,7 +10613,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="1" side="tl" part="lemq"/>	 
+							<clip pos="1" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -10625,7 +10625,7 @@
 							<lit-tag v="pmp"/>
 						</equal>
 					</test>
-					<out> 
+					<out>
 						<lu>
 							<get-case-from pos="1">
 								<lit v="anar"/>
@@ -10700,10 +10700,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>	
+			</choose>
+			<out>
 				<b pos="1"/>
 				<lu>
 					<clip pos="3" side="tl" part="lemh"/>
@@ -10715,7 +10715,7 @@
 				<with-param pos="2"/>
 			</call-macro>
 		</action>
- 	</rule> 
+ 	</rule>
 
 	<rule> <!--REGLA 43: estar adv a infinitiu   -> estar gerundi adv -->
 		<pattern>
@@ -10749,7 +10749,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="1" side="tl" part="persona"/>
 							<clip pos="1" side="tl" part="nbr"/>
-							<clip pos="1" side="tl" part="lemq"/>	 
+							<clip pos="1" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -10761,7 +10761,7 @@
 							<lit-tag v="pmp"/>
 						</equal>
 					</test>
-					<out> 
+					<out>
 						<lu>
 							<get-case-from pos="1">
 								<lit v="anar"/>
@@ -10836,10 +10836,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>	
+			</choose>
+			<out>
 				<b pos="1"/>
 				<lu>
 					<clip pos="4" side="tl" part="lemh"/>
@@ -10855,8 +10855,8 @@
 				<with-param pos="3"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 44: estar a prnpro inf -> estar ger-enc -->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -10943,10 +10943,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>			
+			</choose>
+			<out>
 				<b pos="1"/>
 				<mlu>
 					<lu>
@@ -10959,7 +10959,7 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="3" side="tl" part="tipoenc_pro"/>
 						<clip pos="4" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 			<call-macro n="f_bcond">
@@ -10969,8 +10969,8 @@
 				<with-param pos="3"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 44: estar adv a prnpro inf -> estar ger-enc adv-->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -11058,10 +11058,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>			
+			</choose>
+			<out>
 				<b pos="1"/>
 				<mlu>
 					<lu>
@@ -11074,7 +11074,7 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="4" side="tl" part="tipoenc_pro"/>
 						<clip pos="5" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 				<b pos="2"/>
 				<lu>
@@ -11088,8 +11088,8 @@
 				<with-param pos="4"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 45: estar a inf-enc -> estar ger-enc -->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -11181,10 +11181,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>			
+			</choose>
+			<out>
 				<b pos="1"/>
 				<mlu>
 					<lu>
@@ -11197,14 +11197,14 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="4" side="tl" part="tipoenc_pro" />
 						<clip pos="3" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 			</out>
 			<call-macro n="f_bcond">
 				<with-param pos="2"/>
 			</call-macro>
 		</action>
- 	</rule> 
+ 	</rule>
 	<rule> <!--REGLA 45: estar adv a inf-enc -> estar adv ger-enc -->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -11297,10 +11297,10 @@
 								</lu>
 							</out>
 						</otherwise>
-					</choose>	
+					</choose>
 				</otherwise>
-			</choose>	
-			<out>			
+			</choose>
+			<out>
 				<b pos="1"/>
 				<mlu>
 					<lu>
@@ -11313,7 +11313,7 @@
 						<lit-tag v="prn.enc"/>
 						<clip pos="5" side="tl" part="tipoenc_pro" />
 						<clip pos="4" side="tl" part="lemq"/>
-					</lu>  
+					</lu>
 				</mlu>
 				<b pos="2"/>
 				<lu>
@@ -11324,8 +11324,8 @@
 				<with-param pos="3"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 46: prnpro estar a inf -> estar (amb clï¿½ic) gerundi -->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -11367,7 +11367,7 @@
 								<clip pos="2" side="tl" part="nbr"/>
 							</lu>
 							<lu>
-								<get-case-from pos="2" > 
+								<get-case-from pos="2" >
 									<clip pos="1" side="tl" part="lem" />
 								</get-case-from>
 								<lit-tag v="prn.enc"/>
@@ -11465,9 +11465,9 @@
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>	
+				</otherwise>
 			</choose>
-			<out>			
+			<out>
 				<b pos="2"/>
 				<lu>
 					<clip pos="4" side="tl" part="lemh"/>
@@ -11479,8 +11479,8 @@
 				<with-param pos="3"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 46: prnpro estar adv a inf -> estar (amb clï¿½ic) gerundi adv-->
 		<pattern>
 			<pattern-item n="prnpro"/>
@@ -11523,7 +11523,7 @@
 								<clip pos="2" side="tl" part="nbr"/>
 							</lu>
 							<lu>
-								<get-case-from pos="2" > 
+								<get-case-from pos="2" >
 									<clip pos="1" side="tl" part="lem" />
 								</get-case-from>
 								<lit-tag v="prn.enc"/>
@@ -11621,9 +11621,9 @@
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>	
+				</otherwise>
 			</choose>
-			<out>			
+			<out>
 				<b pos="2"/>
 				<lu>
 					<clip pos="5" side="tl" part="lemh"/>
@@ -11639,8 +11639,8 @@
 				<with-param pos="4"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!--REGLA 47: estar-enc adv a inf -> estar (amb clï¿½ic) gerundi adv-->
 		<pattern>
 			<pattern-item n="estar"/>
@@ -11791,9 +11791,9 @@
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>	
+				</otherwise>
 			</choose>
-			<out>			
+			<out>
 				<b pos="2"/>
 				<lu>
 					<clip pos="5" side="tl" part="lemh"/>
@@ -11809,8 +11809,8 @@
 				<with-param pos="4"/>
 			</call-macro>
 		</action>
-	</rule> 
-	
+	</rule>
+
 <!--	<rule> <!-#- REGLA: em se tratando -> tratï¿½dose -#->
 		<pattern>
 			<pattern-item n="em"/>
@@ -11843,9 +11843,9 @@
 		</action>
 	</rule> -->
 
-	
+
 <!-- 								== concordanï¿½ amb predicatius ==	 -->
-	
+
 	<rule> <!--REGLA : nom pred adj (sense enclï¿½ics)-->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -11856,17 +11856,17 @@
 			<call-macro n="f_concord2">
 				<with-param pos="1"/>
 				<with-param pos="3"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
-			</call-macro> 
+			</call-macro>
 <!--			<call-macro n="f_pretind">
 				<with-param pos="2"/>
 			</call-macro>-->
-			<out>    
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 			</out>
 			<choose>
@@ -11890,7 +11890,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="2" side="tl" part="persona"/>
 							<clip pos="2" side="tl" part="nbr"/>
-							<clip pos="2" side="tl" part="lemq"/>	 
+							<clip pos="2" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -11920,7 +11920,7 @@
 									<clip pos="2" side="tl" part="lemh"/>
 									<clip pos="2" side="tl" part="a_verb"/>
 									<lit-tag v="pp.m.sg"/>
-									<clip pos="2" side="tl" part="lemq"/>	
+									<clip pos="2" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -11975,9 +11975,9 @@
 											<clip pos="2" side="tl" part="temps"/>
 											<clip pos="2" side="tl" part="persona"/>
 											<clip pos="2" side="tl" part="nbr"/>
-											<clip pos="2" side="tl" part="lemq"/>	 
+											<clip pos="2" side="tl" part="lemq"/>
 										</lu>
-									</out>	
+									</out>
 								</otherwise>
 							</choose>
 						</otherwise>
@@ -11985,14 +11985,14 @@
 				</otherwise>
 			</choose>
 			<out>
-				<b pos="2"/>	
+				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : nom pred-enc adjec -->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -12004,17 +12004,17 @@
 			<call-macro n="f_concord2">
 				<with-param pos="1"/>
 				<with-param pos="4"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
 			</call-macro>
 <!--			<call-macro n="f_pretind">
 				<with-param pos="2"/>
 			</call-macro>-->
-			<out>    
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 			</out>
 			<choose>
@@ -12051,18 +12051,18 @@
 								<clip pos="3" side="tl" part="gen"/>
 								<clip pos="3" side="tl" part="nbr"/>
 								<clip pos="2" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<clip pos="3" side="tl" part="lem"/>
 							<lit-tag v="prn.pro" />
 							<clip pos="3" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b/> 
+						<b/>
 					</out>
 					<choose>
 						<when>
@@ -12079,13 +12079,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="2" side="tl" part="lemh"/>
 									<clip pos="2" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="2" side="tl" part="persona"/>
 									<clip pos="2" side="tl" part="nbr"/>
-									<clip pos="2" side="tl" part="lemq"/>	 
+									<clip pos="2" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -12158,10 +12158,10 @@
 													<clip pos="2" side="tl" part="lemh"/>
 													<clip pos="2" side="tl" part="a_verb"/>
 													<lit-tag v="pp.m.sg"/>
-													<clip pos="2" side="tl" part="lemq"/>	
+													<clip pos="2" side="tl" part="lemq"/>
 												</lu>
 											</out>
-										</when>	
+										</when>
 										<otherwise>
 											<out>
 												<lu>
@@ -12170,29 +12170,29 @@
 													<clip pos="2" side="tl" part="temps"/>
 													<clip pos="2" side="tl" part="persona"/>
 													<clip pos="2" side="tl" part="nbr"/>
-													<clip pos="2" side="tl" part="lemq"/>	 
+													<clip pos="2" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<call-macro n="f_bcond">
 				<with-param pos="2"/>
 			</call-macro>
 			<out>
-				<b pos="3"/>	
+				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : nom prnpro pred adjec -->
 		<pattern>
 			<pattern-item n="nom"/>
@@ -12204,17 +12204,17 @@
 			<call-macro n="f_concord2">
 				<with-param pos="1"/>
 				<with-param pos="4"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
-			</call-macro> 
+			</call-macro>
 <!--			<call-macro n="f_pretind">
 				<with-param pos="3"/>
 			</call-macro>-->
-			<out>    
+			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 			</out>
 			<choose>
@@ -12253,7 +12253,7 @@
 								<lit-tag v="prn.enc" />
 								<clip pos="2" side="tl" part="tipoenc_pro"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 					<call-macro n="f_bcond">
@@ -12262,7 +12262,7 @@
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<get-case-from pos="2" >
 								<clip pos="2" side="tl" part="lem"/>
 							</get-case-from>
@@ -12286,13 +12286,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
 									<clip pos="3" side="tl" part="nbr"/>
-									<clip pos="3" side="tl" part="lemq"/>	 
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -12322,10 +12322,10 @@
 											<clip pos="3" side="tl" part="lemh"/>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="3" side="tl" part="lemq"/>	
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<choose>
 										<when>
@@ -12377,26 +12377,26 @@
 													<clip pos="3" side="tl" part="temps"/>
 													<clip pos="3" side="tl" part="persona"/>
 													<clip pos="3" side="tl" part="nbr"/>
-													<clip pos="3" side="tl" part="lemq"/>	 
+													<clip pos="3" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<out>
-				<b pos="3"/>	
+				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : det nom pred adj (sense enclï¿½ics)-->
 		<pattern>
 			<pattern-item n="det"/>
@@ -12409,7 +12409,7 @@
 				<with-param pos="2"/>
 				<with-param pos="4"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
 			</call-macro>
@@ -12417,13 +12417,13 @@
 				<with-param pos="3"/>
 			</call-macro>-->
 			<out>
-				<lu>  
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -12447,7 +12447,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="3" side="tl" part="persona"/>
 							<clip pos="3" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -12477,7 +12477,7 @@
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="pp.m.sg"/>
-									<clip pos="3" side="tl" part="lemq"/>	
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -12532,9 +12532,9 @@
 											<clip pos="3" side="tl" part="temps"/>
 											<clip pos="3" side="tl" part="persona"/>
 											<clip pos="3" side="tl" part="nbr"/>
-											<clip pos="3" side="tl" part="lemq"/>	 
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
-									</out>	
+									</out>
 								</otherwise>
 							</choose>
 						</otherwise>
@@ -12542,14 +12542,14 @@
 				</otherwise>
 			</choose>
 			<out>
-				<b pos="3"/>	
+				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : det nom pred-enc adjec -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -12563,21 +12563,21 @@
 				<with-param pos="2"/>
 				<with-param pos="5"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="5"/>
 			</call-macro>
 <!--			<call-macro n="f_pretind">
 				<with-param pos="3"/>
 			</call-macro>-->
-			<out>    
-				<lu>  
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -12614,7 +12614,7 @@
 								<clip pos="4" side="tl" part="gen"/>
 								<clip pos="4" side="tl" part="nbr"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 					<call-macro n="f_bcond">
@@ -12623,7 +12623,7 @@
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<clip pos="4" side="tl" part="lem"/>
 							<lit-tag v="prn.pro" />
 							<clip pos="4" side="tl" part="tipoenc_pro"/>
@@ -12645,13 +12645,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
 									<clip pos="3" side="tl" part="nbr"/>
-									<clip pos="3" side="tl" part="lemq"/>	 
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -12681,10 +12681,10 @@
 											<clip pos="3" side="tl" part="lemh"/>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="3" side="tl" part="lemq"/>	
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<choose>
 										<when>
@@ -12736,26 +12736,26 @@
 													<clip pos="3" side="tl" part="temps"/>
 													<clip pos="3" side="tl" part="persona"/>
 													<clip pos="3" side="tl" part="nbr"/>
-													<clip pos="3" side="tl" part="lemq"/>	 
+													<clip pos="3" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<out>
-				<b pos="4"/>	
+				<b pos="4"/>
 				<lu>
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA : det nom prnpro pred adjec -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -12769,7 +12769,7 @@
 				<with-param pos="2"/>
 				<with-param pos="5"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="5"/>
 			</call-macro>
@@ -12777,13 +12777,13 @@
 				<with-param pos="4"/>
 			</call-macro>-->
 			<out>
-				<lu> 
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -12822,7 +12822,7 @@
 								<lit-tag v="prn.enc" />
 								<clip pos="3" side="tl" part="tipoenc_pro"/>
 								<clip pos="4" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 					<call-macro n="f_bcond">
@@ -12831,14 +12831,14 @@
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<get-case-from pos="3" >
 								<clip pos="3" side="tl" part="lem"/>
 							</get-case-from>
 							<lit-tag v="prn.pro" />
 							<clip pos="3" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b pos="3"/> 
+						<b pos="3"/>
 					</out>
 					<choose>
 						<when>
@@ -12855,13 +12855,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="4" side="tl" part="lemh"/>
 									<clip pos="4" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="4" side="tl" part="persona"/>
 									<clip pos="4" side="tl" part="nbr"/>
-									<clip pos="4" side="tl" part="lemq"/>	 
+									<clip pos="4" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -12891,10 +12891,10 @@
 											<clip pos="4" side="tl" part="lemh"/>
 											<clip pos="4" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="4" side="tl" part="lemq"/>	
+											<clip pos="4" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<choose>
 										<when>
@@ -12946,26 +12946,26 @@
 													<clip pos="4" side="tl" part="temps"/>
 													<clip pos="4" side="tl" part="persona"/>
 													<clip pos="4" side="tl" part="nbr"/>
-													<clip pos="4" side="tl" part="lemq"/>	 
+													<clip pos="4" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<out>
-				<b pos="4"/>	
+				<b pos="4"/>
 				<lu>
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 33: det nom pred adv adj (sense enclï¿½ics)-->
 		<pattern>
 			<pattern-item n="det"/>
@@ -12979,13 +12979,13 @@
 				<with-param pos="2"/>
 				<with-param pos="5"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="5"/>
-			</call-macro> 
+			</call-macro>
 			<!--<call-macro n="f_lexicadv">
 				<with-param pos="4"/>
 				<with-param pos="5"/>
@@ -12993,14 +12993,14 @@
 			--><!--<call-macro n="f_pretind">
 				<with-param pos="3"/>
 			</call-macro>-->
-			<out>    
-				<lu>  
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -13024,7 +13024,7 @@
 							<lit-tag v="prs"/>
 							<clip pos="3" side="tl" part="persona"/>
 							<clip pos="3" side="tl" part="nbr"/>
-							<clip pos="3" side="tl" part="lemq"/>	 
+							<clip pos="3" side="tl" part="lemq"/>
 						</lu>
 					</out>
 				</when>
@@ -13054,7 +13054,7 @@
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="pp.m.sg"/>
-									<clip pos="3" side="tl" part="lemq"/>	
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -13109,9 +13109,9 @@
 											<clip pos="3" side="tl" part="temps"/>
 											<clip pos="3" side="tl" part="persona"/>
 											<clip pos="3" side="tl" part="nbr"/>
-											<clip pos="3" side="tl" part="lemq"/>	 
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
-									</out>	
+									</out>
 								</otherwise>
 							</choose>
 						</otherwise>
@@ -13119,18 +13119,18 @@
 				</otherwise>
 			</choose>
 			<out>
-				<b pos="3"/>	
+				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
 				</lu>
-				<b pos="4"/>	
+				<b pos="4"/>
 				<lu>
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 34: det nom pred-enc adv adjec -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -13145,13 +13145,13 @@
 				<with-param pos="2"/>
 				<with-param pos="6"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="5"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="6"/>
-			</call-macro> 
+			</call-macro>
 <!--			<call-macro n="f_lexicadv">
 				<with-param pos="5"/>
 				<with-param pos="6"/>
@@ -13159,14 +13159,14 @@
 <!--			<call-macro n="f_pretind">
 				<with-param pos="3"/>
 			</call-macro>-->
-			<out>    
-				<lu>  
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -13203,7 +13203,7 @@
 								<clip pos="4" side="tl" part="gen"/>
 								<clip pos="4" side="tl" part="nbr"/>
 								<clip pos="3" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 					<call-macro n="f_bcond">
@@ -13212,7 +13212,7 @@
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<clip pos="4" side="tl" part="lem"/>
 							<lit-tag v="prn.pro" />
 							<clip pos="4" side="tl" part="tipoenc_pro"/>
@@ -13234,13 +13234,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="3" side="tl" part="lemh"/>
 									<clip pos="3" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="3" side="tl" part="persona"/>
 									<clip pos="3" side="tl" part="nbr"/>
-									<clip pos="3" side="tl" part="lemq"/>	 
+									<clip pos="3" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -13270,10 +13270,10 @@
 											<clip pos="3" side="tl" part="lemh"/>
 											<clip pos="3" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="3" side="tl" part="lemq"/>	
+											<clip pos="3" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<choose>
 										<when>
@@ -13325,30 +13325,30 @@
 													<clip pos="3" side="tl" part="temps"/>
 													<clip pos="3" side="tl" part="persona"/>
 													<clip pos="3" side="tl" part="nbr"/>
-													<clip pos="3" side="tl" part="lemq"/>	 
+													<clip pos="3" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<out>
-				<b pos="4"/>	
+				<b pos="4"/>
 				<lu>
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
-				<b pos="5"/>	
+				<b pos="5"/>
 				<lu>
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 35: det nom prnpro pred adv adjec -->
 		<pattern>
 			<pattern-item n="det"/>
@@ -13363,13 +13363,13 @@
 				<with-param pos="2"/>
 				<with-param pos="6"/>
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="5"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="6"/>
-			</call-macro> 
+			</call-macro>
 <!--			<call-macro n="f_lexicadv">
 				<with-param pos="5"/>
 				<with-param pos="6"/>
@@ -13380,11 +13380,11 @@
 			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu> 
+				</lu>
 				<b pos="2"/>
 			</out>
 			<choose>
@@ -13423,7 +13423,7 @@
 								<lit-tag v="prn.enc" />
 								<clip pos="3" side="tl" part="tipoenc_pro"/>
 								<clip pos="4" side="tl" part="lemq"/>
-							</lu>  
+							</lu>
 						</mlu>
 					</out>
 					<call-macro n="f_bcond">
@@ -13432,14 +13432,14 @@
 				</when>
 				<otherwise>
 					<out>
-						<lu>   
+						<lu>
 							<get-case-from pos="3" >
 								<clip pos="3" side="tl" part="lem"/>
 							</get-case-from>
 							<lit-tag v="prn.pro" />
 							<clip pos="3" side="tl" part="tipoenc_pro"/>
 						</lu>
-						<b pos="3"/> 
+						<b pos="3"/>
 					</out>
 					<choose>
 						<when>
@@ -13456,13 +13456,13 @@
 								</or>
 							</test>
 							<out>
-								<lu>   
+								<lu>
 									<clip pos="4" side="tl" part="lemh"/>
 									<clip pos="4" side="tl" part="a_verb"/>
 									<lit-tag v="prs"/>
 									<clip pos="4" side="tl" part="persona"/>
 									<clip pos="4" side="tl" part="nbr"/>
-									<clip pos="4" side="tl" part="lemq"/>	 
+									<clip pos="4" side="tl" part="lemq"/>
 								</lu>
 							</out>
 						</when>
@@ -13492,10 +13492,10 @@
 											<clip pos="4" side="tl" part="lemh"/>
 											<clip pos="4" side="tl" part="a_verb"/>
 											<lit-tag v="pp.m.sg"/>
-											<clip pos="4" side="tl" part="lemq"/>	
+											<clip pos="4" side="tl" part="lemq"/>
 										</lu>
 									</out>
-								</when>	
+								</when>
 								<otherwise>
 									<choose>
 										<when>
@@ -13547,30 +13547,30 @@
 													<clip pos="4" side="tl" part="temps"/>
 													<clip pos="4" side="tl" part="persona"/>
 													<clip pos="4" side="tl" part="nbr"/>
-													<clip pos="4" side="tl" part="lemq"/>	 
+													<clip pos="4" side="tl" part="lemq"/>
 												</lu>
-											</out>	
+											</out>
 										</otherwise>
 									</choose>
 								</otherwise>
 							</choose>
 						</otherwise>
 					</choose>
-				</otherwise>		
+				</otherwise>
 			</choose>
 			<out>
-				<b pos="4"/>	
+				<b pos="4"/>
 				<lu>
 					<clip pos="5" side="tl" part="whole"/>
 				</lu>
-				<b pos="5"/>	
+				<b pos="5"/>
 				<lu>
 					<clip pos="6" side="tl" part="whole"/>
 				</lu>
 			</out>
 		</action>
 	</rule>
-	
+
 <!-- REGLES DE NOM DE TEMPS --><!-- cat REVISAR!!!-->
 	<rule> <!--REGLA 43: no domingo -> el domingo -->
 		<pattern>
@@ -13582,7 +13582,7 @@
 			<call-macro n="f_concord2">
 				<with-param pos="3"/>
 				<with-param pos="2"/>
-			</call-macro>   
+			</call-macro>
 			<call-macro n="f_bcond">
 				<with-param pos="1"/>
 			</call-macro>
@@ -13591,9 +13591,9 @@
 					<get-case-from pos="1" >
 						<clip pos="2" side="tl" part="lem"/>
 					</get-case-from>
-					<clip pos="2" side="tl" part="a_det"/>	
-					<clip pos="2" side="tl" part="gen"/>	
-					<clip pos="2" side="tl" part="nbr"/>	
+					<clip pos="2" side="tl" part="a_det"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
@@ -13602,7 +13602,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 44: na passada sexta-feira -> el pasado viernes -->
 		<pattern>
 			<pattern-item n="em"/>
@@ -13615,7 +13615,7 @@
 				<with-param pos="4"/>
 				<with-param pos="2"/>
 				<with-param pos="3"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="3"/>
 			</call-macro>
@@ -13631,9 +13631,9 @@
 					<get-case-from pos="1" >
 						<clip pos="2" side="tl" part="lem"/>
 					</get-case-from>
-					<clip pos="2" side="tl" part="a_det"/>	
-					<clip pos="2" side="tl" part="gen"/>	
-					<clip pos="2" side="tl" part="nbr"/>					
+					<clip pos="2" side="tl" part="a_det"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
@@ -13646,7 +13646,7 @@
 			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA 45: na sexta-feira passada -> el viernes pasado -->
 		<pattern>
 			<pattern-item n="em"/>
@@ -13659,7 +13659,7 @@
 				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="4"/>
-			</call-macro>    
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
 			</call-macro>
@@ -13671,9 +13671,9 @@
 					<get-case-from pos="1" >
 						<clip pos="2" side="tl" part="lem"/>
 					</get-case-from>
-					<clip pos="2" side="tl" part="a_det"/>	
-					<clip pos="2" side="tl" part="gen"/>	
-					<clip pos="2" side="tl" part="nbr"/>					
+					<clip pos="2" side="tl" part="a_det"/>
+					<clip pos="2" side="tl" part="gen"/>
+					<clip pos="2" side="tl" part="nbr"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
@@ -13686,7 +13686,7 @@
 			</out>
 		</action>
 	</rule>
-		
+
 <!-- há => hace (en els altres casos tradueix per "hay") -->
 
 <rule> <!--REGLA: há dias-> FA dies-->
@@ -13752,9 +13752,9 @@
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -13763,7 +13763,7 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
@@ -13832,9 +13832,9 @@
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -13843,11 +13843,11 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="2"/>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
@@ -13910,16 +13910,16 @@
 				</out>
 			</when>
 			<otherwise>
-			
+
 				<out>
 					<lu>
 						<get-case-from pos="1" >
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -13928,11 +13928,11 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="2"/>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
@@ -14001,9 +14001,9 @@
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -14012,11 +14012,11 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="2"/>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
@@ -14035,7 +14035,7 @@
 		</call-macro>-->
 		<call-macro n="f_concord1">
 			<with-param pos="2"/>
-		</call-macro> 
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -14087,9 +14087,9 @@
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -14098,23 +14098,23 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="2"/>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="3"/>
 			<lu>
 				<clip pos="4" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="4"/>
 			<lu>
 				<clip pos="5" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
-		
+
 <rule> <!--REGLA: há de una semana-> fa mÃ©s de una setmana-->
 	<pattern>
 		<pattern-item n="ha"/>
@@ -14129,7 +14129,7 @@
 		</call-macro>-->
 		<call-macro n="f_concord1">
 			<with-param pos="2"/>
-		</call-macro> 
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -14181,9 +14181,9 @@
 							<lit v="fer"/>
 						</get-case-from>
 						<lit-tag v="vblex"/>
-						<clip pos="1" side="tl" part="temps"/>	
-						<clip pos="1" side="tl" part="persona"/>	
-						<clip pos="1" side="tl" part="nbr"/>	
+						<clip pos="1" side="tl" part="temps"/>
+						<clip pos="1" side="tl" part="persona"/>
+						<clip pos="1" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -14192,23 +14192,23 @@
 			<b pos="1"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="2"/>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="3"/>
 			<lu>
 				<clip pos="4" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 			<b pos="4"/>
 			<lu>
 				<clip pos="5" side="tl" part="whole"/>
-			</lu> 
+			</lu>
 		</out>
 	</action>
 </rule>
-		
+
 <rule> <!--REGLA: atï¿½há > fins fa-->
 	<pattern>
 		<pattern-item n="ate"/>
@@ -14217,7 +14217,7 @@
 	<action>
 		<call-macro n="f_comparativa">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<out>
 			<lu>
 				<clip pos="1" side="tl" part="whole"/>
@@ -14273,9 +14273,9 @@
 					<lu>
 						<lit v="fer"/>
 						<lit-tag v="vblex"/>
-						<clip pos="2" side="tl" part="temps"/>	
-						<clip pos="2" side="tl" part="persona"/>	
-						<clip pos="2" side="tl" part="nbr"/>	
+						<clip pos="2" side="tl" part="temps"/>
+						<clip pos="2" side="tl" part="persona"/>
+						<clip pos="2" side="tl" part="nbr"/>
 					</lu>
 				</out>
 			</otherwise>
@@ -14319,7 +14319,7 @@
 						<lit-tag v="prs"/>
 						<clip pos="1" side="tl" part="persona"/>
 						<clip pos="1" side="tl" part="nbr"/>
-						<clip pos="1" side="tl" part="lemq"/>	 
+						<clip pos="1" side="tl" part="lemq"/>
 					</lu>
 				</out>
 			</when>
@@ -14349,7 +14349,7 @@
 								<clip pos="1" side="tl" part="lemh"/>
 								<clip pos="1" side="tl" part="a_verb"/>
 								<lit-tag v="pp.m.sg"/>
-								<clip pos="1" side="tl" part="lemq"/>	
+								<clip pos="1" side="tl" part="lemq"/>
 							</lu>
 						</out>
 					</when>
@@ -14405,9 +14405,9 @@
 										<clip pos="1" side="tl" part="persona"/>
 										<clip pos="1" side="tl" part="gen"/>
 										<clip pos="1" side="tl" part="nbr"/>
-										<clip pos="1" side="tl" part="lemq"/>	 
+										<clip pos="1" side="tl" part="lemq"/>
 									</lu>
-								</out>	
+								</out>
 							</otherwise>
 						</choose>
 					</otherwise>
@@ -14419,9 +14419,9 @@
 			<lu>
 				<lit v="fer"/>
 				<lit-tag v="vblex"/>
-				<clip pos="2" side="tl" part="temps"/>	
-				<clip pos="2" side="tl" part="persona"/>	
-				<clip pos="2" side="tl" part="nbr"/>	
+				<clip pos="2" side="tl" part="temps"/>
+				<clip pos="2" side="tl" part="persona"/>
+				<clip pos="2" side="tl" part="nbr"/>
 			</lu>
 		</out>
 	</action>
@@ -14452,7 +14452,7 @@
 			</out>
 		</action>
 	</rule>
-		
+
 	<rule> <!-- REGLA 47: do que comparatiu > que -->
 		<pattern>
 			<pattern-item n="de"/>
@@ -14513,10 +14513,10 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>	
-			</out>	
+				</lu>
+			</out>
 		</action>
-	</rule> 
+	</rule>
 
 	<rule comment="em NUM de mes > el NUM de mes">
 		<pattern>
@@ -14536,18 +14536,18 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>	
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
-				</lu>	
+				</lu>
 				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
-				</lu>	
-			</out>	
+				</lu>
+			</out>
 		</action>
-	</rule> 
+	</rule>
 
 	<rule comment="de NUM de mes > del NUM de mes">
 		<pattern>
@@ -14560,7 +14560,7 @@
 			<out>
 				<lu>
 					<clip pos="1" side="tl" part="whole"/>
-				</lu>	
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<lit v="el"/>
@@ -14569,18 +14569,18 @@
 				<b/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>	
+				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="3" side="tl" part="whole"/>
-				</lu>	
+				</lu>
 				<b pos="3"/>
 				<lu>
 					<clip pos="4" side="tl" part="whole"/>
-				</lu>	
-			</out>	
+				</lu>
+			</out>
 		</action>
-	</rule> 
+	</rule>
 
 <!-- 	REGLES AMB NUMERALS	 -->
  	<rule> <!--REGLA : de X% -> del X%-->
@@ -14601,10 +14601,10 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>	
-			</out>	
+				</lu>
+			</out>
 		</action>
-	</rule> 
+	</rule>
 
 	<rule> <!--REGLA : de X% -> del X%-->
 		<pattern>
@@ -14619,11 +14619,11 @@
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="whole"/>
-				</lu>	
-			</out>	
+				</lu>
+			</out>
 		</action>
-	</rule> 
-	
+	</rule>
+
 	<rule> <!-- REGLA: num mï¿½/menos num -->
 		<pattern>
 			<pattern-item n="num"/>
@@ -14633,15 +14633,15 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="1"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="2"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_concord1">
 				<with-param pos="3"/>
-			</call-macro>  
-			<out>  
-				<lu>    
+			</call-macro>
+			<out>
+				<lu>
 					<clip pos="1" side="tl" part="lem"/>
 					<clip pos="1" side="tl" part="a_num"/>
 					<clip pos="1" side="tl" part="gen"/>
@@ -14657,11 +14657,11 @@
 					<clip pos="3" side="tl" part="a_num"/>
 					<clip pos="3" side="tl" part="gen"/>
 					<clip pos="3" side="tl" part="nbr"/>
-				</lu>	
-			</out>      
+				</lu>
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: mais/menos num -->
 		<pattern>
 			<pattern-item n="mas_menos"/>
@@ -14670,11 +14670,11 @@
 		<action>
 			<call-macro n="f_concord1">
 				<with-param pos="2"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro>  
-			<out>  
+			</call-macro>
+			<out>
 				<lu>
 					<get-case-from pos="1">
 						<clip pos="2" side="tl" part="lem"/>
@@ -14690,10 +14690,10 @@
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_adv"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: mais/menos num t-nom-->
 		<pattern>
 			<pattern-item n="mas_menos"/>
@@ -14704,11 +14704,11 @@
 			<call-macro n="f_concord2">
 				<with-param pos="3"/>
 				<with-param pos="2"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro>  
-			<out>  
+			</call-macro>
+			<out>
 				<lu>
 					<get-case-from pos="1">
 						<clip pos="2" side="tl" part="lem"/>
@@ -14732,10 +14732,10 @@
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_adv"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: mais/menos num nom adj-->
 		<pattern>
 			<pattern-item n="mas_menos"/>
@@ -14746,13 +14746,13 @@
 		<action>
 		<call-macro n="f_comparativa">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 			<call-macro n="f_concord3">
 				<with-param pos="3"/>
 				<with-param pos="4"/>
 				<with-param pos="2"/>
-			</call-macro>  
-			<out>  
+			</call-macro>
+			<out>
 				<lu>
 					<get-case-from pos="1">
 						<clip pos="2" side="tl" part="lem"/>
@@ -14776,10 +14776,10 @@
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_adv"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: mais/menos num adj nom-->
 		<pattern>
 			<pattern-item n="mas_menos"/>
@@ -14792,15 +14792,15 @@
 				<with-param pos="4"/>
 				<with-param pos="3"/>
 				<with-param pos="2"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro> 
+			</call-macro>
 			<call-macro n="f_lexicadj">
 				<with-param pos="3"/>
 				<with-param pos="4"/>
 			</call-macro>
-			<out>  
+			<out>
 				<lu>
 					<get-case-from pos="1">
 						<clip pos="2" side="tl" part="lem"/>
@@ -14824,10 +14824,10 @@
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_adv"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!-- REGLA: mais/menos num nom adv adj-->
 		<pattern>
 			<pattern-item n="mas_menos"/>
@@ -14841,14 +14841,14 @@
 				<with-param pos="3"/>
 				<with-param pos="2"/>
 				<with-param pos="5"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="1"/>
-			</call-macro>  
+			</call-macro>
 			<call-macro n="f_comparativa">
 				<with-param pos="4"/>
-			</call-macro>  
-			<out>  
+			</call-macro>
+			<out>
 				<lu>
 					<get-case-from pos="1">
 						<clip pos="2" side="tl" part="lem"/>
@@ -14876,16 +14876,16 @@
 					</get-case-from>
 					<clip pos="1" side="tl" part="a_adv"/>
 				</lu>
-			</out>      
+			</out>
 		</action>
 	</rule>
-	
+
 	<rule> <!--REGLA: HABER 3 persona + PP (para cambiar la traducciï¿½ de la 3 persona ("haver-hi") por la traducciï¿½ del verbo "haver" en forma auxiliar ("haver")-->
 		<pattern>
 			<pattern-item n="haber3p"/>
 			<pattern-item n="pp_nohaber"/>
 		</pattern>
-		<action><!--Cambia el verbo "haber" por la forma auxiliar , ya que la forma no auxiliar "vbhaver" en las terceras formas singulares se traduce en el diccionario por el verbo "haver-hi"-->	
+		<action><!--Cambia el verbo "haber" por la forma auxiliar , ya que la forma no auxiliar "vbhaver" en las terceras formas singulares se traduce en el diccionario por el verbo "haver-hi"-->
 			<out>
 				<lu>
 					<clip pos="1" side="tl" part="lem"/>
@@ -14893,7 +14893,7 @@
 					<clip pos="1" side="tl" part="temps"/>
 					<clip pos="1" side="tl" part="persona"/>
 					<clip pos="1" side="tl" part="nbr"/>
-				</lu> 
+				</lu>
 				<b pos="1"/>
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
@@ -14947,8 +14947,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -14958,8 +14958,8 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<choose>
@@ -15025,7 +15025,7 @@
 							<b pos="2"/>
 						</out>
 					</when>
-					<otherwise>		
+					<otherwise>
 						<out>
 							<lu>
 								<get-case-from pos="2" >
@@ -15041,10 +15041,10 @@
 						</out>
 					</otherwise>
 				</choose>
-			</otherwise>	
+			</otherwise>
 		</choose>
 		<out>
-			<lu> 
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 		</out>
@@ -15089,8 +15089,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -15100,7 +15100,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro> 
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -15145,7 +15145,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15187,10 +15187,10 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<choose>
 			<when>
-				<test> 
+				<test>
 					<equal>
 						<clip pos="3" side="tl" part="gen"/>
 						<lit-tag v="GD"/>
@@ -15202,7 +15202,7 @@
 				</let>
 			</when>
 			<when>
-				<test> 
+				<test>
 					<equal>
 						<clip pos="3" side="tl" part="nbr"/>
 						<lit-tag v="ND"/>
@@ -15279,7 +15279,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15349,7 +15349,7 @@
 								</out>
 							</when>
 							<otherwise>
-								<out> 
+								<out>
 									<b pos="1"/>
 									<lu>
 										<get-case-from pos="2" >
@@ -15408,7 +15408,7 @@
 								</out>
 							</when>
 							<otherwise>
-								<out> 
+								<out>
 									<b pos="1"/>
 									<lu>
 										<get-case-from pos="2" >
@@ -15425,7 +15425,7 @@
 						</choose>
 					</otherwise>
 				</choose>
-				<out>	
+				<out>
 					<b pos="2"/>
 					<lu>
 						<clip pos="3" side="tl" part="whole"/>
@@ -15476,8 +15476,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -15487,10 +15487,10 @@
 			<otherwise>
 				<call-macro n="f_infps">
 					<with-param pos="1"/>
-				</call-macro> 
+				</call-macro>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -15535,7 +15535,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15547,14 +15547,14 @@
 								<clip pos="1" side="tl" part="gen"/>
 								<clip pos="4" side="tl" part="nbr"/>
 							</lu>
-							<b pos="2"/>  
+							<b pos="2"/>
 						</out>
 					</otherwise>
 				</choose>
 			</otherwise>
 		</choose>
 		<out>
-			<lu>    
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -15582,11 +15582,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="3"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="4"/>
 		</call-macro>
@@ -15615,8 +15615,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -15671,7 +15671,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15689,8 +15689,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -15718,11 +15718,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="3"/>
 		</call-macro>
@@ -15751,8 +15751,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -15762,7 +15762,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -15807,7 +15807,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15825,15 +15825,15 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
 			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
-		</out>	
+		</out>
 	</action>
 </rule>
 
@@ -15851,12 +15851,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="4"/>
 			<with-param pos="5"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
@@ -15885,8 +15885,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -15896,7 +15896,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -15941,7 +15941,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -15959,8 +15959,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -15993,12 +15993,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="4"/>
 		</call-macro>
@@ -16027,8 +16027,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16083,7 +16083,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16101,8 +16101,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16116,8 +16116,8 @@
 			<b pos="4"/>
 			<lu>
 				<clip pos="5" side="tl" part="whole"/>
-			</lu>	
-		</out>      
+			</lu>
+		</out>
 	</action>
 </rule>
 
@@ -16135,12 +16135,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
-			<with-param pos="5"/>           
+			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro> 
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -16166,8 +16166,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16177,7 +16177,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16222,8 +16222,8 @@
 						</out>
 					</when>
 					<otherwise>
-				
-						<out> 
+
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16241,8 +16241,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16276,13 +16276,13 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord4">
 			<with-param pos="5"/>
 			<with-param pos="6"/>
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>   
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="6"/>
 		</call-macro>
@@ -16311,8 +16311,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16322,7 +16322,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16367,7 +16367,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16385,8 +16385,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16422,11 +16422,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -16452,8 +16452,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16463,7 +16463,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16508,7 +16508,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16526,8 +16526,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16556,12 +16556,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="4"/>
 			<with-param pos="5"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -16587,8 +16587,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16598,7 +16598,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16643,7 +16643,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16655,14 +16655,14 @@
 								<clip pos="1" side="tl" part="gen"/>
 								<clip pos="4" side="tl" part="nbr"/>
 							</lu>
-							<b pos="2"/>	
+							<b pos="2"/>
 						</out>
 					</otherwise>
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16695,12 +16695,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -16726,8 +16726,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16737,7 +16737,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16782,7 +16782,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16800,8 +16800,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16834,11 +16834,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="3"/>
 			<with-param pos="5"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="4"/>
 		</call-macro>
@@ -16870,8 +16870,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -16881,7 +16881,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -16926,7 +16926,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -16944,8 +16944,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -16979,7 +16979,7 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="4"/>
 			<with-param pos="3"/>
@@ -17016,8 +17016,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17027,7 +17027,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17072,7 +17072,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -17090,8 +17090,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -17111,7 +17111,7 @@
 				<clip pos="6" side="tl" part="lemq"/>
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -17129,11 +17129,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="5"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="4"/>
 		</call-macro>
@@ -17162,8 +17162,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17173,7 +17173,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17218,7 +17218,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 								<lu>
 								<get-case-from pos="2" >
@@ -17236,8 +17236,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -17269,11 +17269,11 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord2">
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>     
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -17299,8 +17299,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17310,7 +17310,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17355,7 +17355,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -17373,7 +17373,7 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
@@ -17384,7 +17384,7 @@
 				<clip pos="4" side="tl" part="gen"/>
 				<clip pos="4" side="tl" part="nbr"/>
 				<clip pos="4" side="tl" part="lemq"/>
-			</lu>  
+			</lu>
 		</out>
 	</action>
 </rule>
@@ -17403,12 +17403,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="4"/>
 			<with-param pos="3"/>
 			<with-param pos="5"/>
-		</call-macro>    
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
@@ -17437,8 +17437,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17448,7 +17448,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17493,9 +17493,9 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
-							<lu>	
+							<lu>
 								<get-case-from pos="2" >
 									<clip pos="1" side="tl" part="lemh"/>
 								</get-case-from>
@@ -17511,7 +17511,7 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="lem"/>
 				<clip pos="3" side="tl" part="a_num"/>
@@ -17524,7 +17524,7 @@
 				<clip pos="4" side="tl" part="a_nom"/>
 				<clip pos="4" side="tl" part="gen"/>
 				<clip pos="4" side="tl" part="nbr"/>
-			</lu>  
+			</lu>
 			<b pos="4"/>
 			<lu>
 				<clip pos="5" side="tl" part="lem"/>
@@ -17550,7 +17550,7 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
@@ -17584,8 +17584,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17595,7 +17595,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17640,7 +17640,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -17658,7 +17658,7 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
@@ -17692,12 +17692,12 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<call-macro n="f_concord3">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="3"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -17723,8 +17723,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="5"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17734,7 +17734,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17779,7 +17779,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -17797,8 +17797,8 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
-			<lu>    
+		<out>
+			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
@@ -17856,8 +17856,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17867,7 +17867,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -17911,7 +17911,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -17929,7 +17929,7 @@
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
@@ -17949,7 +17949,7 @@
 		</call-macro>-->
 		<call-macro n="f_infps">
 			<with-param pos="1"/>
-		</call-macro> 
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -17975,8 +17975,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="4"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -17986,7 +17986,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -18030,7 +18030,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 							<lu>
 								<get-case-from pos="2" >
@@ -18042,13 +18042,13 @@
 								<clip pos="1" side="tl" part="gen"/>
 								<lit-tag v="sg"/>
 							</lu>
-							<b pos="2"/>  
+							<b pos="2"/>
 						</out>
 					</otherwise>
 				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="whole"/>
 			</lu>
@@ -18098,8 +18098,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -18109,7 +18109,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -18153,7 +18153,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 								<lu>
 									<get-case-from pos="2" >
@@ -18168,10 +18168,10 @@
 							<b pos="2"/>
 						</out>
 					</otherwise>
-				</choose>	
+				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 			<lu>
 				<clip pos="3" side="tl" part="lemh"/>
 				<clip pos="3" side="tl" part="a_verb"/>
@@ -18179,7 +18179,7 @@
 				<clip pos="3" side="tl" part="persona"/>
 				<clip pos="3" side="tl" part="gen"/>
 				<clip pos="3" side="tl" part="nbr"/>
-				<clip pos="3" side="tl" part="lemq"/>	 
+				<clip pos="3" side="tl" part="lemq"/>
 			</lu>
 		</out>
 	</action>
@@ -18222,8 +18222,8 @@
 				<call-macro n="gostarenc">
 					<with-param pos="1"/>
 					<with-param pos="3"/>
-				</call-macro> 
-				<out> 
+				</call-macro>
+				<out>
 					<b pos="1"/>
 				</out>
 				<call-macro n="f_bcond">
@@ -18233,7 +18233,7 @@
 			<otherwise>
 				<call-macro n="prn_gostar">
 					<with-param pos="1"/>
-				</call-macro>  
+				</call-macro>
 				<choose>
 					<when>
 						<test>
@@ -18277,7 +18277,7 @@
 						</out>
 					</when>
 					<otherwise>
-						<out> 
+						<out>
 							<b pos="1"/>
 								<lu>
 									<get-case-from pos="2" >
@@ -18292,16 +18292,16 @@
 							<b pos="2"/>
 						</out>
 					</otherwise>
-				</choose>	
+				</choose>
 			</otherwise>
 		</choose>
-		<out>	
+		<out>
 		<b pos="2"/>
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu> 
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 		</out>
@@ -18324,10 +18324,10 @@
 		</call-macro>
 		<call-macro n="f_concord1">
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18371,7 +18371,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18384,7 +18384,7 @@
 						<clip pos="4" side="tl" part="nbr"/>
 					</lu>
 					<b pos="2"/>
-				</out>	
+				</out>
 			</otherwise>
 		</choose>
 		<out>
@@ -18416,7 +18416,7 @@
 		</call-macro>
 		<choose>
 			<when>
-				<test> 
+				<test>
 					<equal>
 						<clip pos="4" side="tl" part="gen"/>
 						<lit-tag v="GD"/>
@@ -18428,7 +18428,7 @@
 				</let>
 			</when>
 			<when>
-				<test> 
+				<test>
 					<equal>
 						<clip pos="4" side="tl" part="nbr"/>
 						<lit-tag v="ND"/>
@@ -18439,10 +18439,10 @@
 					<lit-tag v="sg"/>
 				</let>
 			</when>
-		</choose>	
+		</choose>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18486,7 +18486,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18532,7 +18532,7 @@
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18565,7 +18565,7 @@
 						</modify-case>
 					</when>
 				</choose>
-				
+
 				<out>
 					<lu>
 						<clip pos="1" side="tl" part="lemh"/>
@@ -18577,7 +18577,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18597,8 +18597,8 @@
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
-			<b pos="3"/>  
-			<lu>    
+			<b pos="3"/>
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -18628,13 +18628,13 @@
 		<call-macro n="f_concord2">
 			<with-param pos="4"/>
 			<with-param pos="5"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18678,7 +18678,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18699,7 +18699,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -18729,13 +18729,13 @@
 		<call-macro n="f_concord2">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="4"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18779,7 +18779,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18800,14 +18800,14 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
 			<lu>
 				<clip pos="5" side="tl" part="whole"/>
 			</lu>
-		</out>	
+		</out>
 	</action>
 </rule>
 
@@ -18828,13 +18828,13 @@
 			<with-param pos="5"/>
 			<with-param pos="6"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="6"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18878,7 +18878,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -18899,7 +18899,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -18915,7 +18915,7 @@
 				<clip pos="6" side="tl" part="lemq"/>
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -18936,13 +18936,13 @@
 			<with-param pos="6"/>
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -18986,7 +18986,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19007,7 +19007,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19021,8 +19021,8 @@
 			<b pos="5"/>
 			<lu>
 				<clip pos="6" side="tl" part="whole"/>
-			</lu>	
-		</out>      
+			</lu>
+		</out>
 	</action>
 </rule>
 
@@ -19090,7 +19090,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19111,7 +19111,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19125,10 +19125,10 @@
 				<clip pos="6" side="tl" part="gen"/>
 				<clip pos="6" side="tl" part="nbr"/>
 				<clip pos="6" side="tl" part="lemq"/>
-				
+
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -19151,13 +19151,13 @@
 			<with-param pos="7"/>
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>   
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="7"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19201,7 +19201,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19222,7 +19222,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19242,7 +19242,7 @@
 				<clip pos="7" side="tl" part="lemq"/>
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -19261,10 +19261,10 @@
 		<call-macro n="f_concord2">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19308,7 +19308,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19329,7 +19329,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19339,7 +19339,7 @@
 				<clip pos="5" side="tl" part="gen"/>
 				<clip pos="5" side="tl" part="nbr"/>
 				<clip pos="5" side="tl" part="lemq"/>
-				
+
 			</lu>
 		</out>
 	</action>
@@ -19362,10 +19362,10 @@
 			<with-param pos="5"/>
 			<with-param pos="6"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19409,7 +19409,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19429,8 +19429,8 @@
 			<lu>
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
-			<b pos="3"/>	
-			<lu>    
+			<b pos="3"/>
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19466,10 +19466,10 @@
 			<with-param pos="6"/>
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19513,7 +19513,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19534,7 +19534,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19569,7 +19569,7 @@
 		<call-macro n="f_concord2">
 			<with-param pos="4"/>
 			<with-param pos="6"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
@@ -19578,7 +19578,7 @@
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19622,7 +19622,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19643,7 +19643,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19677,7 +19677,7 @@
 			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="7"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="6"/>
 		</call-macro>
@@ -19733,7 +19733,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19754,7 +19754,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19774,7 +19774,7 @@
 				<clip pos="7" side="tl" part="lemq"/>
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -19791,7 +19791,7 @@
 		<call-macro n="f_concord2">
 			<with-param pos="6"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="5"/>
 		</call-macro>
@@ -19844,7 +19844,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19865,7 +19865,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -19899,10 +19899,10 @@
 		<call-macro n="f_concord2">
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -19946,7 +19946,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -19977,9 +19977,9 @@
 				<clip pos="5" side="tl" part="gen"/>
 				<clip pos="5" side="tl" part="nbr"/>
 				<clip pos="5" side="tl" part="lemq"/>
-			</lu>  
+			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -20000,13 +20000,13 @@
 			<with-param pos="5"/>
 			<with-param pos="4"/>
 			<with-param pos="6"/>
-		</call-macro>    
+		</call-macro>
 		<call-macro n="f_comparativa">
 			<with-param pos="6"/>
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -20050,7 +20050,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20083,7 +20083,7 @@
 				<clip pos="5" side="tl" part="a_nom"/>
 				<clip pos="5" side="tl" part="gen"/>
 				<clip pos="5" side="tl" part="nbr"/>
-			</lu>  
+			</lu>
 			<b pos="5"/>
 			<lu>
 				<clip pos="6" side="tl" part="lem"/>
@@ -20092,7 +20092,7 @@
 				<clip pos="6" side="tl" part="nbr"/>
 			</lu>
 		</out>
-		
+
 	</action>
 </rule>
 
@@ -20119,7 +20119,7 @@
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -20163,7 +20163,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20184,7 +20184,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -20220,10 +20220,10 @@
 			<with-param pos="6"/>
 			<with-param pos="5"/>
 			<with-param pos="4"/>
-		</call-macro>     
+		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -20267,7 +20267,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20288,7 +20288,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 			<b pos="4"/>
@@ -20320,7 +20320,7 @@
 		</call-macro>
 		<call-macro n="prn_gostar">
 			<with-param pos="1"/>
-		</call-macro>  
+		</call-macro>
 		<choose>
 			<when>
 				<test>
@@ -20364,7 +20364,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20385,7 +20385,7 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu>    
+			<lu>
 				<clip pos="4" side="tl" part="whole"/>
 			</lu>
 		</out>
@@ -20450,7 +20450,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20539,7 +20539,7 @@
 				</out>
 			</when>
 			<otherwise>
-				<out> 
+				<out>
 					<b pos="1"/>
 					<lu>
 						<get-case-from pos="2" >
@@ -20560,19 +20560,19 @@
 				<clip pos="2" side="tl" part="whole"/>
 			</lu>
 			<b pos="3"/>
-			<lu> 
+			<lu>
 				<clip pos="4" side="tl" part="lemh"/>
 				<clip pos="4" side="tl" part="a_verb"/>
 				<clip pos="4" side="tl" part="temps"/>
 				<clip pos="4" side="tl" part="persona"/>
 				<clip pos="4" side="tl" part="nbr"/>
-				<clip pos="4" side="tl" part="lemq"/>	
+				<clip pos="4" side="tl" part="lemq"/>
 			</lu>
 		</out>
 	</action>
 </rule>
 
-	
+
 </section-rules>
 
 </transfer>
@@ -20586,4 +20586,3 @@ Resources:
     http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
     http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
 -->
-
