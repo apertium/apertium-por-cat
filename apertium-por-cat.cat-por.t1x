@@ -28,9 +28,14 @@
 		<def-cat n="det">
 			<cat-item tags="det.*"/>
 		</def-cat>
-
+		<def-cat n="detdef">
+			<cat-item tags="det.def.*"/>
+		</def-cat>
 		<def-cat n="detdefmsg">
 			<cat-item tags="det.def.m.sg"/>
+		</def-cat>
+		<def-cat n="detind">
+			<cat-item tags="det.ind.*"/>
 		</def-cat>
 
 		<def-cat n="predet">
@@ -105,6 +110,10 @@
 			<cat-item tags="adv.itg"/>
 		</def-cat>
 
+		<def-cat n="cnjcoo">
+			<cat-item tags="cnjcoo"/>
+		</def-cat>
+
 		<def-cat n="cnjsub">
 			<cat-item tags="cnjsub"/>
 		</def-cat>
@@ -136,12 +145,16 @@
 		</def-cat>
 
 		<def-cat n="per">
-       <cat-item lemma="per" tags="pr"/>
-     </def-cat>
+			<cat-item lemma="per" tags="pr"/>
+		</def-cat>
 
 		<def-cat n="rel">
 			<cat-item tags="rel.adv"/>
 			<cat-item tags="rel.an.*"/>
+		</def-cat>
+
+		<def-cat n="del_qual">
+			<cat-item lemma="del qual" tags="rel.an.*"/>
 		</def-cat>
 
 		<def-cat n="prn">
@@ -3933,7 +3946,7 @@
 		</def-macro>
 
 		<def-macro n="f_outverb2inv" npar="2"> <!-- comprova si hi ha pronoms que no es tradueixen del català al portuguès segons en diccionari ("hi" i "en") i envia el verb amb pronom o sense, i al lloc on correspon. Aquesta funció és necessària perquè funcioni bé la cua en les multiparaules amb flexió incorporada. Si el verb és un participi, també s'assegura que el gènere i nombre siguin "m.sg" -->
-	<!-- Aquesta macro és gairebé idèntica a f_outverb2, però es crida quan s'inverteix d'ordren en la crida els paràmetres, de manera a tractar correctament el canvi maj/min -->
+	<!-- Aquesta macro és gairebé idèntica a f_outverb2, però es crida quan s'inverteix d'ordre en la crida els paràmetres, de manera a tractar correctament el canvi maj/min -->
 			<choose>
 				<when>
 					<test>
@@ -9706,6 +9719,763 @@
 			<call-macro n="escriure_adj">
 				<with-param pos="8"/>
 			</call-macro>
+		</action>
+	</rule>
+
+   <!-- CUJO -->
+	<rule comment="REGLA DETDEF NOM del_qual > cujo NOM (la casa de les quals > cuja casa)">
+		<pattern>
+			<pattern-item n="detdef"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="3"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="2"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETDEF ADJ NOM del_qual > cujo ADJ NOM (la gran casa de les quals > cuja grande casa)">
+		<pattern>
+			<pattern-item n="detdef"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="3"/>
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="tags"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="3"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETDEF NOM ADJ del_qual > cujo NOM ADJ (la casa gran de les quals > cuja casa grande)">
+		<pattern>
+			<pattern-item n="detdef"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="2"/>
+				<with-param pos="3"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="tags"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="3"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETDEF NOM ADV ADJ del_qual > cujo NOM ADV ADJ (la casa més gran de les quals > cuja casa mais grande)">
+		<pattern>
+			<pattern-item n="detdef"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adv"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="5"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="2"/>
+				<with-param pos="4"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="tags"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="4"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETDEF NOM CNJCOO NOM del_qual > cujo NOM CNJCOO NOM (les tècniques i estratègies de les quals > cujas técnicas i estratégias)">
+		<pattern>
+			<pattern-item n="detdef"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="cnjcoo"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="5"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="4"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<out>
+				<lu>
+					<get-case-from pos="1">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="tags"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="tags"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
+			<call-macro n="f_bcond">
+				<with-param pos="4"/>
+			</call-macro>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETIND NOM del_qual > DETIND DE cujo NOM (algunes cases de les quals > algunas de cujas casas)">
+		<pattern>
+			<pattern-item n="detind"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="3"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="3" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="3" side="tl" part="gen"/><clip pos="2" side="tl" part="gen"/></let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="3" side="tl" part="nbr"/><clip pos="1" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="3" side="tl" part="nbr"/><clip pos="2" side="tl" part="nbr"/></let>
+				</when>
+			</choose>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="tags"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="3">
+						<lit v="de"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<get-case-from pos="3">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="3" side="tl" part="gen"/>
+					<clip pos="3" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETIND ADJ NOM del_qual > DETIND DE cujo ADJ NOM (algunes grans cases de les quals > algunas de cujas grandes casas)">
+		<pattern>
+			<pattern-item n="detind"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="3"/>
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="2" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="3" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="3" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="3" side="tl" part="gen"/></let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="1" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="2" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="3" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="3" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="3" side="tl" part="nbr"/></let>
+				</when>
+			</choose>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="tags"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="4">
+						<lit v="de"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<get-case-from pos="4">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="tags"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETIND NOM ADJ del_qual > DETIND DE cujo NOM ADJ (algunes cases grans de les quals > algunas de cujas casas grandes)">
+		<pattern>
+			<pattern-item n="detind"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="4"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="2"/>
+				<with-param pos="3"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="2" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="3" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="3" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="gen"/><clip pos="3" side="tl" part="gen"/></let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="1" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="2" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="3" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="3" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="4" side="tl" part="nbr"/><clip pos="3" side="tl" part="nbr"/></let>
+				</when>
+			</choose>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="tags"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="4">
+						<lit v="de"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<get-case-from pos="4">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="4" side="tl" part="gen"/>
+					<clip pos="4" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="3" side="tl" part="lemh"/>
+					<clip pos="3" side="tl" part="tags"/>
+					<clip pos="3" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETIND NOM ADV ADJ del_qual > DETIND DE cujo NOM ADV ADJ (algunes cases molt grans de les quals > algunas de cujas casas muito grandes)">
+		<pattern>
+			<pattern-item n="detind"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="adv"/>
+			<pattern-item n="adjec"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="5"/>
+			</call-macro>
+			<call-macro n="f_concord3">
+				<with-param pos="2"/>
+				<with-param pos="4"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="gen"/><clip pos="2" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="4" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="4" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="gen"/><clip pos="4" side="tl" part="gen"/></let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="nbr"/><clip pos="1" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="nbr"/><clip pos="2" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="4" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="4" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="nbr"/><clip pos="4" side="tl" part="nbr"/></let>
+				</when>
+			</choose>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="tags"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="5">
+						<lit v="de"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<get-case-from pos="5">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="5" side="tl" part="gen"/>
+					<clip pos="5" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+				<b pos="4"/>
+				<lu>
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="tags"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule comment="REGLA DETIND NOM CNJCOO NOM del_qual > DETIND DE cujo NOM CNJCOO NOM (algunes tècniques o estratègies de les quals > algunas de cujas técnicas ou estratégias)">
+		<pattern>
+			<pattern-item n="detind"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="cnjcoo"/>
+			<pattern-item n="nom"/>
+			<pattern-item n="del_qual"/>
+		</pattern>
+		<action>
+			<call-macro n="f_proclise">
+				<with-param pos="5"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="2"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<call-macro n="f_concord2">
+				<with-param pos="4"/>
+				<with-param pos="1"/>
+			</call-macro>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="2" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="gen"/><clip pos="2" side="tl" part="gen"/></let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+							<equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="nbr"/><clip pos="1" side="tl" part="nbr"/></let>
+				</when>
+				<when>
+					<test>
+						<or>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+							<equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+						</or>
+					</test>
+					<let><clip pos="5" side="tl" part="nbr"/><clip pos="2" side="tl" part="nbr"/></let>
+				</when>
+			</choose>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="tags"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="5">
+						<lit v="de"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<get-case-from pos="5">
+						<lit v="cujo"/>
+					</get-case-from>
+					<lit-tag v="rel.aa"/>
+					<clip pos="5" side="tl" part="gen"/>
+					<clip pos="5" side="tl" part="nbr"/>
+				</lu>
+				<b pos="2"/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="tags"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+				<b pos="3"/>
+				<lu>
+					<clip pos="3" side="tl" part="whole"/>
+				</lu>
+				<b pos="4"/>
+				<lu>
+					<clip pos="4" side="tl" part="lemh"/>
+					<clip pos="4" side="tl" part="tags"/>
+					<clip pos="4" side="tl" part="lemq"/>
+				</lu>
+			</out>
 		</action>
 	</rule>
 
