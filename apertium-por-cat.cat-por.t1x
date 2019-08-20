@@ -158,9 +158,15 @@
 		<def-cat n="prnenc">
 			<cat-item tags="prn.enc.*"/>
 		</def-cat>
+		<def-cat n="prnencse">
+			<cat-item lemma="es" tags="prn.enc.*"/>
+		</def-cat>
 
 		<def-cat n="prnpro">
 			<cat-item tags="prn.pro.*"/>
+		</def-cat>
+		<def-cat n="prnprose">
+			<cat-item lemma="es" tags="prn.pro.*"/>
 		</def-cat>
 
 		<def-cat n="prnproref">
@@ -3334,7 +3340,7 @@
 					</equal>
 					<equal caseless="yes" >
 						<clip pos="1" side="tl" part="lem"/>
-						<lit v="sï¿½"/>
+						<lit v="só"/>
 					</equal>
 					<equal caseless="yes">
 						<clip pos="1" side="tl" part="lem"/>
@@ -3346,7 +3352,7 @@
 					</equal>
 					<equal caseless="yes">
 						<clip pos="1" side="tl" part="lem"/>
-						<lit v="também_não"/>
+						<lit v="também não"/>
 					</equal>
 					<equal caseless="yes">
 						<clip pos="1" side="tl" part="lem"/>
@@ -3361,6 +3367,292 @@
 		</when>
 	</choose>
 </def-macro>
+
+
+		<def-macro n="mudaprn" npar="1" v="pt_BR">
+		  <choose>
+		    <when>
+		      <test>
+		        <equal>
+		          <var n="proclise"/>
+		          <lit v="true"/>
+		        </equal>
+		      </test>
+			    <choose>
+			       <when>
+				 <test>
+				   <equal>
+					<clip pos="1" side="tl" part="persona"/>
+					<lit-tag v="p2"/>
+				    </equal>
+				  </test>
+				  <choose>
+				    <when>
+				      <test>
+					<or>
+					<equal  caseless="yes">
+							<clip pos="1" side="tl" part="lem"/>
+							<lit v="te"/>
+					</equal>
+					<equal caseless="yes">
+							<clip pos="1" side="tl" part="lem"/>
+							<lit v="vos"/>
+					</equal>
+					</or>
+				      </test>
+					<let>
+						<clip pos="1" side="tl" part="lem"/>
+						<get-case-from pos="1">
+						<lit v="se"/>
+						</get-case-from>
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="a_prnpro"/>
+						<lit-tag v="prn.pro.ref"/>
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="persona"/>
+						<lit-tag v="p3"/>		
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="nbr"/>
+						<lit-tag v="sp"/>		
+					</let>
+				    </when>
+				  </choose>
+				</when>
+			      </choose>
+		</when>
+		<otherwise>
+				<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="persona"/>
+							<lit-tag v="p2"/>
+						</equal>
+					</test>
+				  <choose>
+				    <when>
+				      <test>
+					<or>
+					<equal caseless="yes">
+							<clip pos="1" side="tl" part="lem"/>
+							<lit v="te"/>
+					</equal>
+					<equal caseless="yes">
+							<clip pos="1" side="tl" part="lem"/>
+							<lit v="vos"/>
+					</equal>
+					</or>
+				      </test>
+					<let>
+						<clip pos="1" side="tl" part="lem"/>
+						<get-case-from pos="1">
+						<lit v="se"/>
+						</get-case-from>
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="a_prnenc"/>
+						<lit-tag v="prn.enc.ref"/>
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="tipoenc_pro"/>
+						<lit-tag v="ref.p3.mf.sp"/>
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="persona"/>
+						<lit-tag v="p3"/>		
+					</let>
+					<let>	
+						<clip pos="1" side="tl" part="nbr"/>
+						<lit-tag v="sp"/>		
+					</let>
+				    </when>
+				  </choose>
+				</when>
+			      </choose>
+		  </otherwise>
+		</choose>
+		</def-macro>
+
+		<def-macro n="mudaprn" npar="1" v="pt_PT">
+		  <choose>
+		    <when>
+		      <test>
+		        <equal>
+		          <var n="proclise"/>
+		          <lit v="true"/>
+		        </equal>
+		      </test>
+			<let>
+			  <var n="proclise"/>
+			  <lit v="true"/>
+			</let>
+		    </when>
+ 		   </choose>
+		</def-macro>
+
+		<def-macro n="f_tuvoce" npar="1" v="pt_BR">
+			<choose>
+				<when>
+					<test>
+  					     <equal caseless="yes">
+						<clip pos="1" side="sl" part="persona"/>
+						<lit-tag v="p2"/>
+					     </equal>
+					</test>
+					<let>
+						<clip pos="1" side="tl" part="persona"/>
+						<lit-tag v="p3"/>
+					</let>
+
+				  <choose>
+				    <when>
+				      <test>
+				        <equal>
+					  <clip pos="1" side="sl" part="lem"/> 
+					    <lit v="tú"/>
+					</equal>
+				      </test>
+				     <let>
+					<clip pos="1" side="tl" part="lem"/>
+					<get-case-from pos="1">
+					<lit v="você"/>
+					</get-case-from>
+				     </let>
+				     </when>
+				     <otherwise>
+					<let>
+				 	 <clip pos="1" side="tl" part="lem"/>
+					 <clip pos="1" side="tl" part="lem"/>
+				         </let>
+				      </otherwise>
+				    </choose>
+				  <choose>
+				    <when>
+				      <test>
+				        <equal>
+					  <clip pos="1" side="sl" part="lem"/> 
+					    <lit v="ti"/>
+					</equal>
+				      </test>
+				     <let>
+					<clip pos="1" side="tl" part="lem"/>
+					<get-case-from pos="1">
+					<lit v="você"/>
+					</get-case-from>
+				     </let>
+				     </when>
+				     <otherwise>
+					<let>
+				 	 <clip pos="1" side="tl" part="lem"/>
+					 <clip pos="1" side="tl" part="lem"/>
+				         </let>
+				      </otherwise>
+				    </choose>
+			
+				    <choose>
+					<when>
+				      <test>
+				        <equal caseless="yes">
+					  <clip pos="1" side="sl" part="lem"/> 
+					    <lit v="contigo"/>
+					</equal>
+				      </test>
+				     <let>
+					<clip pos="1" side="tl" part="lem"/>
+					<lit v="você"/>
+				     </let>
+					<out>
+					<lu>
+					  <get-case-from pos="1">
+					    <lit v="com"/>
+					  </get-case-from>
+					    <lit-tag v="pr"/>
+					</lu>
+					<b/>
+					</out>
+				     </when>
+				     <otherwise>
+					<let>
+				 	 <clip pos="1" side="tl" part="lem"/>
+					 <clip pos="1" side="tl" part="lem"/>
+				         </let>
+				      </otherwise>
+				    </choose>
+			     </when>
+			</choose>
+				    <choose>
+					<when>
+				      <test>
+				        <equal caseless="yes">
+					  <clip pos="1" side="sl" part="lem"/> 
+					    <lit v="con vosotros"/>
+					</equal>
+				      </test>
+				     <let>
+					<clip pos="1" side="tl" part="lem"/>
+					<lit v="você"/>
+				     </let>
+					<out>
+					<lu>
+					  <get-case-from pos="1">
+					    <lit v="com"/>
+					  </get-case-from>
+					    <lit-tag v="pr"/>
+					</lu>
+					<b/>
+					</out>
+				     </when>
+				     <otherwise>
+					<let>
+				 	 <clip pos="1" side="tl" part="lem"/>
+					 <clip pos="1" side="tl" part="lem"/>
+				         </let>
+				      </otherwise>
+				    </choose>
+		       <choose>
+		       <when>
+		       <test>
+		         <equal caseless="yes">
+			     <clip pos="1" side="sl" part="lem"/> 
+			     <lit v="tuyo"/>
+			 </equal>
+		       </test>
+		       <let>
+		  	 <clip pos="1" side="tl" part="lem"/>
+			 <get-case-from pos="1">
+			 	<lit v="seu"/>
+			 </get-case-from>
+		       </let>
+		       </when>
+		       <otherwise>
+			 <let>
+		 	  <clip pos="1" side="tl" part="lem"/>
+			  <clip pos="1" side="tl" part="lem"/>
+		         </let>
+		     </otherwise>
+		  </choose>
+		</def-macro>
+
+		<def-macro n="f_tuvoce" npar="1" v="pt_PT"><!-- macro overloaded to admit variant pt_PT-->
+		  <choose>
+		    <when>
+		      <test>
+		        <equal>
+		          <var n="proclise"/>
+		          <lit v="true"/>
+		        </equal>
+		      </test>
+			<let>
+			  <var n="proclise"/>
+			  <lit v="true"/>
+			</let>
+		    </when>
+ 		   </choose>
+		</def-macro>
+
 
 <def-macro n="activagostar" npar="1">
 	<let>
@@ -10930,6 +11222,79 @@
 			</call-macro>
 		</action>
 	</rule>
+
+		<rule v="pt_BR">
+			<!-- REGLA 36-a: prnpro VERBMODAL INF : vbmodal + ser + ppvb -->
+			<pattern>
+				<pattern-item n="prnprose"/>
+				<pattern-item n="vbmod"/>
+				<pattern-item n="inf"/>
+			</pattern>
+			<action>
+						<out>
+							
+								<lu>
+									<get-case-from pos="1">
+										<clip pos="2" side="tl" part="lem"/>
+									</get-case-from>
+									<clip pos="2" side="tl" part="a_verb"/>
+									<clip pos="2" side="tl" part="temps"/>
+									<clip pos="2" side="tl" part="persona"/>
+									<clip pos="2" side="tl" part="gen"/>
+									<clip pos="2" side="tl" part="nbr"/>
+								</lu>
+								<b pos="1"/>
+								<lu>
+									<lit v="ser"/>
+									<lit-tag v="vbser.inf"/>
+								</lu>
+								<b pos="2"/>
+								<lu>
+									<clip pos="3" side="tl" part="lem"/>
+									<clip pos="3" side="tl" part="a_verb"/>
+									<lit-tag v="pp"/>
+									<var n="genero"/>
+									<var n="numero"/>
+								</lu>
+							
+						</out>
+			</action>
+		</rule>
+		
+		<rule v="pt_BR">
+			<!-- REGLA 36-a: VERBMODAL INF enc : vbmodal + ser + ppvb -->
+			<pattern>
+				<pattern-item n="vbmod"/>
+				<pattern-item n="inf"/>
+				<pattern-item n="prnencse"/>
+			</pattern>
+			<action>
+						<out>
+							
+								<lu>
+									<clip pos="1" side="tl" part="lem"/>
+									<clip pos="1" side="tl" part="a_verb"/>
+									<clip pos="1" side="tl" part="temps"/>
+									<clip pos="1" side="tl" part="persona"/>
+									<clip pos="1" side="tl" part="gen"/>
+									<clip pos="1" side="tl" part="nbr"/>
+								</lu>
+								<b pos="1"/>
+								<lu>
+									<lit v="ser"/>
+									<lit-tag v="vbser.inf"/>
+								</lu>
+								<b pos="2"/>
+								<lu>
+									<clip pos="2" side="tl" part="lem"/>
+									<clip pos="2" side="tl" part="a_verb"/>
+									<lit-tag v="pp"/>
+									<var n="genero"/>
+									<var n="numero"/>
+								</lu>
+						</out>
+			</action>
+		</rule>
 
 	<rule> <!-- REGLA 37: VERB + ENCLÍTIC + ENCLÍTIC -->
 		<pattern>
