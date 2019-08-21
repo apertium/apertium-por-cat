@@ -1159,6 +1159,11 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- gros > gordo, grande -->
+  <rule weight="0.6">
+     <match lemma="gros" tags="adj.*"><select lemma="gordo"/></match>
+  </rule>
+
   <!-- croat > croata, cruzado -->
   <rule weight="0.6">
      <match lemma="croat" tags="adj.*"><select lemma="croata"/></match>
@@ -2068,6 +2073,22 @@
     <match lemma="impulsar" tags="vblex.*"><select lemma="impulsionar"/></match>
   </rule>
 
+  <!-- facturar > faturar/facturar, despachar -->
+  <rule weight="0.6">
+    <or>
+      <match lemma="facturar" tags="vblex.*"><select lemma="faturar"/></match>
+      <match lemma="facturar" tags="vblex.*"><select lemma="facturar"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="facturar" tags="vblex.*"><select lemma="despachar"/></match>
+    <match tags="det.*"/>
+    <or>
+    	<match lemma="equipatge" tags="n.*"/>
+    	<match lemma="maleta" tags="n.*"/>
+    </or>
+  </rule>
+
   <!-- reimpulsar > reimpulsionar, reimpulsar -->
   <rule weight="0.6">
     <match lemma="reimpulsar" tags="vblex.*"><select lemma="reimpulsionar"/></match>
@@ -2621,6 +2642,19 @@
 
 <!-- **************** ADV **************** -->
 
+  <!-- just > mesmo, logo -->
+  <rule weight="0.6">
+    <match lemma="just" tags="adv"><select lemma="mesmo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="just" tags="adv"><select lemma="logo"/></match>
+    <match tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="just" tags="adv"><select lemma="logo"/></match>
+    <match tags="adv"/>
+  </rule>
+
   <!-- com > como, quanto -->
   <rule weight="0.6">
     <match lemma="com" tags="adv"><select lemma="como"/></match>
@@ -2642,6 +2676,30 @@
       <match tags="n.*"/>
       <match tags="adj.*"/>
     </or>
+  </rule>
+
+<!-- **************** REL **************** -->
+
+  <!-- del qual > de que, de quem, cujo -->
+  <rule weight="0.6">
+    <match lemma="del qual" tags="rel.*"><select lemma="de que"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.def.*"/>
+    <match tags="n.*"/>
+    <match lemma="del qual" tags="rel.*"><select lemma="cujo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.def.*"/>
+    <match tags="adj.*"/>
+    <match tags="n.*"/>
+    <match lemma="del qual" tags="rel.*"><select lemma="cujo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.def.*"/>
+    <match tags="n.*"/>
+    <match tags="adj.*"/>
+    <match lemma="del qual" tags="rel.*"><select lemma="cujo"/></match>
   </rule>
 
 <!-- **************** NP **************** -->

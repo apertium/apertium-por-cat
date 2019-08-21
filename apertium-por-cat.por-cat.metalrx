@@ -636,6 +636,16 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- grande > gran, gros -->
+  <rule weight="0.6">
+    <match lemma="grande" tags="adj.*"><select lemma="gran"/></match>
+  </rule>
+
+  <!-- gordo > gras, gros -->
+  <rule weight="0.6">
+    <match lemma="gordo" tags="adj.*"><select lemma="gras"/></match>
+  </rule>
+
   <!-- vago > vague, vacant -->
   <rule weight="0.6">
     <match lemma="vago" tags="adj.*"><select lemma="vague"/></match>
@@ -951,9 +961,39 @@
     <match lemma="funcionário" tags="n.*"><select lemma="funcionari"/></match>
   </rule>
 
-  <!-- faixa > franja, faixa -->
+  <!-- faixa > franja, faixa, carril (Por) -->
+  <!-- pista > pista, carril (Bra) -->
   <rule weight="0.6">
-    <match lemma="faixa" tags="n.*"><select lemma="franja"/></match>
+    <or>
+      <match lemma="faixa" tags="n.*"><select lemma="franja"/></match>
+      <match lemma="pista" tags="n.*"><select lemma="pista"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="faixa" tags="n.*"><select lemma="carril"/></match>
+      <match lemma="pista" tags="n.*"><select lemma="carril"/></match>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="aceleração" tags="n.*"/>
+      <match lemma="desaceleração" tags="n.*"/>
+      <match lemma="ultrapassagem" tags="n.*"/>
+    </or>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="aeroporto" tags="n.*"/>
+    <repeat from="0" upto="20">
+      <match tags="*"/>
+    </repeat>
+    <match lemma="pista" tags="n.*"><select lemma="pista"/></match>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="pista" tags="n.*"><select lemma="pista"/></match>
+    <repeat from="0" upto="20">
+      <match tags="*"/>
+    </repeat>
+    <match lemma="aeroporto" tags="n.*"/>
   </rule>
 
   <!-- franquia > franquícia, franqueig -->
@@ -1035,7 +1075,7 @@
     <match lemma="chapa" tags="n.*"><select lemma="llista"/></match>
     <match lemma="de" tags="pr"/>
     <repeat from="0" upto="1">
-      <match tags="det.df.*"/>
+      <match tags="det.def.*"/>
     </repeat>
     <or>
       <match tags="np.al"/>
@@ -1297,6 +1337,33 @@
 
 <!-- **************** ADV **************** -->
 
+  <!-- logo > just, aviat -->
+  <rule weight="0.6">
+    <match lemma="logo" tags="adv"><select lemma="just"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="logo" tags="adv"><select lemma="aviat"/></match>
+    <or>
+      <match tags="vblex.*"/>  
+      <match tags="vbhaver.*"/>  
+      <match tags="vbmod.*"/>
+      <match tags="vbser.*"/> 
+    </or>
+  </rule>
+
+  <!-- mesmo > just, mateix, fins i tot -->
+  <rule weight="0.6">
+    <match lemma="mesmo" tags="adv"><select lemma="just"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="prn.tn.*"/>
+    <match lemma="mesmo" tags="adv"><select lemma="mateix"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="mesmo" tags="adv"><select lemma="fins i tot"/></match>
+    <match tags="prn.tn.*"/>
+  </rule>
+
   <!-- além > més enllà, a més -->
   <rule weight="0.6">
     <match lemma="além" tags="adv"><select lemma="més enllà"/></match>
@@ -1331,6 +1398,19 @@
       <match tags="det.*"/>
     </repeat>
     <match lemma="papel" tags="n.*"/>
+  </rule>
+
+  <!-- despachar > despatxar, facturar -->
+  <rule weight="0.6">
+    <match lemma="despachar" tags="vblex.*"><select lemma="despatxar"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="despachar" tags="vblex.*"><select lemma="facturar"/></match>
+    <match tags="det.*"/>
+    <or>
+    	<match lemma="equipagem" tags="n.*"/>
+    	<match lemma="mala" tags="n.*"/>
+    </or>
   </rule>
 
   <!-- acordar > acordar, despertar -->
