@@ -6404,6 +6404,28 @@
 		</action>
 	</rule>
 
+	<rule comment="REGLA: PREP">
+		<pattern>
+			<pattern-item n="prep"/>
+		</pattern>
+		<action>
+			<!-- després de preposició no hi ha concordança, altrament "academia de suboficiais > acadèmia de sotsoficiales -->
+			<let>
+				<var n="numero"/>
+				<lit-tag v="sg"/>
+			</let>
+			<let>
+				<var n="genero"/>
+				<lit-tag v="m"/>
+			</let>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
 	<!-- 	REGLES DE CONCORDÀNCIA -->
 
 	<rule> <!-- REGLA 6: NUMERAL-->

@@ -50,8 +50,8 @@
 		<cat-item tags="vblex.pp.*"/>
 	</def-cat>
 
-   <def-cat n="adv">
-   	<cat-item tags="adv"/>
+	<def-cat n="adv">
+   		<cat-item tags="adv"/>
 	  	<cat-item tags="preadv"/>
 	</def-cat>
 
@@ -60,8 +60,8 @@
 		<cat-item lemma="menos" tags="adv"/>
 	</def-cat>
 
-   <def-cat n="prep">
-   	<cat-item tags="pr"/>
+	<def-cat n="prep">
+   		<cat-item tags="pr"/>
 	</def-cat>
 
 	<def-cat n="cujo">
@@ -3870,6 +3870,28 @@
 		</action>
 	</rule>
 
+	<rule comment="REGLA: PREP">
+		<pattern>
+			<pattern-item n="prep"/>
+		</pattern>
+		<action>
+			<!-- després de preposició no hi ha concordança, altrament "academia de suboficiais > acadèmia de sotsoficiales -->
+			<let>
+				<var n="numero"/>
+				<lit-tag v="sg"/>
+			</let>
+			<let>
+				<var n="genero"/>
+				<lit-tag v="m"/>
+			</let>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
 	<rule comment="cem e um > cent un">
 		<pattern>
 			<pattern-item n="cents"/>
@@ -6182,6 +6204,7 @@
 	</out>
       </action>
 </rule>
+
 <!-- 	REGLES DE VERBS (posiciï¿½dels clï¿½ics, canvis de temps, multiparaules, etc)-->
 <!-- 								== gostar I == -->
 
