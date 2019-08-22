@@ -711,6 +711,8 @@
 		<def-var n="comparativa"/>
 		<def-var n="proclise"/>
 		<def-var n="gostar"/>
+		<def-var n="inhibirGenArt"/>
+		<def-var n="tmp"/>
 </section-def-vars>
 
 
@@ -1207,9 +1209,63 @@
       <list-item v="Inglaterra"/>
       <list-item v="Itália"/>
     </def-list>
+
+    <def-list n="paraules_sense_art"> <!-- noms darrere dels quals, en principi, no s'ha d'afegir article davant de top -->
+      <list-item v="papa"/>
+      <list-item v="patriarca"/>
+      <list-item v="bisbe"/>
+      <list-item v="arquebisbe"/>
+      <list-item v="emperador"/>
+      <list-item v="rei"/>
+      <list-item v="tsar"/>
+      <list-item v="tsarina"/>
+      <list-item v="virrei"/>
+      <list-item v="regent"/>
+      <list-item v="príncep"/>
+      <list-item v="infant"/>
+      <list-item v="delfí"/>
+      <list-item v="comte"/>
+      <list-item v="vescomte"/>
+      <list-item v="duc"/>
+      <list-item v="gran duc"/>
+      <list-item v="arxiduc"/>
+      <list-item v="marquès"/>
+      <list-item v="baró"/>
+      <list-item v="imperi"/>
+      <list-item v="regne"/>
+      <list-item v="patriarcat"/>
+      <list-item v="bisbat"/>
+      <list-item v="aquebisbat"/>
+      <list-item v="imperi"/>
+      <list-item v="corona"/>
+      <list-item v="regne"/>
+      <list-item v="viregnat"/>
+      <list-item v="principat"/>
+      <list-item v="comtat"/>
+      <list-item v="vescomtat"/>
+      <list-item v="ducat"/>
+      <list-item v="gran ducat"/>
+      <list-item v="arxiducat"/>
+      <list-item v="marquesat"/>
+      <list-item v="baronia"/>
+    </def-list>
 </section-def-lists>
 
 <section-def-macros>
+
+    <def-macro n="f_ArtTop" npar="1"> <!-- Per veure si no inhibir la generació de l'article davant de topònim -->
+      <choose>
+        <when>
+          <test>
+				<in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="paraules_sense_art"/></in>
+          </test>
+          <let><var n="inhibirGenArt"/><lit-tag v="yes"/></let>
+        </when>
+        <otherwise>
+          <let><var n="inhibirGenArt"/><lit-tag v="false"/></let>
+        </otherwise>
+      </choose>
+    </def-macro>
 
     <def-macro n="f_concord1" npar="1">
       <choose>
@@ -1331,6 +1387,9 @@
           </choose>
         </when>
       </choose>
+      <call-macro n="f_ArtTop">
+        <with-param pos="1"/>
+      </call-macro>
     </def-macro>
 
     <def-macro n="f_concord2" npar="2">
@@ -1783,6 +1842,9 @@
           </let>
         </when>
       </choose>
+      <call-macro n="f_ArtTop">
+        <with-param pos="1"/>
+      </call-macro>
     </def-macro>
 
     <def-macro n="f_concord3" npar="3">
@@ -2445,6 +2507,9 @@
           </let>
         </when>
       </choose>
+      <call-macro n="f_ArtTop">
+        <with-param pos="1"/>
+      </call-macro>
     </def-macro>
 
     <def-macro n="f_concord4" npar="4">
@@ -3174,6 +3239,9 @@
           </let>
         </when>
       </choose>
+      <call-macro n="f_ArtTop">
+        <with-param pos="1"/>
+      </call-macro>
     </def-macro>
 
 <def-macro n="f_comparativa" npar="1">
@@ -6831,6 +6899,7 @@
 			<pattern-item n="top"/>
 		</pattern>
 		<action>
+			<let><var n="tmp"/><var n="inhibirGenArt"/></let> <!-- salvem el valor de la variable -->
 			<call-macro n="f_concord1">
 				<with-param pos="2"/>
 			</call-macro>
@@ -6846,6 +6915,7 @@
 							<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_empreses"/></in>
 							<not><in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_noart_PT"/></in></not>
 							<not><in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_noprep_PT"/></in></not>
+							<not><equal><var n="tmp"/><lit-tag v="yes"/></equal></not>
 	  					</and>
 					</test>
 					<out>
@@ -6874,6 +6944,133 @@
 			<pattern-item n="top"/>
 		</pattern>
 		<action>
+			<let><var n="tmp"/><var n="inhibirGenArt"/></let> <!-- salvem el valor de la variable -->
+			<call-macro n="f_concord1">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>
+			<choose>
+				<when>
+	  				<test>
+	  					<and>
+							<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_empreses"/></in>
+							<not><equal><var n="tmp"/><lit-tag v="yes"/></equal></not>
+	  					</and>
+					</test>
+					<out>
+						<b/>
+						<lu>
+							<lit v="o"/>
+							<lit-tag v="det.def"/>
+							<clip pos="2" side="tl" part="gen"/>
+							<clip pos="2" side="tl" part="nbr"/>
+						</lu>
+					</out>
+				</when>
+			</choose>
+			<out>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule v="pt_PT" comment="SENT TOP (s'afegeix el determinant si el top és a la llista paisos_regions_empreses)">
+		<pattern>
+			<pattern-item n="sent"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<!-- reset variables-->
+			<let>
+				<var n="comparativa"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="proclise"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="gostar"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="numero"/>
+				<lit-tag v="sg"/>
+			</let>
+			<let>
+				<var n="genero"/>
+				<lit-tag v="m"/>
+			</let>
+			<call-macro n="f_concord1">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>
+			<choose>
+				<when>
+	  				<test>
+	  					<and>
+							<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_empreses"/></in>
+							<not><in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_noart_PT"/></in></not>
+	  					</and>
+					</test>
+					<out>
+						<b/>
+						<lu>
+							<lit v="O"/>
+							<lit-tag v="det.def"/>
+							<clip pos="2" side="tl" part="gen"/>
+							<clip pos="2" side="tl" part="nbr"/>
+						</lu>
+					</out>
+				</when>
+			</choose>
+			<out>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule v="pt_BR" comment="SENT TOP (s'afegeix el determinant si el top és a la llista paisos_regions_empreses)">
+		<pattern>
+			<pattern-item n="sent"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<!-- reset variables-->
+			<let>
+				<var n="comparativa"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="proclise"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="gostar"/>
+				<lit v="false"/>
+			</let>
+			<let>
+				<var n="numero"/>
+				<lit-tag v="sg"/>
+			</let>
+			<let>
+				<var n="genero"/>
+				<lit-tag v="m"/>
+			</let>
 			<call-macro n="f_concord1">
 				<with-param pos="2"/>
 			</call-macro>
@@ -6890,7 +7087,7 @@
 					<out>
 						<b/>
 						<lu>
-							<lit v="o"/>
+							<lit v="O"/>
 							<lit-tag v="det.def"/>
 							<clip pos="2" side="tl" part="gen"/>
 							<clip pos="2" side="tl" part="nbr"/>
@@ -13429,6 +13626,10 @@
 			<let>
 				<var n="genero"/>
 				<lit-tag v="m"/>
+			</let>
+			<let>
+				<var n="inhibirGenArt"/>
+				<lit-tag v="false"/>
 			</let>
 			<out>
 				<lu>
