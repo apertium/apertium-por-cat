@@ -364,6 +364,142 @@
         <match tags="prn.enc.p2.*.pl"/>
       </rule>
     </def-macro>
+
+    <!-- Aquesta macro tria el verb p2 si p1 és pronominal va seguit d'un adjectiu (atribut) -->
+    <!-- És un calc de la regla anterior amb canvis -->
+    <def-macro name="verb_pron_atrib">
+      <rule weight="1.2">
+        <match tags="prn.pro.p1.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p2}}"/></match>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p1.*.sg"/>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p2.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p2}}"/></match>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p2.*.sg"/>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.ref.p3.*.sp"/>
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p2}}"/></match>
+        </or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p2}}"/></match>
+        </or>
+        <match tags="prn.enc.ref.p3.*.sp"/>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p1.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p2}}"/></match>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p1.*.pl"/>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p2.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p2}}"/></match>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p2.*.pl"/>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+
+      <rule weight="1.2">
+        <match tags="prn.pro.p1.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p2}}"/></match>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p1.sg"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p1.*.sg"/>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p2.*.sg"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p2}}"/></match>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p2.sg"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p2.*.sg"/>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.ref.p3.*.sp"/>
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p2}}"/></match>
+        </or>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <or>
+          <match lemma="{{p1}}" tags="vblex.*.p3.sg"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.*.p3.pl"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.inf"><select lemma="{{p2}}"/></match>
+          <match lemma="{{p1}}" tags="vblex.ger"><select lemma="{{p2}}"/></match>
+        </or>
+        <match tags="prn.enc.ref.p3.*.sp"/>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p1.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p2}}"/></match>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p1.pl"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p1.*.pl"/>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match tags="prn.pro.p2.*.pl"/>
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p2}}"/></match>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+      <rule weight="1.2">
+        <match lemma="{{p1}}" tags="vblex.*.p2.pl"><select lemma="{{p2}}"/></match>
+        <match tags="prn.enc.p2.*.pl"/>
+        <or><match tags="preadv"/><match tags="adv"/></or>
+        <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+      </rule>
+    </def-macro>
   </def-macros>
 
   <def-seqs>
@@ -636,6 +772,15 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- médio > mitjà, mig -->
+  <rule weight="0.6">
+    <match lemma="médio" tags="adj.*"><select lemma="mitjà"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="médio" tags="adj.*"><select lemma="mig"/></match>
+    <match tags="n.*"/>
+  </rule>
+
   <!-- grande > gran, gros -->
   <rule weight="0.6">
     <match lemma="grande" tags="adj.*"><select lemma="gran"/></match>
@@ -786,6 +931,54 @@
 
 <!-- **************** N **************** -->
 
+  <!-- ligação > connexió, ligação -->
+  <rule weight="1.6">
+    <match lemma="ligação" tags="n.*"><select lemma="enllaç"/></match>
+  </rule>
+  <rule weight="0.6">
+    <match lemma="ligação" tags="n.*"><select lemma="connexió"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ligação" tags="n.*"><select lemma="enllaç"/></match>
+    <or>
+      <match lemma="químico" tags="adj.*"/>
+      <match lemma="covalente" tags="adj.*"/>
+    </or>
+  </rule>
+
+  <!-- destaque > relleu, importància -->
+  <rule weight="0.6">
+    <match lemma="destaque" tags="n.*"><select lemma="relleu"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="destaque" tags="n.*"><select lemma="importància"/></match>
+  </rule>
+
+  <!-- guia > guia, albarà -->
+  <rule weight="0.6">
+    <match lemma="guia" tags="n.mf.*"><select lemma="guia" tags="n.mf.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="guia" tags="n.mf.*"><select lemma="guia" tags="n.f.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="conversação" tags="n.*"/>
+      <match lemma="espetáculo" tags="n.*"/>
+      <match lemma="espectáculo" tags="n.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="guia" tags="n.mf.*"><select lemma="albarà" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="remessa" tags="n.*"/>
+  </rule>
+
+  <!-- corrida > cursa, carrera -->
+  <rule weight="0.6">
+    <match lemma="corrida" tags="n.*"><select lemma="cursa"/></match>
+  </rule>
+
   <!-- desempenho > acompliment, desempenyorament -->
   <rule weight="0.6">
     <match lemma="desempenho" tags="n.*"><select lemma="acompliment"/></match>
@@ -823,7 +1016,7 @@
 
   <!-- pulso > pols (n.m), puls, canell -->
   <rule weight="0.6">
-    <match lemma="pulso" tags="n.*"><select lemma="puls"/></match>
+    <match lemma="pulso" tags="n.*"><select lemma="pulsació"/></match>
   </rule>
   <rule weight="1.0">
     <or>
@@ -1376,6 +1569,19 @@
 
 <!-- **************** V **************** -->
 
+  <!-- ficar > romandre, quedar -->
+  <macro name="verb_nopron_pron" p1="ficar" p2="romandre" p3="quedar"/>
+  <rule weight="2.0">
+    <match lemma="ficar" tags="vblex.*"><select lemma="quedar"/></match>
+    <repeat from="0" upto="1">
+        <or><match tags="preadv"/><match tags="adv"/></or>
+    </repeat>
+    <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+  </rule>
+
+  <!-- envolver > embolicar, involucrar -->
+  <macro name="verb_nopron_pron" p1="envolver" p2="embolicar" p3="involucrar"/>
+
   <!-- desempenhar > dur# a terme, portar# a terme, reeixir, ocupar, fer, tenir, desempenyorar -->
   <macro name="verb_nopron_pron" p1="desempenhar" p2="dur# a terme" p3="reeixir"/>
   <rule weight="2.0">
@@ -1462,11 +1668,14 @@
   <!-- sentar > asseure, seure -->
   <macro name="verb_nopron_pron" p1="sentar" p2="asseure" p3="seure"/>
 
-  <!-- tornar > tornar, fer -->
+  <!-- tornar > tornar, convertir -->
+<!--
   <rule weight="0.6">
     <match lemma="tornar" tags="vblex.*"><select lemma="fer"/></match>
   </rule>
-<!--  <macro name="verb_nopron_pron" p1="tornar" p2="tornar" p3="fer"/> -->
+-->
+  <macro name="verb_nopron_pron" p1="tornar" p2="fer" p3="convertir# en"/>
+  <macro name="verb_pron_atrib" p1="tornar" p2="fer"/>
 
   <!-- afastar > apartar, allunyar -->
   <rule weight="0.6">
@@ -1494,6 +1703,12 @@
       <match lemma="en prol de" tags="pr"/>
       <match lemma="en contra" tags="adv"/>
       <match lemma="contra" tags="pr"/>
+      <match lemma="baseado" tags="adj.*"/>
+      <match lemma="basear" tags="vblex.pp.*"/>
+      <match lemma="dotado" tags="adj.*"/>
+      <match lemma="dotar" tags="vblex.pp.*"/>
+      <match lemma="classificado" tags="adj.*"/>
+      <match lemma="classificar" tags="vblex.pp.*"/>
     </or>
   </rule>
   <rule weight="1.0">

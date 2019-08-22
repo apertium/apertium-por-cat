@@ -119,6 +119,7 @@
           <match lemma="emperador" tags="n.*"/>
           <match lemma="rei" tags="n.*"/>
           <match lemma="tsar" tags="n.*"/>
+          <match lemma="tsarina" tags="n.*"/>
           <match lemma="virrei" tags="n.*"/>
           <match lemma="regent" tags="n.*"/>
           <match lemma="príncep" tags="n.*"/>
@@ -145,6 +146,7 @@
           <match lemma="emperador" tags="n.*"/>
           <match lemma="rei" tags="n.*"/>
           <match lemma="tsar" tags="n.*"/>
+          <match lemma="tsarina" tags="n.*"/>
           <match lemma="virrei" tags="n.*"/>
           <match lemma="regent" tags="n.*"/>
           <match lemma="príncep" tags="n.*"/>
@@ -174,6 +176,7 @@
           <match lemma="emperador" tags="n.*"/>
           <match lemma="rei" tags="n.*"/>
           <match lemma="tsar" tags="n.*"/>
+          <match lemma="tsarina" tags="n.*"/>
           <match lemma="virrei" tags="n.*"/>
           <match lemma="regent" tags="n.*"/>
           <match lemma="príncep" tags="n.*"/>
@@ -202,6 +205,7 @@
           <match lemma="emperador" tags="n.*"/>
           <match lemma="rei" tags="n.*"/>
           <match lemma="tsar" tags="n.*"/>
+          <match lemma="tsarina" tags="n.*"/>
           <match lemma="virrei" tags="n.*"/>
           <match lemma="regent" tags="n.*"/>
           <match lemma="príncep" tags="n.*"/>
@@ -560,6 +564,7 @@
       <match lemma="bosc"/>
       <match lemma="camp"/>
       <match lemma="aiguamoll"/>
+      <match lemma="costa"/>
     </def-seq>
 
     <def-seq n="part_ciutat">
@@ -1122,6 +1127,7 @@
       <match lemma="emperador" tags="n.*"/>
       <match lemma="rei" tags="n.*"/>
       <match lemma="tsar" tags="n.*"/>
+      <match lemma="tsarina" tags="n.*"/>
       <match lemma="califa" tags="n.*"/>
       <match lemma="sultà" tags="n.*"/>
       <match lemma="emir" tags="n.*"/>
@@ -1158,6 +1164,24 @@
 <rules>
 
 <!-- **************** ADJ **************** -->
+
+  <!-- mig > médio, meio -->
+  <rule weight="0.6">
+     <match lemma="mig" tags="adj.*"><select lemma="médio"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match lemma="mig" tags="adj.*"><select lemma="meio"/></match>
+     <match tags="n.*"/>
+  </rule>
+
+  <!-- lactant > lactente, lactante -->
+  <rule weight="0.6">
+     <match lemma="lactant" tags="adj.*"><select lemma="lactente"/></match>
+  </rule>
+  <rule weight="1.0">
+     <match tags="n.f.*"/>
+     <match lemma="lactant" tags="adj.*"><select lemma="lactante"/></match>
+  </rule>
 
   <!-- gros > gordo, grande -->
   <rule weight="0.6">
@@ -1252,6 +1276,108 @@
   </rule>
 
 <!-- **************** N **************** -->
+
+  <!-- enllaç > enlace, link, ligação -->
+  <rule weight="0.6">
+    <match lemma="enllaç" tags="n.*"><select lemma="enlace"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="enllaç" tags="n.*"><select lemma="link"/></match>
+    <match tags="web"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="enllaç" tags="n.*"><select lemma="link"/></match>
+    <match lemma="web"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="enllaç" tags="n.*"><select lemma="ligação"/></match>
+    <or>
+      <match lemma="químic" tags="adj.*"/>
+      <match lemma="covalent" tags="adj.*"/>
+    </or>
+  </rule>
+
+  <!-- resta > subtracção, resto -->
+  <rule weight="0.6">
+    <or>
+      <match lemma="resta" tags="n.*"><select lemma="subtração"/></match>
+      <match lemma="resta" tags="n.*"><select lemma="subtracção"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="resta" tags="n.f.pl"><select lemma="resto"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.def.*"/>
+    <match lemma="resta" tags="n.*"><select lemma="resto"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="resta" tags="n.*"><select lemma="resto"/></match>
+    <match tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match tags="adj.*"/>
+    <match lemma="resta" tags="n.*"><select lemma="resto"/></match>
+  </rule>
+
+  <!-- estimació > estimativa, estimació -->
+  <rule weight="0.6">
+    <match lemma="estimació" tags="n.*"><select lemma="estimativa"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="adj.*"/>
+    <match lemma="estimació" tags="n.*"><select lemma="estima"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estimació" tags="n.*"><select lemma="estima"/></match>
+    <repeat from="0" upto="1">
+      <or><match tags="preadv"/><match tags="adv"/></or>
+    </repeat>
+    <match lemma="gran" tags="adj.*"/>
+  </rule>
+
+  <!-- guia f > guia m, guia f -->
+  <rule weight="0.6">
+    <match lemma="guia" tags="n.f.*"><select lemma="guia" tags="n.m.*"/></match>
+  </rule>
+
+  <!-- carrera > corrida, carreira -->
+  <rule weight="0.6">
+    <match lemma="carrera" tags="n.*"><select lemma="corrida"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="carrera" tags="n.*"><select lemma="carreira"/></match>
+    <match lemma="universitari" tags="adj.*"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="fer" tags="vblex.*"/>
+    <match lemma="carrera" tags="n.*"><select lemma="carreira"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="estudiar" tags="vblex.*"/>
+      <match lemma="fer" tags="vblex.*"/>
+    </or>
+    <match tags="det.*"/>
+    <match lemma="carrera" tags="n.*"><select lemma="carreira"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="carrera" tags="n.*"><select lemma="carreira"/></match>
+    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="lletra" tags="n.*"/>
+      <match lemma="ciència" tags="n.*"/>
+      <match lemma="filosofia" tags="n.*"/>
+      <match lemma="filologia" tags="n.*"/>
+      <match lemma="història" tags="n.*"/>
+      <match lemma="matemàtica" tags="n.*"/>
+      <match lemma="física" tags="n.*"/>
+      <match lemma="química" tags="n.*"/>
+      <match lemma="dret" tags="n.*"/>
+      <match lemma="medicina" tags="n.*"/>
+      <match lemma="economia" tags="n.*"/>
+    </or>
+  </rule>
 
   <!-- seu > sede, sé -->
   <rule weight="0.6">
@@ -1940,6 +2066,46 @@
     </or>
   </rule>
 
+  <!-- illa > ilha, quarteirão/quadra -->
+  <rule weight="0.6">
+    <match lemma="illa" tags="n.*"><select lemma="ilha"/></match>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="illa" tags="n.*"><select lemma="quarteirão"/></match>
+      <match lemma="illa" tags="n.*"><select lemma="quadra"/></match>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match lemma="casa" tags="n.*"/>
+  </rule>
+  <rule weight="1.0">
+    <or>
+      <match lemma="illa" tags="n.*"><select lemma="quarteirão"/></match>
+      <match lemma="illa" tags="n.*"><select lemma="quadra"/></match>
+    </or>
+    <match lemma="de" tags="pr"/>
+    <match tags="det.def.*"/>
+    <or>
+     <match lemma="ciutat" tags="n.*"/>
+     <match lemma="eixample" tags="n.*"/>
+     <match lemma="Eixample" tags="np.*"/>
+    </or>
+  </rule>
+
+  <!-- importància > importância, destaque -->
+  <rule weight="0.6">
+    <match lemma="importància" tags="n.*"><select lemma="importância"/></match>
+  </rule>
+
+  <!-- pinya > pinha, ananás -->
+  <rule weight="0.6">
+    <match lemma="pinya" tags="n.*"><select lemma="pinha"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="pinya" tags="n.*"><select lemma="ananás"/></match>
+    <match lemma="tropical" tags="adj.*"/>
+  </rule>
+
   <!-- relleu > relevo, destaque -->
   <rule weight="0.6">
     <match lemma="relleu" tags="n.*"><select lemma="relevo"/></match>
@@ -2067,6 +2233,15 @@
   </rule>
 
 <!-- **************** V **************** -->
+
+  <!-- restar > restar, ficar -->
+  <rule weight="0.6">
+    <match lemma="restar" tags="vblex.*"><select lemma="restar"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="restar" tags="vblex.*"><select lemma="ficar"/></match>
+    <or><match tags="adj.*"/><match tags="vblex.pp.*"/></or>
+  </rule>
 
   <!-- impulsar > impulsionar, impulsar -->
   <rule weight="0.6">
@@ -2251,6 +2426,12 @@
       <match lemma="a favor de" tags="pr"/>
       <match lemma="en contra" tags="adv"/>
       <match lemma="contra" tags="pr"/>
+      <match lemma="basat" tags="adj.*"/>
+      <match lemma="basar" tags="vblex.pp.*"/>
+      <match lemma="dotat" tags="adj.*"/>
+      <match lemma="dotar" tags="vblex.pp.*"/>
+      <match lemma="classificat" tags="adj.*"/>
+      <match lemma="classificar" tags="vblex.pp.*"/>
     </or>
   </rule>
 
