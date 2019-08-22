@@ -782,7 +782,7 @@
     <list-item v="estudiar"/>
   </def-list>
 
-    <def-list n="paisos_regions"> <!-- per a treure un article si el porten -->
+    <def-list n="paisos_regions_empreses"> <!-- per a afegir un article si el porten -->
       <list-item v="Europa"/>
       <list-item v="Ásia"/>
       <list-item v="África"/>
@@ -795,8 +795,10 @@
       <list-item v="Oceânia"/>
       <list-item v="Escandinávia"/>
 <!--      <list-item v="Afeganistão"/> -->
+      <list-item v="Albânia"/>
       <list-item v="Algéria"/>
-      <list-item v="Angola"/>
+<!--      <list-item v="Andorra"/> -->
+<!--      <list-item v="Angola"/> -->
       <list-item v="Antígua e Barbuda"/>
       <list-item v="Arábia"/>
       <list-item v="Arábia Saudita"/>
@@ -825,7 +827,7 @@
       <list-item v="Bulgária"/>
       <list-item v="Burkina Faso"/>
       <list-item v="Burundi"/>
-      <list-item v="Cabo Verde"/>
+<!--      <list-item v="Cabo Verde"/> -->
       <list-item v="Nova Caledónia"/>
       <list-item v="Nova Caledônia"/>
       <list-item v="Camarões"/>
@@ -840,14 +842,14 @@
       <list-item v="Coréia do Sul"/>
       <list-item v="Costa do Marfim"/>
       <list-item v="Costa Rica"/>
-      <list-item v="Cuba"/>
+<!--      <list-item v="Cuba"/> -->
       <list-item v="Dinamarca"/>
       <list-item v="Dominica"/>
       <list-item v="Equador"/>
       <list-item v="Egito"/>
       <list-item v="Egipto"/>
       <list-item v="Ellesmere"/>
-      <list-item v="El Salvador"/>
+<!--      <list-item v="El Salvador"/> -->
       <list-item v="Eritréia"/>
       <list-item v="Estónia"/>
       <list-item v="Estônia"/>
@@ -867,8 +869,17 @@
       <list-item v="Java"/>
       <list-item v="Djibuti"/>
       <list-item v="Jordânia"/>
+      <list-item v="Cisjordânia"/>
       <list-item v="Grenada"/>
       <list-item v="Grécia"/>
+      <list-item v="Ática"/>
+      <list-item v="Tessália"/>
+      <list-item v="Etólia"/>
+      <list-item v="Beócia"/>
+      <list-item v="Jónia"/>
+      <list-item v="Jônia"/>
+<!--      <list-item v="Peloponeso"/> -->
+      <list-item v="Tràcia"/>
       <list-item v="Groenlândia"/>
       <list-item v="Guadalupe"/>
       <list-item v="Guiana Francesa"/>
@@ -928,7 +939,7 @@
       <list-item v="México"/>
       <list-item v="Mindanao"/>
       <list-item v="Mongólia"/>
-      <list-item v="Moçambique"/>
+<!--      <list-item v="Moçambique"/> -->
       <list-item v="Myanmar"/>
       <list-item v="Birmânia"/>
       <list-item v="Camboja"/>
@@ -942,7 +953,8 @@
       <list-item v="Norfolk"/>
       <list-item v="Noruega"/>
       <list-item v="Holanda"/>
-      <list-item v="Oman"/>
+<!--      <list-item v="Omã"/> -->
+<!--      <list-item v="Omão"/> -->
 <!--      <list-item v="Paquistão"/> -->
       <list-item v="Palestina"/>
       <list-item v="Panamá"/>
@@ -951,8 +963,8 @@
 <!--      <list-item v="Peru"/> -->
       <list-item v="Polónia"/>
       <list-item v="Polônia"/>
-      <list-item v="Portugal"/>
-      <list-item v="Porto Rico"/>
+<!--      <list-item v="Portugal"/> -->
+<!--      <list-item v="Porto Rico"/> -->
       <list-item v="Catar"/>
       <list-item v="Roménia"/>
       <list-item v="Romênia"/>
@@ -962,7 +974,7 @@
 <!--      <list-item v="Sara Ocidental"/> -->
 <!--      <list-item v="Saara Ocidental"/> -->
       <list-item v="Santa Lúcia"/>
-      <list-item v="São Tomé e Príncipe"/>
+<!--      <list-item v="São Tomé e Príncipe"/> -->
       <list-item v="São Vicente e Granadinas"/>
 <!--      <list-item v="Senegal"/> -->
       <list-item v="Sérvia"/>		<!-- Traduït fins aquí -->
@@ -988,10 +1000,10 @@
       <list-item v="Tanzânia"/>
       <list-item v="Tasmânia"/>
       <list-item v="Terranova"/>
-      <list-item v="Timor"/>
-      <list-item v="Timor-Leste"/>
+<!--      <list-item v="Timor"/> -->
+<!--      <list-item v="Timor-Leste"/> -->
       <list-item v="Togo "/>
-      <list-item v="Trinidad e Tobago"/>
+      <list-item v="Trindade e Tobago"/>
       <list-item v="Tunísia"/>
       <list-item v="Turquia"/>
 <!--      <list-item v="Turcomenistão"/> -->
@@ -1000,7 +1012,7 @@
       <list-item v="Chile"/>
 <!--      <list-item v="Cina"/> -->
       <list-item v="Chipre"/>
-      <list-item v="Ucraina"/>
+      <list-item v="Ucrânia"/>
       <list-item v="E.a.u."/>
       <list-item v="Uganda"/>
       <list-item v="Hungria"/>
@@ -1010,8 +1022,8 @@
       <list-item v="Vanuatu"/>
       <list-item v="Venezuela"/>
       <list-item v="Vietnam"/>
-      <list-item v="Zambia"/>
-      <list-item v="Nova Zelándia"/>
+      <list-item v="Zâmbia"/>
+      <list-item v="Nova Zelândia"/>
       <list-item v="Zimbabwe"/>
 <!--      <list-item v="Piemonte"/> -->
       <list-item v="Ligúria"/>
@@ -1041,7 +1053,8 @@
       <list-item v="Castela"/>
       <list-item v="Andalusia"/>
       <list-item v="Galiza"/>
-      <list-item v="Biscaglia"/>
+      <list-item v="Vizcaya"/>
+      <list-item v="Biscaia"/>
       <list-item v="Madeira"/>
       <list-item v="Bretanha"/>
       <list-item v="Occitânia"/>
@@ -1060,7 +1073,7 @@
       <list-item v="Flandres"/>
       <list-item v="Frísia"/>
       <list-item v="Drenthe"/>
-      <list-item v="Zelándia"/>
+      <list-item v="Zelândia"/>
       <list-item v="Baden-Württemberg"/>
       <list-item v="Baviera"/>
       <list-item v="Brandeburgo"/>
@@ -1158,9 +1171,13 @@
       <list-item v="Mesopotâmia"/>
       <list-item v="Babilónia"/>
       <list-item v="Babilônia"/>
-      <list-item v="Caldea"/>
-      <list-item v="Judea"/>
+      <list-item v="Caldeia"/>
+      <list-item v="Judeia"/>
       <list-item v="Hispânia"/>
+      <list-item v="Gália"/>
+      <list-item v="Britânia"/>
+      <list-item v="Germânia"/>
+      <list-item v="Aquitânia"/>
       <list-item v="Checoslováquia"/>
       <list-item v="Tchecoslováquia"/>
       <list-item v="Iugoslávia"/>
@@ -1172,6 +1189,23 @@
       <list-item v="Pretória"/>
 
       <list-item v="Internet"/>
+      <list-item v="Facebook"/>
+      <list-item v="Google"/>
+      <list-item v="Apple"/>
+      <list-item v="Amazon"/>
+      <list-item v="Bloomberg"/>
+      <list-item v="Odebrecht"/>
+	</def-list>
+
+    <def-list n="paisos_regions_noart_PT"> <!-- no porten mai article (excepcions de la llista general) -->
+      <list-item v="África"/>
+    </def-list>
+
+    <def-list n="paisos_regions_noprep_PT"> <!-- no porten article després de preposició -->
+      <list-item v="Espanha"/>
+      <list-item v="França"/>
+      <list-item v="Inglaterra"/>
+      <list-item v="Itália"/>
     </def-list>
 </section-def-lists>
 
@@ -6791,7 +6825,7 @@
 	</rule>
 
 
-	<rule comment="PREP TOP (s'afegeix el determinant si el top és a la llista paisos_regions)">
+	<rule v="pt_PT" comment="PREP TOP (s'afegeix el determinant si el top és a la llista paisos_regions_empreses)">
 		<pattern>
 			<pattern-item n="prep"/>
 			<pattern-item n="top"/>
@@ -6808,7 +6842,50 @@
 			<choose>
 				<when>
 	  				<test>
-						<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions"/></in>
+	  					<and>
+							<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_empreses"/></in>
+							<not><in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_noart_PT"/></in></not>
+							<not><in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_noprep_PT"/></in></not>
+	  					</and>
+					</test>
+					<out>
+						<b/>
+						<lu>
+							<lit v="o"/>
+							<lit-tag v="det.def"/>
+							<clip pos="2" side="tl" part="gen"/>
+							<clip pos="2" side="tl" part="nbr"/>
+						</lu>
+					</out>
+				</when>
+			</choose>
+			<out>
+				<b pos="1"/>
+				<lu>
+					<clip pos="2" side="tl" part="whole"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
+	<rule v="pt_BR" comment="PREP TOP (s'afegeix el determinant si el top és a la llista paisos_regions_empreses)">
+		<pattern>
+			<pattern-item n="prep"/>
+			<pattern-item n="top"/>
+		</pattern>
+		<action>
+			<call-macro n="f_concord1">
+				<with-param pos="2"/>
+			</call-macro>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="whole"/>
+				</lu>
+			</out>
+			<choose>
+				<when>
+	  				<test>
+						<in><clip pos="2" side="tl" part="lem"/><list n="paisos_regions_empreses"/></in>
 					</test>
 					<out>
 						<b/>
