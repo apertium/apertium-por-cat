@@ -994,7 +994,7 @@
       <list-item v="Venezuela"/>
       <list-item v="Vietnam"/>
       <list-item v="Zâmbia"/>
-      <list-item v="Nova Zelándia"/>
+      <list-item v="Nova Zelândia"/>
       <list-item v="Zimbabwe"/>
 <!--      <list-item v="Piemonte"/> -->
       <list-item v="Ligúria"/>
@@ -1037,7 +1037,6 @@
       <list-item v="Guasconha"/>
       <list-item v="Normandia"/>
       <list-item v="Córsega"/>
-      <list-item v="Rossiglione"/>
       <list-item v="Inglaterra"/>
       <list-item v="Escócia"/>
       <list-item v="Gales"/>
@@ -1046,7 +1045,7 @@
       <list-item v="Flandres"/>
       <list-item v="Frísia"/>
       <list-item v="Drenthe"/>
-      <list-item v="Zelándia"/>
+      <list-item v="Zelândia"/>
       <list-item v="Baden-Württemberg"/>
       <list-item v="Baviera"/>
       <list-item v="Brandeburgo"/>
