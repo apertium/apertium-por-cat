@@ -651,6 +651,17 @@
   <rule weight="0.6">
     <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
   </rule>
+  <rule weight="1.0">
+    <match lemma="além de" tags="pr"><select lemma="a més de"/></match>
+  </rule>
+
+  <!-- para além de > més enllà de, a més de -->
+  <rule weight="0.6">
+    <match lemma="além de" tags="pr"><select lemma="més enllà de"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="além de" tags="pr"><select lemma="a més de"/></match>
+  </rule>
 
   <!-- para > per a, per, cap a, a, a punt de -->
   <rule weight="0.6">
