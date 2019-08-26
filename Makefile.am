@@ -1,7 +1,7 @@
 ## Makefile for Portuguese--Catalan
 ###############################################################################
 
-VERSION=0.1.0
+VERSION=0.2.0
 LANG1=por
 LANG2=cat
 
@@ -284,11 +284,11 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "house" | apertium -d . por-cat | tee .test-mt
-	@echo "house" > .test-ref
+	echo "Apertium é uma plataforma de tradução automática livre e aberta" | apertium -d . por-cat | tee .test-mt
+	@echo "Apertium és una plataforma de traducció automàtica lliure i oberta" > .test-ref
 	@diff .test-ref .test-mt
-	echo "house" | apertium -d . cat-por | tee .test-mt
-	@echo "house" > .test-ref
+	echo "Apertium és una plataforma de traducció automàtica lliure i oberta" | apertium -d . cat-por | tee .test-mt
+	@echo "Apertium é uma plataforma de tradução automática livre e aberta" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
 
