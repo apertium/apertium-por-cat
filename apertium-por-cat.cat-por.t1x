@@ -233,9 +233,13 @@
 			<cat-item tags="vbmod.inf"/>
 		</def-cat>
 
-		<def-cat n="anar"> <!--per a fer el pretï¿½rit perfet perifrï¿½stc-->
+		<def-cat n="continuar">
+          <cat-item lemma="continuar" tags="vblex.*"/>
+		</def-cat>
+
+		<def-cat n="anar"> <!--per a fer el pretèrit perfet perifràstic-->
           <cat-item lemma="anar" tags="vblex.pri.*"/>
-    </def-cat>
+		</def-cat>
 
 		<def-cat n="vbanar"><!-- per contruccions tipus "vaig a cantar" -> "vou cantar" -->
 			<cat-item lemma="anar" tags="vblex.*"/>
@@ -12239,6 +12243,40 @@
 		</action>
 	</rule>
 
+	<rule comment="REGLA: CONTINUAR GER">
+		<pattern>
+			<pattern-item n="continuar"/>
+			<pattern-item n="ger"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_verb"/>
+					<clip pos="1" side="tl" part="temps"/>
+					<clip pos="1" side="tl" part="persona"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="2">
+						<lit v="a"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+				<lu>
+					<clip pos="2" side="tl" part="lemh"/>
+					<clip pos="2" side="tl" part="a_verb"/>
+					<lit-tag v="inf"/>
+					<clip pos="2" side="tl" part="lemq"/>
+				</lu>
+			</out>
+		</action>
+	</rule>
+
 	<rule> <!-- REGLA: VERB + ENCLÍTIC -->
 		<pattern>
 			<pattern-item n="verb"/>
@@ -12268,6 +12306,68 @@
 			</call-macro>
 		</action>
  	</rule>
+
+	<rule comment="REGLA: CONTINUAR GER + ENCLÍTIC">
+		<pattern>
+			<pattern-item n="continuar"/>
+			<pattern-item n="ger"/>
+			<pattern-item n="prnenc"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_verb"/>
+					<clip pos="1" side="tl" part="temps"/>
+					<clip pos="1" side="tl" part="persona"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="2">
+						<lit v="a"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+			</out>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal caseless="yes"><clip pos="3" side="sl" part="lem"/><lit v="en"/></equal>
+							<equal caseless="yes"><clip pos="3" side="sl" part="lem"/><lit v="hi"/></equal>
+						</or>
+					</test>
+					<out>
+						<lu>
+							<clip pos="2" side="tl" part="lemh"/>
+							<clip pos="2" side="tl" part="a_verb"/>
+							<lit-tag v="inf"/>
+							<clip pos="2" side="tl" part="lemq"/>
+						</lu>
+					</out>
+				</when>
+				<otherwise>
+					<out>
+						<mlu>
+							<lu>
+								<clip pos="2" side="tl" part="lemh"/>
+								<clip pos="2" side="tl" part="a_verb"/>
+								<lit-tag v="inf"/>
+							</lu>
+							<lu>
+								<clip pos="3" side="tl" part="whole"/>
+								<clip pos="2" side="tl" part="lemq"/>
+							</lu>
+						</mlu>
+					</out>
+				</otherwise>
+			</choose>
+		</action>
+	</rule>
 
 	<rule> <!-- REGLA 36: prnpro VERB -->
 		<pattern>
@@ -12394,6 +12494,77 @@
 			</call-macro>
 		</action>
  	</rule>
+
+	<rule comment="REGLA: CONTINUAR GER + ENCLÍTIC + ENCLÍTIC">
+		<pattern>
+			<pattern-item n="continuar"/>
+			<pattern-item n="ger"/>
+			<pattern-item n="prnenc"/>
+			<pattern-item n="prnenc"/>
+		</pattern>
+		<action>
+			<out>
+				<lu>
+					<clip pos="1" side="tl" part="lemh"/>
+					<clip pos="1" side="tl" part="a_verb"/>
+					<clip pos="1" side="tl" part="temps"/>
+					<clip pos="1" side="tl" part="persona"/>
+					<clip pos="1" side="tl" part="gen"/>
+					<clip pos="1" side="tl" part="nbr"/>
+					<clip pos="1" side="tl" part="lemq"/>
+				</lu>
+				<b pos="1"/>
+				<lu>
+					<get-case-from pos="2">
+						<lit v="a"/>
+					</get-case-from>
+					<lit-tag v="pr"/>
+				</lu>
+				<b/>
+			</out>
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal caseless="yes"><clip pos="4" side="sl" part="lem"/><lit v="en"/></equal>
+							<equal caseless="yes"><clip pos="4" side="sl" part="lem"/><lit v="hi"/></equal>
+						</or>
+					</test>
+					<out>
+						<mlu>
+							<lu>
+								<clip pos="2" side="tl" part="lemh"/>
+								<clip pos="2" side="tl" part="a_verb"/>
+								<lit-tag v="inf"/>
+							</lu>
+							<lu>
+								<clip pos="3" side="tl" part="whole"/>
+								<clip pos="2" side="tl" part="lemq"/>
+							</lu>
+						</mlu>
+					</out>
+				</when>
+				<otherwise>
+					<out>
+						<mlu>
+							<lu>
+								<clip pos="2" side="tl" part="lemh"/>
+								<clip pos="2" side="tl" part="a_verb"/>
+								<lit-tag v="inf"/>
+							</lu>
+							<lu>
+								<clip pos="3" side="tl" part="whole"/>
+							</lu>
+							<lu>
+								<clip pos="4" side="tl" part="whole"/>
+								<clip pos="2" side="tl" part="lemq"/>
+							</lu>
+						</mlu>
+					</out>
+				</otherwise>
+			</choose>
+		</action>
+	</rule>
 
 	<rule> <!-- REGLA 38: prnpro prnpro VERB -->
 		<pattern>
