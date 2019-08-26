@@ -1704,6 +1704,7 @@
     <or>
       <match lemma="hora" tags="n.*"/>
       <match lemma="quilo" tags="n.*"/>
+      <match lemma="grama" tags="n.*"/>
       <match lemma="quilograma" tags="n.*"/>
       <match lemma="litro" tags="n.*"/>
     </or>
