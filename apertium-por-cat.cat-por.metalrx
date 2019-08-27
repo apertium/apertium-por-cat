@@ -2775,16 +2775,43 @@
     <match lemma="a" tags="pr"><select lemma="para"/></match>
   </rule>
   <rule weight="1.0">
-    <or>
-      <match lemma="traduir" tags="vblex.*"/>
-      <match lemma="viatjar" tags="vblex.*"/>
-      <match lemma="anar" tags="vblex.*"/>
-    </or>
+    <match lemma="traduir" tags="vblex.*"/>
     <repeat from="0" upto="2">
       <match tags="adv"/>
       <match tags="prn.enc.*"/>
     </repeat>
     <match lemma="a" tags="pr"><select lemma="para"/></match>
+  </rule>
+  <rule weight="1.4">
+    <or>
+      <match lemma="anar" tags="vblex.*"/>
+      <match lemma="tornar" tags="vblex.*"/>
+      <match lemma="córrer" tags="vblex.*"/>
+      <match lemma="viatjar" tags="vblex.*"/>
+      <match lemma="volar" tags="vblex.*"/>
+      <match lemma="traslladar" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="a" tags="pr"><select lemma="para"/></match>
+    <match tags="np.top.*"/>
+  </rule>
+  <rule weight="1.4">
+    <or>
+      <match lemma="anar" tags="vblex.*"/>
+      <match lemma="tornar" tags="vblex.*"/>
+      <match lemma="córrer" tags="vblex.*"/>
+      <match lemma="viatjar" tags="vblex.*"/>
+      <match lemma="volar" tags="vblex.*"/>
+      <match lemma="traslladar" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="a" tags="pr"><select lemma="para"/></match>
+    <match tags="det.def.*"/>
+    <match tags="np.top.*"/>
   </rule>
   <rule weight="1.0">
     <match lemma="a" tags="pr"><select lemma="em" tags="pr"/></match>
@@ -2950,16 +2977,18 @@
   <rule weight="1.2">
     <or>
       <match lemma="anar" tags="vblex.*"/>
+<!--
       <match lemma="córrer" tags="vblex.*"/>
       <match lemma="volar" tags="vblex.*"/>
       <match lemma="viatjar" tags="vblex.*"/>
       <match lemma="tornar" tags="vblex.*"/>
+      <match lemma="traslladar" tags="vblex.*"/>
+-->
       <match lemma="arribar" tags="vblex.*"/>
       <match lemma="pujar" tags="vblex.*"/>
       <match lemma="baixar" tags="vblex.*"/>
       <match lemma="sortir" tags="vblex.*"/>
       <match lemma="eixir" tags="vblex.*"/>
-      <match lemma="traslladar" tags="vblex.*"/>
       <match lemma="dirigir" tags="vblex.*"/>
       <match lemma="dedicar" tags="vblex.*"/>
 
@@ -3109,6 +3138,7 @@
       <match lemma="tornar" tags="vblex.*"/>
       <match lemma="arribar" tags="vblex.*"/>
       <match lemma="viatjar" tags="vblex.*"/>
+      <match lemma="traslladar" tags="vblex.*"/>
     </or>
     <repeat from="0" upto="2">
       <or>
