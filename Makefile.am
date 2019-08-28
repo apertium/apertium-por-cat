@@ -52,7 +52,7 @@ TARGETS_COMMON =		\
 	$(PREFIX2P).t1x	\
 	$(PREFIX2P).t1x.bin	\
 	$(PREFIX2B).t1x	\
-	$(PREFIX2B).t1x.bin	
+	$(PREFIX2B).t1x.bin
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 
@@ -262,9 +262,8 @@ apertium_por_catdir=$(prefix)/share/apertium/$(BASENAME)/
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
 apertium_por_cat_DATA=	\
 	$(TARGETS_COMMON)				\
-	$(BASENAME).$(PREFIX1).t1x			\
-	$(BASENAME).$(PREFIX2).t1x			\
-	$(BASENAME).$(PREFIX2).t1x			
+	$(BASENAME).$(PREFIX1).t1x
+# PREFIX2P/PREFIX2B.t1x are in TARGETS_COMMON
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
