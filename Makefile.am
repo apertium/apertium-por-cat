@@ -1,7 +1,6 @@
 ## Makefile for Portuguese--Catalan
 ###############################################################################
 
-VERSION=0.2.0
 LANG1=por
 LANG2=cat
 
@@ -139,16 +138,16 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $< $@
 
 .deps/$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix .deps/.d
-	xsltproc translate-to-default-equivalent.xsl $< > $@
+	apertium-translate-to-default-equivalent $< $@
 
 .deps/$(PREFIX1).por.dix: .deps/$(PREFIX1).dix
-	python genvldix.py pt $< >$@
+	apertium-genvldix pt $< >$@
 
 .deps/$(PREFIX1).por_bra.dix: .deps/$(PREFIX1).dix
-	python genvldix.py br $< >$@
+	apertium-genvldix br $< >$@
 
 .deps/$(PREFIX1).por_pt_pre1990.dix: .deps/$(PREFIX1).dix
-	python genvldix.py pt_pre1990 $< >$@
+	apertium-genvldix pt_pre1990 $< >$@
 
 $(PREFIX2P).autobil.bin: .deps/$(PREFIX1).por.dix
 	apertium-validate-dictionary $<
@@ -169,12 +168,10 @@ $(PREFIX2PP).autobil.bin: .deps/$(PREFIX1).por_pt_pre1990.dix
 ###############################################################################
 
 .deps/%.metalrx: %.metalrx .deps/.d
-	python3 metalrx.py $< $@
+	apertium-metalrx $< $@
 
-.deps/%.lrx: metalrx-to-lrx.xslt .deps/%.metalrx
-	xsltproc $^ > $@.tmp
-	@xmllint --format $@.tmp > $@
-	@rm $@.tmp
+.deps/%.lrx: .deps/%.metalrx
+	apertium-metalrx-to-lrx $< $@
 
 $(PREFIX1).autolex.bin: .deps/$(BASENAME).$(PREFIX1).lrx
 	lrx-comp $< $@
@@ -204,10 +201,10 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 #	apertium-preprocess-transfer $< $@
 
 $(PREFIX2P).t1x: $(BASENAME).$(PREFIX2).t1x
-	./filterrules.sh pt_PT $(BASENAME).$(PREFIX2).t1x >$@
+	apertium-filter-rules pt_PT $(BASENAME).$(PREFIX2).t1x >$@
 
 $(PREFIX2B).t1x: $(BASENAME).$(PREFIX2).t1x
-	./filterrules.sh pt_BR $(BASENAME).$(PREFIX2).t1x >$@
+	apertium-filter-rules pt_BR $(BASENAME).$(PREFIX2).t1x >$@
 
 $(PREFIX2P).t1x.bin: $(PREFIX2P).t1x
 	apertium-validate-transfer $(PREFIX2P).t1x
@@ -296,4 +293,3 @@ test: all
 	@echo "Os tesouros arquitetônicos" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
