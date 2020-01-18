@@ -2301,7 +2301,7 @@
     <match tags="adj.*"/>
   </rule>
 
-  <!-- cap > chefe, cabeça, cabo -->
+  <!-- cap > chefe, cabeça, cabo, ogiva -->
   <rule weight="0.8">
     <match lemma="cap" tags="n.*"><select lemma="chefe"/></match>
   </rule>
@@ -2346,6 +2346,10 @@
      <match lemma="girafa" tags="n.*"/>
      <match lemma="tigre" tags="n.*"/>
     </or>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cap" tags="n.*"><select lemma="ogiva"/></match>
+    <match lemma="nuclear" tags="adj.*"/>
   </rule>
 
   <!-- illa > ilha, quarteirão/quadra -->

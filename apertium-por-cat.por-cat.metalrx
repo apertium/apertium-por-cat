@@ -1036,6 +1036,15 @@
 
 <!-- **************** N **************** -->
 
+  <!-- ogiva > ogiva, cap -->
+  <rule weight="0.6">
+    <match lemma="ogiva" tags="n.*"><select lemma="ogiva"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ogiva" tags="n.*"><select lemma="cap"/></match>
+    <match lemma="nuclear" tags="adj.*"/>
+  </rule>
+
   <!-- indicação > indicació, nominació -->
   <rule weight="0.6">
     <match lemma="indicação" tags="n.*"><select lemma="indicació"/></match>
