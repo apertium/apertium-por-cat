@@ -5,8 +5,8 @@ LANG1=por
 LANG2=cat
 
 VAR1=#leave empty
-VAR2=_bra
-VAR3=_pt_pre1990
+VAR2=_BR
+VAR3=_PTpre1990
 
 LANG1P=$(LANG1)$(VAR1)
 LANG1B=$(LANG1)$(VAR2)
@@ -143,21 +143,21 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 .deps/$(PREFIX1).por.dix: .deps/$(PREFIX1).dix
 	apertium-genvldix pt $< >$@
 
-.deps/$(PREFIX1).por_bra.dix: .deps/$(PREFIX1).dix
+.deps/$(PREFIX1).por_BR.dix: .deps/$(PREFIX1).dix
 	apertium-genvldix br $< >$@
 
-.deps/$(PREFIX1).por_pt_pre1990.dix: .deps/$(PREFIX1).dix
+.deps/$(PREFIX1).por_PTpre1990.dix: .deps/$(PREFIX1).dix
 	apertium-genvldix pt_pre1990 $< >$@
 
 $(PREFIX2P).autobil.bin: .deps/$(PREFIX1).por.dix
 	apertium-validate-dictionary $<
 	lt-comp --var-left=pt rl $< $@
 
-$(PREFIX2B).autobil.bin: .deps/$(PREFIX1).por_bra.dix
+$(PREFIX2B).autobil.bin: .deps/$(PREFIX1).por_BR.dix
 	apertium-validate-dictionary $<
 	lt-comp --var-left=br rl $< $@
 
-$(PREFIX2PP).autobil.bin: .deps/$(PREFIX1).por_pt_pre1990.dix
+$(PREFIX2PP).autobil.bin: .deps/$(PREFIX1).por_PTpre1990.dix
 	apertium-validate-dictionary $<
 	lt-comp --var-left=pt_pre1990 rl $< $@
 
@@ -286,10 +286,10 @@ test: all
 	echo "Els tresors arquitectònics" | apertium -d . cat-por | tee .test-mt
 	@echo "Os tesouros arquitetónicos" > .test-ref
 	@diff .test-ref .test-mt
-	echo "Els tresors arquitectònics" | apertium -d . cat-por_pt_pre1990 | tee .test-mt
+	echo "Els tresors arquitectònics" | apertium -d . cat-por_PTpre1990 | tee .test-mt
 	@echo "Os tesouros arquitectónicos" > .test-ref
 	@diff .test-ref .test-mt
-	echo "Els tresors arquitectònics" | apertium -d . cat-por_br | tee .test-mt
+	echo "Els tresors arquitectònics" | apertium -d . cat-por_BR | tee .test-mt
 	@echo "Os tesouros arquitetônicos" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt

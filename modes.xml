@@ -255,10 +255,10 @@
     </pipeline>
   </mode>
 
-  <mode name="cat-por_br" install="yes">
+  <mode name="cat-por_BR" install="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="cat-por_bra.automorf.bin"/>
+        <file name="cat-por_BR.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
@@ -268,28 +268,28 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cat-por_bra.autobil.bin"/>
+        <file name="cat-por_BR.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
         <file name="cat-por.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="cat-por_bra.t1x"/>
-        <file name="cat-por_bra.t1x.bin"/>
+        <file name="cat-por_BR.t1x"/>
+        <file name="cat-por_BR.t1x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="cat-por_bra.autogen.bin"/>
+        <file name="cat-por_BR.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="cat-por_bra.autopgen.bin"/>
+        <file name="cat-por_BR.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cat-por_pt_pre1990" install="yes">
+  <mode name="cat-por_PTpre1990" install="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="cat-por_pt_pre1990.automorf.bin"/>
+        <file name="cat-por_PTpre1990.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="cat-por.rlx.bin"/>
@@ -299,7 +299,7 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cat-por_pt_pre1990.autobil.bin"/>
+        <file name="cat-por_PTpre1990.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
         <file name="cat-por.autolex.bin"/>
@@ -309,10 +309,10 @@
         <file name="cat-por.t1x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="cat-por_pt_pre1990.autogen.bin"/>
+        <file name="cat-por_PTpre1990.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="cat-por_pt_pre1990.autopgen.bin"/>
+        <file name="cat-por_PTpre1990.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
