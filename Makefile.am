@@ -280,16 +280,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "Apertium é uma plataforma de tradução automática livre e aberta" | apertium -d . por-cat | tee .test-mt
-	@echo "Apertium és una plataforma de traducció automàtica lliure i oberta" > .test-ref
-	@diff .test-ref .test-mt
-	echo "Els tresors arquitectònics" | apertium -d . cat-por | tee .test-mt
-	@echo "Os tesouros arquitetónicos" > .test-ref
-	@diff .test-ref .test-mt
-	echo "Els tresors arquitectònics" | apertium -d . cat-por_PTpre1990 | tee .test-mt
-	@echo "Os tesouros arquitectónicos" > .test-ref
-	@diff .test-ref .test-mt
-	echo "Els tresors arquitectònics" | apertium -d . cat-por_BR | tee .test-mt
-	@echo "Os tesouros arquitetônicos" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

@@ -1,0 +1,1 @@
+Apertium é uma plataforma de tradução automática livre e aberta

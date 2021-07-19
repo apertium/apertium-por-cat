@@ -1,0 +1,2 @@
+[dWrrJLOLoH6p#0] ^Apertium/Apertium<np><al><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<prn><tn><f><sg>/um<det><ind><f><sg>$ ^plataforma/plataforma<n><f><sg>$ ^de/de<pr>$ ^tradução/tradução<n><f><sg>$ ^automática/automático<adj><f><sg>$ ^livre/livre<adj><mf><sg>/livrar<vblex><imp><p3><sg>/livrar<vblex><prs><p1><sg>/livrar<vblex><prs><p3><sg>$ ^e/e<cnjcoo>$ ^aberta/aberto<adj><f><sg>/abrir<vblex><pp><f><sg>$
+[/dWrrJLOLoH6p]

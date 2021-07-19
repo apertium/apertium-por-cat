@@ -1,0 +1,2 @@
+[dWrrJLOLoH6p#0] ^Apertium<np><al><m><sg>/Apertium<np><al><m><sg>$ ^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>/estar<vblex><pri><p3><sg>$ ^um<det><ind><f><sg>/un<det><ind><f><sg>$ ^plataforma<n><f><sg>/plataforma<n><f><sg>$ ^de<pr>/de<pr>/en<pr>$ ^tradução<n><f><sg>/traducció<n><f><sg>$ ^automático<adj><f><sg>/automàtic<adj><f><sg>$ ^livre<adj><mf><sg>/lliure<adj><mf><sg>$ ^e<cnjcoo>/i<cnjcoo>$ ^aberto<adj><f><sg>/obert<adj><f><sg>$
+[/dWrrJLOLoH6p]

@@ -1,0 +1,18 @@
+{
+    "cat-por": {
+        "input": "cat-por-input.txt",
+        "mode": "cat-por"
+    },
+    "cat-por_BR": {
+        "input": "cat-por_BR-input.txt",
+        "mode": "cat-por_BR"
+    },
+    "cat-por_PTpre1990": {
+        "input": "cat-por_PTpre1990-input.txt",
+        "mode": "cat-por_PTpre1990"
+    },
+    "por-cat": {
+        "input": "por-cat-input.txt",
+        "mode": "por-cat"
+    }
+}
