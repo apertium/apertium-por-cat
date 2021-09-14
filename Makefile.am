@@ -32,6 +32,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
+	$(PREFIX1).autopgen-diacritics-vells.bin 	\
+	$(PREFIX1).autopgen-diacritics-nous.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX2P).automorf.bin	\
 	$(PREFIX2B).automorf.bin	\
@@ -227,6 +229,12 @@ $(PREFIX2B).t1x.bin: $(PREFIX2B).t1x
 ###############################################################################
 
 $(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
+	cp $< $@
+
+$(PREFIX1).autopgen-diacritics-vells.bin: $(AP_SRC2)/$(LANG2).autopgen-diacritics-vells.bin
+	cp $< $@
+
+$(PREFIX1).autopgen-diacritics-nous.bin: $(AP_SRC2)/$(LANG2).autopgen-diacritics-nous.bin
 	cp $< $@
 
 $(PREFIX2P).autopgen.bin: $(AP_SRC1)/$(LANG1P).autopgen.bin
