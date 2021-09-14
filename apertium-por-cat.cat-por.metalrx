@@ -1807,7 +1807,10 @@
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
     <repeat from="0" upto="1">
-      <match tags="adv"/>
+      <or>
+        <match tags="adv"/>
+        <match tags="preadv"/>
+      </or>
     </repeat>
     <match tags="adj.*"/>
   </rule>
