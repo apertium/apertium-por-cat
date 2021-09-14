@@ -1223,6 +1223,19 @@
 
 <!-- **************** ADJ **************** -->
 
+  <!-- cert > verdadeiro, certo -->
+  <rule weight="0.6">
+    <match lemma="cert" tags="adj.*"><select lemma="verdadeiro"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match tags="det.*"/>
+    <match lemma="cert" tags="adj.*"><select lemma="certo"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="cert" tags="adj.*"><select lemma="certo"/></match>
+    <match tags="n.*"/>
+  </rule>
+
   <!-- brut > sujo, bruto -->
   <rule weight="0.6">
     <match lemma="brut" tags="adj.*"><select lemma="sujo"/></match>
@@ -1755,72 +1768,117 @@
     <match lemma="taller" tags="n.*"><select lemma="oficina"/></match>
   </rule>
 
-<!--
-# molts cops, alguns cops
-# cops forts, cop molt dur, cops al pit
--->
-
-  <!-- cop, colp > golpe, vez -->
+  <!-- cop > vez, golpe -->
+  <!-- colp > vez, golpe -->
+  <!--
+  # molts cops, alguns cops
+  # cops forts, cop molt dur, cops al pit
+  -->
   <rule weight="0.6">
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
-     </or>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
+    </or>
   </rule>
   <rule weight="1.0">
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
-     </or>
-     <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.*"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
   </rule>
   <rule weight="1.0">
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
-     </or>
-     <match lemma="a" tags="pr"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+    <match lemma="de" tags="pr"/>
   </rule>
   <rule weight="1.0">
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
-     </or>
-     <repeat from="0" upto="1">
-       <or><match tags="preadv"/><match tags="adv"/></or>
-     </repeat>
-     <match tags="adj.*"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+    <match lemma="a" tags="pr"/>
   </rule>
   <rule weight="1.0">
-     <or>
-       <match lemma="donar" tags="vblex.*"/>
-       <match lemma="clavar" tags="vblex.*"/>
-       <match lemma="rebre" tags="vblex.*"/>
-     </or>
-     <repeat from="0" upto="1">
-       <match tags="adv"/>
-     </repeat>
-     <match tags="det.*"/>
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
-     </or>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match tags="adj.*"/>
+  </rule>
+  <rule weight="1.2">
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
+    </or>
+    <match lemma="a" tags="pr"/>
+    <match lemma="el" tags="det.*"/>
+    <or>
+      <seq n="temps"/>
+    </or>
   </rule>
   <rule weight="1.0">
-     <or>
-       <match lemma="donar" tags="vblex.*"/>
-       <match lemma="clavar" tags="vblex.*"/>
-       <match lemma="rebre" tags="vblex.*"/>
-     </or>
-     <repeat from="0" upto="1">
-       <match tags="adv"/>
-     </repeat>
-     <match tags="det.*"/>
-     <match tags="adj.*"/>
-     <or>
-       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
-       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
-     </or>
+    <or> 
+      <match lemma="donar" tags="vblex.*"/>
+      <match lemma="clavar" tags="vblex.*"/>
+      <match lemma="etzibar" tags="vblex.*"/>
+      <match lemma="rebre" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match tags="det.*"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+  </rule>
+  <rule weight="1.0">
+    <or> 
+      <match lemma="donar" tags="vblex.*"/>
+      <match lemma="clavar" tags="vblex.*"/>
+      <match lemma="etzibar" tags="vblex.*"/>
+      <match lemma="rebre" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match tags="det.*"/>
+    <match tags="adj.*"/>
+    <or>
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="el" tags="det.*"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+    <match lemma="que" tags="rel.*"/>
+  </rule>
+  <rule weight="1.4">
+    <match lemma="el" tags="det.*"/>
+    <or> 
+      <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
+      <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
+    </or>
+    <match lemma="que" tags="rel.*"/>
+    <repeat from="0" upto="6">
+      <match tags="*"/>
+    </repeat>
+    <or> 
+      <match lemma="donar" tags="vblex.*"/>
+      <match lemma="clavar" tags="vblex.*"/>
+      <match lemma="etzibar" tags="vblex.*"/>
+      <match lemma="rebre" tags="vblex.*"/>
+    </or>
   </rule>
 
   <!-- ordre > ordem, mandado -->
