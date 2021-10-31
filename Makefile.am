@@ -53,7 +53,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2P).t1x	\
 	$(PREFIX2P).t1x.bin	\
 	$(PREFIX2B).t1x	\
-	$(PREFIX2B).t1x.bin
+	$(PREFIX2B).t1x.bin	\
+ 	prefs/$(PREFIX1).xml
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 
@@ -231,12 +232,6 @@ $(PREFIX2B).t1x.bin: $(PREFIX2B).t1x
 $(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
 	cp $< $@
 
-$(PREFIX1).autopgen-diacritics-vells.bin: $(AP_SRC2)/$(LANG2).autopgen-diacritics-vells.bin
-	cp $< $@
-
-$(PREFIX1).autopgen-diacritics-nous.bin: $(AP_SRC2)/$(LANG2).autopgen-diacritics-nous.bin
-	cp $< $@
-
 $(PREFIX2P).autopgen.bin: $(AP_SRC1)/$(LANG1P).autopgen.bin
 	cp $< $@
 
@@ -245,6 +240,37 @@ $(PREFIX2B).autopgen.bin: $(AP_SRC1)/$(LANG1B).autopgen.bin
 
 $(PREFIX2PP).autopgen.bin: $(AP_SRC1)/$(LANG1PP).autopgen.bin
 	cp $< $@
+
+###############################################################################
+## Variant preferences
+###############################################################################
+
+$(PREFIX1).pre2017_prefs.rlx.bin: $(AP_SRC2)/$(LANG2).pre2017_prefs.rlx.bin
+	cp $< $@
+
+$(PREFIX1).prefs.rlx.bin: $(AP_SRC2)/$(LANG2).prefs.rlx.bin
+	cp $< $@
+
+###############################################################################
+## Preferences
+###############################################################################
+
+prefs/$(LANG2).preferences.xml: $(AP_SRC2)/$(LANG2).preferences.xml
+	$(MKDIR_P) prefs
+	cp $< $@
+
+define mergePrefs =
+$(MKDIR_P) prefs
+echo '<preferences>' >$@.tmp
+for f in $^; do xmllint --xpath '/preferences/preference' "$$f"; done >>$@.tmp
+echo '</preferences>' >>$@.tmp
+mv $@.tmp $@
+endef
+
+# uncomment when we have bilingual preferences
+# prefs/$(PREFIX1).xml: $(LANG2).preferences.xml $(PREFIX1).preferences.xml
+prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml 
+		$(mergePrefs)
 
 ###############################################################################
 ## Distribution
@@ -256,7 +282,8 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX1).dix	\
 		$(BASENAME).$(PREFIX1).t1x	\
 		$(BASENAME).$(PREFIX2).t1x	\
-		modes.xml
+		modes.xml	\
+		$(PREFIX1).preferences.xml
 
 ###############################################################################
 ## Installation
