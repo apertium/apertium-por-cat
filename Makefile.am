@@ -32,8 +32,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
-	$(PREFIX1).autopgen-diacritics-vells.bin 	\
-	$(PREFIX1).autopgen-diacritics-nous.bin	\
+	$(PREFIX1).prefs.rlx.bin	\
+	$(PREFIX1).pre2017_prefs.rlx.bin \
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX2P).automorf.bin	\
 	$(PREFIX2B).automorf.bin	\
