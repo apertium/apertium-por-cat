@@ -532,7 +532,7 @@
   </def-macros>
 
   <def-seqs>
-    <def-seq n="veículo">
+    <def-seq n="veículo"><or>
       <match lemma="veículo"/>
       <match lemma="transporte"/>
       <match lemma="carro"/>
@@ -556,9 +556,9 @@
       <match lemma="bicicleta"/>
       <match lemma="barca"/>
       <match lemma="barco"/>
-    </def-seq>
+    </or></def-seq>
 
-    <def-seq n="lugar_concreto">
+    <def-seq n="lugar_concreto"><or>
       <match lemma="ilha" tags="n.*"/>
       <match lemma="cidade" tags="n.*"/>
 <!--      <match lemma="vila" tags="n.*"/> -->
@@ -617,9 +617,9 @@
       <match lemma="prisão"/>
 
       <match lemma="espaço"/>
-    </def-seq>
+    </or></def-seq>
 
-    <def-seq n="desportes">
+    <def-seq n="desportes"><or>
       <match lemma="futbol" tags="n.*"/>
       <match lemma="basquetebol" tags="n.*"/>
       <match lemma="bola ao cesto" tags="n.*"/>
@@ -636,7 +636,7 @@
       <match lemma="hóquei# a grama" tags="n.*"/>
       <match lemma="hóquei# no gelo" tags="n.*"/>
       <match lemma="polo aquático" tags="n.*"/>
-    </def-seq>
+    </or></def-seq>
 
   </def-seqs>
 
