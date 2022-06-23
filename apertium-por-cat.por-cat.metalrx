@@ -307,6 +307,20 @@
      </rule>
     </def-macro>
 
+    <!-- Aquesta macro tria p2 per traduir el prenom p1, però manté p1 si va seguit de cognom (o paraula desconeguda) -->
+    <def-macro name="ant_antcog">
+      <rule weight="0.6">
+         <match lemma="{{p1}}" tags="np.ant.*"><select lemma="{{p2}}"/></match>
+      </rule>
+      <rule weight="1.0">
+         <match lemma="{{p1}}" tags="np.ant.*"><select lemma="{{p1}}"/></match>
+         <or>
+           <match tags="np.*"/>
+           <match tags=""/>
+         </or>
+      </rule>
+    </def-macro>
+
     <!-- Aquesta macro tria el verb p2 si p1 no és pronominal i p3 si p1 és pronominal -->
     <!-- p1 = verb cat, p2 = verb ita no pron, p3 = verb ita pron -->
     <def-macro name="verb_nopron_pron">
@@ -2012,7 +2026,9 @@
     </repeat>
     <or>
       <match lemma="basar" tags="vblex.pp.*"/>
-      <match lemma="basar" tags="vblex.pp.*"/>
+      <match lemma="casar" tags="vblex.pp.*"/>
+      <match lemma="clasificar" tags="vblex.pp.*"/>
+      <match lemma="dotar" tags="vblex.pp.*"/>
     </or>
   </rule>
 
@@ -2259,6 +2275,31 @@
 
 <!-- **************** NP **************** -->
 
+  <macro name="ant_antcog" p1="Adriano" p2="Adrià" />
+  <macro name="ant_antcog" p1="Augusto" p2="August" />
+  <macro name="ant_antcog" p1="César" p2="Cèsar" />
+  <macro name="ant_antcog" p1="César Augusto" p2="Cèsar August" />
+  <macro name="ant_antcog" p1="Cícero" p2="Ciceró" />
+  <macro name="ant_antcog" p1="Cláudio" p2="Claudi" />
+  <macro name="ant_antcog" p1="Dario" p2="Darios" />
+  <macro name="ant_antcog" p1="Heitor" p2="Hèctor" />
+  <macro name="ant_antcog" p1="Horácio" p2="Horaci" />
+  <macro name="ant_antcog" p1="Jesus" p2="Jesús" />
+  <macro name="ant_antcog" p1="Júlio César" p2="Juli Cèsar" />
+  <macro name="ant_antcog" p1="Michelangelo" p2="Miquel Àngel" />
+  <macro name="ant_antcog" p1="Miguel Ângelo" p2="Miquel Àngel" />
+  <macro name="ant_antcog" p1="Marco Aurélio" p2="Marc Aureli" />
+  <macro name="ant_antcog" p1="Otávio" p2="Octavi" />
+  <macro name="ant_antcog" p1="Flávio" p2="Flavi" />
+  <macro name="ant_antcog" p1="Ovídio" p2="Ovidi" />
+  <macro name="ant_antcog" p1="Salomão" p2="Salomó" />
+
+  <rule weight="1.2">
+    <match lemma="Flávio" tags="np.*"><select lemma="Flavi"/></match>
+    <match tags="np.ant.*"/>
+  </rule>
+
+
   <macro name="noms_propis" p1="Afonso" p2="Alfons" />
   <macro name="noms_propis" p1="André" p2="Andreu" />
   <macro name="noms_propis" p1="Bernardo" p2="Bernat" />
@@ -2267,7 +2308,6 @@
   <macro name="noms_propis" p1="Bonifácio" p2="Bonifaci" />
   <macro name="noms_propis" p1="Carlos" p2="Carles" />
   <macro name="noms_propis" p1="Clemente" p2="Climent" />
-  <macro name="noms_propis" p1="Dario" p2="Darios" />
   <macro name="noms_propis" p1="Eduardo" p2="Eduard" />
   <macro name="noms_propis" p1="Estêvão" p2="Esteve" />
   <macro name="noms_propis" p1="Eugénio" p2="Eugeni" />
@@ -2302,6 +2342,7 @@
   <macro name="noms_propis" p1="Ramiro" p2="Ramir" />
   <macro name="noms_propis" p1="Raimundo" p2="Ramon" />
   <macro name="noms_propis" p1="Ricardo" p2="Ricard" />
+  <macro name="noms_propis" p1="Rogério" p2="Roger" />
   <macro name="noms_propis" p1="Sancho" p2="Sanç" />
   <macro name="noms_propis" p1="Sebastião" p2="Sebastià" />
   <macro name="noms_propis" p1="Sisto" p2="Sixt" />
@@ -2313,7 +2354,6 @@
   <macro name="noms_propis" p1="Llúcia" p2="Lucia" />
   <macro name="noms_propis" p1="Maximilià" p2="Massimiliano" />
   <macro name="noms_propis" p1="Nicolau" p2="Nicola" />
-  <macro name="noms_propis" p1="Roger" p2="Ruggero" />
 
 </rules>
 </metalrx>
