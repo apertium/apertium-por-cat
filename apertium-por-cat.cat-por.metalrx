@@ -2979,7 +2979,10 @@
   </rule>
   <rule weight="1.0">
 <!-- <match tags="vblex.*"/> -->
-    <match lemma="de" tags="pr"/>
+    <or>
+      <match lemma="de" tags="pr"/>
+      <match lemma="des de" tags="pr"/>
+    </or>
     <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/><match tags="np.al"/><match tags="np.al.*"/></or>
     <match lemma="a" tags="pr"><select lemma="a" tags="pr"/></match>
     <or><match tags="np.loc"/><match tags="np.top.*"/><match tags="np.hyd.*"/><match tags="np.al"/><match tags="np.al.*"/></or>
