@@ -172,13 +172,12 @@ $(PREFIX2PP).autobil.bin: .deps/$(PREFIX1).por_PTpre1990.dix
 ## Lexical selection rules
 ###############################################################################
 
-.deps/%.lrx: %.metalrx .deps/.d
-	apertium-metalrx $< $@
-
-$(PREFIX1).autolex.bin: .deps/$(BASENAME).$(PREFIX1).lrx
+$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
-$(PREFIX2).autolex.bin: .deps/$(BASENAME).$(PREFIX2).lrx
+$(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
+	apertium-validate-lrx $<
 	lrx-comp $< $@
 
 ###############################################################################
@@ -276,8 +275,8 @@ prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml
 ###############################################################################
 
 EXTRA_DIST=					\
-		.deps/$(BASENAME).$(PREFIX1).lrx	\
-		.deps/$(BASENAME).$(PREFIX2).lrx	\
+		$(BASENAME).$(PREFIX1).lrx	\
+		$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).dix	\
 		$(BASENAME).$(PREFIX1).t1x	\
 		$(BASENAME).$(PREFIX2).t1x	\
