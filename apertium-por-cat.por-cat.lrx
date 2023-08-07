@@ -319,6 +319,14 @@
            <match tags=""/>
          </or>
       </rule>
+      <rule weight="1.0">
+         <or>
+           <match lemma="senhor" tags="n.*"/>
+           <match lemma="senhorito" tags="n.*"/>
+           <match lemma="menino" tags="n.*"/>
+         </or>
+         <match plemma="1" tags="np.*"><select plemma="1"/></match>
+      </rule>
     </def-macro>
 
     <!-- Aquesta macro tria el verb p2 si p1 no és pronominal i p3 si p1 és pronominal -->
