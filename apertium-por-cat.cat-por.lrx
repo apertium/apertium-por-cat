@@ -1466,7 +1466,7 @@
       <match lemma="partida" tags="n.*"/>
     </or>
     <repeat from="0" upto="20">
-      <match tags="*"/>  
+      <match tags="*"/>
     </repeat>
     <or>
       <match lemma="aficionat" tags="n.*"><select lemma="claquista"/></match>
@@ -1479,7 +1479,7 @@
       <match lemma="aficionat" tags="n.*"><select lemma="torcedor"/></match>
     </or>
     <repeat from="0" upto="20">
-      <match tags="*"/>  
+      <match tags="*"/>
     </repeat>
     <or>
       <match lemma="jogo" tags="n.*"/>
@@ -1797,34 +1797,34 @@
   # cops forts, cop molt dur, cops al pit
   -->
   <rule weight="0.6">
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
       <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
     </or>
   </rule>
   <rule weight="1.0">
     <match lemma="el" tags="det.*"/>
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
   </rule>
   <rule weight="1.0">
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule weight="1.0">
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
     <match lemma="a" tags="pr"/>
   </rule>
   <rule weight="1.0">
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
@@ -1837,7 +1837,7 @@
     <match tags="adj.*"/>
   </rule>
 <!--  <rule weight="1.2">
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="vez"/></match>
       <match lemma="colp" tags="n.*"><select lemma="vez"/></match>
     </or>
@@ -1848,7 +1848,7 @@
     </or>
   </rule>-->
   <rule weight="1.0">
-    <or> 
+    <or>
       <match lemma="donar" tags="vblex.*"/>
       <match lemma="clavar" tags="vblex.*"/>
       <match lemma="etzibar" tags="vblex.*"/>
@@ -1858,13 +1858,13 @@
       <match tags="adv"/>
     </repeat>
     <match tags="det.*"/>
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
   </rule>
   <rule weight="1.0">
-    <or> 
+    <or>
       <match lemma="donar" tags="vblex.*"/>
       <match lemma="clavar" tags="vblex.*"/>
       <match lemma="etzibar" tags="vblex.*"/>
@@ -1882,7 +1882,7 @@
   </rule>
   <rule weight="1.2">
     <match lemma="el" tags="det.*"/>
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
@@ -1890,7 +1890,7 @@
   </rule>
   <rule weight="1.4">
     <match lemma="el" tags="det.*"/>
-    <or> 
+    <or>
       <match lemma="cop" tags="n.*"><select lemma="golpe"/></match>
       <match lemma="colp" tags="n.*"><select lemma="golpe"/></match>
     </or>
@@ -1898,7 +1898,7 @@
     <repeat from="0" upto="6">
       <match tags="*"/>
     </repeat>
-    <or> 
+    <or>
       <match lemma="donar" tags="vblex.*"/>
       <match lemma="clavar" tags="vblex.*"/>
       <match lemma="etzibar" tags="vblex.*"/>
@@ -2895,10 +2895,10 @@
   <rule weight="1.0">
     <match lemma="per" tags="pr"><select lemma="para"/></match>
     <or>
-      <match tags="vblex.inf"/>  
-      <match tags="vbhaver.inf"/>  
+      <match tags="vblex.inf"/>
+      <match tags="vbhaver.inf"/>
       <match tags="vbmod.inf"/>
-      <match tags="vbser.inf"/> 
+      <match tags="vbser.inf"/>
     </or>
   </rule>
 
