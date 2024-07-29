@@ -1839,10 +1839,51 @@
 
 <!-- **************** V **************** -->
 
-  <!-- estrelar > protagonitzar (Bra), fregir (Por) -->
+  <!-- estrelar > protagonitzar (Bra), fregir/protagonitzar (Por) -->
   <rule weight="0.6">
+    <match lemma="estrelar" tags="vblex.*"><select lemma="fregir"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="estrelar" tags="vblex.pp.*"><select lemma="protagonitzar"/></match>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
+    <match lemma="por" tags="pr"/>
+  </rule>
+  <rule weight="1.0">
+    <match tags="np.*"/>
+    <repeat from="0" upto="1">
+      <match tags="adv"/>
+    </repeat>
     <match lemma="estrelar" tags="vblex.*"><select lemma="protagonitzar"/></match>
   </rule>
+  <rule weight="1.0">  
+    <match lemma="estrelar" tags="vblex.*"><select lemma="protagonitzar"/></match>
+    <repeat from="0" upto="10">
+      <or>
+        <match tags="*"/>
+        <match tags=""/>
+      </or>
+    </repeat>
+    <or>
+      <match lemma="filme" tags="n.*"/>
+      <match lemma="dirigir" tags="vblex.*"/>
+    </or>
+  </rule>
+  <rule weight="1.0">  
+    <or>
+      <match lemma="filme" tags="n.*"/>
+      <match lemma="dirigir" tags="vblex.*"/>
+    </or>
+    <repeat from="0" upto="10">
+      <or>
+        <match tags="*"/>
+        <match tags=""/>
+      </or>
+    </repeat>
+    <match lemma="estrelar" tags="vblex.*"><select lemma="protagonitzar"/></match>
+  </rule>
+
 
   <!-- pôr > posar, parar -->
   <rule weight="0.6">
